@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Oregon",
+        "Median Listing Price": 415000,
+        "Median Listing Price M/M": 0.0147,
+        "New Listing Count M/M": 0.2695,
+        "Price Increase Count M/M": 0.1375,
+        "Days on Market M/M": -0.1525
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Oregon",
+        "Median Listing Price": 409000,
+        "Median Listing Price M/M": 0.0228,
+        "New Listing Count M/M": 0.1793,
+        "Price Increase Count M/M": -0.1011,
+        "Days on Market M/M": -0.2133
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Oregon",
+        "Median Listing Price": 399900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0468,
+        "Price Increase Count M/M": -0.0532,
+        "Days on Market M/M": -0.1279
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Oregon",
+        "Median Listing Price": 399900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.578,
+        "Price Increase Count M/M": 0.8077,
+        "Days on Market M/M": 0.075
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Oregon",
+        "Median Listing Price": 399900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.3201,
+        "Price Increase Count M/M": -0.302,
+        "Days on Market M/M": 0.1765
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Oregon",
+        "Median Listing Price": 399900,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.1893,
+        "Price Increase Count M/M": -0.1768,
+        "Days on Market M/M": 0.0625
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Oregon",
+        "Median Listing Price": 400000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0945,
+        "Price Increase Count M/M": 0.0056,
+        "Days on Market M/M": 0.1034
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Oregon",
+        "Median Listing Price": 400000,
+        "Median Listing Price M/M": -0.0123,
+        "New Listing Count M/M": -0.1485,
+        "Price Increase Count M/M": -0.1176,
+        "Days on Market M/M": 0.1373
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Oregon",
+        "Median Listing Price": 405000,
+        "Median Listing Price M/M": -0.0239,
+        "New Listing Count M/M": -0.0201,
+        "Price Increase Count M/M": 0.1591,
+        "Days on Market M/M": 0.0625
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Oregon",
+        "Median Listing Price": 414900,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.011,
+        "Price Increase Count M/M": -0.0974,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Oregon",
+        "Median Listing Price": 415000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0313,
+        "Price Increase Count M/M": 0.0894,
+        "Days on Market M/M": 0.0227
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Oregon",
+        "Median Listing Price": 415000,
+        "Median Listing Price M/M": 0.0275,
+        "New Listing Count M/M": 0.132,
+        "Price Increase Count M/M": -0.096,
+        "Days on Market M/M": -0.0435
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Oregon",
+        "Median Listing Price": 403900,
+        "Median Listing Price M/M": 0.0136,
+        "New Listing Count M/M": 0.1009,
+        "Price Increase Count M/M": 0.1186,
+        "Days on Market M/M": -0.1786
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Oregon",
+        "Median Listing Price": 398500,
+        "Median Listing Price M/M": 0.0218,
+        "New Listing Count M/M": 0.3435,
+        "Price Increase Count M/M": 0.0172,
+        "Days on Market M/M": -0.2432
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Oregon",
+        "Median Listing Price": 390000,
+        "Median Listing Price M/M": 0.0026,
+        "New Listing Count M/M": 0.0572,
+        "Price Increase Count M/M": 0.1154,
+        "Days on Market M/M": -0.1084
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Oregon",
+        "Median Listing Price": 389000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.411,
+        "Price Increase Count M/M": 0.0986,
+        "Days on Market M/M": 0.0247
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Oregon",
+        "Median Listing Price": 389000,
+        "Median Listing Price M/M": -0.0018,
+        "New Listing Count M/M": -0.313,
+        "Price Increase Count M/M": -0.0658,
+        "Days on Market M/M": 0.125
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Oregon",
+        "Median Listing Price": 389700,
+        "Median Listing Price M/M": 0.0018,
+        "New Listing Count M/M": -0.2048,
+        "Price Increase Count M/M": -0.0732,
+        "Days on Market M/M": 0.0909
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Oregon",
+        "Median Listing Price": 389050,
+        "Median Listing Price M/M": 0.0138,
+        "New Listing Count M/M": -0.0824,
+        "Price Increase Count M/M": -0.123,
+        "Days on Market M/M": 0.1282
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Oregon",
+        "Median Listing Price": 383750,
+        "Median Listing Price M/M": -0.0117,
+        "New Listing Count M/M": -0.1408,
+        "Price Increase Count M/M": 0.0747,
+        "Days on Market M/M": 0.1143
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Oregon",
+        "Median Listing Price": 388300,
+        "Median Listing Price M/M": -0.0044,
+        "New Listing Count M/M": -0.0297,
+        "Price Increase Count M/M": -0.2689,
+        "Days on Market M/M": 0.05
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Oregon",
+        "Median Listing Price": 390000,
+        "Median Listing Price M/M": 0.0013,
+        "New Listing Count M/M": -0.0187,
+        "Price Increase Count M/M": 0.0769,
+        "Days on Market M/M": 0.087
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Oregon",
+        "Median Listing Price": 389500,
+        "Median Listing Price M/M": 0.0012,
+        "New Listing Count M/M": -0.0279,
+        "Price Increase Count M/M": 0.0676,
+        "Days on Market M/M": 0.0222
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Oregon",
+        "Median Listing Price": 389050,
+        "Median Listing Price M/M": 0.032,
+        "New Listing Count M/M": 0.2021,
+        "Price Increase Count M/M": 0.2778,
+        "Days on Market M/M": -0.1176
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Oregon",
+        "Median Listing Price": 377000,
+        "Median Listing Price M/M": 0.0272,
+        "New Listing Count M/M": 0.1489,
+        "Price Increase Count M/M": -0.1,
+        "Days on Market M/M": -0.184
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Oregon",
+        "Median Listing Price": 367000,
+        "Median Listing Price M/M": 0.0221,
+        "New Listing Count M/M": 0.2347,
+        "Price Increase Count M/M": 0.1321,
+        "Days on Market M/M": -0.3094
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Oregon",
+        "Median Listing Price": 359050,
+        "Median Listing Price M/M": 0.0257,
+        "New Listing Count M/M": 0.2836,
+        "Price Increase Count M/M": 0.3947,
+        "Days on Market M/M": -0.067
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Oregon",
+        "Median Listing Price": 350050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2205,
+        "Price Increase Count M/M": -0.0339,
+        "Days on Market M/M": 0.0659
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Oregon",
+        "Median Listing Price": 350050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2547,
+        "Price Increase Count M/M": -0.0484,
+        "Days on Market M/M": 0.1375
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Oregon",
+        "Median Listing Price": 350050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2276,
+        "Price Increase Count M/M": -0.2439,
+        "Days on Market M/M": 0.1268
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Oregon",
+        "Median Listing Price": 350050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.143,
+        "Price Increase Count M/M": -0.1183,
+        "Days on Market M/M": 0.1008
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Oregon",
+        "Median Listing Price": 350050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1597,
+        "Price Increase Count M/M": -0.0558,
+        "Days on Market M/M": 0.084
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Oregon",
+        "Median Listing Price": 350050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0509,
+        "Price Increase Count M/M": 0.0051,
+        "Days on Market M/M": 0.1226
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Oregon",
+        "Median Listing Price": 350050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0017,
+        "Price Increase Count M/M": 0.0481,
+        "Days on Market M/M": -0.0093
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Oregon",
+        "Median Listing Price": 349950,
+        "Median Listing Price M/M": 0.0057,
+        "New Listing Count M/M": 0.0288,
+        "Price Increase Count M/M": -0.065,
+        "Days on Market M/M": -0.0093
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Oregon",
+        "Median Listing Price": 347950,
+        "Median Listing Price M/M": 0.0464,
+        "New Listing Count M/M": 0.0898,
+        "Price Increase Count M/M": -0.0196,
+        "Days on Market M/M": -0.0924
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Oregon",
+        "Median Listing Price": 332512,
+        "Median Listing Price M/M": 0.0167,
+        "New Listing Count M/M": 0.1771,
+        "Price Increase Count M/M": 0.1271,
+        "Days on Market M/M": -0.1119
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Oregon",
+        "Median Listing Price": 327050,
+        "Median Listing Price M/M": 0.0235,
+        "New Listing Count M/M": 0.1286,
+        "Price Increase Count M/M": -0.0524,
+        "Days on Market M/M": -0.2891
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Oregon",
+        "Median Listing Price": 319550,
+        "Median Listing Price M/M": 0.0175,
+        "New Listing Count M/M": 0.0955,
+        "Price Increase Count M/M": 0.1506,
+        "Days on Market M/M": -0.0938
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Oregon",
+        "Median Listing Price": 314050,
+        "Median Listing Price M/M": 0.0033,
+        "New Listing Count M/M": 0.5525,
+        "Price Increase Count M/M": 0.2117,
+        "Days on Market M/M": 0.0196
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Oregon",
+        "Median Listing Price": 313017,
+        "Median Listing Price M/M": -0.0189,
+        "New Listing Count M/M": -0.3258,
+        "Price Increase Count M/M": -0.1543,
+        "Days on Market M/M": 0.1087
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Oregon",
+        "Median Listing Price": 319050,
+        "Median Listing Price M/M": -0.0028,
+        "New Listing Count M/M": -0.1292,
+        "Price Increase Count M/M": 0.0318,
+        "Days on Market M/M": 0.0888
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Oregon",
+        "Median Listing Price": 319950,
+        "Median Listing Price M/M": 0.0107,
+        "New Listing Count M/M": -0.1247,
+        "Price Increase Count M/M": -0.1737,
+        "Days on Market M/M": 0.0974
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Oregon",
+        "Median Listing Price": 316549,
+        "Median Listing Price M/M": 0.008,
+        "New Listing Count M/M": -0.1471,
+        "Price Increase Count M/M": -0.0777,
+        "Days on Market M/M": 0.0845
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Oregon",
+        "Median Listing Price": 314050,
+        "Median Listing Price M/M": 0.0147,
+        "New Listing Count M/M": -0.1881,
+        "Price Increase Count M/M": 0.0198,
+        "Days on Market M/M": 0.1008
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Oregon",
+        "Median Listing Price": 309500,
+        "Median Listing Price M/M": 0.0317,
+        "New Listing Count M/M": -0.0191,
+        "Price Increase Count M/M": -0.1477,
+        "Days on Market M/M": 0.0488
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Oregon",
+        "Median Listing Price": 300000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": 0.0488,
+        "Price Increase Count M/M": 0.185,
+        "Days on Market M/M": -0.0391
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Oregon",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0133,
+        "New Listing Count M/M": 0.0605,
+        "Price Increase Count M/M": -0.1489,
+        "Days on Market M/M": -0.0791
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Oregon",
+        "Median Listing Price": 296000,
+        "Median Listing Price M/M": 0.0384,
+        "New Listing Count M/M": 0.0975,
+        "Price Increase Count M/M": 0.0682,
+        "Days on Market M/M": -0.2191
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Oregon",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": 0.0215,
+        "New Listing Count M/M": 0.1809,
+        "Price Increase Count M/M": 0.2644,
+        "Days on Market M/M": -0.2489
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Oregon",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0859,
+        "Price Increase Count M/M": 0.1013,
+        "Days on Market M/M": -0.0287
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Oregon",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": 0.0009,
+        "New Listing Count M/M": 0.4247,
+        "Price Increase Count M/M": 0.0897,
+        "Days on Market M/M": 0.0252
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Oregon",
+        "Median Listing Price": 278800,
+        "Median Listing Price M/M": -0.0041,
+        "New Listing Count M/M": -0.194,
+        "Price Increase Count M/M": -0.0461,
+        "Days on Market M/M": 0.1442
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Oregon",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": -0.0074,
+        "New Listing Count M/M": -0.1521,
+        "Price Increase Count M/M": -0.1412,
+        "Days on Market M/M": 0.1064
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Oregon",
+        "Median Listing Price": 282050,
+        "Median Listing Price M/M": -0.0105,
+        "New Listing Count M/M": -0.1358,
+        "Price Increase Count M/M": -0.0876,
+        "Days on Market M/M": 0.0836
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Oregon",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1704,
+        "Price Increase Count M/M": -0.1261,
+        "Days on Market M/M": 0.071
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Oregon",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0195,
+        "Price Increase Count M/M": -0.0513,
+        "Days on Market M/M": 0.0872
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Oregon",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0191,
+        "Price Increase Count M/M": 0.0833,
+        "Days on Market M/M": 0.0347
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Oregon",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": 0.0276,
+        "New Listing Count M/M": -0.0186,
+        "Price Increase Count M/M": -0.0769,
+        "Days on Market M/M": -0.0526
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Oregon",
+        "Median Listing Price": 277400,
+        "Median Listing Price M/M": 0.0131,
+        "New Listing Count M/M": 0.1033,
+        "Price Increase Count M/M": -0.1333,
+        "Days on Market M/M": -0.1111
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Oregon",
+        "Median Listing Price": 273800,
+        "Median Listing Price M/M": 0.0177,
+        "New Listing Count M/M": 0.1578,
+        "Price Increase Count M/M": 0.3366,
+        "Days on Market M/M": -0.2815
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Oregon",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": 0.0162,
+        "New Listing Count M/M": 0.2993,
+        "Price Increase Count M/M": 0.0919,
+        "Days on Market M/M": -0.0846
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Oregon",
+        "Median Listing Price": 264750,
+        "Median Listing Price M/M": 0.0181,
+        "New Listing Count M/M": -0.0493,
+        "Price Increase Count M/M": -0.1629,
+        "Days on Market M/M": -0.0076
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Oregon",
+        "Median Listing Price": 260050,
+        "Median Listing Price M/M": -0.0185,
+        "New Listing Count M/M": 0.6752,
+        "Price Increase Count M/M": 1.0463,
+        "Days on Market M/M": 0.065
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Oregon",
+        "Median Listing Price": 264950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.3383,
+        "Price Increase Count M/M": -0.4375,
+        "Days on Market M/M": 0.1233
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Oregon",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": -0.0182,
+        "New Listing Count M/M": -0.114,
+        "Price Increase Count M/M": -0.0154,
+        "Days on Market M/M": 0.1005
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Oregon",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1415,
+        "Price Increase Count M/M": -0.1216,
+        "Days on Market M/M": 0.0699
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Oregon",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.1239,
+        "Price Increase Count M/M": -0.0306,
+        "Days on Market M/M": 0.0751
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Oregon",
+        "Median Listing Price": 270000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.0635,
+        "Price Increase Count M/M": -0.0691,
+        "Days on Market M/M": 0.0813
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Oregon",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0033,
+        "New Listing Count M/M": 0.0334,
+        "Price Increase Count M/M": 0.0082,
+        "Days on Market M/M": 0.0526
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Oregon",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": 0.0299,
+        "New Listing Count M/M": -0.0467,
+        "Price Increase Count M/M": 0.0991,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Oregon",
+        "Median Listing Price": 261250,
+        "Median Listing Price M/M": 0.0289,
+        "New Listing Count M/M": 0.0765,
+        "Price Increase Count M/M": -0.1685,
+        "Days on Market M/M": -0.0646
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Oregon",
+        "Median Listing Price": 253900,
+        "Median Listing Price M/M": 0.0158,
+        "New Listing Count M/M": 0.1047,
+        "Price Increase Count M/M": 0.0191,
+        "Days on Market M/M": -0.2188
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Oregon",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0202,
+        "New Listing Count M/M": 0.2013,
+        "Price Increase Count M/M": 0.1909,
+        "Days on Market M/M": -0.1843
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Oregon",
+        "Median Listing Price": 245000,
+        "Median Listing Price M/M": 0.021,
+        "New Listing Count M/M": 0.0462,
+        "Price Increase Count M/M": 0.0233,
+        "Days on Market M/M": -0.0659
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Oregon",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": -0.0204,
+        "New Listing Count M/M": 0.3791,
+        "Price Increase Count M/M": 0.1685,
+        "Days on Market M/M": 0.042
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Oregon",
+        "Median Listing Price": 244950,
+        "Median Listing Price M/M": -0.0154,
+        "New Listing Count M/M": -0.1281,
+        "Price Increase Count M/M": 0.0055,
+        "Days on Market M/M": 0.0962
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Oregon",
+        "Median Listing Price": 248786,
+        "Median Listing Price M/M": -0.0047,
+        "New Listing Count M/M": -0.1281,
+        "Price Increase Count M/M": 0.0167,
+        "Days on Market M/M": 0.0717
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Oregon",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1204,
+        "Price Increase Count M/M": -0.0217,
+        "Days on Market M/M": 0.0825
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Oregon",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1058,
+        "Price Increase Count M/M": -0.0891,
+        "Days on Market M/M": 0.0842
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Oregon",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.07,
+        "Price Increase Count M/M": 0.0521,
+        "Days on Market M/M": 0.0326
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Oregon",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0026,
+        "New Listing Count M/M": -0.0598,
+        "Price Increase Count M/M": 0.0667,
+        "Days on Market M/M": -0.0108
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Oregon",
+        "Median Listing Price": 249300,
+        "Median Listing Price M/M": 0.0176,
+        "New Listing Count M/M": -0.0205,
+        "Price Increase Count M/M": -0.1304,
+        "Days on Market M/M": -0.0262
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Oregon",
+        "Median Listing Price": 245000,
+        "Median Listing Price M/M": 0.021,
+        "New Listing Count M/M": -0.047,
+        "Price Increase Count M/M": 0.2778,
+        "Days on Market M/M": -0.0728
+    }
+]

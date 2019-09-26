@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Utah",
+        "Median Listing Price": 399900,
+        "Median Listing Price M/M": 0.0124,
+        "New Listing Count M/M": 0.1265,
+        "Price Increase Count M/M": 0.5227,
+        "Days on Market M/M": -0.1034
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Utah",
+        "Median Listing Price": 395000,
+        "Median Listing Price M/M": 0.0144,
+        "New Listing Count M/M": 0.2261,
+        "Price Increase Count M/M": 0.0954,
+        "Days on Market M/M": -0.1343
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Utah",
+        "Median Listing Price": 389400,
+        "Median Listing Price M/M": 0.0234,
+        "New Listing Count M/M": -0.0195,
+        "Price Increase Count M/M": 0.0524,
+        "Days on Market M/M": -0.0822
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Utah",
+        "Median Listing Price": 380500,
+        "Median Listing Price M/M": 0.0147,
+        "New Listing Count M/M": 0.2654,
+        "Price Increase Count M/M": 0.5066,
+        "Days on Market M/M": 0.1231
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Utah",
+        "Median Listing Price": 375000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2823,
+        "Price Increase Count M/M": -0.1364,
+        "Days on Market M/M": 0.2264
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Utah",
+        "Median Listing Price": 375000,
+        "Median Listing Price M/M": -0.0064,
+        "New Listing Count M/M": -0.1105,
+        "Price Increase Count M/M": -0.0833,
+        "Days on Market M/M": 0.0392
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Utah",
+        "Median Listing Price": 377400,
+        "Median Listing Price M/M": -0.0066,
+        "New Listing Count M/M": -0.0645,
+        "Price Increase Count M/M": -0.2782,
+        "Days on Market M/M": 0.0625
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Utah",
+        "Median Listing Price": 379900,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.0522,
+        "Price Increase Count M/M": -0.257,
+        "Days on Market M/M": 0.0435
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Utah",
+        "Median Listing Price": 380100,
+        "Median Listing Price M/M": -0.0125,
+        "New Listing Count M/M": 0.0401,
+        "Price Increase Count M/M": 0.3984,
+        "Days on Market M/M": 0.0455
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Utah",
+        "Median Listing Price": 384900,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.0441,
+        "Price Increase Count M/M": -0.1523,
+        "Days on Market M/M": 0.0732
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Utah",
+        "Median Listing Price": 385000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0417,
+        "Price Increase Count M/M": -0.1065,
+        "Days on Market M/M": -0.0238
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Utah",
+        "Median Listing Price": 385000,
+        "Median Listing Price M/M": 0.0052,
+        "New Listing Count M/M": 0.0844,
+        "Price Increase Count M/M": -0.3899,
+        "Days on Market M/M": -0.0667
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Utah",
+        "Median Listing Price": 383000,
+        "Median Listing Price M/M": 0.0159,
+        "New Listing Count M/M": 0.1004,
+        "Price Increase Count M/M": 0.6439,
+        "Days on Market M/M": -0.1
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Utah",
+        "Median Listing Price": 377000,
+        "Median Listing Price M/M": 0.0192,
+        "New Listing Count M/M": 0.1313,
+        "Price Increase Count M/M": -0.471,
+        "Days on Market M/M": -0.2424
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Utah",
+        "Median Listing Price": 369900,
+        "Median Listing Price M/M": 0.035,
+        "New Listing Count M/M": 0.1126,
+        "Price Increase Count M/M": 0.3611,
+        "Days on Market M/M": -0.0833
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Utah",
+        "Median Listing Price": 357400,
+        "Median Listing Price M/M": 0.0211,
+        "New Listing Count M/M": 0.1552,
+        "Price Increase Count M/M": 1.5435,
+        "Days on Market M/M": 0.0909
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Utah",
+        "Median Listing Price": 350000,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.1927,
+        "Price Increase Count M/M": -0.284,
+        "Days on Market M/M": 0.1186
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Utah",
+        "Median Listing Price": 349900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2045,
+        "Price Increase Count M/M": -0.1318,
+        "Days on Market M/M": 0.0926
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Utah",
+        "Median Listing Price": 349950,
+        "Median Listing Price M/M": -0.0001,
+        "New Listing Count M/M": -0.043,
+        "Price Increase Count M/M": 0.2333,
+        "Days on Market M/M": 0.0485
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Utah",
+        "Median Listing Price": 349975,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1071,
+        "Price Increase Count M/M": -0.0083,
+        "Days on Market M/M": 0.03
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Utah",
+        "Median Listing Price": 349975,
+        "Median Listing Price M/M": -0.0143,
+        "New Listing Count M/M": 0.0707,
+        "Price Increase Count M/M": 0.0522,
+        "Days on Market M/M": 0.1111
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Utah",
+        "Median Listing Price": 355050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0729,
+        "Price Increase Count M/M": -0.1606,
+        "Days on Market M/M": 0.0227
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Utah",
+        "Median Listing Price": 355050,
+        "Median Listing Price M/M": -0.0096,
+        "New Listing Count M/M": 0.086,
+        "Price Increase Count M/M": 0.0111,
+        "Days on Market M/M": -0.0435
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Utah",
+        "Median Listing Price": 358500,
+        "Median Listing Price M/M": 0.0101,
+        "New Listing Count M/M": 0.1347,
+        "Price Increase Count M/M": -0.0719,
+        "Days on Market M/M": -0.098
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Utah",
+        "Median Listing Price": 354900,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": 0.1026,
+        "Price Increase Count M/M": -0.1487,
+        "Days on Market M/M": -0.1639
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Utah",
+        "Median Listing Price": 355000,
+        "Median Listing Price M/M": 0.0159,
+        "New Listing Count M/M": 0.1987,
+        "Price Increase Count M/M": -0.2495,
+        "Days on Market M/M": -0.2422
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Utah",
+        "Median Listing Price": 349450,
+        "Median Listing Price M/M": 0.043,
+        "New Listing Count M/M": 0.0935,
+        "Price Increase Count M/M": 1.4309,
+        "Days on Market M/M": -0.0301
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Utah",
+        "Median Listing Price": 335050,
+        "Median Listing Price M/M": 0.0155,
+        "New Listing Count M/M": 0.1031,
+        "Price Increase Count M/M": 0.3824,
+        "Days on Market M/M": 0.1141
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Utah",
+        "Median Listing Price": 329950,
+        "Median Listing Price M/M": 0.0123,
+        "New Listing Count M/M": -0.2158,
+        "Price Increase Count M/M": -0.3366,
+        "Days on Market M/M": 0.1037
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Utah",
+        "Median Listing Price": 325949,
+        "Median Listing Price M/M": 0.0028,
+        "New Listing Count M/M": -0.1291,
+        "Price Increase Count M/M": -0.1992,
+        "Days on Market M/M": 0.0547
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Utah",
+        "Median Listing Price": 325050,
+        "Median Listing Price M/M": 0.0023,
+        "New Listing Count M/M": -0.0626,
+        "Price Increase Count M/M": 0.1532,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Utah",
+        "Median Listing Price": 324300,
+        "Median Listing Price M/M": 0.0103,
+        "New Listing Count M/M": -0.1254,
+        "Price Increase Count M/M": -0.0133,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Utah",
+        "Median Listing Price": 321000,
+        "Median Listing Price M/M": -0.0056,
+        "New Listing Count M/M": 0.0052,
+        "Price Increase Count M/M": -0.0217,
+        "Days on Market M/M": 0.0741
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Utah",
+        "Median Listing Price": 322820,
+        "Median Listing Price M/M": -0.0081,
+        "New Listing Count M/M": -0.0565,
+        "Price Increase Count M/M": 0.0177,
+        "Days on Market M/M": 0.0189
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Utah",
+        "Median Listing Price": 325450,
+        "Median Listing Price M/M": 0.0172,
+        "New Listing Count M/M": 0.0035,
+        "Price Increase Count M/M": 7.6923,
+        "Days on Market M/M": -0.0862
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Utah",
+        "Median Listing Price": 319950,
+        "Median Listing Price M/M": 0.0271,
+        "New Listing Count M/M": 0.0511,
+        "Price Increase Count M/M": -0.4468,
+        "Days on Market M/M": -0.0794
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Utah",
+        "Median Listing Price": 311506,
+        "Median Listing Price M/M": 0.0163,
+        "New Listing Count M/M": 0.1044,
+        "Price Increase Count M/M": 1.2381,
+        "Days on Market M/M": -0.087
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Utah",
+        "Median Listing Price": 306500,
+        "Median Listing Price M/M": 0.0218,
+        "New Listing Count M/M": 0.0933,
+        "Price Increase Count M/M": -0.4324,
+        "Days on Market M/M": -0.2291
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Utah",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0142,
+        "New Listing Count M/M": 0.2442,
+        "Price Increase Count M/M": 0.4231,
+        "Days on Market M/M": -0.0376
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Utah",
+        "Median Listing Price": 295750,
+        "Median Listing Price M/M": 0.0146,
+        "New Listing Count M/M": 0.3289,
+        "Price Increase Count M/M": 0.04,
+        "Days on Market M/M": 0.0629
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Utah",
+        "Median Listing Price": 291500,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.2921,
+        "Price Increase Count M/M": -0.1071,
+        "Days on Market M/M": 0.1076
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Utah",
+        "Median Listing Price": 292550,
+        "Median Listing Price M/M": -0.0017,
+        "New Listing Count M/M": -0.119,
+        "Price Increase Count M/M": -0.1515,
+        "Days on Market M/M": 0.0748
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Utah",
+        "Median Listing Price": 293050,
+        "Median Listing Price M/M": 0.0103,
+        "New Listing Count M/M": -0.0643,
+        "Price Increase Count M/M": 0.1,
+        "Days on Market M/M": 0.0576
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Utah",
+        "Median Listing Price": 290050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.1291,
+        "Price Increase Count M/M": -0.4,
+        "Days on Market M/M": 0.0221
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Utah",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": 0.0022,
+        "New Listing Count M/M": -0.15,
+        "Price Increase Count M/M": 0.3514,
+        "Days on Market M/M": 0.0303
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Utah",
+        "Median Listing Price": 289300,
+        "Median Listing Price M/M": 0.0009,
+        "New Listing Count M/M": -0.0223,
+        "Price Increase Count M/M": 0.0571,
+        "Days on Market M/M": 0.0154
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Utah",
+        "Median Listing Price": 289050,
+        "Median Listing Price M/M": 0.0144,
+        "New Listing Count M/M": 0.0097,
+        "Price Increase Count M/M": 0.0294,
+        "Days on Market M/M": 0.0484
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Utah",
+        "Median Listing Price": 284950,
+        "Median Listing Price M/M": 0.0179,
+        "New Listing Count M/M": -0.0148,
+        "Price Increase Count M/M": -0.8661,
+        "Days on Market M/M": -0.0534
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Utah",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0178,
+        "New Listing Count M/M": 0.0391,
+        "Price Increase Count M/M": -0.0379,
+        "Days on Market M/M": -0.0076
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Utah",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0341,
+        "New Listing Count M/M": 0.0982,
+        "Price Increase Count M/M": 0.1478,
+        "Days on Market M/M": -0.2747
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Utah",
+        "Median Listing Price": 265987,
+        "Median Listing Price M/M": -0.0039,
+        "New Listing Count M/M": 0.1098,
+        "Price Increase Count M/M": 0.1795,
+        "Days on Market M/M": -0.0471
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Utah",
+        "Median Listing Price": 267031,
+        "Median Listing Price M/M": 0.0058,
+        "New Listing Count M/M": 0.369,
+        "Price Increase Count M/M": 0.1471,
+        "Days on Market M/M": 0.0552
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Utah",
+        "Median Listing Price": 265500,
+        "Median Listing Price M/M": 0.0021,
+        "New Listing Count M/M": -0.2169,
+        "Price Increase Count M/M": -0.0341,
+        "Days on Market M/M": 0.1173
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Utah",
+        "Median Listing Price": 264950,
+        "Median Listing Price M/M": 0.0192,
+        "New Listing Count M/M": -0.1633,
+        "Price Increase Count M/M": -0.1244,
+        "Days on Market M/M": 0.0253
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Utah",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0276,
+        "Price Increase Count M/M": 0.2036,
+        "Days on Market M/M": 0.026
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Utah",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0919,
+        "Price Increase Count M/M": -0.1566,
+        "Days on Market M/M": 0.0548
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Utah",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0059,
+        "Price Increase Count M/M": -0.005,
+        "Days on Market M/M": 0.0735
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Utah",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": 0.0192,
+        "New Listing Count M/M": -0.055,
+        "Price Increase Count M/M": -0.0613,
+        "Days on Market M/M": 0.0149
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Utah",
+        "Median Listing Price": 255050,
+        "Median Listing Price M/M": 0.0222,
+        "New Listing Count M/M": 0.03,
+        "Price Increase Count M/M": 0.0192,
+        "Days on Market M/M": -0.0629
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Utah",
+        "Median Listing Price": 249500,
+        "Median Listing Price M/M": 0.0182,
+        "New Listing Count M/M": 0.054,
+        "Price Increase Count M/M": 0.8246,
+        "Days on Market M/M": -0.0467
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Utah",
+        "Median Listing Price": 245050,
+        "Median Listing Price M/M": 0.0208,
+        "New Listing Count M/M": 0.0136,
+        "Price Increase Count M/M": 0.3902,
+        "Days on Market M/M": -0.0625
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Utah",
+        "Median Listing Price": 240050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": 0.3342,
+        "Price Increase Count M/M": -0.3692,
+        "Days on Market M/M": -0.1579
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Utah",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0038,
+        "New Listing Count M/M": -0.1181,
+        "Price Increase Count M/M": -0.4091,
+        "Days on Market M/M": -0.0155
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Utah",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.5819,
+        "Price Increase Count M/M": 0.1702,
+        "Days on Market M/M": 0.0722
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Utah",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": -0.0038,
+        "New Listing Count M/M": -0.3046,
+        "Price Increase Count M/M": -0.1296,
+        "Days on Market M/M": 0.1043
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Utah",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.103,
+        "Price Increase Count M/M": 0.0335,
+        "Days on Market M/M": 0.094
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Utah",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0767,
+        "Price Increase Count M/M": -0.05,
+        "Days on Market M/M": 0.0205
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Utah",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0038,
+        "New Listing Count M/M": -0.1061,
+        "Price Increase Count M/M": -0.3038,
+        "Days on Market M/M": 0.0657
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Utah",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": 0.0044,
+        "New Listing Count M/M": 0.041,
+        "Price Increase Count M/M": 0.2441,
+        "Days on Market M/M": 0.0379
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Utah",
+        "Median Listing Price": 238000,
+        "Median Listing Price M/M": 0.013,
+        "New Listing Count M/M": -0.0955,
+        "Price Increase Count M/M": -0.1181,
+        "Days on Market M/M": 0.0154
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Utah",
+        "Median Listing Price": 234950,
+        "Median Listing Price M/M": 0.0149,
+        "New Listing Count M/M": 0.0436,
+        "Price Increase Count M/M": 0.0105,
+        "Days on Market M/M": -0.0076
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Utah",
+        "Median Listing Price": 231500,
+        "Median Listing Price M/M": 0.0107,
+        "New Listing Count M/M": 0.0966,
+        "Price Increase Count M/M": -0.2083,
+        "Days on Market M/M": -0.0643
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Utah",
+        "Median Listing Price": 229050,
+        "Median Listing Price M/M": 0.0178,
+        "New Listing Count M/M": 0.061,
+        "Price Increase Count M/M": 0.1842,
+        "Days on Market M/M": -0.1411
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Utah",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0137,
+        "New Listing Count M/M": 0.2556,
+        "Price Increase Count M/M": -0.1085,
+        "Days on Market M/M": -0.2087
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Utah",
+        "Median Listing Price": 222000,
+        "Median Listing Price M/M": 0.0093,
+        "New Listing Count M/M": 0.0594,
+        "Price Increase Count M/M": 0.2583,
+        "Days on Market M/M": -0.0374
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Utah",
+        "Median Listing Price": 219950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.25,
+        "Price Increase Count M/M": 0.1886,
+        "Days on Market M/M": 0.049
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Utah",
+        "Median Listing Price": 219950,
+        "Median Listing Price M/M": -0.0179,
+        "New Listing Count M/M": -0.1763,
+        "Price Increase Count M/M": -0.1264,
+        "Days on Market M/M": 0.0251
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Utah",
+        "Median Listing Price": 223950,
+        "Median Listing Price M/M": -0.0044,
+        "New Listing Count M/M": -0.109,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0365
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Utah",
+        "Median Listing Price": 224950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0822,
+        "Price Increase Count M/M": 0.0966,
+        "Days on Market M/M": 0.0213
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Utah",
+        "Median Listing Price": 224950,
+        "Median Listing Price M/M": 0.0065,
+        "New Listing Count M/M": -0.087,
+        "Price Increase Count M/M": -0.0916,
+        "Days on Market M/M": 0.0444
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Utah",
+        "Median Listing Price": 223500,
+        "Median Listing Price M/M": 0.0157,
+        "New Listing Count M/M": 0.0665,
+        "Price Increase Count M/M": 0.1391,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Utah",
+        "Median Listing Price": 220050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0852,
+        "Price Increase Count M/M": -0.1901,
+        "Days on Market M/M": 0.0296
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Utah",
+        "Median Listing Price": 220050,
+        "Median Listing Price M/M": 0.0025,
+        "New Listing Count M/M": -0.0401,
+        "Price Increase Count M/M": 0.1137,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Utah",
+        "Median Listing Price": 219500,
+        "Median Listing Price M/M": 0.0209,
+        "New Listing Count M/M": -0.1116,
+        "Price Increase Count M/M": -0.1584,
+        "Days on Market M/M": -0.0398
+    }
+]

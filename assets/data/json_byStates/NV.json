@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Nevada",
+        "Median Listing Price": 331000,
+        "Median Listing Price M/M": 0.0122,
+        "New Listing Count M/M": 0.0845,
+        "Price Increase Count M/M": 0.0616,
+        "Days on Market M/M": -0.098
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Nevada",
+        "Median Listing Price": 327000,
+        "Median Listing Price M/M": 0.0062,
+        "New Listing Count M/M": 0.1286,
+        "Price Increase Count M/M": -0.0875,
+        "Days on Market M/M": -0.1356
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Nevada",
+        "Median Listing Price": 325000,
+        "Median Listing Price M/M": -0.0116,
+        "New Listing Count M/M": -0.0169,
+        "Price Increase Count M/M": 0.203,
+        "Days on Market M/M": -0.1194
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Nevada",
+        "Median Listing Price": 328800,
+        "Median Listing Price M/M": -0.0173,
+        "New Listing Count M/M": 0.5128,
+        "Price Increase Count M/M": 0.3854,
+        "Days on Market M/M": 0.0806
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Nevada",
+        "Median Listing Price": 334600,
+        "Median Listing Price M/M": -0.0115,
+        "New Listing Count M/M": -0.2833,
+        "Price Increase Count M/M": -0.2066,
+        "Days on Market M/M": 0.2157
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Nevada",
+        "Median Listing Price": 338500,
+        "Median Listing Price M/M": -0.0044,
+        "New Listing Count M/M": -0.0611,
+        "Price Increase Count M/M": -0.1879,
+        "Days on Market M/M": 0.0851
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Nevada",
+        "Median Listing Price": 340000,
+        "Median Listing Price M/M": -0.0258,
+        "New Listing Count M/M": -0.1101,
+        "Price Increase Count M/M": -0.1813,
+        "Days on Market M/M": 0.0682
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Nevada",
+        "Median Listing Price": 349000,
+        "Median Listing Price M/M": -0.0099,
+        "New Listing Count M/M": 0.0062,
+        "Price Increase Count M/M": 0.0168,
+        "Days on Market M/M": 0.0732
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Nevada",
+        "Median Listing Price": 352500,
+        "Median Listing Price M/M": 0.0714,
+        "New Listing Count M/M": 0.0857,
+        "Price Increase Count M/M": -0.1311,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Nevada",
+        "Median Listing Price": 329000,
+        "Median Listing Price M/M": 0.0123,
+        "New Listing Count M/M": -0.0958,
+        "Price Increase Count M/M": 0.0249,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Nevada",
+        "Median Listing Price": 325000,
+        "Median Listing Price M/M": 0.0031,
+        "New Listing Count M/M": 0.0091,
+        "Price Increase Count M/M": -0.1762,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Nevada",
+        "Median Listing Price": 324000,
+        "Median Listing Price M/M": 0.0157,
+        "New Listing Count M/M": 0.0704,
+        "Price Increase Count M/M": -0.0394,
+        "Days on Market M/M": -0.0238
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Nevada",
+        "Median Listing Price": 319000,
+        "Median Listing Price M/M": 0.029,
+        "New Listing Count M/M": 0.0516,
+        "Price Increase Count M/M": 0.1759,
+        "Days on Market M/M": -0.0233
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Nevada",
+        "Median Listing Price": 310000,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": 0.0217,
+        "Price Increase Count M/M": 0.0746,
+        "Days on Market M/M": -0.1042
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Nevada",
+        "Median Listing Price": 309900,
+        "Median Listing Price M/M": 0.0006,
+        "New Listing Count M/M": 0.1847,
+        "Price Increase Count M/M": 0.0635,
+        "Days on Market M/M": -0.2615
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Nevada",
+        "Median Listing Price": 309700,
+        "Median Listing Price M/M": 0.0323,
+        "New Listing Count M/M": 0.2942,
+        "Price Increase Count M/M": 0.2434,
+        "Days on Market M/M": 0.0484
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Nevada",
+        "Median Listing Price": 300000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2617,
+        "Price Increase Count M/M": -0.1412,
+        "Days on Market M/M": 0.1273
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Nevada",
+        "Median Listing Price": 300000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1188,
+        "Price Increase Count M/M": -0.0484,
+        "Days on Market M/M": 0.0377
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Nevada",
+        "Median Listing Price": 300049,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0161,
+        "Price Increase Count M/M": -0.1733,
+        "Days on Market M/M": 0.0095
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Nevada",
+        "Median Listing Price": 300049,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.1204,
+        "Price Increase Count M/M": -0.1573,
+        "Days on Market M/M": 0.0096
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Nevada",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0013,
+        "New Listing Count M/M": 0.0079,
+        "Price Increase Count M/M": 0.0595,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Nevada",
+        "Median Listing Price": 299550,
+        "Median Listing Price M/M": 0.011,
+        "New Listing Count M/M": -0.0647,
+        "Price Increase Count M/M": -0.0701,
+        "Days on Market M/M": 0.0196
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Nevada",
+        "Median Listing Price": 296300,
+        "Median Listing Price M/M": 0.022,
+        "New Listing Count M/M": -0.0087,
+        "Price Increase Count M/M": 0.0037,
+        "Days on Market M/M": -0.0097
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Nevada",
+        "Median Listing Price": 289934,
+        "Median Listing Price M/M": 0.0175,
+        "New Listing Count M/M": 0.006,
+        "Price Increase Count M/M": 0.063,
+        "Days on Market M/M": -0.0096
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Nevada",
+        "Median Listing Price": 284950,
+        "Median Listing Price M/M": 0.0195,
+        "New Listing Count M/M": 0.0397,
+        "Price Increase Count M/M": 0.004,
+        "Days on Market M/M": -0.0796
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Nevada",
+        "Median Listing Price": 279494,
+        "Median Listing Price M/M": 0.0162,
+        "New Listing Count M/M": 0.1514,
+        "Price Increase Count M/M": 0.1195,
+        "Days on Market M/M": -0.2042
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Nevada",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": 0.0605,
+        "Price Increase Count M/M": 0.1649,
+        "Days on Market M/M": -0.1235
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Nevada",
+        "Median Listing Price": 274050,
+        "Median Listing Price M/M": 0.0148,
+        "New Listing Count M/M": 0.3389,
+        "Price Increase Count M/M": 0.0659,
+        "Days on Market M/M": 0.0554
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Nevada",
+        "Median Listing Price": 270050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2143,
+        "Price Increase Count M/M": 0.04,
+        "Days on Market M/M": 0.0964
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Nevada",
+        "Median Listing Price": 270050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1074,
+        "Price Increase Count M/M": -0.2257,
+        "Days on Market M/M": 0.0448
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Nevada",
+        "Median Listing Price": 270050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.0852,
+        "Price Increase Count M/M": 0.0044,
+        "Days on Market M/M": 0.0229
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Nevada",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0347,
+        "Price Increase Count M/M": 0.009,
+        "Days on Market M/M": 0.0315
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Nevada",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0071,
+        "New Listing Count M/M": -0.022,
+        "Price Increase Count M/M": 0.0045,
+        "Days on Market M/M": 0.0242
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Nevada",
+        "Median Listing Price": 268050,
+        "Median Listing Price M/M": 0.031,
+        "New Listing Count M/M": -0.0458,
+        "Price Increase Count M/M": 0.0423,
+        "Days on Market M/M": 0.0081
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Nevada",
+        "Median Listing Price": 259994,
+        "Median Listing Price M/M": -0.1033,
+        "New Listing Count M/M": 0.0382,
+        "Price Increase Count M/M": 0.034,
+        "Days on Market M/M": 0.0789
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Nevada",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": 0.037,
+        "New Listing Count M/M": 0.0145,
+        "Price Increase Count M/M": -0.0804,
+        "Days on Market M/M": -0.0087
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Nevada",
+        "Median Listing Price": 279600,
+        "Median Listing Price M/M": 0.0357,
+        "New Listing Count M/M": 0.0396,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.0336
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Nevada",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0189,
+        "New Listing Count M/M": 0.0536,
+        "Price Increase Count M/M": 0.0718,
+        "Days on Market M/M": -0.15
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Nevada",
+        "Median Listing Price": 264950,
+        "Median Listing Price M/M": 0.0192,
+        "New Listing Count M/M": 0.0697,
+        "Price Increase Count M/M": 0.1359,
+        "Days on Market M/M": -0.1358
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Nevada",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3694,
+        "Price Increase Count M/M": 0.1572,
+        "Days on Market M/M": 0.0385
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Nevada",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.1456,
+        "Price Increase Count M/M": -0.0756,
+        "Days on Market M/M": 0.1304
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Nevada",
+        "Median Listing Price": 260050,
+        "Median Listing Price M/M": -0.0093,
+        "New Listing Count M/M": -0.1496,
+        "Price Increase Count M/M": -0.2712,
+        "Days on Market M/M": 0.0376
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Nevada",
+        "Median Listing Price": 262500,
+        "Median Listing Price M/M": -0.0096,
+        "New Listing Count M/M": -0.0437,
+        "Price Increase Count M/M": 0.0727,
+        "Days on Market M/M": 0.0472
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Nevada",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.0313,
+        "Price Increase Count M/M": -0.1057,
+        "Days on Market M/M": 0.0242
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Nevada",
+        "Median Listing Price": 264950,
+        "Median Listing Price M/M": 0.0044,
+        "New Listing Count M/M": -0.2289,
+        "Price Increase Count M/M": 0.0468,
+        "Days on Market M/M": 0.0508
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Nevada",
+        "Median Listing Price": 263800,
+        "Median Listing Price M/M": 0.0146,
+        "New Listing Count M/M": 0.148,
+        "Price Increase Count M/M": -0.0208,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Nevada",
+        "Median Listing Price": 260000,
+        "Median Listing Price M/M": 0.0037,
+        "New Listing Count M/M": -0.022,
+        "Price Increase Count M/M": 0.1009,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Nevada",
+        "Median Listing Price": 259050,
+        "Median Listing Price M/M": 0.0383,
+        "New Listing Count M/M": -0.014,
+        "Price Increase Count M/M": 0.0046,
+        "Days on Market M/M": -0.0167
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Nevada",
+        "Median Listing Price": 249500,
+        "Median Listing Price M/M": 0.0186,
+        "New Listing Count M/M": 0.1248,
+        "Price Increase Count M/M": -0.0647,
+        "Days on Market M/M": -0.0625
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Nevada",
+        "Median Listing Price": 244950,
+        "Median Listing Price M/M": 0.0295,
+        "New Listing Count M/M": 0.1276,
+        "Price Increase Count M/M": 0.045,
+        "Days on Market M/M": -0.2381
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Nevada",
+        "Median Listing Price": 237925,
+        "Median Listing Price M/M": 0.0124,
+        "New Listing Count M/M": -0.0383,
+        "Price Increase Count M/M": -0.0177,
+        "Days on Market M/M": -0.0508
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Nevada",
+        "Median Listing Price": 235000,
+        "Median Listing Price M/M": -0.0084,
+        "New Listing Count M/M": 0.5161,
+        "Price Increase Count M/M": 0.2283,
+        "Days on Market M/M": 0.0727
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Nevada",
+        "Median Listing Price": 236994,
+        "Median Listing Price M/M": -0.0081,
+        "New Listing Count M/M": -0.2467,
+        "Price Increase Count M/M": -0.2459,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Nevada",
+        "Median Listing Price": 238938,
+        "Median Listing Price M/M": -0.0046,
+        "New Listing Count M/M": -0.0944,
+        "Price Increase Count M/M": -0.0579,
+        "Days on Market M/M": 0.0791
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Nevada",
+        "Median Listing Price": 240050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0636,
+        "Price Increase Count M/M": 0.0319,
+        "Days on Market M/M": 0.0221
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Nevada",
+        "Median Listing Price": 240050,
+        "Median Listing Price M/M": 0.1163,
+        "New Listing Count M/M": -0.0809,
+        "Price Increase Count M/M": -0.152,
+        "Days on Market M/M": -0.0933
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Nevada",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0214,
+        "New Listing Count M/M": 0.0447,
+        "Price Increase Count M/M": 0.1255,
+        "Days on Market M/M": 0.0067
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Nevada",
+        "Median Listing Price": 210550,
+        "Median Listing Price M/M": 0.0268,
+        "New Listing Count M/M": -0.0579,
+        "Price Increase Count M/M": -0.1054,
+        "Days on Market M/M": 0.0068
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Nevada",
+        "Median Listing Price": 205050,
+        "Median Listing Price M/M": 0.0253,
+        "New Listing Count M/M": -0.005,
+        "Price Increase Count M/M": -0.0667,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Nevada",
+        "Median Listing Price": 200000,
+        "Median Listing Price M/M": 0.0254,
+        "New Listing Count M/M": 0.0361,
+        "Price Increase Count M/M": -0.0094,
+        "Days on Market M/M": -0.0807
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Nevada",
+        "Median Listing Price": 195050,
+        "Median Listing Price M/M": 0.0268,
+        "New Listing Count M/M": -0.1001,
+        "Price Increase Count M/M": -0.0063,
+        "Days on Market M/M": -0.1056
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Nevada",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0034,
+        "New Listing Count M/M": 0.0856,
+        "Price Increase Count M/M": -0.0154,
+        "Days on Market M/M": -0.0909
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Nevada",
+        "Median Listing Price": 189300,
+        "Median Listing Price M/M": 0.0232,
+        "New Listing Count M/M": 0.075,
+        "Price Increase Count M/M": -0.0061,
+        "Days on Market M/M": -0.005
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Nevada",
+        "Median Listing Price": 185000,
+        "Median Listing Price M/M": 0.0008,
+        "New Listing Count M/M": 0.5467,
+        "Price Increase Count M/M": 0.0617,
+        "Days on Market M/M": 0.118
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Nevada",
+        "Median Listing Price": 184850,
+        "Median Listing Price M/M": 0.002,
+        "New Listing Count M/M": -0.2858,
+        "Price Increase Count M/M": -0.1895,
+        "Days on Market M/M": 0.1195
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Nevada",
+        "Median Listing Price": 184475,
+        "Median Listing Price M/M": 0.0092,
+        "New Listing Count M/M": -0.1481,
+        "Price Increase Count M/M": -0.0524,
+        "Days on Market M/M": 0.0671
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Nevada",
+        "Median Listing Price": 182800,
+        "Median Listing Price M/M": 0.0158,
+        "New Listing Count M/M": 0.02,
+        "Price Increase Count M/M": -0.0172,
+        "Days on Market M/M": 0.0205
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Nevada",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0222,
+        "New Listing Count M/M": -0.1135,
+        "Price Increase Count M/M": 0.0175,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Nevada",
+        "Median Listing Price": 176050,
+        "Median Listing Price M/M": 0.0353,
+        "New Listing Count M/M": 0.0761,
+        "Price Increase Count M/M": 0.2042,
+        "Days on Market M/M": -0.0201
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Nevada",
+        "Median Listing Price": 170050,
+        "Median Listing Price M/M": 0.0303,
+        "New Listing Count M/M": 0.0262,
+        "Price Increase Count M/M": 0.0954,
+        "Days on Market M/M": -0.0067
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Nevada",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0313,
+        "New Listing Count M/M": -0.0022,
+        "Price Increase Count M/M": -0.0559,
+        "Days on Market M/M": -0.0625
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Nevada",
+        "Median Listing Price": 160045,
+        "Median Listing Price M/M": 0.0325,
+        "New Listing Count M/M": 0.0047,
+        "Price Increase Count M/M": -0.1848,
+        "Days on Market M/M": -0.0698
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Nevada",
+        "Median Listing Price": 155000,
+        "Median Listing Price M/M": 0.033,
+        "New Listing Count M/M": 0.0782,
+        "Price Increase Count M/M": 0.197,
+        "Days on Market M/M": -0.1569
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Nevada",
+        "Median Listing Price": 150050,
+        "Median Listing Price M/M": 0.0239,
+        "New Listing Count M/M": 0.0834,
+        "Price Increase Count M/M": -0.1603,
+        "Days on Market M/M": -0.0769
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Nevada",
+        "Median Listing Price": 146550,
+        "Median Listing Price M/M": 0.0107,
+        "New Listing Count M/M": 0.0677,
+        "Price Increase Count M/M": -0.0598,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Nevada",
+        "Median Listing Price": 145000,
+        "Median Listing Price M/M": 0.0066,
+        "New Listing Count M/M": 0.1276,
+        "Price Increase Count M/M": 0.1058,
+        "Days on Market M/M": 0.0728
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Nevada",
+        "Median Listing Price": 144050,
+        "Median Listing Price M/M": -0.0062,
+        "New Listing Count M/M": -0.1195,
+        "Price Increase Count M/M": 0.2154,
+        "Days on Market M/M": 0.0674
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Nevada",
+        "Median Listing Price": 144950,
+        "Median Listing Price M/M": 0.0133,
+        "New Listing Count M/M": -0.0606,
+        "Price Increase Count M/M": 0.0471,
+        "Days on Market M/M": 0.0432
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Nevada",
+        "Median Listing Price": 143050,
+        "Median Listing Price M/M": 0.0214,
+        "New Listing Count M/M": -0.1154,
+        "Price Increase Count M/M": -0.0601,
+        "Days on Market M/M": -0.0054
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Nevada",
+        "Median Listing Price": 140050,
+        "Median Listing Price M/M": 0.0007,
+        "New Listing Count M/M": -0.0089,
+        "Price Increase Count M/M": 0.0464,
+        "Days on Market M/M": -0.0106
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Nevada",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0065,
+        "New Listing Count M/M": -0.0015,
+        "Price Increase Count M/M": 0.2276,
+        "Days on Market M/M": -0.0105
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Nevada",
+        "Median Listing Price": 139050,
+        "Median Listing Price M/M": 0.0296,
+        "New Listing Count M/M": -0.0033,
+        "Price Increase Count M/M": -0.1119,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Nevada",
+        "Median Listing Price": 135050,
+        "Median Listing Price M/M": 0.012,
+        "New Listing Count M/M": 0.0444,
+        "Price Increase Count M/M": -0.0072,
+        "Days on Market M/M": 0.0106
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Nevada",
+        "Median Listing Price": 133450,
+        "Median Listing Price M/M": 0.0269,
+        "New Listing Count M/M": -0.1424,
+        "Price Increase Count M/M": 0.1723,
+        "Days on Market M/M": 0.0
+    }
+]

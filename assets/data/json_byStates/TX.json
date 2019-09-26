@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Texas",
+        "Median Listing Price": 295000,
+        "Median Listing Price M/M": 0.0208,
+        "New Listing Count M/M": 0.0613,
+        "Price Increase Count M/M": 0.3068,
+        "Days on Market M/M": -0.0862
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Texas",
+        "Median Listing Price": 289000,
+        "Median Listing Price M/M": 0.0274,
+        "New Listing Count M/M": 0.1275,
+        "Price Increase Count M/M": -0.0929,
+        "Days on Market M/M": -0.1714
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Texas",
+        "Median Listing Price": 281300,
+        "Median Listing Price M/M": 0.005,
+        "New Listing Count M/M": 0.0536,
+        "Price Increase Count M/M": 0.0551,
+        "Days on Market M/M": -0.125
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Texas",
+        "Median Listing Price": 279900,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": 0.3974,
+        "Price Increase Count M/M": 0.0391,
+        "Days on Market M/M": 0.0526
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Texas",
+        "Median Listing Price": 280000,
+        "Median Listing Price M/M": -0.013,
+        "New Listing Count M/M": -0.2168,
+        "Price Increase Count M/M": 0.2744,
+        "Days on Market M/M": 0.1014
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Texas",
+        "Median Listing Price": 283700,
+        "Median Listing Price M/M": -0.0046,
+        "New Listing Count M/M": -0.0342,
+        "Price Increase Count M/M": -0.0199,
+        "Days on Market M/M": 0.0299
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Texas",
+        "Median Listing Price": 285000,
+        "Median Listing Price M/M": -0.0104,
+        "New Listing Count M/M": -0.0122,
+        "Price Increase Count M/M": -0.1293,
+        "Days on Market M/M": 0.0635
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Texas",
+        "Median Listing Price": 288000,
+        "Median Listing Price M/M": -0.0066,
+        "New Listing Count M/M": -0.1137,
+        "Price Increase Count M/M": -0.0347,
+        "Days on Market M/M": 0.0862
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Texas",
+        "Median Listing Price": 289900,
+        "Median Listing Price M/M": -0.0173,
+        "New Listing Count M/M": -0.1071,
+        "Price Increase Count M/M": -0.2386,
+        "Days on Market M/M": 0.0741
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Texas",
+        "Median Listing Price": 295000,
+        "Median Listing Price M/M": -0.0101,
+        "New Listing Count M/M": -0.029,
+        "Price Increase Count M/M": 0.0514,
+        "Days on Market M/M": 0.0385
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Texas",
+        "Median Listing Price": 298000,
+        "Median Listing Price M/M": 0.001,
+        "New Listing Count M/M": -0.0039,
+        "Price Increase Count M/M": 0.1687,
+        "Days on Market M/M": 0.0196
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Texas",
+        "Median Listing Price": 297700,
+        "Median Listing Price M/M": 0.0164,
+        "New Listing Count M/M": 0.0253,
+        "Price Increase Count M/M": 0.006,
+        "Days on Market M/M": -0.0192
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Texas",
+        "Median Listing Price": 292900,
+        "Median Listing Price M/M": 0.0277,
+        "New Listing Count M/M": 0.0919,
+        "Price Increase Count M/M": -0.1008,
+        "Days on Market M/M": -0.0877
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Texas",
+        "Median Listing Price": 285000,
+        "Median Listing Price M/M": 0.0233,
+        "New Listing Count M/M": 0.1434,
+        "Price Increase Count M/M": 0.0124,
+        "Days on Market M/M": -0.2192
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Texas",
+        "Median Listing Price": 278500,
+        "Median Listing Price M/M": 0.0127,
+        "New Listing Count M/M": 0.1285,
+        "Price Increase Count M/M": 0.1362,
+        "Days on Market M/M": -0.0988
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Texas",
+        "Median Listing Price": 275000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.27,
+        "Price Increase Count M/M": 0.4036,
+        "Days on Market M/M": 0.0658
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Texas",
+        "Median Listing Price": 275000,
+        "Median Listing Price M/M": -0.0029,
+        "New Listing Count M/M": -0.2077,
+        "Price Increase Count M/M": -0.1452,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Texas",
+        "Median Listing Price": 275800,
+        "Median Listing Price M/M": -0.0025,
+        "New Listing Count M/M": -0.1016,
+        "Price Increase Count M/M": -0.231,
+        "Days on Market M/M": 0.0141
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Texas",
+        "Median Listing Price": 276550,
+        "Median Listing Price M/M": -0.007,
+        "New Listing Count M/M": 0.0693,
+        "Price Increase Count M/M": 0.0931,
+        "Days on Market M/M": 0.084
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Texas",
+        "Median Listing Price": 278500,
+        "Median Listing Price M/M": -0.002,
+        "New Listing Count M/M": -0.2053,
+        "Price Increase Count M/M": 0.1317,
+        "Days on Market M/M": 0.1102
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Texas",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.0686,
+        "Price Increase Count M/M": -0.0586,
+        "Days on Market M/M": 0.0351
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Texas",
+        "Median Listing Price": 280050,
+        "Median Listing Price M/M": -0.0142,
+        "New Listing Count M/M": -0.0188,
+        "Price Increase Count M/M": -0.0036,
+        "Days on Market M/M": 0.0459
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Texas",
+        "Median Listing Price": 284088,
+        "Median Listing Price M/M": 0.0135,
+        "New Listing Count M/M": 0.0008,
+        "Price Increase Count M/M": -0.0874,
+        "Days on Market M/M": 0.0093
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Texas",
+        "Median Listing Price": 280297,
+        "Median Listing Price M/M": 0.0045,
+        "New Listing Count M/M": 0.0619,
+        "Price Increase Count M/M": 0.1904,
+        "Days on Market M/M": -0.0182
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Texas",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": 0.0209,
+        "New Listing Count M/M": 0.0461,
+        "Price Increase Count M/M": -0.1303,
+        "Days on Market M/M": -0.0598
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Texas",
+        "Median Listing Price": 273349,
+        "Median Listing Price M/M": 0.0333,
+        "New Listing Count M/M": 0.1052,
+        "Price Increase Count M/M": 0.0597,
+        "Days on Market M/M": -0.2095
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Texas",
+        "Median Listing Price": 264545,
+        "Median Listing Price M/M": 0.014,
+        "New Listing Count M/M": 0.1244,
+        "Price Increase Count M/M": 0.166,
+        "Days on Market M/M": -0.1084
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Texas",
+        "Median Listing Price": 260891,
+        "Median Listing Price M/M": -0.0129,
+        "New Listing Count M/M": 0.3713,
+        "Price Increase Count M/M": 0.0078,
+        "Days on Market M/M": 0.0506
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Texas",
+        "Median Listing Price": 264300,
+        "Median Listing Price M/M": -0.0028,
+        "New Listing Count M/M": -0.2001,
+        "Price Increase Count M/M": -0.0802,
+        "Days on Market M/M": 0.0897
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Texas",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": -0.013,
+        "New Listing Count M/M": -0.0975,
+        "Price Increase Count M/M": 0.0653,
+        "Days on Market M/M": 0.0507
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Texas",
+        "Median Listing Price": 268550,
+        "Median Listing Price M/M": -0.0028,
+        "New Listing Count M/M": -0.0354,
+        "Price Increase Count M/M": -0.0851,
+        "Days on Market M/M": 0.0534
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Texas",
+        "Median Listing Price": 269300,
+        "Median Listing Price M/M": -0.0024,
+        "New Listing Count M/M": -0.0503,
+        "Price Increase Count M/M": 0.1422,
+        "Days on Market M/M": 0.0826
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Texas",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": -0.0182,
+        "New Listing Count M/M": -0.116,
+        "Price Increase Count M/M": 0.1203,
+        "Days on Market M/M": 0.0083
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Texas",
+        "Median Listing Price": 274950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0085,
+        "Price Increase Count M/M": -0.225,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Texas",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": 0.0361,
+        "Price Increase Count M/M": -0.0323,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Texas",
+        "Median Listing Price": 274950,
+        "Median Listing Price M/M": 0.0185,
+        "New Listing Count M/M": 0.0077,
+        "Price Increase Count M/M": -0.1154,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Texas",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0236,
+        "New Listing Count M/M": 0.1106,
+        "Price Increase Count M/M": 0.2094,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Texas",
+        "Median Listing Price": 263735,
+        "Median Listing Price M/M": 0.0443,
+        "New Listing Count M/M": 0.0065,
+        "Price Increase Count M/M": -0.1128,
+        "Days on Market M/M": -0.1892
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Texas",
+        "Median Listing Price": 252550,
+        "Median Listing Price M/M": 0.0151,
+        "New Listing Count M/M": 0.0803,
+        "Price Increase Count M/M": 0.1413,
+        "Days on Market M/M": -0.1294
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Texas",
+        "Median Listing Price": 248800,
+        "Median Listing Price M/M": -0.0009,
+        "New Listing Count M/M": 0.4139,
+        "Price Increase Count M/M": 0.2239,
+        "Days on Market M/M": 0.0692
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Texas",
+        "Median Listing Price": 249035,
+        "Median Listing Price M/M": -0.0014,
+        "New Listing Count M/M": -0.1919,
+        "Price Increase Count M/M": -0.0572,
+        "Days on Market M/M": 0.1042
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Texas",
+        "Median Listing Price": 249393,
+        "Median Listing Price M/M": 0.0034,
+        "New Listing Count M/M": -0.1075,
+        "Price Increase Count M/M": -0.0748,
+        "Days on Market M/M": 0.0746
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Texas",
+        "Median Listing Price": 248550,
+        "Median Listing Price M/M": 0.0065,
+        "New Listing Count M/M": -0.0311,
+        "Price Increase Count M/M": 0.0775,
+        "Days on Market M/M": 0.0635
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Texas",
+        "Median Listing Price": 246950,
+        "Median Listing Price M/M": 0.0057,
+        "New Listing Count M/M": -0.1391,
+        "Price Increase Count M/M": -0.0823,
+        "Days on Market M/M": 0.0678
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Texas",
+        "Median Listing Price": 245550,
+        "Median Listing Price M/M": -0.0111,
+        "New Listing Count M/M": -0.2003,
+        "Price Increase Count M/M": -0.1038,
+        "Days on Market M/M": 0.0172
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Texas",
+        "Median Listing Price": 248300,
+        "Median Listing Price M/M": -0.003,
+        "New Listing Count M/M": 0.1546,
+        "Price Increase Count M/M": 0.0519,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Texas",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0163,
+        "New Listing Count M/M": -0.0187,
+        "Price Increase Count M/M": -0.0059,
+        "Days on Market M/M": -0.0169
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Texas",
+        "Median Listing Price": 245050,
+        "Median Listing Price M/M": 0.021,
+        "New Listing Count M/M": 0.0738,
+        "Price Increase Count M/M": -0.0485,
+        "Days on Market M/M": -0.0407
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Texas",
+        "Median Listing Price": 240000,
+        "Median Listing Price M/M": 0.0215,
+        "New Listing Count M/M": 0.1275,
+        "Price Increase Count M/M": -0.0417,
+        "Days on Market M/M": -0.0538
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Texas",
+        "Median Listing Price": 234950,
+        "Median Listing Price M/M": 0.0428,
+        "New Listing Count M/M": 0.0233,
+        "Price Increase Count M/M": -0.0089,
+        "Days on Market M/M": -0.1875
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Texas",
+        "Median Listing Price": 225300,
+        "Median Listing Price M/M": 0.0241,
+        "New Listing Count M/M": 0.1081,
+        "Price Increase Count M/M": 0.0675,
+        "Days on Market M/M": -0.0857
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Texas",
+        "Median Listing Price": 220000,
+        "Median Listing Price M/M": 0.0043,
+        "New Listing Count M/M": 0.332,
+        "Price Increase Count M/M": 0.3649,
+        "Days on Market M/M": 0.0671
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Texas",
+        "Median Listing Price": 219050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2153,
+        "Price Increase Count M/M": -0.1805,
+        "Days on Market M/M": 0.0789
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Texas",
+        "Median Listing Price": 219050,
+        "Median Listing Price M/M": 0.0151,
+        "New Listing Count M/M": -0.0671,
+        "Price Increase Count M/M": 0.0411,
+        "Days on Market M/M": 0.034
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Texas",
+        "Median Listing Price": 215800,
+        "Median Listing Price M/M": 0.0035,
+        "New Listing Count M/M": -0.0778,
+        "Price Increase Count M/M": -0.0327,
+        "Days on Market M/M": 0.0809
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Texas",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0953,
+        "Price Increase Count M/M": -0.0688,
+        "Days on Market M/M": 0.0968
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Texas",
+        "Median Listing Price": 215040,
+        "Median Listing Price M/M": 0.0046,
+        "New Listing Count M/M": -0.2189,
+        "Price Increase Count M/M": -0.1127,
+        "Days on Market M/M": 0.0164
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Texas",
+        "Median Listing Price": 214059,
+        "Median Listing Price M/M": -0.0046,
+        "New Listing Count M/M": 0.137,
+        "Price Increase Count M/M": -0.0173,
+        "Days on Market M/M": 0.0339
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Texas",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0364,
+        "New Listing Count M/M": -0.0283,
+        "Price Increase Count M/M": -0.0318,
+        "Days on Market M/M": -0.0484
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Texas",
+        "Median Listing Price": 207500,
+        "Median Listing Price M/M": 0.0375,
+        "New Listing Count M/M": 0.0348,
+        "Price Increase Count M/M": 0.16,
+        "Days on Market M/M": -0.0606
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Texas",
+        "Median Listing Price": 199995,
+        "Median Listing Price M/M": 0.0201,
+        "New Listing Count M/M": 0.1245,
+        "Price Increase Count M/M": -0.0215,
+        "Days on Market M/M": -0.0294
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Texas",
+        "Median Listing Price": 196050,
+        "Median Listing Price M/M": 0.0262,
+        "New Listing Count M/M": 0.117,
+        "Price Increase Count M/M": -0.1054,
+        "Days on Market M/M": -0.2316
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Texas",
+        "Median Listing Price": 191050,
+        "Median Listing Price M/M": 0.0096,
+        "New Listing Count M/M": 0.0592,
+        "Price Increase Count M/M": 0.1729,
+        "Days on Market M/M": -0.0635
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Texas",
+        "Median Listing Price": 189229,
+        "Median Listing Price M/M": -0.0038,
+        "New Listing Count M/M": 0.4213,
+        "Price Increase Count M/M": 0.4297,
+        "Days on Market M/M": 0.0739
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Texas",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2345,
+        "Price Increase Count M/M": -0.2207,
+        "Days on Market M/M": 0.1069
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Texas",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1023,
+        "Price Increase Count M/M": -0.1803,
+        "Days on Market M/M": 0.0671
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Texas",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0363,
+        "Price Increase Count M/M": 0.1009,
+        "Days on Market M/M": 0.0797
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Texas",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.1098,
+        "Price Increase Count M/M": -0.0053,
+        "Days on Market M/M": 0.0615
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Texas",
+        "Median Listing Price": 190050,
+        "Median Listing Price M/M": -0.0102,
+        "New Listing Count M/M": -0.0674,
+        "Price Increase Count M/M": -0.1143,
+        "Days on Market M/M": -0.0152
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Texas",
+        "Median Listing Price": 192000,
+        "Median Listing Price M/M": 0.0108,
+        "New Listing Count M/M": -0.0322,
+        "Price Increase Count M/M": -0.0059,
+        "Days on Market M/M": 0.0154
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Texas",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0227,
+        "Price Increase Count M/M": -0.0469,
+        "Days on Market M/M": 0.0156
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Texas",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0078,
+        "New Listing Count M/M": -0.0219,
+        "Price Increase Count M/M": -0.0544,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Texas",
+        "Median Listing Price": 188487,
+        "Median Listing Price M/M": 0.0226,
+        "New Listing Count M/M": 0.0635,
+        "Price Increase Count M/M": -0.013,
+        "Days on Market M/M": -0.0448
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Texas",
+        "Median Listing Price": 184317,
+        "Median Listing Price M/M": 0.0425,
+        "New Listing Count M/M": 0.0873,
+        "Price Increase Count M/M": -0.102,
+        "Days on Market M/M": -0.2514
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Texas",
+        "Median Listing Price": 176800,
+        "Median Listing Price M/M": 0.0106,
+        "New Listing Count M/M": 0.0749,
+        "Price Increase Count M/M": 0.4122,
+        "Days on Market M/M": -0.0725
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Texas",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": 0.3324,
+        "Price Increase Count M/M": 0.4071,
+        "Days on Market M/M": 0.0266
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Texas",
+        "Median Listing Price": 175050,
+        "Median Listing Price M/M": -0.004,
+        "New Listing Count M/M": -0.1644,
+        "Price Increase Count M/M": -0.0119,
+        "Days on Market M/M": 0.0562
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Texas",
+        "Median Listing Price": 175749,
+        "Median Listing Price M/M": -0.0113,
+        "New Listing Count M/M": -0.0353,
+        "Price Increase Count M/M": -0.0708,
+        "Days on Market M/M": 0.0289
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Texas",
+        "Median Listing Price": 177750,
+        "Median Listing Price M/M": -0.0073,
+        "New Listing Count M/M": -0.0736,
+        "Price Increase Count M/M": -0.0518,
+        "Days on Market M/M": 0.0549
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Texas",
+        "Median Listing Price": 179050,
+        "Median Listing Price M/M": -0.005,
+        "New Listing Count M/M": -0.0758,
+        "Price Increase Count M/M": 0.0041,
+        "Days on Market M/M": 0.0446
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Texas",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0851,
+        "Price Increase Count M/M": -0.0502,
+        "Days on Market M/M": 0.0467
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Texas",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.0324,
+        "Price Increase Count M/M": 0.0327,
+        "Days on Market M/M": 0.0135
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Texas",
+        "Median Listing Price": 180050,
+        "Median Listing Price M/M": 0.0006,
+        "New Listing Count M/M": -0.0038,
+        "Price Increase Count M/M": -0.0301,
+        "Days on Market M/M": 0.0207
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Texas",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0076,
+        "New Listing Count M/M": 0.0061,
+        "Price Increase Count M/M": 0.092,
+        "Days on Market M/M": -0.0068
+    }
+]

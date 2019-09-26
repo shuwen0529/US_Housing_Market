@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Alaska",
+        "Median Listing Price": 295700,
+        "Median Listing Price M/M": 0.02,
+        "New Listing Count M/M": 0.1417,
+        "Price Increase Count M/M": 0.0455,
+        "Days on Market M/M": -0.1899
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Alaska",
+        "Median Listing Price": 289900,
+        "Median Listing Price M/M": 0.0172,
+        "New Listing Count M/M": 0.2435,
+        "Price Increase Count M/M": 0.375,
+        "Days on Market M/M": -0.3009
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Alaska",
+        "Median Listing Price": 285000,
+        "Median Listing Price M/M": 0.0179,
+        "New Listing Count M/M": 0.3265,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": -0.0583
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Alaska",
+        "Median Listing Price": 280000,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": 0.5,
+        "Price Increase Count M/M": 0.8,
+        "Days on Market M/M": 0.0526
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Alaska",
+        "Median Listing Price": 279900,
+        "Median Listing Price M/M": -0.011,
+        "New Listing Count M/M": -0.2538,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.1287
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Alaska",
+        "Median Listing Price": 283000,
+        "Median Listing Price M/M": 0.0143,
+        "New Listing Count M/M": -0.2992,
+        "Price Increase Count M/M": -0.2857,
+        "Days on Market M/M": 0.1477
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Alaska",
+        "Median Listing Price": 279000,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.0237,
+        "Price Increase Count M/M": -0.5,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Alaska",
+        "Median Listing Price": 280000,
+        "Median Listing Price M/M": -0.0158,
+        "New Listing Count M/M": -0.2963,
+        "Price Increase Count M/M": 0.12,
+        "Days on Market M/M": 0.1429
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Alaska",
+        "Median Listing Price": 284500,
+        "Median Listing Price M/M": -0.0018,
+        "New Listing Count M/M": -0.0722,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": 0.0938
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Alaska",
+        "Median Listing Price": 285000,
+        "Median Listing Price M/M": -0.0149,
+        "New Listing Count M/M": -0.0791,
+        "Price Increase Count M/M": -0.0909,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Alaska",
+        "Median Listing Price": 289300,
+        "Median Listing Price M/M": -0.0024,
+        "New Listing Count M/M": -0.0063,
+        "Price Increase Count M/M": -0.0435,
+        "Days on Market M/M": -0.0164
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Alaska",
+        "Median Listing Price": 290000,
+        "Median Listing Price M/M": 0.0175,
+        "New Listing Count M/M": 0.2771,
+        "Price Increase Count M/M": 0.15,
+        "Days on Market M/M": -0.0896
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Alaska",
+        "Median Listing Price": 285000,
+        "Median Listing Price M/M": 0.0304,
+        "New Listing Count M/M": -0.0197,
+        "Price Increase Count M/M": -0.1304,
+        "Days on Market M/M": -0.1299
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Alaska",
+        "Median Listing Price": 276600,
+        "Median Listing Price M/M": 0.0263,
+        "New Listing Count M/M": 0.3161,
+        "Price Increase Count M/M": 0.0455,
+        "Days on Market M/M": -0.2804
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Alaska",
+        "Median Listing Price": 269500,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": 0.1029,
+        "Price Increase Count M/M": 0.8333,
+        "Days on Market M/M": -0.036
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Alaska",
+        "Median Listing Price": 269700,
+        "Median Listing Price M/M": 0.0026,
+        "New Listing Count M/M": 0.5487,
+        "Price Increase Count M/M": -0.1429,
+        "Days on Market M/M": 0.0183
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Alaska",
+        "Median Listing Price": 269000,
+        "Median Listing Price M/M": -0.0037,
+        "New Listing Count M/M": -0.2339,
+        "Price Increase Count M/M": 0.0769,
+        "Days on Market M/M": 0.1848
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Alaska",
+        "Median Listing Price": 270000,
+        "Median Listing Price M/M": -0.0178,
+        "New Listing Count M/M": -0.1619,
+        "Price Increase Count M/M": -0.1875,
+        "Days on Market M/M": 0.122
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Alaska",
+        "Median Listing Price": 274950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.209,
+        "Price Increase Count M/M": 0.1429,
+        "Days on Market M/M": 0.1233
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Alaska",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": -0.0159,
+        "New Listing Count M/M": -0.238,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": 0.1061
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Alaska",
+        "Median Listing Price": 279500,
+        "Median Listing Price M/M": -0.0016,
+        "New Listing Count M/M": 0.0104,
+        "Price Increase Count M/M": -0.5,
+        "Days on Market M/M": 0.1186
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Alaska",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": -0.0048,
+        "New Listing Count M/M": -0.0796,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.0926
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Alaska",
+        "Median Listing Price": 281300,
+        "Median Listing Price M/M": 0.0011,
+        "New Listing Count M/M": 0.0572,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": -0.027
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Alaska",
+        "Median Listing Price": 281000,
+        "Median Listing Price M/M": 0.007,
+        "New Listing Count M/M": 0.1379,
+        "Price Increase Count M/M": -0.1,
+        "Days on Market M/M": -0.075
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Alaska",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": 0.0145,
+        "New Listing Count M/M": 0.2458,
+        "Price Increase Count M/M": 0.8182,
+        "Days on Market M/M": -0.2683
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Alaska",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0125,
+        "New Listing Count M/M": 0.2972,
+        "Price Increase Count M/M": -0.1538,
+        "Days on Market M/M": -0.239
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Alaska",
+        "Median Listing Price": 271662,
+        "Median Listing Price M/M": 0.0099,
+        "New Listing Count M/M": 0.1138,
+        "Price Increase Count M/M": 0.3,
+        "Days on Market M/M": -0.0379
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Alaska",
+        "Median Listing Price": 269000,
+        "Median Listing Price M/M": -0.0255,
+        "New Listing Count M/M": 0.4356,
+        "Price Increase Count M/M": -0.0909,
+        "Days on Market M/M": 0.0228
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Alaska",
+        "Median Listing Price": 276052,
+        "Median Listing Price M/M": -0.0137,
+        "New Listing Count M/M": -0.2406,
+        "Price Increase Count M/M": -0.0833,
+        "Days on Market M/M": 0.1347
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Alaska",
+        "Median Listing Price": 279875,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.1419,
+        "Price Increase Count M/M": -0.4,
+        "Days on Market M/M": 0.1092
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Alaska",
+        "Median Listing Price": 280050,
+        "Median Listing Price M/M": -0.0175,
+        "New Listing Count M/M": -0.1667,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": 0.0675
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Alaska",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": -0.0083,
+        "New Listing Count M/M": -0.1788,
+        "Price Increase Count M/M": -0.4,
+        "Days on Market M/M": 0.0654
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Alaska",
+        "Median Listing Price": 287450,
+        "Median Listing Price M/M": -0.0082,
+        "New Listing Count M/M": -0.1255,
+        "Price Increase Count M/M": -0.0385,
+        "Days on Market M/M": 0.1087
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Alaska",
+        "Median Listing Price": 289827,
+        "Median Listing Price M/M": -0.0008,
+        "New Listing Count M/M": -0.075,
+        "Price Increase Count M/M": 0.1304,
+        "Days on Market M/M": 0.1174
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Alaska",
+        "Median Listing Price": 290050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0378,
+        "Price Increase Count M/M": -0.0417,
+        "Days on Market M/M": 0.0466
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Alaska",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0658,
+        "Price Increase Count M/M": 0.2,
+        "Days on Market M/M": 0.0351
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Alaska",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": 0.0129,
+        "New Listing Count M/M": 0.1777,
+        "Price Increase Count M/M": -0.2857,
+        "Days on Market M/M": -0.1618
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Alaska",
+        "Median Listing Price": 286250,
+        "Median Listing Price M/M": 0.0245,
+        "New Listing Count M/M": 0.2656,
+        "Price Increase Count M/M": 0.5556,
+        "Days on Market M/M": -0.32
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Alaska",
+        "Median Listing Price": 279400,
+        "Median Listing Price M/M": 0.0158,
+        "New Listing Count M/M": 0.2222,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": -0.0991
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Alaska",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0206,
+        "New Listing Count M/M": 0.4934,
+        "Price Increase Count M/M": 1.0,
+        "Days on Market M/M": 0.0326
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Alaska",
+        "Median Listing Price": 269500,
+        "Median Listing Price M/M": -0.0202,
+        "New Listing Count M/M": -0.1642,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.1198
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Alaska",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2238,
+        "Price Increase Count M/M": -0.6842,
+        "Days on Market M/M": 0.1163
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Alaska",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0009,
+        "New Listing Count M/M": -0.1131,
+        "Price Increase Count M/M": 0.0556,
+        "Days on Market M/M": 0.1097
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Alaska",
+        "Median Listing Price": 274800,
+        "Median Listing Price M/M": 0.018,
+        "New Listing Count M/M": -0.2918,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": 0.1397
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Alaska",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0033,
+        "New Listing Count M/M": -0.1843,
+        "Price Increase Count M/M": -0.1724,
+        "Days on Market M/M": 0.0968
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Alaska",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": 0.0075,
+        "New Listing Count M/M": 0.0058,
+        "Price Increase Count M/M": 0.1154,
+        "Days on Market M/M": 0.0081
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Alaska",
+        "Median Listing Price": 267050,
+        "Median Listing Price M/M": -0.0074,
+        "New Listing Count M/M": 0.1571,
+        "Price Increase Count M/M": 0.0833,
+        "Days on Market M/M": -0.0081
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Alaska",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": 0.002,
+        "New Listing Count M/M": 0.0225,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": -0.0388
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Alaska",
+        "Median Listing Price": 268525,
+        "Median Listing Price M/M": 0.0326,
+        "New Listing Count M/M": 0.1721,
+        "Price Increase Count M/M": 0.0385,
+        "Days on Market M/M": -0.2586
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Alaska",
+        "Median Listing Price": 260050,
+        "Median Listing Price M/M": 0.04,
+        "New Listing Count M/M": 0.2634,
+        "Price Increase Count M/M": 0.1304,
+        "Days on Market M/M": -0.2232
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Alaska",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": 0.0683,
+        "Price Increase Count M/M": 0.5333,
+        "Days on Market M/M": -0.0366
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Alaska",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.5124,
+        "Price Increase Count M/M": 0.1538,
+        "Days on Market M/M": 0.0449
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Alaska",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.2342,
+        "Price Increase Count M/M": -0.1875,
+        "Days on Market M/M": 0.1469
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Alaska",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": -0.0115,
+        "New Listing Count M/M": -0.2293,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.1086
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Alaska",
+        "Median Listing Price": 252950,
+        "Median Listing Price M/M": 0.0116,
+        "New Listing Count M/M": -0.1441,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": 0.0802
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Alaska",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1881,
+        "Price Increase Count M/M": 0.125,
+        "Days on Market M/M": 0.125
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Alaska",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": -0.0194,
+        "New Listing Count M/M": -0.056,
+        "Price Increase Count M/M": -0.04,
+        "Days on Market M/M": 0.0706
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Alaska",
+        "Median Listing Price": 255000,
+        "Median Listing Price M/M": -0.0037,
+        "New Listing Count M/M": -0.0142,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": 0.0508
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Alaska",
+        "Median Listing Price": 255950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0016,
+        "Price Increase Count M/M": -0.1304,
+        "Days on Market M/M": -0.0154
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Alaska",
+        "Median Listing Price": 255950,
+        "Median Listing Price M/M": 0.02,
+        "New Listing Count M/M": 0.1082,
+        "Price Increase Count M/M": -0.1481,
+        "Days on Market M/M": -0.1333
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Alaska",
+        "Median Listing Price": 250925,
+        "Median Listing Price M/M": 0.0075,
+        "New Listing Count M/M": 0.179,
+        "Price Increase Count M/M": 0.2273,
+        "Days on Market M/M": -0.3802
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Alaska",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0163,
+        "New Listing Count M/M": 0.2558,
+        "Price Increase Count M/M": -0.1538,
+        "Days on Market M/M": -0.0528
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Alaska",
+        "Median Listing Price": 245050,
+        "Median Listing Price M/M": 0.0168,
+        "New Listing Count M/M": 0.1316,
+        "Price Increase Count M/M": -0.0714,
+        "Days on Market M/M": -0.0097
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Alaska",
+        "Median Listing Price": 241000,
+        "Median Listing Price M/M": 0.004,
+        "New Listing Count M/M": 0.5133,
+        "Price Increase Count M/M": 0.5556,
+        "Days on Market M/M": 0.0661
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Alaska",
+        "Median Listing Price": 240050,
+        "Median Listing Price M/M": -0.0263,
+        "New Listing Count M/M": -0.3152,
+        "Price Increase Count M/M": -0.3793,
+        "Days on Market M/M": 0.1579
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Alaska",
+        "Median Listing Price": 246525,
+        "Median Listing Price M/M": -0.0051,
+        "New Listing Count M/M": -0.1473,
+        "Price Increase Count M/M": 0.0741,
+        "Days on Market M/M": 0.1058
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Alaska",
+        "Median Listing Price": 247800,
+        "Median Listing Price M/M": -0.005,
+        "New Listing Count M/M": -0.2102,
+        "Price Increase Count M/M": 0.35,
+        "Days on Market M/M": 0.0862
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Alaska",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1463,
+        "Price Increase Count M/M": -0.1304,
+        "Days on Market M/M": 0.2083
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Alaska",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0157,
+        "New Listing Count M/M": -0.1355,
+        "Price Increase Count M/M": -0.2813,
+        "Days on Market M/M": 0.0827
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Alaska",
+        "Median Listing Price": 245200,
+        "Median Listing Price M/M": -0.0095,
+        "New Listing Count M/M": -0.0854,
+        "Price Increase Count M/M": 0.2308,
+        "Days on Market M/M": 0.0902
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Alaska",
+        "Median Listing Price": 247550,
+        "Median Listing Price M/M": -0.007,
+        "New Listing Count M/M": -0.0014,
+        "Price Increase Count M/M": -0.037,
+        "Days on Market M/M": -0.0081
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Alaska",
+        "Median Listing Price": 249300,
+        "Median Listing Price M/M": 0.028,
+        "New Listing Count M/M": 0.2364,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": -0.1087
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Alaska",
+        "Median Listing Price": 242500,
+        "Median Listing Price M/M": 0.0273,
+        "New Listing Count M/M": 0.073,
+        "Price Increase Count M/M": 0.125,
+        "Days on Market M/M": -0.1977
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Alaska",
+        "Median Listing Price": 236050,
+        "Median Listing Price M/M": 0.0123,
+        "New Listing Count M/M": 0.3531,
+        "Price Increase Count M/M": 0.5238,
+        "Days on Market M/M": -0.2618
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Alaska",
+        "Median Listing Price": 233175,
+        "Median Listing Price M/M": 0.0048,
+        "New Listing Count M/M": 0.1126,
+        "Price Increase Count M/M": 0.1053,
+        "Days on Market M/M": -0.0624
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Alaska",
+        "Median Listing Price": 232050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.5294,
+        "Price Increase Count M/M": 0.3571,
+        "Days on Market M/M": -0.006
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Alaska",
+        "Median Listing Price": 232050,
+        "Median Listing Price M/M": -0.0293,
+        "New Listing Count M/M": -0.1019,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": 0.1468
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Alaska",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": -0.0075,
+        "New Listing Count M/M": -0.2952,
+        "Price Increase Count M/M": -0.5,
+        "Days on Market M/M": 0.1122
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Alaska",
+        "Median Listing Price": 240850,
+        "Median Listing Price M/M": -0.0167,
+        "New Listing Count M/M": -0.0918,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": 0.1264
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Alaska",
+        "Median Listing Price": 244950,
+        "Median Listing Price M/M": -0.0065,
+        "New Listing Count M/M": -0.2333,
+        "Price Increase Count M/M": -0.2174,
+        "Days on Market M/M": 0.1678
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Alaska",
+        "Median Listing Price": 246550,
+        "Median Listing Price M/M": -0.0092,
+        "New Listing Count M/M": -0.1318,
+        "Price Increase Count M/M": 0.2778,
+        "Days on Market M/M": 0.1119
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Alaska",
+        "Median Listing Price": 248850,
+        "Median Listing Price M/M": -0.0008,
+        "New Listing Count M/M": -0.092,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": 0.0806
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Alaska",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": -0.0017,
+        "New Listing Count M/M": 0.0224,
+        "Price Increase Count M/M": 0.0909,
+        "Days on Market M/M": 0.0081
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Alaska",
+        "Median Listing Price": 249475,
+        "Median Listing Price M/M": 0.0027,
+        "New Listing Count M/M": 0.0652,
+        "Price Increase Count M/M": -0.2414,
+        "Days on Market M/M": -0.1214
+    }
+]

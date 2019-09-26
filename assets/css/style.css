@@ -1,0 +1,49 @@
+body{
+    background-color: deepskyblue;
+}
+.navbar{
+    max-height: 50px; 
+}
+.navigation .navbar-brand{
+    color: #002d62; 
+    margin-left: 30px; 
+    padding: inherit; 
+    font-weight: bold; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar{
+    background-color: white; 
+    font-size: 15px; 
+}
+.navbar-brand:hover{
+    color: rgb(175, 175, 175) !important;
+    }
+.mapdiv{
+    width: 28%;
+    zoom: 1.7;
+    margin-left: 150px;
+    
+ 
+}
+.mapdiv path{
+    
+    stroke: black;
+    stroke-width: 1px;
+}
+.mapdiv :hover{
+    fill: #000000;
+}
+footer{
+    background-color:deepskyblue; 
+    color: #002d62; 
+    min-height: 55px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px; 
+    font-weight: bold;
+    text-align: center; 
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 15px
+}

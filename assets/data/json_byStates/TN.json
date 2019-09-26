@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Tennessee",
+        "Median Listing Price": 279500,
+        "Median Listing Price M/M": 0.0167,
+        "New Listing Count M/M": 0.1194,
+        "Price Increase Count M/M": 0.0027,
+        "Days on Market M/M": -0.1167
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Tennessee",
+        "Median Listing Price": 274900,
+        "Median Listing Price M/M": 0.0257,
+        "New Listing Count M/M": 0.094,
+        "Price Increase Count M/M": 0.1375,
+        "Days on Market M/M": -0.1892
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Tennessee",
+        "Median Listing Price": 268000,
+        "Median Listing Price M/M": 0.0034,
+        "New Listing Count M/M": 0.067,
+        "Price Increase Count M/M": 0.0458,
+        "Days on Market M/M": -0.075
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Tennessee",
+        "Median Listing Price": 267100,
+        "Median Listing Price M/M": 0.0083,
+        "New Listing Count M/M": 0.3618,
+        "Price Increase Count M/M": 0.3661,
+        "Days on Market M/M": 0.0959
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Tennessee",
+        "Median Listing Price": 264900,
+        "Median Listing Price M/M": -0.0023,
+        "New Listing Count M/M": -0.2673,
+        "Price Increase Count M/M": -0.2381,
+        "Days on Market M/M": 0.1231
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Tennessee",
+        "Median Listing Price": 265500,
+        "Median Listing Price M/M": -0.0108,
+        "New Listing Count M/M": -0.0959,
+        "Price Increase Count M/M": -0.0233,
+        "Days on Market M/M": 0.0656
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Tennessee",
+        "Median Listing Price": 268400,
+        "Median Listing Price M/M": -0.0022,
+        "New Listing Count M/M": -0.0793,
+        "Price Increase Count M/M": -0.1639,
+        "Days on Market M/M": 0.0517
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Tennessee",
+        "Median Listing Price": 269000,
+        "Median Listing Price M/M": 0.0094,
+        "New Listing Count M/M": -0.0536,
+        "Price Increase Count M/M": 0.0315,
+        "Days on Market M/M": 0.0545
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Tennessee",
+        "Median Listing Price": 266500,
+        "Median Listing Price M/M": -0.0126,
+        "New Listing Count M/M": -0.0125,
+        "Price Increase Count M/M": -0.0718,
+        "Days on Market M/M": 0.0377
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Tennessee",
+        "Median Listing Price": 269900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0399,
+        "Price Increase Count M/M": -0.0716,
+        "Days on Market M/M": 0.0392
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Tennessee",
+        "Median Listing Price": 269900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0316,
+        "Price Increase Count M/M": 0.1281,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Tennessee",
+        "Median Listing Price": 269900,
+        "Median Listing Price M/M": 0.0282,
+        "New Listing Count M/M": 0.0359,
+        "Price Increase Count M/M": -0.0888,
+        "Days on Market M/M": -0.0377
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Tennessee",
+        "Median Listing Price": 262500,
+        "Median Listing Price M/M": 0.0306,
+        "New Listing Count M/M": 0.1054,
+        "Price Increase Count M/M": -0.0223,
+        "Days on Market M/M": -0.1167
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Tennessee",
+        "Median Listing Price": 254700,
+        "Median Listing Price M/M": 0.0192,
+        "New Listing Count M/M": 0.1274,
+        "Price Increase Count M/M": 0.0468,
+        "Days on Market M/M": -0.2105
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Tennessee",
+        "Median Listing Price": 249900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2155,
+        "Price Increase Count M/M": 0.2748,
+        "Days on Market M/M": -0.0732
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Tennessee",
+        "Median Listing Price": 249900,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": 0.0826,
+        "Price Increase Count M/M": 0.2689,
+        "Days on Market M/M": 0.1081
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Tennessee",
+        "Median Listing Price": 249000,
+        "Median Listing Price M/M": -0.0012,
+        "New Listing Count M/M": -0.2248,
+        "Price Increase Count M/M": -0.2323,
+        "Days on Market M/M": 0.0882
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Tennessee",
+        "Median Listing Price": 249300,
+        "Median Listing Price M/M": -0.0024,
+        "New Listing Count M/M": -0.0606,
+        "Price Increase Count M/M": 0.0915,
+        "Days on Market M/M": 0.0149
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Tennessee",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0172,
+        "Price Increase Count M/M": -0.2,
+        "Days on Market M/M": 0.0229
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Tennessee",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": -0.0352,
+        "Price Increase Count M/M": 0.0693,
+        "Days on Market M/M": 0.0234
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Tennessee",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.004,
+        "New Listing Count M/M": -0.051,
+        "Price Increase Count M/M": -0.0514,
+        "Days on Market M/M": 0.0323
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Tennessee",
+        "Median Listing Price": 248050,
+        "Median Listing Price M/M": 0.0043,
+        "New Listing Count M/M": -0.0247,
+        "Price Increase Count M/M": -0.0113,
+        "Days on Market M/M": 0.042
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Tennessee",
+        "Median Listing Price": 247000,
+        "Median Listing Price M/M": 0.0133,
+        "New Listing Count M/M": -0.0079,
+        "Price Increase Count M/M": 0.0536,
+        "Days on Market M/M": 0.0085
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Tennessee",
+        "Median Listing Price": 243750,
+        "Median Listing Price M/M": 0.0197,
+        "New Listing Count M/M": 0.0364,
+        "Price Increase Count M/M": -0.1805,
+        "Days on Market M/M": -0.0328
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Tennessee",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": 0.0396,
+        "New Listing Count M/M": 0.0343,
+        "Price Increase Count M/M": 0.0963,
+        "Days on Market M/M": -0.0758
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Tennessee",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": 0.022,
+        "New Listing Count M/M": 0.1268,
+        "Price Increase Count M/M": -0.101,
+        "Days on Market M/M": -0.2281
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Tennessee",
+        "Median Listing Price": 225000,
+        "Median Listing Price M/M": 0.023,
+        "New Listing Count M/M": 0.1487,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": -0.05
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Tennessee",
+        "Median Listing Price": 219950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1652,
+        "Price Increase Count M/M": 0.2683,
+        "Days on Market M/M": 0.0651
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Tennessee",
+        "Median Listing Price": 219950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1857,
+        "Price Increase Count M/M": -0.1119,
+        "Days on Market M/M": 0.0563
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Tennessee",
+        "Median Listing Price": 219950,
+        "Median Listing Price M/M": 0.0041,
+        "New Listing Count M/M": -0.0926,
+        "Price Increase Count M/M": -0.0036,
+        "Days on Market M/M": 0.0526
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Tennessee",
+        "Median Listing Price": 219050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0803,
+        "Price Increase Count M/M": 0.0146,
+        "Days on Market M/M": 0.034
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Tennessee",
+        "Median Listing Price": 219050,
+        "Median Listing Price M/M": 0.0069,
+        "New Listing Count M/M": -0.0502,
+        "Price Increase Count M/M": -0.2514,
+        "Days on Market M/M": 0.028
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Tennessee",
+        "Median Listing Price": 217550,
+        "Median Listing Price M/M": 0.0116,
+        "New Listing Count M/M": -0.0557,
+        "Price Increase Count M/M": -0.0161,
+        "Days on Market M/M": 0.0515
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Tennessee",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0266,
+        "Price Increase Count M/M": 0.0027,
+        "Days on Market M/M": 0.0226
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Tennessee",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0118,
+        "New Listing Count M/M": -0.0209,
+        "Price Increase Count M/M": 0.0306,
+        "Days on Market M/M": 0.0076
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Tennessee",
+        "Median Listing Price": 212550,
+        "Median Listing Price M/M": 0.0443,
+        "New Listing Count M/M": -0.0188,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": -0.0365
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Tennessee",
+        "Median Listing Price": 203525,
+        "Median Listing Price M/M": 0.0189,
+        "New Listing Count M/M": 0.0724,
+        "Price Increase Count M/M": 0.0686,
+        "Days on Market M/M": -0.1438
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Tennessee",
+        "Median Listing Price": 199750,
+        "Median Listing Price M/M": 0.0307,
+        "New Listing Count M/M": 0.192,
+        "Price Increase Count M/M": 0.118,
+        "Days on Market M/M": -0.1753
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Tennessee",
+        "Median Listing Price": 193800,
+        "Median Listing Price M/M": 0.0203,
+        "New Listing Count M/M": 0.1139,
+        "Price Increase Count M/M": 0.13,
+        "Days on Market M/M": -0.03
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Tennessee",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2298,
+        "Price Increase Count M/M": 0.0989,
+        "Days on Market M/M": 0.0695
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Tennessee",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.2272,
+        "Price Increase Count M/M": 0.2523,
+        "Days on Market M/M": 0.0872
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Tennessee",
+        "Median Listing Price": 190050,
+        "Median Listing Price M/M": -0.0117,
+        "New Listing Count M/M": -0.1122,
+        "Price Increase Count M/M": -0.3894,
+        "Days on Market M/M": 0.0361
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Tennessee",
+        "Median Listing Price": 192300,
+        "Median Listing Price M/M": 0.0118,
+        "New Listing Count M/M": -0.0135,
+        "Price Increase Count M/M": 0.0562,
+        "Days on Market M/M": 0.0247
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Tennessee",
+        "Median Listing Price": 190050,
+        "Median Listing Price M/M": -0.0058,
+        "New Listing Count M/M": -0.0696,
+        "Price Increase Count M/M": -0.0398,
+        "Days on Market M/M": 0.0658
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Tennessee",
+        "Median Listing Price": 191150,
+        "Median Listing Price M/M": -0.0083,
+        "New Listing Count M/M": -0.1799,
+        "Price Increase Count M/M": -0.1134,
+        "Days on Market M/M": 0.0629
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Tennessee",
+        "Median Listing Price": 192750,
+        "Median Listing Price M/M": 0.0142,
+        "New Listing Count M/M": 0.0076,
+        "Price Increase Count M/M": 0.1058,
+        "Days on Market M/M": 0.0593
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Tennessee",
+        "Median Listing Price": 190049,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": -0.0263,
+        "Price Increase Count M/M": 0.0685,
+        "Days on Market M/M": 0.0075
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Tennessee",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.003,
+        "New Listing Count M/M": 0.0029,
+        "Price Increase Count M/M": 0.012,
+        "Days on Market M/M": -0.1519
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Tennessee",
+        "Median Listing Price": 189387,
+        "Median Listing Price M/M": 0.024,
+        "New Listing Count M/M": 0.1959,
+        "Price Increase Count M/M": 0.1067,
+        "Days on Market M/M": -0.1856
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Tennessee",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": 0.0278,
+        "New Listing Count M/M": 0.0802,
+        "Price Increase Count M/M": -0.0854,
+        "Days on Market M/M": -0.0628
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Tennessee",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0147,
+        "Price Increase Count M/M": -0.0575,
+        "Days on Market M/M": -0.0461
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Tennessee",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.4345,
+        "Price Increase Count M/M": 0.3647,
+        "Days on Market M/M": 0.0534
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Tennessee",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2245,
+        "Price Increase Count M/M": 0.0451,
+        "Days on Market M/M": 0.0729
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Tennessee",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0511,
+        "Price Increase Count M/M": 0.0167,
+        "Days on Market M/M": 0.0323
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Tennessee",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0659,
+        "Price Increase Count M/M": -0.1459,
+        "Days on Market M/M": 0.0391
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Tennessee",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.005,
+        "New Listing Count M/M": -0.0526,
+        "Price Increase Count M/M": -0.2151,
+        "Days on Market M/M": 0.0287
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Tennessee",
+        "Median Listing Price": 179050,
+        "Median Listing Price M/M": -0.0014,
+        "New Listing Count M/M": -0.0506,
+        "Price Increase Count M/M": 0.0881,
+        "Days on Market M/M": 0.061
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Tennessee",
+        "Median Listing Price": 179300,
+        "Median Listing Price M/M": 0.002,
+        "New Listing Count M/M": -0.0846,
+        "Price Increase Count M/M": -0.015,
+        "Days on Market M/M": 0.038
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Tennessee",
+        "Median Listing Price": 178950,
+        "Median Listing Price M/M": 0.0142,
+        "New Listing Count M/M": -0.0618,
+        "Price Increase Count M/M": -0.1523,
+        "Days on Market M/M": -0.0733
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Tennessee",
+        "Median Listing Price": 176450,
+        "Median Listing Price M/M": 0.017,
+        "New Listing Count M/M": 0.0213,
+        "Price Increase Count M/M": 0.1257,
+        "Days on Market M/M": -0.1763
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Tennessee",
+        "Median Listing Price": 173500,
+        "Median Listing Price M/M": 0.0209,
+        "New Listing Count M/M": 0.1104,
+        "Price Increase Count M/M": 0.1076,
+        "Days on Market M/M": -0.1229
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Tennessee",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0027,
+        "New Listing Count M/M": 0.2236,
+        "Price Increase Count M/M": 0.1326,
+        "Days on Market M/M": -0.0042
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Tennessee",
+        "Median Listing Price": 169500,
+        "Median Listing Price M/M": 0.0027,
+        "New Listing Count M/M": 0.0502,
+        "Price Increase Count M/M": 0.0898,
+        "Days on Market M/M": 0.0441
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Tennessee",
+        "Median Listing Price": 169050,
+        "Median Listing Price M/M": -0.0029,
+        "New Listing Count M/M": 0.3238,
+        "Price Increase Count M/M": 0.2308,
+        "Days on Market M/M": 0.0913
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Tennessee",
+        "Median Listing Price": 169550,
+        "Median Listing Price M/M": -0.0024,
+        "New Listing Count M/M": -0.2727,
+        "Price Increase Count M/M": -0.362,
+        "Days on Market M/M": 0.0833
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Tennessee",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0708,
+        "Price Increase Count M/M": 0.0516,
+        "Days on Market M/M": 0.0378
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Tennessee",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0397,
+        "Price Increase Count M/M": 0.0544,
+        "Days on Market M/M": 0.0278
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Tennessee",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0864,
+        "Price Increase Count M/M": -0.1788,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Tennessee",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.018,
+        "Price Increase Count M/M": 0.0719,
+        "Days on Market M/M": 0.0419
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Tennessee",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0057,
+        "Price Increase Count M/M": 0.057,
+        "Days on Market M/M": 0.0309
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Tennessee",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0675,
+        "Price Increase Count M/M": -0.0814,
+        "Days on Market M/M": 0.0125
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Tennessee",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0083,
+        "New Listing Count M/M": -0.0116,
+        "Price Increase Count M/M": -0.1313,
+        "Days on Market M/M": -0.0184
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Tennessee",
+        "Median Listing Price": 168550,
+        "Median Listing Price M/M": 0.0281,
+        "New Listing Count M/M": 0.0683,
+        "Price Increase Count M/M": 0.0532,
+        "Days on Market M/M": -0.185
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Tennessee",
+        "Median Listing Price": 163950,
+        "Median Listing Price M/M": 0.025,
+        "New Listing Count M/M": 0.1246,
+        "Price Increase Count M/M": 0.1824,
+        "Days on Market M/M": -0.115
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Tennessee",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0949,
+        "Price Increase Count M/M": -0.1067,
+        "Days on Market M/M": -0.0259
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Tennessee",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2635,
+        "Price Increase Count M/M": 0.2714,
+        "Days on Market M/M": 0.045
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Tennessee",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.1422,
+        "Price Increase Count M/M": 0.098,
+        "Days on Market M/M": 0.0423
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Tennessee",
+        "Median Listing Price": 160050,
+        "Median Listing Price M/M": -0.0276,
+        "New Listing Count M/M": -0.0501,
+        "Price Increase Count M/M": -0.0625,
+        "Days on Market M/M": 0.034
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Tennessee",
+        "Median Listing Price": 164600,
+        "Median Listing Price M/M": -0.0021,
+        "New Listing Count M/M": -0.046,
+        "Price Increase Count M/M": -0.1447,
+        "Days on Market M/M": 0.0198
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Tennessee",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0708,
+        "Price Increase Count M/M": -0.0124,
+        "Days on Market M/M": 0.0151
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Tennessee",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.0281,
+        "Price Increase Count M/M": 0.2481,
+        "Days on Market M/M": 0.0365
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Tennessee",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.04,
+        "Price Increase Count M/M": -0.1342,
+        "Days on Market M/M": 0.0608
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Tennessee",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0062,
+        "Price Increase Count M/M": 0.1203,
+        "Days on Market M/M": 0.0284
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Tennessee",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0006,
+        "New Listing Count M/M": -0.0991,
+        "Price Increase Count M/M": -0.05,
+        "Days on Market M/M": 0.0
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Illinois",
+        "Median Listing Price": 258500,
+        "Median Listing Price M/M": 0.0428,
+        "New Listing Count M/M": 0.187,
+        "Price Increase Count M/M": -0.0513,
+        "Days on Market M/M": -0.1296
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Illinois",
+        "Median Listing Price": 247900,
+        "Median Listing Price M/M": 0.046,
+        "New Listing Count M/M": 0.2183,
+        "Price Increase Count M/M": 0.0086,
+        "Days on Market M/M": -0.28
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Illinois",
+        "Median Listing Price": 237000,
+        "Median Listing Price M/M": 0.0533,
+        "New Listing Count M/M": 0.1529,
+        "Price Increase Count M/M": 0.1429,
+        "Days on Market M/M": -0.1071
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Illinois",
+        "Median Listing Price": 225000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.575,
+        "Price Increase Count M/M": 0.4926,
+        "Days on Market M/M": 0.1053
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Illinois",
+        "Median Listing Price": 225000,
+        "Median Listing Price M/M": -0.0426,
+        "New Listing Count M/M": -0.3097,
+        "Price Increase Count M/M": -0.2486,
+        "Days on Market M/M": 0.1692
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Illinois",
+        "Median Listing Price": 235000,
+        "Median Listing Price M/M": -0.0196,
+        "New Listing Count M/M": -0.2159,
+        "Price Increase Count M/M": -0.1697,
+        "Days on Market M/M": 0.0833
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Illinois",
+        "Median Listing Price": 239700,
+        "Median Listing Price M/M": -0.0013,
+        "New Listing Count M/M": -0.1159,
+        "Price Increase Count M/M": 0.0283,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Illinois",
+        "Median Listing Price": 240000,
+        "Median Listing Price M/M": -0.02,
+        "New Listing Count M/M": -0.027,
+        "Price Increase Count M/M": -0.113,
+        "Days on Market M/M": 0.0741
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Illinois",
+        "Median Listing Price": 244900,
+        "Median Listing Price M/M": -0.0165,
+        "New Listing Count M/M": -0.0764,
+        "Price Increase Count M/M": -0.234,
+        "Days on Market M/M": 0.0385
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Illinois",
+        "Median Listing Price": 249000,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.0452,
+        "Price Increase Count M/M": -0.085,
+        "Days on Market M/M": 0.0833
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Illinois",
+        "Median Listing Price": 249900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0388,
+        "Price Increase Count M/M": 0.1107,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Illinois",
+        "Median Listing Price": 249900,
+        "Median Listing Price M/M": 0.02,
+        "New Listing Count M/M": 0.0762,
+        "Price Increase Count M/M": -0.1229,
+        "Days on Market M/M": -0.04
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Illinois",
+        "Median Listing Price": 245000,
+        "Median Listing Price M/M": 0.0538,
+        "New Listing Count M/M": 0.0328,
+        "Price Increase Count M/M": 0.5217,
+        "Days on Market M/M": -0.0566
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Illinois",
+        "Median Listing Price": 232500,
+        "Median Listing Price M/M": 0.0292,
+        "New Listing Count M/M": 0.2917,
+        "Price Increase Count M/M": -0.08,
+        "Days on Market M/M": -0.2838
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Illinois",
+        "Median Listing Price": 225900,
+        "Median Listing Price M/M": 0.0453,
+        "New Listing Count M/M": 0.1842,
+        "Price Increase Count M/M": 0.1261,
+        "Days on Market M/M": -0.1494
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Illinois",
+        "Median Listing Price": 216100,
+        "Median Listing Price M/M": -0.0064,
+        "New Listing Count M/M": 0.5898,
+        "Price Increase Count M/M": 0.3875,
+        "Days on Market M/M": 0.1013
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Illinois",
+        "Median Listing Price": 217500,
+        "Median Listing Price M/M": -0.0333,
+        "New Listing Count M/M": -0.342,
+        "Price Increase Count M/M": -0.2079,
+        "Days on Market M/M": 0.1618
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Illinois",
+        "Median Listing Price": 225000,
+        "Median Listing Price M/M": -0.0175,
+        "New Listing Count M/M": -0.1683,
+        "Price Increase Count M/M": -0.0472,
+        "Days on Market M/M": 0.0794
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Illinois",
+        "Median Listing Price": 229050,
+        "Median Listing Price M/M": -0.0039,
+        "New Listing Count M/M": -0.1383,
+        "Price Increase Count M/M": -0.0578,
+        "Days on Market M/M": 0.0413
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Illinois",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.0493,
+        "Price Increase Count M/M": 0.0181,
+        "Days on Market M/M": 0.0431
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Illinois",
+        "Median Listing Price": 230000,
+        "Median Listing Price M/M": -0.0334,
+        "New Listing Count M/M": -0.0608,
+        "Price Increase Count M/M": -0.1875,
+        "Days on Market M/M": 0.0545
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Illinois",
+        "Median Listing Price": 237950,
+        "Median Listing Price M/M": -0.0083,
+        "New Listing Count M/M": -0.0471,
+        "Price Increase Count M/M": -0.0389,
+        "Days on Market M/M": 0.0185
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Illinois",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0038,
+        "New Listing Count M/M": -0.0174,
+        "Price Increase Count M/M": -0.1184,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Illinois",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": 0.0391,
+        "New Listing Count M/M": 0.0353,
+        "Price Increase Count M/M": -0.0389,
+        "Days on Market M/M": 0.0189
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Illinois",
+        "Median Listing Price": 230050,
+        "Median Listing Price M/M": 0.0132,
+        "New Listing Count M/M": 0.0208,
+        "Price Increase Count M/M": -0.006,
+        "Days on Market M/M": -0.0275
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Illinois",
+        "Median Listing Price": 227050,
+        "Median Listing Price M/M": 0.0685,
+        "New Listing Count M/M": 0.149,
+        "Price Increase Count M/M": 0.12,
+        "Days on Market M/M": -0.323
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Illinois",
+        "Median Listing Price": 212500,
+        "Median Listing Price M/M": 0.0628,
+        "New Listing Count M/M": 0.2722,
+        "Price Increase Count M/M": 0.049,
+        "Days on Market M/M": -0.1344
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Illinois",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": 0.5583,
+        "Price Increase Count M/M": 0.3816,
+        "Days on Market M/M": 0.0941
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Illinois",
+        "Median Listing Price": 200000,
+        "Median Listing Price M/M": -0.0476,
+        "New Listing Count M/M": -0.284,
+        "Price Increase Count M/M": -0.0921,
+        "Days on Market M/M": 0.1333
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Illinois",
+        "Median Listing Price": 210000,
+        "Median Listing Price M/M": -0.0235,
+        "New Listing Count M/M": -0.172,
+        "Price Increase Count M/M": -0.05,
+        "Days on Market M/M": 0.0417
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Illinois",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": -0.0046,
+        "New Listing Count M/M": -0.1028,
+        "Price Increase Count M/M": -0.2053,
+        "Days on Market M/M": 0.0511
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Illinois",
+        "Median Listing Price": 216050,
+        "Median Listing Price M/M": -0.0148,
+        "New Listing Count M/M": -0.023,
+        "Price Increase Count M/M": 0.0671,
+        "Days on Market M/M": 0.0379
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Illinois",
+        "Median Listing Price": 219300,
+        "Median Listing Price M/M": -0.0034,
+        "New Listing Count M/M": -0.0767,
+        "Price Increase Count M/M": 0.0481,
+        "Days on Market M/M": 0.082
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Illinois",
+        "Median Listing Price": 220050,
+        "Median Listing Price M/M": -0.0218,
+        "New Listing Count M/M": -0.1149,
+        "Price Increase Count M/M": -0.1456,
+        "Days on Market M/M": 0.0427
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Illinois",
+        "Median Listing Price": 224950,
+        "Median Listing Price M/M": 0.004,
+        "New Listing Count M/M": 0.0326,
+        "Price Increase Count M/M": -0.076,
+        "Days on Market M/M": 0.0086
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Illinois",
+        "Median Listing Price": 224050,
+        "Median Listing Price M/M": 0.0334,
+        "New Listing Count M/M": -0.0448,
+        "Price Increase Count M/M": -0.0144,
+        "Days on Market M/M": -0.0085
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Illinois",
+        "Median Listing Price": 216800,
+        "Median Listing Price M/M": 0.0473,
+        "New Listing Count M/M": 0.047,
+        "Price Increase Count M/M": 0.0515,
+        "Days on Market M/M": -0.064
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Illinois",
+        "Median Listing Price": 207000,
+        "Median Listing Price M/M": 0.0753,
+        "New Listing Count M/M": 0.2148,
+        "Price Increase Count M/M": 0.0963,
+        "Days on Market M/M": -0.2978
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Illinois",
+        "Median Listing Price": 192500,
+        "Median Listing Price M/M": 0.0408,
+        "New Listing Count M/M": 0.2216,
+        "Price Increase Count M/M": 0.2336,
+        "Days on Market M/M": -0.0729
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Illinois",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": -0.0056,
+        "New Listing Count M/M": 0.5313,
+        "Price Increase Count M/M": 0.0383,
+        "Days on Market M/M": 0.0847
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Illinois",
+        "Median Listing Price": 185999,
+        "Median Listing Price M/M": -0.0415,
+        "New Listing Count M/M": -0.2997,
+        "Price Increase Count M/M": -0.2468,
+        "Days on Market M/M": 0.1203
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Illinois",
+        "Median Listing Price": 194050,
+        "Median Listing Price M/M": -0.0251,
+        "New Listing Count M/M": -0.2026,
+        "Price Increase Count M/M": 0.0331,
+        "Days on Market M/M": 0.0604
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Illinois",
+        "Median Listing Price": 199050,
+        "Median Listing Price M/M": -0.0035,
+        "New Listing Count M/M": -0.0558,
+        "Price Increase Count M/M": -0.0765,
+        "Days on Market M/M": 0.0276
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Illinois",
+        "Median Listing Price": 199750,
+        "Median Listing Price M/M": -0.001,
+        "New Listing Count M/M": -0.0827,
+        "Price Increase Count M/M": -0.003,
+        "Days on Market M/M": 0.0507
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Illinois",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1266,
+        "Price Increase Count M/M": 0.1673,
+        "Days on Market M/M": 0.0781
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Illinois",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0096,
+        "Price Increase Count M/M": -0.0757,
+        "Days on Market M/M": 0.0756
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Illinois",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.005,
+        "New Listing Count M/M": -0.0302,
+        "Price Increase Count M/M": -0.0675,
+        "Days on Market M/M": 0.0259
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Illinois",
+        "Median Listing Price": 198950,
+        "Median Listing Price M/M": 0.0474,
+        "New Listing Count M/M": 0.0214,
+        "Price Increase Count M/M": -0.0712,
+        "Days on Market M/M": -0.0492
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Illinois",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.055,
+        "New Listing Count M/M": 0.1363,
+        "Price Increase Count M/M": 0.1178,
+        "Days on Market M/M": -0.1528
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Illinois",
+        "Median Listing Price": 180050,
+        "Median Listing Price M/M": 0.0468,
+        "New Listing Count M/M": 0.2371,
+        "Price Increase Count M/M": 0.0753,
+        "Days on Market M/M": -0.2539
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Illinois",
+        "Median Listing Price": 172000,
+        "Median Listing Price M/M": 0.0121,
+        "New Listing Count M/M": 0.063,
+        "Price Increase Count M/M": 0.021,
+        "Days on Market M/M": -0.0398
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Illinois",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": -0.0061,
+        "New Listing Count M/M": 0.4518,
+        "Price Increase Count M/M": 0.126,
+        "Days on Market M/M": 0.0924
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Illinois",
+        "Median Listing Price": 171000,
+        "Median Listing Price M/M": -0.0444,
+        "New Listing Count M/M": -0.2376,
+        "Price Increase Count M/M": -0.1181,
+        "Days on Market M/M": 0.1084
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Illinois",
+        "Median Listing Price": 178950,
+        "Median Listing Price M/M": -0.0151,
+        "New Listing Count M/M": -0.2003,
+        "Price Increase Count M/M": -0.0432,
+        "Days on Market M/M": 0.071
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Illinois",
+        "Median Listing Price": 181700,
+        "Median Listing Price M/M": -0.0176,
+        "New Listing Count M/M": -0.1109,
+        "Price Increase Count M/M": -0.1301,
+        "Days on Market M/M": 0.0333
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Illinois",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.0677,
+        "Price Increase Count M/M": 0.0058,
+        "Days on Market M/M": 0.0417
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Illinois",
+        "Median Listing Price": 185050,
+        "Median Listing Price M/M": -0.0212,
+        "New Listing Count M/M": -0.0606,
+        "Price Increase Count M/M": -0.1464,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Illinois",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0617,
+        "Price Increase Count M/M": 0.0126,
+        "Days on Market M/M": 0.0887
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Illinois",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": 0.0416,
+        "New Listing Count M/M": -0.0282,
+        "Price Increase Count M/M": -0.0197,
+        "Days on Market M/M": -0.008
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Illinois",
+        "Median Listing Price": 181500,
+        "Median Listing Price M/M": 0.0371,
+        "New Listing Count M/M": 0.0082,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": -0.1497
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Illinois",
+        "Median Listing Price": 175000,
+        "Median Listing Price M/M": 0.0482,
+        "New Listing Count M/M": 0.2261,
+        "Price Increase Count M/M": 0.1013,
+        "Days on Market M/M": -0.2423
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Illinois",
+        "Median Listing Price": 166950,
+        "Median Listing Price M/M": 0.0664,
+        "New Listing Count M/M": 0.2462,
+        "Price Increase Count M/M": -0.0247,
+        "Days on Market M/M": -0.1182
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Illinois",
+        "Median Listing Price": 156550,
+        "Median Listing Price M/M": 0.0199,
+        "New Listing Count M/M": 0.1837,
+        "Price Increase Count M/M": 0.0485,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Illinois",
+        "Median Listing Price": 153500,
+        "Median Listing Price M/M": -0.01,
+        "New Listing Count M/M": 0.3635,
+        "Price Increase Count M/M": 0.4575,
+        "Days on Market M/M": 0.134
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Illinois",
+        "Median Listing Price": 155050,
+        "Median Listing Price M/M": -0.0306,
+        "New Listing Count M/M": -0.3422,
+        "Price Increase Count M/M": -0.3537,
+        "Days on Market M/M": 0.0838
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Illinois",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.1025,
+        "Price Increase Count M/M": -0.0575,
+        "Days on Market M/M": 0.0783
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Illinois",
+        "Median Listing Price": 160050,
+        "Median Listing Price M/M": -0.0123,
+        "New Listing Count M/M": -0.0663,
+        "Price Increase Count M/M": -0.0225,
+        "Days on Market M/M": 0.0247
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Illinois",
+        "Median Listing Price": 162050,
+        "Median Listing Price M/M": -0.0176,
+        "New Listing Count M/M": -0.1151,
+        "Price Increase Count M/M": -0.101,
+        "Days on Market M/M": 0.0658
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Illinois",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": 0.0264,
+        "Price Increase Count M/M": 0.0532,
+        "Days on Market M/M": -0.013
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Illinois",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": -0.0114,
+        "New Listing Count M/M": -0.1497,
+        "Price Increase Count M/M": -0.1048,
+        "Days on Market M/M": 0.0132
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Illinois",
+        "Median Listing Price": 166950,
+        "Median Listing Price M/M": 0.0118,
+        "New Listing Count M/M": 0.0435,
+        "Price Increase Count M/M": -0.0141,
+        "Days on Market M/M": 0.0133
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Illinois",
+        "Median Listing Price": 165000,
+        "Median Listing Price M/M": 0.0345,
+        "New Listing Count M/M": -0.0101,
+        "Price Increase Count M/M": -0.0252,
+        "Days on Market M/M": -0.0741
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Illinois",
+        "Median Listing Price": 159500,
+        "Median Listing Price M/M": 0.0294,
+        "New Listing Count M/M": 0.1194,
+        "Price Increase Count M/M": 0.0659,
+        "Days on Market M/M": -0.1474
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Illinois",
+        "Median Listing Price": 154950,
+        "Median Listing Price M/M": 0.0365,
+        "New Listing Count M/M": 0.1574,
+        "Price Increase Count M/M": 0.1517,
+        "Days on Market M/M": -0.1441
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Illinois",
+        "Median Listing Price": 149486,
+        "Median Listing Price M/M": 0.0306,
+        "New Listing Count M/M": 0.0259,
+        "Price Increase Count M/M": -0.022,
+        "Days on Market M/M": -0.0306
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Illinois",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": -0.0129,
+        "New Listing Count M/M": 0.4024,
+        "Price Increase Count M/M": 0.1592,
+        "Days on Market M/M": 0.0315
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Illinois",
+        "Median Listing Price": 146950,
+        "Median Listing Price M/M": -0.02,
+        "New Listing Count M/M": -0.1474,
+        "Price Increase Count M/M": 0.0572,
+        "Days on Market M/M": 0.0622
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Illinois",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": -0.004,
+        "New Listing Count M/M": -0.168,
+        "Price Increase Count M/M": -0.149,
+        "Days on Market M/M": 0.0347
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Illinois",
+        "Median Listing Price": 150547,
+        "Median Listing Price M/M": -0.029,
+        "New Listing Count M/M": -0.0137,
+        "Price Increase Count M/M": 0.0772,
+        "Days on Market M/M": 0.01
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Illinois",
+        "Median Listing Price": 155050,
+        "Median Listing Price M/M": -0.0251,
+        "New Listing Count M/M": -0.0297,
+        "Price Increase Count M/M": -0.0414,
+        "Days on Market M/M": 0.0363
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Illinois",
+        "Median Listing Price": 159050,
+        "Median Listing Price M/M": -0.0056,
+        "New Listing Count M/M": -0.0856,
+        "Price Increase Count M/M": 0.006,
+        "Days on Market M/M": 0.0266
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Illinois",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.0449,
+        "Price Increase Count M/M": 0.0151,
+        "Days on Market M/M": 0.0444
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Illinois",
+        "Median Listing Price": 160050,
+        "Median Listing Price M/M": -0.0181,
+        "New Listing Count M/M": -0.0165,
+        "Price Increase Count M/M": -0.0293,
+        "Days on Market M/M": 0.0112
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Illinois",
+        "Median Listing Price": 163000,
+        "Median Listing Price M/M": 0.0028,
+        "New Listing Count M/M": -0.0254,
+        "Price Increase Count M/M": 0.0965,
+        "Days on Market M/M": -0.0481
+    }
+]

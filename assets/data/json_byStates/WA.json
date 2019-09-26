@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Washington",
+        "Median Listing Price": 465000,
+        "Median Listing Price M/M": 0.0333,
+        "New Listing Count M/M": 0.2001,
+        "Price Increase Count M/M": -0.1412,
+        "Days on Market M/M": -0.2292
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Washington",
+        "Median Listing Price": 450000,
+        "Median Listing Price M/M": 0.023,
+        "New Listing Count M/M": 0.4949,
+        "Price Increase Count M/M": 0.2596,
+        "Days on Market M/M": -0.2836
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Washington",
+        "Median Listing Price": 439900,
+        "Median Listing Price M/M": 0.029,
+        "New Listing Count M/M": -0.0622,
+        "Price Increase Count M/M": 0.0833,
+        "Days on Market M/M": -0.0946
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Washington",
+        "Median Listing Price": 427500,
+        "Median Listing Price M/M": 0.0059,
+        "New Listing Count M/M": 0.4912,
+        "Price Increase Count M/M": 0.1707,
+        "Days on Market M/M": 0.0725
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Washington",
+        "Median Listing Price": 425000,
+        "Median Listing Price M/M": -0.0054,
+        "New Listing Count M/M": -0.3907,
+        "Price Increase Count M/M": 0.131,
+        "Days on Market M/M": 0.2545
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Washington",
+        "Median Listing Price": 427300,
+        "Median Listing Price M/M": -0.006,
+        "New Listing Count M/M": -0.1964,
+        "Price Increase Count M/M": -0.2677,
+        "Days on Market M/M": 0.1458
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Washington",
+        "Median Listing Price": 429900,
+        "Median Listing Price M/M": 0.0115,
+        "New Listing Count M/M": -0.169,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Washington",
+        "Median Listing Price": 425000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0656,
+        "Price Increase Count M/M": -0.1502,
+        "Days on Market M/M": 0.1538
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Washington",
+        "Median Listing Price": 425000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0155,
+        "Price Increase Count M/M": -0.1174,
+        "Days on Market M/M": 0.0263
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Washington",
+        "Median Listing Price": 425000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1054,
+        "Price Increase Count M/M": -0.0801,
+        "Days on Market M/M": 0.1875
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Washington",
+        "Median Listing Price": 425000,
+        "Median Listing Price M/M": 0.0119,
+        "New Listing Count M/M": 0.1017,
+        "Price Increase Count M/M": 0.0287,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Washington",
+        "Median Listing Price": 420000,
+        "Median Listing Price M/M": 0.0244,
+        "New Listing Count M/M": 0.0836,
+        "Price Increase Count M/M": 0.0036,
+        "Days on Market M/M": -0.1111
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Washington",
+        "Median Listing Price": 410000,
+        "Median Listing Price M/M": 0.0317,
+        "New Listing Count M/M": 0.2199,
+        "Price Increase Count M/M": -0.064,
+        "Days on Market M/M": -0.0769
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Washington",
+        "Median Listing Price": 397400,
+        "Median Listing Price M/M": 0.0357,
+        "New Listing Count M/M": 0.2658,
+        "Price Increase Count M/M": 0.3318,
+        "Days on Market M/M": -0.2642
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Washington",
+        "Median Listing Price": 383700,
+        "Median Listing Price M/M": 0.0384,
+        "New Listing Count M/M": 0.1577,
+        "Price Increase Count M/M": -0.0551,
+        "Days on Market M/M": -0.2838
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Washington",
+        "Median Listing Price": 369500,
+        "Median Listing Price M/M": 0.0123,
+        "New Listing Count M/M": 0.4181,
+        "Price Increase Count M/M": 0.2292,
+        "Days on Market M/M": 0.0571
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Washington",
+        "Median Listing Price": 365000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.3612,
+        "Price Increase Count M/M": 0.0159,
+        "Days on Market M/M": 0.1864
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Washington",
+        "Median Listing Price": 365000,
+        "Median Listing Price M/M": -0.0132,
+        "New Listing Count M/M": -0.2306,
+        "Price Increase Count M/M": -0.2786,
+        "Days on Market M/M": 0.1346
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Washington",
+        "Median Listing Price": 369950,
+        "Median Listing Price M/M": 0.0024,
+        "New Listing Count M/M": -0.1027,
+        "Price Increase Count M/M": -0.0576,
+        "Days on Market M/M": 0.1183
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Washington",
+        "Median Listing Price": 369050,
+        "Median Listing Price M/M": -0.0025,
+        "New Listing Count M/M": -0.1259,
+        "Price Increase Count M/M": -0.0544,
+        "Days on Market M/M": 0.1341
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Washington",
+        "Median Listing Price": 369975,
+        "Median Listing Price M/M": -0.0134,
+        "New Listing Count M/M": -0.0597,
+        "Price Increase Count M/M": 0.2783,
+        "Days on Market M/M": 0.0513
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Washington",
+        "Median Listing Price": 375000,
+        "Median Listing Price M/M": -0.0001,
+        "New Listing Count M/M": -0.0283,
+        "Price Increase Count M/M": -0.0574,
+        "Days on Market M/M": 0.1143
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Washington",
+        "Median Listing Price": 375050,
+        "Median Listing Price M/M": 0.0205,
+        "New Listing Count M/M": -0.0141,
+        "Price Increase Count M/M": -0.0929,
+        "Days on Market M/M": 0.0448
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Washington",
+        "Median Listing Price": 367499,
+        "Median Listing Price M/M": 0.0351,
+        "New Listing Count M/M": 0.256,
+        "Price Increase Count M/M": 0.0113,
+        "Days on Market M/M": -0.1625
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Washington",
+        "Median Listing Price": 355050,
+        "Median Listing Price M/M": 0.0144,
+        "New Listing Count M/M": 0.1858,
+        "Price Increase Count M/M": -0.0221,
+        "Days on Market M/M": -0.2079
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Washington",
+        "Median Listing Price": 350025,
+        "Median Listing Price M/M": 0.0308,
+        "New Listing Count M/M": 0.312,
+        "Price Increase Count M/M": 0.1982,
+        "Days on Market M/M": -0.3082
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Washington",
+        "Median Listing Price": 339550,
+        "Median Listing Price M/M": 0.0319,
+        "New Listing Count M/M": 0.1002,
+        "Price Increase Count M/M": 0.0318,
+        "Days on Market M/M": -0.0988
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Washington",
+        "Median Listing Price": 329050,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": 0.2907,
+        "Price Increase Count M/M": 0.5827,
+        "Days on Market M/M": 0.0728
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Washington",
+        "Median Listing Price": 329549,
+        "Median Listing Price M/M": -0.009,
+        "New Listing Count M/M": -0.1645,
+        "Price Increase Count M/M": -0.2363,
+        "Days on Market M/M": 0.1103
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Washington",
+        "Median Listing Price": 332548,
+        "Median Listing Price M/M": -0.0075,
+        "New Listing Count M/M": -0.3875,
+        "Price Increase Count M/M": -0.0109,
+        "Days on Market M/M": 0.1333
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Washington",
+        "Median Listing Price": 335050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0369,
+        "Price Increase Count M/M": -0.1442,
+        "Days on Market M/M": 0.1215
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Washington",
+        "Median Listing Price": 335050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1962,
+        "Price Increase Count M/M": -0.1331,
+        "Days on Market M/M": 0.0918
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Washington",
+        "Median Listing Price": 335050,
+        "Median Listing Price M/M": 0.0001,
+        "New Listing Count M/M": -0.0037,
+        "Price Increase Count M/M": 0.042,
+        "Days on Market M/M": 0.0652
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Washington",
+        "Median Listing Price": 335000,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": -0.0656,
+        "Price Increase Count M/M": -0.0364,
+        "Days on Market M/M": 0.0698
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Washington",
+        "Median Listing Price": 333804,
+        "Median Listing Price M/M": 0.0117,
+        "New Listing Count M/M": 0.0541,
+        "Price Increase Count M/M": -0.1364,
+        "Days on Market M/M": 0.0488
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Washington",
+        "Median Listing Price": 329950,
+        "Median Listing Price M/M": 0.0506,
+        "New Listing Count M/M": 0.0195,
+        "Price Increase Count M/M": -0.037,
+        "Days on Market M/M": -0.0787
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Washington",
+        "Median Listing Price": 314050,
+        "Median Listing Price M/M": 0.038,
+        "New Listing Count M/M": 0.1976,
+        "Price Increase Count M/M": -0.0262,
+        "Days on Market M/M": -0.1275
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Washington",
+        "Median Listing Price": 302550,
+        "Median Listing Price M/M": 0.0117,
+        "New Listing Count M/M": 0.1752,
+        "Price Increase Count M/M": 0.2603,
+        "Days on Market M/M": -0.3014
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Washington",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0136,
+        "New Listing Count M/M": 0.2589,
+        "Price Increase Count M/M": -0.1037,
+        "Days on Market M/M": -0.1889
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Washington",
+        "Median Listing Price": 295050,
+        "Median Listing Price M/M": 0.0243,
+        "New Listing Count M/M": 0.6131,
+        "Price Increase Count M/M": 0.2919,
+        "Days on Market M/M": 0.0588
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Washington",
+        "Median Listing Price": 288047,
+        "Median Listing Price M/M": -0.0368,
+        "New Listing Count M/M": -0.1918,
+        "Price Increase Count M/M": 0.0773,
+        "Days on Market M/M": 0.1333
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Washington",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": -0.0017,
+        "New Listing Count M/M": -0.4502,
+        "Price Increase Count M/M": -0.2652,
+        "Days on Market M/M": 0.1194
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Washington",
+        "Median Listing Price": 299550,
+        "Median Listing Price M/M": 0.0025,
+        "New Listing Count M/M": 0.0253,
+        "Price Increase Count M/M": 0.3005,
+        "Days on Market M/M": 0.0635
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Washington",
+        "Median Listing Price": 298800,
+        "Median Listing Price M/M": -0.0008,
+        "New Listing Count M/M": -0.1637,
+        "Price Increase Count M/M": -0.1944,
+        "Days on Market M/M": 0.0678
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Washington",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0136,
+        "New Listing Count M/M": -0.2037,
+        "Price Increase Count M/M": 0.0202,
+        "Days on Market M/M": 0.0926
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Washington",
+        "Median Listing Price": 295050,
+        "Median Listing Price M/M": 0.0174,
+        "New Listing Count M/M": -0.1427,
+        "Price Increase Count M/M": -0.1453,
+        "Days on Market M/M": 0.1368
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Washington",
+        "Median Listing Price": 289997,
+        "Median Listing Price M/M": 0.0033,
+        "New Listing Count M/M": 0.2192,
+        "Price Increase Count M/M": 0.1202,
+        "Days on Market M/M": -0.0104
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Washington",
+        "Median Listing Price": 289050,
+        "Median Listing Price M/M": 0.0234,
+        "New Listing Count M/M": 0.0362,
+        "Price Increase Count M/M": -0.1887,
+        "Days on Market M/M": -0.0769
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Washington",
+        "Median Listing Price": 282450,
+        "Median Listing Price M/M": 0.0269,
+        "New Listing Count M/M": 0.0387,
+        "Price Increase Count M/M": -0.0479,
+        "Days on Market M/M": -0.1475
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Washington",
+        "Median Listing Price": 275049,
+        "Median Listing Price M/M": 0.0195,
+        "New Listing Count M/M": 0.2432,
+        "Price Increase Count M/M": 0.1678,
+        "Days on Market M/M": -0.337
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Washington",
+        "Median Listing Price": 269775,
+        "Median Listing Price M/M": 0.0027,
+        "New Listing Count M/M": 0.1434,
+        "Price Increase Count M/M": 0.2825,
+        "Days on Market M/M": -0.08
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Washington",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": 0.4484,
+        "Price Increase Count M/M": 0.132,
+        "Days on Market M/M": 0.0256
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Washington",
+        "Median Listing Price": 269250,
+        "Median Listing Price M/M": -0.0211,
+        "New Listing Count M/M": -0.2577,
+        "Price Increase Count M/M": 0.1193,
+        "Days on Market M/M": 0.1337
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Washington",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": -0.0178,
+        "New Listing Count M/M": -0.1721,
+        "Price Increase Count M/M": -0.2787,
+        "Days on Market M/M": 0.0818
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Washington",
+        "Median Listing Price": 280025,
+        "Median Listing Price M/M": -0.0176,
+        "New Listing Count M/M": -0.1318,
+        "Price Increase Count M/M": 0.0609,
+        "Days on Market M/M": 0.0816
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Washington",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": 0.018,
+        "New Listing Count M/M": -0.1067,
+        "Price Increase Count M/M": -0.0873,
+        "Days on Market M/M": 0.0809
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Washington",
+        "Median Listing Price": 280000,
+        "Median Listing Price M/M": 0.0009,
+        "New Listing Count M/M": 0.0137,
+        "Price Increase Count M/M": 0.05,
+        "Days on Market M/M": 0.0625
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Washington",
+        "Median Listing Price": 279750,
+        "Median Listing Price M/M": 0.0136,
+        "New Listing Count M/M": -0.1122,
+        "Price Increase Count M/M": -0.1045,
+        "Days on Market M/M": 0.0847
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Washington",
+        "Median Listing Price": 276000,
+        "Median Listing Price M/M": 0.0317,
+        "New Listing Count M/M": -0.0178,
+        "Price Increase Count M/M": -0.1327,
+        "Days on Market M/M": -0.0167
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Washington",
+        "Median Listing Price": 267525,
+        "Median Listing Price M/M": 0.0288,
+        "New Listing Count M/M": 0.1338,
+        "Price Increase Count M/M": 0.3038,
+        "Days on Market M/M": -0.1241
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Washington",
+        "Median Listing Price": 260025,
+        "Median Listing Price M/M": 0.012,
+        "New Listing Count M/M": 0.2045,
+        "Price Increase Count M/M": -0.2152,
+        "Days on Market M/M": -0.1941
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Washington",
+        "Median Listing Price": 256950,
+        "Median Listing Price M/M": 0.0279,
+        "New Listing Count M/M": 0.1145,
+        "Price Increase Count M/M": 0.2327,
+        "Days on Market M/M": -0.1626
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Washington",
+        "Median Listing Price": 249975,
+        "Median Listing Price M/M": 0.0001,
+        "New Listing Count M/M": 0.0886,
+        "Price Increase Count M/M": 0.0793,
+        "Days on Market M/M": -0.0146
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Washington",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": 0.3955,
+        "Price Increase Count M/M": 0.2898,
+        "Days on Market M/M": 0.03
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Washington",
+        "Median Listing Price": 250040,
+        "Median Listing Price M/M": -0.031,
+        "New Listing Count M/M": -0.274,
+        "Price Increase Count M/M": -0.2348,
+        "Days on Market M/M": 0.0989
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Washington",
+        "Median Listing Price": 258050,
+        "Median Listing Price M/M": -0.0113,
+        "New Listing Count M/M": -0.1395,
+        "Price Increase Count M/M": -0.1288,
+        "Days on Market M/M": 0.0964
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Washington",
+        "Median Listing Price": 261000,
+        "Median Listing Price M/M": 0.0037,
+        "New Listing Count M/M": 0.0276,
+        "Price Increase Count M/M": -0.102,
+        "Days on Market M/M": 0.0641
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Washington",
+        "Median Listing Price": 260050,
+        "Median Listing Price M/M": -0.0103,
+        "New Listing Count M/M": -0.251,
+        "Price Increase Count M/M": -0.0696,
+        "Days on Market M/M": 0.1387
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Washington",
+        "Median Listing Price": 262750,
+        "Median Listing Price M/M": 0.0068,
+        "New Listing Count M/M": 0.067,
+        "Price Increase Count M/M": 0.2441,
+        "Days on Market M/M": 0.0301
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Washington",
+        "Median Listing Price": 260980,
+        "Median Listing Price M/M": 0.004,
+        "New Listing Count M/M": -0.0756,
+        "Price Increase Count M/M": -0.2303,
+        "Days on Market M/M": 0.0726
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Washington",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": 0.0396,
+        "New Listing Count M/M": -0.0308,
+        "Price Increase Count M/M": -0.2217,
+        "Days on Market M/M": 0.0248
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Washington",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.004,
+        "New Listing Count M/M": 0.0977,
+        "Price Increase Count M/M": 0.0418,
+        "Days on Market M/M": -0.1103
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Washington",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0163,
+        "New Listing Count M/M": 0.1317,
+        "Price Increase Count M/M": -0.0073,
+        "Days on Market M/M": -0.0685
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Washington",
+        "Median Listing Price": 245050,
+        "Median Listing Price M/M": 0.0213,
+        "New Listing Count M/M": 0.218,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.2947
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Washington",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0008,
+        "New Listing Count M/M": 0.0083,
+        "Price Increase Count M/M": -0.0531,
+        "Days on Market M/M": -0.0548
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Washington",
+        "Median Listing Price": 239750,
+        "Median Listing Price M/M": -0.0012,
+        "New Listing Count M/M": 0.4111,
+        "Price Increase Count M/M": 0.6914,
+        "Days on Market M/M": -0.0045
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Washington",
+        "Median Listing Price": 240050,
+        "Median Listing Price M/M": -0.034,
+        "New Listing Count M/M": -0.1514,
+        "Price Increase Count M/M": 0.0079,
+        "Days on Market M/M": 0.0891
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Washington",
+        "Median Listing Price": 248500,
+        "Median Listing Price M/M": -0.0059,
+        "New Listing Count M/M": -0.1452,
+        "Price Increase Count M/M": -0.1561,
+        "Days on Market M/M": 0.0521
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Washington",
+        "Median Listing Price": 249975,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.1065,
+        "Price Increase Count M/M": 0.204,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Washington",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.027,
+        "Price Increase Count M/M": -0.1722,
+        "Days on Market M/M": 0.0465
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Washington",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0791,
+        "Price Increase Count M/M": 0.1439,
+        "Days on Market M/M": 0.0886
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Washington",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.0478,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0395
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Washington",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": -0.0494,
+        "Price Increase Count M/M": -0.2072,
+        "Days on Market M/M": 0.01
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Washington",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0167,
+        "New Listing Count M/M": -0.114,
+        "Price Increase Count M/M": 0.2566,
+        "Days on Market M/M": -0.0988
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Maryland",
+        "Median Listing Price": 335000,
+        "Median Listing Price M/M": 0.0311,
+        "New Listing Count M/M": 0.1747,
+        "Price Increase Count M/M": 0.1846,
+        "Days on Market M/M": -0.2295
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Maryland",
+        "Median Listing Price": 324900,
+        "Median Listing Price M/M": 0.039,
+        "New Listing Count M/M": 0.3553,
+        "Price Increase Count M/M": -0.0714,
+        "Days on Market M/M": -0.2375
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Maryland",
+        "Median Listing Price": 312700,
+        "Median Listing Price M/M": 0.0087,
+        "New Listing Count M/M": 0.1721,
+        "Price Increase Count M/M": 0.1111,
+        "Days on Market M/M": -0.0361
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Maryland",
+        "Median Listing Price": 310000,
+        "Median Listing Price M/M": -0.0127,
+        "New Listing Count M/M": 0.1153,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": 0.1216
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Maryland",
+        "Median Listing Price": 314000,
+        "Median Listing Price M/M": -0.0264,
+        "New Listing Count M/M": -0.2515,
+        "Price Increase Count M/M": -0.0442,
+        "Days on Market M/M": 0.1385
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Maryland",
+        "Median Listing Price": 322500,
+        "Median Listing Price M/M": -0.0077,
+        "New Listing Count M/M": -0.1663,
+        "Price Increase Count M/M": -0.1472,
+        "Days on Market M/M": 0.0656
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Maryland",
+        "Median Listing Price": 325000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.028,
+        "Price Increase Count M/M": -0.1107,
+        "Days on Market M/M": 0.0167
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Maryland",
+        "Median Listing Price": 325000,
+        "Median Listing Price M/M": -0.0137,
+        "New Listing Count M/M": -0.0062,
+        "Price Increase Count M/M": 0.0758,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Maryland",
+        "Median Listing Price": 329500,
+        "Median Listing Price M/M": -0.0164,
+        "New Listing Count M/M": -0.1173,
+        "Price Increase Count M/M": -0.0767,
+        "Days on Market M/M": 0.0943
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Maryland",
+        "Median Listing Price": 335000,
+        "Median Listing Price M/M": 0.0075,
+        "New Listing Count M/M": -0.0184,
+        "Price Increase Count M/M": -0.1597,
+        "Days on Market M/M": 0.0816
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Maryland",
+        "Median Listing Price": 332500,
+        "Median Listing Price M/M": 0.014,
+        "New Listing Count M/M": -0.0284,
+        "Price Increase Count M/M": 0.0562,
+        "Days on Market M/M": 0.0426
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Maryland",
+        "Median Listing Price": 327900,
+        "Median Listing Price M/M": 0.0092,
+        "New Listing Count M/M": -0.0539,
+        "Price Increase Count M/M": -0.1289,
+        "Days on Market M/M": 0.0217
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Maryland",
+        "Median Listing Price": 324900,
+        "Median Listing Price M/M": 0.0252,
+        "New Listing Count M/M": 0.1238,
+        "Price Increase Count M/M": 0.2516,
+        "Days on Market M/M": -0.1481
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Maryland",
+        "Median Listing Price": 316900,
+        "Median Listing Price M/M": 0.0563,
+        "New Listing Count M/M": 0.3316,
+        "Price Increase Count M/M": 0.0839,
+        "Days on Market M/M": -0.325
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Maryland",
+        "Median Listing Price": 300000,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": 0.2701,
+        "Price Increase Count M/M": 0.04,
+        "Days on Market M/M": -0.0698
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Maryland",
+        "Median Listing Price": 299900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1624,
+        "Price Increase Count M/M": 0.2277,
+        "Days on Market M/M": 0.1316
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Maryland",
+        "Median Listing Price": 299900,
+        "Median Listing Price M/M": -0.0326,
+        "New Listing Count M/M": -0.3536,
+        "Price Increase Count M/M": -0.0468,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Maryland",
+        "Median Listing Price": 310000,
+        "Median Listing Price M/M": -0.019,
+        "New Listing Count M/M": -0.1078,
+        "Price Increase Count M/M": -0.0524,
+        "Days on Market M/M": 0.0909
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Maryland",
+        "Median Listing Price": 316040,
+        "Median Listing Price M/M": -0.0071,
+        "New Listing Count M/M": -0.0044,
+        "Price Increase Count M/M": -0.0849,
+        "Days on Market M/M": 0.0313
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Maryland",
+        "Median Listing Price": 318300,
+        "Median Listing Price M/M": 0.0041,
+        "New Listing Count M/M": 0.026,
+        "Price Increase Count M/M": -0.123,
+        "Days on Market M/M": 0.0756
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Maryland",
+        "Median Listing Price": 317000,
+        "Median Listing Price M/M": -0.0247,
+        "New Listing Count M/M": -0.0668,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.0085
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Maryland",
+        "Median Listing Price": 325040,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0459,
+        "Price Increase Count M/M": -0.1825,
+        "Days on Market M/M": 0.1028
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Maryland",
+        "Median Listing Price": 324950,
+        "Median Listing Price M/M": 0.0153,
+        "New Listing Count M/M": -0.0575,
+        "Price Increase Count M/M": -0.1,
+        "Days on Market M/M": 0.07
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Maryland",
+        "Median Listing Price": 320044,
+        "Median Listing Price M/M": 0.0159,
+        "New Listing Count M/M": -0.0285,
+        "Price Increase Count M/M": 0.0606,
+        "Days on Market M/M": -0.0196
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Maryland",
+        "Median Listing Price": 315050,
+        "Median Listing Price M/M": 0.0502,
+        "New Listing Count M/M": 0.0846,
+        "Price Increase Count M/M": 0.0518,
+        "Days on Market M/M": -0.1282
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Maryland",
+        "Median Listing Price": 299999,
+        "Median Listing Price M/M": 0.0309,
+        "New Listing Count M/M": 0.2721,
+        "Price Increase Count M/M": 0.201,
+        "Days on Market M/M": -0.3036
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Maryland",
+        "Median Listing Price": 291000,
+        "Median Listing Price M/M": 0.0067,
+        "New Listing Count M/M": 0.2739,
+        "Price Increase Count M/M": -0.164,
+        "Days on Market M/M": -0.0769
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Maryland",
+        "Median Listing Price": 289050,
+        "Median Listing Price M/M": -0.0033,
+        "New Listing Count M/M": 0.1906,
+        "Price Increase Count M/M": 0.269,
+        "Days on Market M/M": 0.0964
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Maryland",
+        "Median Listing Price": 290000,
+        "Median Listing Price M/M": -0.0317,
+        "New Listing Count M/M": -0.2603,
+        "Price Increase Count M/M": -0.0437,
+        "Days on Market M/M": 0.1067
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Maryland",
+        "Median Listing Price": 299500,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": -0.1431,
+        "Price Increase Count M/M": -0.0721,
+        "Days on Market M/M": 0.0135
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Maryland",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.019,
+        "Price Increase Count M/M": -0.0306,
+        "Days on Market M/M": 0.0137
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Maryland",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0153,
+        "Price Increase Count M/M": -0.0418,
+        "Days on Market M/M": 0.0429
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Maryland",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1084,
+        "Price Increase Count M/M": -0.0363,
+        "Days on Market M/M": 0.0938
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Maryland",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.1037,
+        "Price Increase Count M/M": 0.0164,
+        "Days on Market M/M": 0.0756
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Maryland",
+        "Median Listing Price": 300044,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0327,
+        "Price Increase Count M/M": -0.0615,
+        "Days on Market M/M": 0.1019
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Maryland",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.022,
+        "New Listing Count M/M": -0.0968,
+        "Price Increase Count M/M": -0.037,
+        "Days on Market M/M": -0.027
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Maryland",
+        "Median Listing Price": 293500,
+        "Median Listing Price M/M": 0.0445,
+        "New Listing Count M/M": 0.096,
+        "Price Increase Count M/M": 0.0588,
+        "Days on Market M/M": -0.2649
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Maryland",
+        "Median Listing Price": 281000,
+        "Median Listing Price M/M": 0.0409,
+        "New Listing Count M/M": 0.4554,
+        "Price Increase Count M/M": 0.0408,
+        "Days on Market M/M": -0.2374
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Maryland",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0118,
+        "New Listing Count M/M": 0.3689,
+        "Price Increase Count M/M": 0.056,
+        "Days on Market M/M": 0.0421
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Maryland",
+        "Median Listing Price": 266795,
+        "Median Listing Price M/M": -0.0173,
+        "New Listing Count M/M": -0.0366,
+        "Price Increase Count M/M": 0.1959,
+        "Days on Market M/M": 0.0795
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Maryland",
+        "Median Listing Price": 271500,
+        "Median Listing Price M/M": -0.0302,
+        "New Listing Count M/M": -0.2567,
+        "Price Increase Count M/M": -0.2114,
+        "Days on Market M/M": 0.1282
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Maryland",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": -0.0179,
+        "New Listing Count M/M": -0.1467,
+        "Price Increase Count M/M": -0.0752,
+        "Days on Market M/M": 0.04
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Maryland",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": -0.0169,
+        "New Listing Count M/M": -0.0606,
+        "Price Increase Count M/M": 0.0472,
+        "Days on Market M/M": -0.0066
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Maryland",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": 0.0015,
+        "New Listing Count M/M": 0.0291,
+        "Price Increase Count M/M": -0.0231,
+        "Days on Market M/M": 0.0342
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Maryland",
+        "Median Listing Price": 289526,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": -0.2158,
+        "Price Increase Count M/M": 0.0039,
+        "Days on Market M/M": 0.0977
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Maryland",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0075,
+        "Price Increase Count M/M": -0.0616,
+        "Days on Market M/M": 0.1083
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Maryland",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.082,
+        "Price Increase Count M/M": 0.0952,
+        "Days on Market M/M": 0.0909
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Maryland",
+        "Median Listing Price": 290049,
+        "Median Listing Price M/M": 0.0193,
+        "New Listing Count M/M": -0.0297,
+        "Price Increase Count M/M": -0.1032,
+        "Days on Market M/M": -0.1538
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Maryland",
+        "Median Listing Price": 284550,
+        "Median Listing Price M/M": 0.0349,
+        "New Listing Count M/M": 0.2515,
+        "Price Increase Count M/M": 0.0725,
+        "Days on Market M/M": -0.2697
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Maryland",
+        "Median Listing Price": 274950,
+        "Median Listing Price M/M": 0.0374,
+        "New Listing Count M/M": 0.2964,
+        "Price Increase Count M/M": 0.1696,
+        "Days on Market M/M": -0.1144
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Maryland",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": 0.0023,
+        "New Listing Count M/M": 0.0251,
+        "Price Increase Count M/M": -0.104,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Maryland",
+        "Median Listing Price": 264450,
+        "Median Listing Price M/M": -0.0205,
+        "New Listing Count M/M": 0.2529,
+        "Price Increase Count M/M": 0.0823,
+        "Days on Market M/M": 0.0984
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Maryland",
+        "Median Listing Price": 269975,
+        "Median Listing Price M/M": -0.0356,
+        "New Listing Count M/M": -0.227,
+        "Price Increase Count M/M": -0.0685,
+        "Days on Market M/M": 0.1296
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Maryland",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": -0.029,
+        "New Listing Count M/M": -0.1281,
+        "Price Increase Count M/M": -0.0388,
+        "Days on Market M/M": 0.0318
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Maryland",
+        "Median Listing Price": 288300,
+        "Median Listing Price M/M": -0.0057,
+        "New Listing Count M/M": -0.0621,
+        "Price Increase Count M/M": -0.048,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Maryland",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": 0.0354,
+        "New Listing Count M/M": 0.038,
+        "Price Increase Count M/M": -0.1086,
+        "Days on Market M/M": 0.0064
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Maryland",
+        "Median Listing Price": 280050,
+        "Median Listing Price M/M": -0.0165,
+        "New Listing Count M/M": -0.0299,
+        "Price Increase Count M/M": -0.0225,
+        "Days on Market M/M": 0.0759
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Maryland",
+        "Median Listing Price": 284750,
+        "Median Listing Price M/M": 0.006,
+        "New Listing Count M/M": -0.143,
+        "Price Increase Count M/M": 0.0032,
+        "Days on Market M/M": 0.1154
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Maryland",
+        "Median Listing Price": 283050,
+        "Median Listing Price M/M": 0.0295,
+        "New Listing Count M/M": -0.016,
+        "Price Increase Count M/M": -0.146,
+        "Days on Market M/M": -0.078
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Maryland",
+        "Median Listing Price": 274950,
+        "Median Listing Price M/M": 0.0193,
+        "New Listing Count M/M": -0.0384,
+        "Price Increase Count M/M": -0.0522,
+        "Days on Market M/M": -0.1242
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Maryland",
+        "Median Listing Price": 269750,
+        "Median Listing Price M/M": 0.0334,
+        "New Listing Count M/M": 0.326,
+        "Price Increase Count M/M": 0.3207,
+        "Days on Market M/M": -0.2682
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Maryland",
+        "Median Listing Price": 261040,
+        "Median Listing Price M/M": 0.0357,
+        "New Listing Count M/M": 0.2684,
+        "Price Increase Count M/M": 0.0507,
+        "Days on Market M/M": -0.0476
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Maryland",
+        "Median Listing Price": 252050,
+        "Median Listing Price M/M": 0.008,
+        "New Listing Count M/M": 0.0539,
+        "Price Increase Count M/M": -0.1834,
+        "Days on Market M/M": 0.05
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Maryland",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": -0.0118,
+        "New Listing Count M/M": 0.416,
+        "Price Increase Count M/M": 0.2612,
+        "Days on Market M/M": 0.0891
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Maryland",
+        "Median Listing Price": 253040,
+        "Median Listing Price M/M": -0.0268,
+        "New Listing Count M/M": -0.3613,
+        "Price Increase Count M/M": -0.2024,
+        "Days on Market M/M": 0.116
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Maryland",
+        "Median Listing Price": 260000,
+        "Median Listing Price M/M": -0.0209,
+        "New Listing Count M/M": -0.0829,
+        "Price Increase Count M/M": -0.0795,
+        "Days on Market M/M": 0.0343
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Maryland",
+        "Median Listing Price": 265549,
+        "Median Listing Price M/M": -0.013,
+        "New Listing Count M/M": -0.0503,
+        "Price Increase Count M/M": 0.0928,
+        "Days on Market M/M": -0.0057
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Maryland",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": 0.0058,
+        "New Listing Count M/M": -0.0242,
+        "Price Increase Count M/M": -0.0592,
+        "Days on Market M/M": 0.0233
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Maryland",
+        "Median Listing Price": 267500,
+        "Median Listing Price M/M": -0.0082,
+        "New Listing Count M/M": -0.0821,
+        "Price Increase Count M/M": 0.0028,
+        "Days on Market M/M": 0.0818
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Maryland",
+        "Median Listing Price": 269721,
+        "Median Listing Price M/M": 0.0025,
+        "New Listing Count M/M": 0.0143,
+        "Price Increase Count M/M": -0.0829,
+        "Days on Market M/M": 0.1042
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Maryland",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": 0.0153,
+        "New Listing Count M/M": -0.082,
+        "Price Increase Count M/M": -0.1187,
+        "Days on Market M/M": 0.0588
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Maryland",
+        "Median Listing Price": 265000,
+        "Median Listing Price M/M": 0.0292,
+        "New Listing Count M/M": -0.0383,
+        "Price Increase Count M/M": -0.1187,
+        "Days on Market M/M": -0.0685
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Maryland",
+        "Median Listing Price": 257490,
+        "Median Listing Price M/M": 0.0302,
+        "New Listing Count M/M": 0.1845,
+        "Price Increase Count M/M": 0.2181,
+        "Days on Market M/M": -0.2396
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Maryland",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0337,
+        "New Listing Count M/M": 0.2091,
+        "Price Increase Count M/M": 0.193,
+        "Days on Market M/M": -0.2099
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Maryland",
+        "Median Listing Price": 241800,
+        "Median Listing Price M/M": 0.0097,
+        "New Listing Count M/M": 0.1193,
+        "Price Increase Count M/M": 0.2347,
+        "Days on Market M/M": -0.0122
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Maryland",
+        "Median Listing Price": 239467,
+        "Median Listing Price M/M": -0.0024,
+        "New Listing Count M/M": 0.3527,
+        "Price Increase Count M/M": -0.0107,
+        "Days on Market M/M": 0.0513
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Maryland",
+        "Median Listing Price": 240045,
+        "Median Listing Price M/M": -0.0362,
+        "New Listing Count M/M": -0.1597,
+        "Price Increase Count M/M": 0.2174,
+        "Days on Market M/M": 0.0308
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Maryland",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.1721,
+        "Price Increase Count M/M": -0.2256,
+        "Days on Market M/M": 0.0225
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Maryland",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0956,
+        "Price Increase Count M/M": 0.1336,
+        "Days on Market M/M": 0.0183
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Maryland",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0459,
+        "Price Increase Count M/M": 0.0116,
+        "Days on Market M/M": 0.0332
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Maryland",
+        "Median Listing Price": 250049,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0049,
+        "Price Increase Count M/M": 0.0117,
+        "Days on Market M/M": 0.099
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Maryland",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": -0.0194,
+        "New Listing Count M/M": -0.1162,
+        "Price Increase Count M/M": -0.1263,
+        "Days on Market M/M": 0.0787
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Maryland",
+        "Median Listing Price": 254993,
+        "Median Listing Price M/M": 0.0182,
+        "New Listing Count M/M": -0.0262,
+        "Price Increase Count M/M": -0.0298,
+        "Days on Market M/M": 0.0289
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Maryland",
+        "Median Listing Price": 250442,
+        "Median Listing Price M/M": 0.0018,
+        "New Listing Count M/M": -0.1579,
+        "Price Increase Count M/M": -0.1039,
+        "Days on Market M/M": -0.0389
+    }
+]

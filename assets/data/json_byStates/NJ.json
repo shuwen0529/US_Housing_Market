@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "New Jersey",
+        "Median Listing Price": 370000,
+        "Median Listing Price M/M": 0.0281,
+        "New Listing Count M/M": 0.1271,
+        "Price Increase Count M/M": 0.0772,
+        "Days on Market M/M": -0.1053
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "New Jersey",
+        "Median Listing Price": 359900,
+        "Median Listing Price M/M": 0.0298,
+        "New Listing Count M/M": 0.2245,
+        "Price Increase Count M/M": 0.2746,
+        "Days on Market M/M": -0.2192
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "New Jersey",
+        "Median Listing Price": 349500,
+        "Median Listing Price M/M": 0.0279,
+        "New Listing Count M/M": 0.056,
+        "Price Increase Count M/M": 0.0376,
+        "Days on Market M/M": -0.1098
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "New Jersey",
+        "Median Listing Price": 340000,
+        "Median Listing Price M/M": -0.0216,
+        "New Listing Count M/M": 0.53,
+        "Price Increase Count M/M": 0.2237,
+        "Days on Market M/M": 0.038
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "New Jersey",
+        "Median Listing Price": 347500,
+        "Median Listing Price M/M": -0.0071,
+        "New Listing Count M/M": -0.2599,
+        "Price Increase Count M/M": -0.2323,
+        "Days on Market M/M": 0.1618
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "New Jersey",
+        "Median Listing Price": 350000,
+        "Median Listing Price M/M": -0.0251,
+        "New Listing Count M/M": -0.1883,
+        "Price Increase Count M/M": -0.2296,
+        "Days on Market M/M": 0.0149
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "New Jersey",
+        "Median Listing Price": 359000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0536,
+        "Price Increase Count M/M": -0.1076,
+        "Days on Market M/M": -0.0147
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "New Jersey",
+        "Median Listing Price": 359000,
+        "Median Listing Price M/M": 0.002,
+        "New Listing Count M/M": 0.0437,
+        "Price Increase Count M/M": 0.1163,
+        "Days on Market M/M": 0.0462
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "New Jersey",
+        "Median Listing Price": 358300,
+        "Median Listing Price M/M": -0.0044,
+        "New Listing Count M/M": -0.0977,
+        "Price Increase Count M/M": -0.0584,
+        "Days on Market M/M": 0.0656
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "New Jersey",
+        "Median Listing Price": 359900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0553,
+        "Price Increase Count M/M": -0.0036,
+        "Days on Market M/M": 0.1509
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "New Jersey",
+        "Median Listing Price": 359900,
+        "Median Listing Price M/M": 0.021,
+        "New Listing Count M/M": -0.1007,
+        "Price Increase Count M/M": -0.0741,
+        "Days on Market M/M": 0.0192
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "New Jersey",
+        "Median Listing Price": 352500,
+        "Median Listing Price M/M": 0.0398,
+        "New Listing Count M/M": 0.024,
+        "Price Increase Count M/M": 0.1693,
+        "Days on Market M/M": -0.0545
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "New Jersey",
+        "Median Listing Price": 339000,
+        "Median Listing Price M/M": 0.0351,
+        "New Listing Count M/M": 0.1727,
+        "Price Increase Count M/M": 0.1189,
+        "Days on Market M/M": -0.0179
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "New Jersey",
+        "Median Listing Price": 327500,
+        "Median Listing Price M/M": 0.0331,
+        "New Listing Count M/M": 0.0787,
+        "Price Increase Count M/M": -0.1236,
+        "Days on Market M/M": -0.2632
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "New Jersey",
+        "Median Listing Price": 317000,
+        "Median Listing Price M/M": 0.0479,
+        "New Listing Count M/M": 0.2252,
+        "Price Increase Count M/M": 0.3214,
+        "Days on Market M/M": -0.1163
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "New Jersey",
+        "Median Listing Price": 302500,
+        "Median Listing Price M/M": -0.0239,
+        "New Listing Count M/M": 0.3721,
+        "Price Increase Count M/M": 0.0652,
+        "Days on Market M/M": 0.0488
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "New Jersey",
+        "Median Listing Price": 309900,
+        "Median Listing Price M/M": -0.0313,
+        "New Listing Count M/M": -0.2509,
+        "Price Increase Count M/M": -0.0707,
+        "Days on Market M/M": 0.1081
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "New Jersey",
+        "Median Listing Price": 319900,
+        "Median Listing Price M/M": -0.0157,
+        "New Listing Count M/M": -0.1086,
+        "Price Increase Count M/M": -0.2326,
+        "Days on Market M/M": 0.0137
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "New Jersey",
+        "Median Listing Price": 325050,
+        "Median Listing Price M/M": -0.0122,
+        "New Listing Count M/M": -0.069,
+        "Price Increase Count M/M": -0.0373,
+        "Days on Market M/M": -0.0068
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "New Jersey",
+        "Median Listing Price": 329050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0208,
+        "Price Increase Count M/M": 0.0268,
+        "Days on Market M/M": 0.0208
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "New Jersey",
+        "Median Listing Price": 329050,
+        "Median Listing Price M/M": -0.0176,
+        "New Listing Count M/M": -0.0242,
+        "Price Increase Count M/M": -0.1581,
+        "Days on Market M/M": 0.0588
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "New Jersey",
+        "Median Listing Price": 334950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.1203,
+        "Price Increase Count M/M": 0.1191,
+        "Days on Market M/M": 0.1148
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "New Jersey",
+        "Median Listing Price": 335050,
+        "Median Listing Price M/M": 0.0168,
+        "New Listing Count M/M": -0.0805,
+        "Price Increase Count M/M": -0.1477,
+        "Days on Market M/M": 0.0339
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "New Jersey",
+        "Median Listing Price": 329500,
+        "Median Listing Price M/M": 0.0295,
+        "New Listing Count M/M": 0.0207,
+        "Price Increase Count M/M": 0.098,
+        "Days on Market M/M": -0.0167
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "New Jersey",
+        "Median Listing Price": 320050,
+        "Median Listing Price M/M": 0.0355,
+        "New Listing Count M/M": 0.0594,
+        "Price Increase Count M/M": 0.0764,
+        "Days on Market M/M": -0.0323
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "New Jersey",
+        "Median Listing Price": 309064,
+        "Median Listing Price M/M": 0.0389,
+        "New Listing Count M/M": 0.1477,
+        "Price Increase Count M/M": 0.0784,
+        "Days on Market M/M": -0.2575
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "New Jersey",
+        "Median Listing Price": 297500,
+        "Median Listing Price M/M": 0.0292,
+        "New Listing Count M/M": 0.2272,
+        "Price Increase Count M/M": 0.2379,
+        "Days on Market M/M": -0.1211
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "New Jersey",
+        "Median Listing Price": 289050,
+        "Median Listing Price M/M": -0.0249,
+        "New Listing Count M/M": 0.4059,
+        "Price Increase Count M/M": 0.0842,
+        "Days on Market M/M": 0.0215
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "New Jersey",
+        "Median Listing Price": 296422,
+        "Median Listing Price M/M": -0.0119,
+        "New Listing Count M/M": -0.2207,
+        "Price Increase Count M/M": -0.0452,
+        "Days on Market M/M": 0.0629
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "New Jersey",
+        "Median Listing Price": 299999,
+        "Median Listing Price M/M": -0.0198,
+        "New Listing Count M/M": -0.1258,
+        "Price Increase Count M/M": -0.1422,
+        "Days on Market M/M": 0.0294
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "New Jersey",
+        "Median Listing Price": 306050,
+        "Median Listing Price M/M": -0.0033,
+        "New Listing Count M/M": -0.057,
+        "Price Increase Count M/M": -0.1407,
+        "Days on Market M/M": -0.0058
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "New Jersey",
+        "Median Listing Price": 307050,
+        "Median Listing Price M/M": -0.0122,
+        "New Listing Count M/M": -0.0112,
+        "Price Increase Count M/M": -0.069,
+        "Days on Market M/M": 0.0491
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "New Jersey",
+        "Median Listing Price": 310842,
+        "Median Listing Price M/M": -0.0134,
+        "New Listing Count M/M": -0.0825,
+        "Price Increase Count M/M": -0.0333,
+        "Days on Market M/M": 0.0584
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "New Jersey",
+        "Median Listing Price": 315050,
+        "Median Listing Price M/M": -0.0102,
+        "New Listing Count M/M": -0.0999,
+        "Price Increase Count M/M": 0.1236,
+        "Days on Market M/M": 0.0922
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "New Jersey",
+        "Median Listing Price": 318300,
+        "Median Listing Price M/M": 0.0106,
+        "New Listing Count M/M": -0.1135,
+        "Price Increase Count M/M": -0.1331,
+        "Days on Market M/M": 0.0682
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "New Jersey",
+        "Median Listing Price": 314950,
+        "Median Listing Price M/M": 0.0497,
+        "New Listing Count M/M": -0.0241,
+        "Price Increase Count M/M": -0.0345,
+        "Days on Market M/M": 0.0076
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "New Jersey",
+        "Median Listing Price": 300045,
+        "Median Listing Price M/M": 0.0223,
+        "New Listing Count M/M": 0.0244,
+        "Price Increase Count M/M": 0.0633,
+        "Days on Market M/M": -0.1027
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "New Jersey",
+        "Median Listing Price": 293500,
+        "Median Listing Price M/M": 0.0353,
+        "New Listing Count M/M": 0.2616,
+        "Price Increase Count M/M": 0.1858,
+        "Days on Market M/M": -0.2474
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "New Jersey",
+        "Median Listing Price": 283500,
+        "Median Listing Price M/M": 0.0127,
+        "New Listing Count M/M": 0.2983,
+        "Price Increase Count M/M": 0.1822,
+        "Days on Market M/M": -0.0396
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "New Jersey",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": -0.0101,
+        "New Listing Count M/M": 0.4087,
+        "Price Increase Count M/M": 0.0047,
+        "Days on Market M/M": 0.0412
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "New Jersey",
+        "Median Listing Price": 282800,
+        "Median Listing Price M/M": -0.0477,
+        "New Listing Count M/M": -0.3085,
+        "Price Increase Count M/M": -0.1744,
+        "Days on Market M/M": 0.0778
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "New Jersey",
+        "Median Listing Price": 296950,
+        "Median Listing Price M/M": -0.0085,
+        "New Listing Count M/M": -0.1458,
+        "Price Increase Count M/M": -0.1623,
+        "Days on Market M/M": 0.0112
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "New Jersey",
+        "Median Listing Price": 299500,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": -0.0727,
+        "Price Increase Count M/M": 0.037,
+        "Days on Market M/M": -0.0111
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "New Jersey",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1072,
+        "Price Increase Count M/M": -0.0034,
+        "Days on Market M/M": 0.0465
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "New Jersey",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.2272,
+        "Price Increase Count M/M": 0.0493,
+        "Days on Market M/M": 0.1097
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "New Jersey",
+        "Median Listing Price": 300000,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.0685,
+        "Price Increase Count M/M": -0.047,
+        "Days on Market M/M": 0.1314
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "New Jersey",
+        "Median Listing Price": 300050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1176,
+        "Price Increase Count M/M": 0.0205,
+        "Days on Market M/M": 0.0538
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "New Jersey",
+        "Median Listing Price": 300050,
+        "Median Listing Price M/M": 0.0033,
+        "New Listing Count M/M": 0.0415,
+        "Price Increase Count M/M": 0.0034,
+        "Days on Market M/M": -0.1034
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "New Jersey",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0346,
+        "New Listing Count M/M": 0.2081,
+        "Price Increase Count M/M": 0.1023,
+        "Days on Market M/M": -0.1944
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "New Jersey",
+        "Median Listing Price": 289050,
+        "Median Listing Price M/M": 0.0325,
+        "New Listing Count M/M": 0.2195,
+        "Price Increase Count M/M": 0.133,
+        "Days on Market M/M": -0.1549
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "New Jersey",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0032,
+        "New Listing Count M/M": 0.0041,
+        "Price Increase Count M/M": 0.0591,
+        "Days on Market M/M": -0.0318
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "New Jersey",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": -0.0034,
+        "New Listing Count M/M": 0.8324,
+        "Price Increase Count M/M": 0.2088,
+        "Days on Market M/M": 0.0476
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "New Jersey",
+        "Median Listing Price": 280000,
+        "Median Listing Price M/M": -0.0343,
+        "New Listing Count M/M": -0.3214,
+        "Price Increase Count M/M": -0.1495,
+        "Days on Market M/M": 0.0825
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "New Jersey",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": -0.0296,
+        "New Listing Count M/M": -0.2008,
+        "Price Increase Count M/M": -0.2045,
+        "Days on Market M/M": 0.0319
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "New Jersey",
+        "Median Listing Price": 298800,
+        "Median Listing Price M/M": -0.0008,
+        "New Listing Count M/M": -0.1246,
+        "Price Increase Count M/M": -0.066,
+        "Days on Market M/M": 0.0053
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "New Jersey",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0278,
+        "New Listing Count M/M": 0.0872,
+        "Price Increase Count M/M": -0.0828,
+        "Days on Market M/M": 0.0389
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "New Jersey",
+        "Median Listing Price": 290950,
+        "Median Listing Price M/M": -0.0197,
+        "New Listing Count M/M": -0.0932,
+        "Price Increase Count M/M": -0.0095,
+        "Days on Market M/M": 0.0976
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "New Jersey",
+        "Median Listing Price": 296800,
+        "Median Listing Price M/M": -0.0075,
+        "New Listing Count M/M": -0.0364,
+        "Price Increase Count M/M": -0.0155,
+        "Days on Market M/M": 0.0933
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "New Jersey",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0224,
+        "New Listing Count M/M": -0.1411,
+        "Price Increase Count M/M": -0.0501,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "New Jersey",
+        "Median Listing Price": 292500,
+        "Median Listing Price M/M": 0.0261,
+        "New Listing Count M/M": -0.0105,
+        "Price Increase Count M/M": -0.0478,
+        "Days on Market M/M": -0.1212
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "New Jersey",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": 0.0364,
+        "New Listing Count M/M": 0.228,
+        "Price Increase Count M/M": 0.1867,
+        "Days on Market M/M": -0.2699
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "New Jersey",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0189,
+        "New Listing Count M/M": 0.2342,
+        "Price Increase Count M/M": 0.1407,
+        "Days on Market M/M": -0.0661
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "New Jersey",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0033,
+        "New Listing Count M/M": 0.0862,
+        "Price Increase Count M/M": -0.054,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "New Jersey",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": -0.0033,
+        "New Listing Count M/M": 0.7345,
+        "Price Increase Count M/M": 0.9041,
+        "Days on Market M/M": 0.0522
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "New Jersey",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": -0.0201,
+        "New Listing Count M/M": -0.3786,
+        "Price Increase Count M/M": -0.3482,
+        "Days on Market M/M": 0.1005
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "New Jersey",
+        "Median Listing Price": 275500,
+        "Median Listing Price M/M": -0.0143,
+        "New Listing Count M/M": -0.1635,
+        "Price Increase Count M/M": 0.0045,
+        "Days on Market M/M": 0.0245
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "New Jersey",
+        "Median Listing Price": 279500,
+        "Median Listing Price M/M": -0.0016,
+        "New Listing Count M/M": -0.0572,
+        "Price Increase Count M/M": -0.0219,
+        "Days on Market M/M": 0.0099
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "New Jersey",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0178,
+        "Price Increase Count M/M": -0.2083,
+        "Days on Market M/M": 0.0306
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "New Jersey",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": -0.0246,
+        "New Listing Count M/M": -0.0417,
+        "Price Increase Count M/M": -0.2279,
+        "Days on Market M/M": 0.1011
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "New Jersey",
+        "Median Listing Price": 287000,
+        "Median Listing Price M/M": -0.0071,
+        "New Listing Count M/M": -0.0565,
+        "Price Increase Count M/M": -0.0337,
+        "Days on Market M/M": 0.0723
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "New Jersey",
+        "Median Listing Price": 289050,
+        "Median Listing Price M/M": 0.0158,
+        "New Listing Count M/M": -0.0866,
+        "Price Increase Count M/M": -0.0103,
+        "Days on Market M/M": 0.0506
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "New Jersey",
+        "Median Listing Price": 284550,
+        "Median Listing Price M/M": 0.0181,
+        "New Listing Count M/M": -0.0639,
+        "Price Increase Count M/M": -0.058,
+        "Days on Market M/M": -0.0307
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "New Jersey",
+        "Median Listing Price": 279500,
+        "Median Listing Price M/M": 0.0278,
+        "New Listing Count M/M": 0.1476,
+        "Price Increase Count M/M": 0.1436,
+        "Days on Market M/M": -0.1684
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "New Jersey",
+        "Median Listing Price": 271950,
+        "Median Listing Price M/M": 0.0262,
+        "New Listing Count M/M": 0.1717,
+        "Price Increase Count M/M": 0.2975,
+        "Days on Market M/M": -0.2129
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "New Jersey",
+        "Median Listing Price": 265000,
+        "Median Listing Price M/M": 0.0192,
+        "New Listing Count M/M": 0.058,
+        "Price Increase Count M/M": -0.051,
+        "Days on Market M/M": -0.0273
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "New Jersey",
+        "Median Listing Price": 260000,
+        "Median Listing Price M/M": -0.0191,
+        "New Listing Count M/M": 0.613,
+        "Price Increase Count M/M": 0.2049,
+        "Days on Market M/M": 0.0079
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "New Jersey",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": -0.0183,
+        "New Listing Count M/M": 0.0854,
+        "Price Increase Count M/M": 0.1455,
+        "Days on Market M/M": 0.0367
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "New Jersey",
+        "Median Listing Price": 270000,
+        "Median Listing Price M/M": -0.0184,
+        "New Listing Count M/M": -0.4184,
+        "Price Increase Count M/M": -0.1839,
+        "Days on Market M/M": 0.0426
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "New Jersey",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": -0.0143,
+        "New Listing Count M/M": -0.0448,
+        "Price Increase Count M/M": -0.0114,
+        "Days on Market M/M": -0.0042
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "New Jersey",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": -0.0016,
+        "New Listing Count M/M": 0.0443,
+        "Price Increase Count M/M": 0.056,
+        "Days on Market M/M": 0.0489
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "New Jersey",
+        "Median Listing Price": 279500,
+        "Median Listing Price M/M": -0.016,
+        "New Listing Count M/M": -0.0405,
+        "Price Increase Count M/M": 0.0246,
+        "Days on Market M/M": 0.0817
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "New Jersey",
+        "Median Listing Price": 284050,
+        "Median Listing Price M/M": -0.0035,
+        "New Listing Count M/M": -0.0893,
+        "Price Increase Count M/M": -0.2052,
+        "Days on Market M/M": 0.0947
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "New Jersey",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0639,
+        "Price Increase Count M/M": -0.0466,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "New Jersey",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": 0.009,
+        "New Listing Count M/M": -0.1204,
+        "Price Increase Count M/M": 0.197,
+        "Days on Market M/M": 0.0056
+    }
+]

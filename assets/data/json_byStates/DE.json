@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Delaware",
+        "Median Listing Price": 309900,
+        "Median Listing Price M/M": 0.0167,
+        "New Listing Count M/M": -0.0368,
+        "Price Increase Count M/M": 0.1827,
+        "Days on Market M/M": -0.2427
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Delaware",
+        "Median Listing Price": 304800,
+        "Median Listing Price M/M": 0.017,
+        "New Listing Count M/M": 0.1856,
+        "Price Increase Count M/M": 0.284,
+        "Days on Market M/M": -0.1043
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Delaware",
+        "Median Listing Price": 299700,
+        "Median Listing Price M/M": 0.0084,
+        "New Listing Count M/M": 0.0828,
+        "Price Increase Count M/M": 0.2656,
+        "Days on Market M/M": 0.0268
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Delaware",
+        "Median Listing Price": 297200,
+        "Median Listing Price M/M": 0.0075,
+        "New Listing Count M/M": 0.3516,
+        "Price Increase Count M/M": 0.7778,
+        "Days on Market M/M": 0.098
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Delaware",
+        "Median Listing Price": 295000,
+        "Median Listing Price M/M": -0.015,
+        "New Listing Count M/M": -0.2396,
+        "Price Increase Count M/M": -0.625,
+        "Days on Market M/M": 0.0968
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Delaware",
+        "Median Listing Price": 299500,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": -0.1876,
+        "Price Increase Count M/M": 0.1429,
+        "Days on Market M/M": 0.0449
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Delaware",
+        "Median Listing Price": 299700,
+        "Median Listing Price M/M": 0.0023,
+        "New Listing Count M/M": -0.0014,
+        "Price Increase Count M/M": 0.0244,
+        "Days on Market M/M": -0.0111
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Delaware",
+        "Median Listing Price": 299000,
+        "Median Listing Price M/M": 0.0071,
+        "New Listing Count M/M": -0.0353,
+        "Price Increase Count M/M": -0.1368,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Delaware",
+        "Median Listing Price": 296900,
+        "Median Listing Price M/M": -0.007,
+        "New Listing Count M/M": -0.0588,
+        "Price Increase Count M/M": -0.0865,
+        "Days on Market M/M": 0.061
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Delaware",
+        "Median Listing Price": 299000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0928,
+        "Price Increase Count M/M": -0.1545,
+        "Days on Market M/M": 0.0513
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Delaware",
+        "Median Listing Price": 299000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1095,
+        "Price Increase Count M/M": -0.0889,
+        "Days on Market M/M": 0.013
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Delaware",
+        "Median Listing Price": 299000,
+        "Median Listing Price M/M": 0.0222,
+        "New Listing Count M/M": 0.0901,
+        "Price Increase Count M/M": 0.1066,
+        "Days on Market M/M": -0.0375
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Delaware",
+        "Median Listing Price": 292500,
+        "Median Listing Price M/M": 0.0153,
+        "New Listing Count M/M": 0.0534,
+        "Price Increase Count M/M": 0.0167,
+        "Days on Market M/M": -0.1837
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Delaware",
+        "Median Listing Price": 288100,
+        "Median Listing Price M/M": 0.0238,
+        "New Listing Count M/M": 0.0808,
+        "Price Increase Count M/M": 0.7143,
+        "Days on Market M/M": -0.1327
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Delaware",
+        "Median Listing Price": 281400,
+        "Median Listing Price M/M": 0.0054,
+        "New Listing Count M/M": 0.3518,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": -0.0583
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Delaware",
+        "Median Listing Price": 279900,
+        "Median Listing Price M/M": 0.0178,
+        "New Listing Count M/M": 0.3114,
+        "Price Increase Count M/M": -0.375,
+        "Days on Market M/M": 0.1009
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Delaware",
+        "Median Listing Price": 275000,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.3462,
+        "Price Increase Count M/M": -0.0495,
+        "Days on Market M/M": 0.09
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Delaware",
+        "Median Listing Price": 276000,
+        "Median Listing Price M/M": -0.0143,
+        "New Listing Count M/M": -0.093,
+        "Price Increase Count M/M": -0.0818,
+        "Days on Market M/M": -0.0099
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Delaware",
+        "Median Listing Price": 280049,
+        "Median Listing Price M/M": -0.0172,
+        "New Listing Count M/M": -0.0426,
+        "Price Increase Count M/M": 0.746,
+        "Days on Market M/M": 0.0359
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Delaware",
+        "Median Listing Price": 284950,
+        "Median Listing Price M/M": -0.0001,
+        "New Listing Count M/M": 0.0459,
+        "Price Increase Count M/M": -0.3824,
+        "Days on Market M/M": 0.0263
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Delaware",
+        "Median Listing Price": 284977,
+        "Median Listing Price M/M": 0.018,
+        "New Listing Count M/M": -0.0806,
+        "Price Increase Count M/M": 0.2143,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Delaware",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1064,
+        "Price Increase Count M/M": 0.012,
+        "Days on Market M/M": 0.0227
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Delaware",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0196,
+        "Price Increase Count M/M": -0.1616,
+        "Days on Market M/M": -0.0112
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Delaware",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.011,
+        "Price Increase Count M/M": 0.0532,
+        "Days on Market M/M": -0.043
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Delaware",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0178,
+        "New Listing Count M/M": 0.0631,
+        "Price Increase Count M/M": -0.1966,
+        "Days on Market M/M": -0.247
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Delaware",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0094,
+        "New Listing Count M/M": 0.1074,
+        "Price Increase Count M/M": 0.2581,
+        "Days on Market M/M": -0.0463
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Delaware",
+        "Median Listing Price": 272499,
+        "Median Listing Price M/M": 0.0094,
+        "New Listing Count M/M": 0.3236,
+        "Price Increase Count M/M": 0.2237,
+        "Days on Market M/M": 0.0117
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Delaware",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2295,
+        "Price Increase Count M/M": -0.0732,
+        "Days on Market M/M": 0.0802
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Delaware",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1976,
+        "Price Increase Count M/M": 0.2813,
+        "Days on Market M/M": 0.0872
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Delaware",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.2086,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": 0.0686
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Delaware",
+        "Median Listing Price": 270050,
+        "Median Listing Price M/M": -0.0016,
+        "New Listing Count M/M": -0.0889,
+        "Price Increase Count M/M": 0.0286,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Delaware",
+        "Median Listing Price": 270495,
+        "Median Listing Price M/M": -0.0162,
+        "New Listing Count M/M": 0.0012,
+        "Price Increase Count M/M": -0.3578,
+        "Days on Market M/M": 0.0099
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Delaware",
+        "Median Listing Price": 274950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0024,
+        "Price Increase Count M/M": 0.3625,
+        "Days on Market M/M": 0.0521
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Delaware",
+        "Median Listing Price": 274950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0532,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0213
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Delaware",
+        "Median Listing Price": 274950,
+        "Median Listing Price M/M": 0.0088,
+        "New Listing Count M/M": -0.0789,
+        "Price Increase Count M/M": 0.0526,
+        "Days on Market M/M": -0.0309
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Delaware",
+        "Median Listing Price": 272550,
+        "Median Listing Price M/M": 0.0094,
+        "New Listing Count M/M": -0.0554,
+        "Price Increase Count M/M": -0.2897,
+        "Days on Market M/M": -0.106
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Delaware",
+        "Median Listing Price": 270012,
+        "Median Listing Price M/M": 0.013,
+        "New Listing Count M/M": 0.1157,
+        "Price Increase Count M/M": 0.4079,
+        "Days on Market M/M": -0.1622
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Delaware",
+        "Median Listing Price": 266550,
+        "Median Listing Price M/M": 0.0019,
+        "New Listing Count M/M": 0.2861,
+        "Price Increase Count M/M": 0.0133,
+        "Days on Market M/M": -0.0616
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Delaware",
+        "Median Listing Price": 266050,
+        "Median Listing Price M/M": 0.0042,
+        "New Listing Count M/M": 0.0058,
+        "Price Increase Count M/M": 0.7857,
+        "Days on Market M/M": 0.0455
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Delaware",
+        "Median Listing Price": 264950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.5601,
+        "Price Increase Count M/M": -0.2222,
+        "Days on Market M/M": 0.0435
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Delaware",
+        "Median Listing Price": 264950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.2933,
+        "Price Increase Count M/M": -0.069,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Delaware",
+        "Median Listing Price": 265047,
+        "Median Listing Price M/M": -0.0108,
+        "New Listing Count M/M": -0.199,
+        "Price Increase Count M/M": -0.1831,
+        "Days on Market M/M": 0.0132
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Delaware",
+        "Median Listing Price": 267950,
+        "Median Listing Price M/M": 0.0113,
+        "New Listing Count M/M": -0.0418,
+        "Price Increase Count M/M": -0.3604,
+        "Days on Market M/M": -0.013
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Delaware",
+        "Median Listing Price": 264950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1198,
+        "Price Increase Count M/M": 0.4605,
+        "Days on Market M/M": 0.0849
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Delaware",
+        "Median Listing Price": 264950,
+        "Median Listing Price M/M": 0.0192,
+        "New Listing Count M/M": -0.1684,
+        "Price Increase Count M/M": 0.1515,
+        "Days on Market M/M": 0.0495
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Delaware",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": -0.006,
+        "New Listing Count M/M": -0.0169,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0306
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Delaware",
+        "Median Listing Price": 261522,
+        "Median Listing Price M/M": -0.0133,
+        "New Listing Count M/M": -0.1084,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.02
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Delaware",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": 0.0157,
+        "New Listing Count M/M": -0.0158,
+        "Price Increase Count M/M": 0.0476,
+        "Days on Market M/M": -0.1228
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Delaware",
+        "Median Listing Price": 260950,
+        "Median Listing Price M/M": 0.0074,
+        "New Listing Count M/M": 0.2048,
+        "Price Increase Count M/M": -0.4273,
+        "Days on Market M/M": -0.1679
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Delaware",
+        "Median Listing Price": 259045,
+        "Median Listing Price M/M": 0.036,
+        "New Listing Count M/M": 0.0895,
+        "Price Increase Count M/M": -0.1339,
+        "Days on Market M/M": -0.0072
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Delaware",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": 0.089,
+        "Price Increase Count M/M": 1.1897,
+        "Days on Market M/M": 0.026
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Delaware",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": 0.3855,
+        "Price Increase Count M/M": -0.0492,
+        "Days on Market M/M": 0.0267
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Delaware",
+        "Median Listing Price": 250000,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.2637,
+        "Price Increase Count M/M": -0.3068,
+        "Days on Market M/M": 0.0826
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Delaware",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": -0.0175,
+        "New Listing Count M/M": -0.0558,
+        "Price Increase Count M/M": 0.0602,
+        "Days on Market M/M": 0.0386
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Delaware",
+        "Median Listing Price": 254500,
+        "Median Listing Price M/M": 0.0063,
+        "New Listing Count M/M": -0.1424,
+        "Price Increase Count M/M": 0.0921,
+        "Days on Market M/M": 0.0175
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Delaware",
+        "Median Listing Price": 252917,
+        "Median Listing Price M/M": 0.0237,
+        "New Listing Count M/M": 0.0821,
+        "Price Increase Count M/M": -0.1915,
+        "Days on Market M/M": 0.0701
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Delaware",
+        "Median Listing Price": 247054,
+        "Median Listing Price M/M": 0.0041,
+        "New Listing Count M/M": -0.1161,
+        "Price Increase Count M/M": -0.1215,
+        "Days on Market M/M": 0.07
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Delaware",
+        "Median Listing Price": 246050,
+        "Median Listing Price M/M": -0.0095,
+        "New Listing Count M/M": -0.1267,
+        "Price Increase Count M/M": 0.5735,
+        "Days on Market M/M": 0.0417
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Delaware",
+        "Median Listing Price": 248422,
+        "Median Listing Price M/M": 0.0017,
+        "New Listing Count M/M": 0.025,
+        "Price Increase Count M/M": -0.2688,
+        "Days on Market M/M": -0.04
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Delaware",
+        "Median Listing Price": 247995,
+        "Median Listing Price M/M": 0.0224,
+        "New Listing Count M/M": -0.0356,
+        "Price Increase Count M/M": 0.1481,
+        "Days on Market M/M": -0.115
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Delaware",
+        "Median Listing Price": 242550,
+        "Median Listing Price M/M": 0.0108,
+        "New Listing Count M/M": 0.2416,
+        "Price Increase Count M/M": 0.1912,
+        "Days on Market M/M": -0.1691
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Delaware",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0019,
+        "New Listing Count M/M": 0.1531,
+        "Price Increase Count M/M": -0.3061,
+        "Days on Market M/M": -0.0456
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Delaware",
+        "Median Listing Price": 239500,
+        "Median Listing Price M/M": 0.0097,
+        "New Listing Count M/M": 0.1581,
+        "Price Increase Count M/M": 0.1529,
+        "Days on Market M/M": 0.0233
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Delaware",
+        "Median Listing Price": 237208,
+        "Median Listing Price M/M": 0.0092,
+        "New Listing Count M/M": 0.4358,
+        "Price Increase Count M/M": 2.8636,
+        "Days on Market M/M": 0.0549
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Delaware",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.3928,
+        "Price Increase Count M/M": 0.0476,
+        "Days on Market M/M": 0.082
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Delaware",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": -0.0032,
+        "New Listing Count M/M": -0.0565,
+        "Price Increase Count M/M": -0.4474,
+        "Days on Market M/M": 0.0041
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Delaware",
+        "Median Listing Price": 235800,
+        "Median Listing Price M/M": -0.0049,
+        "New Listing Count M/M": -0.0535,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.0041
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Delaware",
+        "Median Listing Price": 236950,
+        "Median Listing Price M/M": 0.0062,
+        "New Listing Count M/M": -0.0429,
+        "Price Increase Count M/M": 0.4074,
+        "Days on Market M/M": 0.0383
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Delaware",
+        "Median Listing Price": 235500,
+        "Median Listing Price M/M": 0.0019,
+        "New Listing Count M/M": 0.0231,
+        "Price Increase Count M/M": -0.7353,
+        "Days on Market M/M": 0.078
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Delaware",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0012,
+        "Price Increase Count M/M": 0.275,
+        "Days on Market M/M": 0.0481
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Delaware",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.1075,
+        "Price Increase Count M/M": 0.0256,
+        "Days on Market M/M": 0.0097
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Delaware",
+        "Median Listing Price": 235900,
+        "Median Listing Price M/M": 0.0191,
+        "New Listing Count M/M": -0.0315,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": -0.1159
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Delaware",
+        "Median Listing Price": 231475,
+        "Median Listing Price M/M": 0.0155,
+        "New Listing Count M/M": 0.1486,
+        "Price Increase Count M/M": 0.4625,
+        "Days on Market M/M": -0.1496
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Delaware",
+        "Median Listing Price": 227950,
+        "Median Listing Price M/M": 0.0326,
+        "New Listing Count M/M": 0.1025,
+        "Price Increase Count M/M": -0.2793,
+        "Days on Market M/M": -0.0616
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Delaware",
+        "Median Listing Price": 220750,
+        "Median Listing Price M/M": -0.0033,
+        "New Listing Count M/M": 0.0232,
+        "Price Increase Count M/M": 0.4231,
+        "Days on Market M/M": -0.0331
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Delaware",
+        "Median Listing Price": 221475,
+        "Median Listing Price M/M": -0.0111,
+        "New Listing Count M/M": 0.4563,
+        "Price Increase Count M/M": 0.3448,
+        "Days on Market M/M": 0.0486
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Delaware",
+        "Median Listing Price": 223950,
+        "Median Listing Price M/M": -0.0049,
+        "New Listing Count M/M": -0.0701,
+        "Price Increase Count M/M": 0.1373,
+        "Days on Market M/M": 0.0105
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Delaware",
+        "Median Listing Price": 225044,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2257,
+        "Price Increase Count M/M": -0.1207,
+        "Days on Market M/M": 0.0326
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Delaware",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0437,
+        "Price Increase Count M/M": 0.1154,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Delaware",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": -0.0022,
+        "New Listing Count M/M": -0.0095,
+        "Price Increase Count M/M": 0.04,
+        "Days on Market M/M": 0.0494
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Delaware",
+        "Median Listing Price": 225550,
+        "Median Listing Price M/M": -0.0018,
+        "New Listing Count M/M": 0.0527,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": 0.052
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Delaware",
+        "Median Listing Price": 225950,
+        "Median Listing Price M/M": -0.007,
+        "New Listing Count M/M": -0.1439,
+        "Price Increase Count M/M": -0.2982,
+        "Days on Market M/M": 0.0121
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Delaware",
+        "Median Listing Price": 227550,
+        "Median Listing Price M/M": 0.0111,
+        "New Listing Count M/M": -0.0109,
+        "Price Increase Count M/M": -0.2297,
+        "Days on Market M/M": -0.004
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Delaware",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1693,
+        "Price Increase Count M/M": 0.3962,
+        "Days on Market M/M": -0.057
+    }
+]

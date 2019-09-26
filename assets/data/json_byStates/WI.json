@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 239900,
+        "Median Listing Price M/M": 0.0209,
+        "New Listing Count M/M": 0.404,
+        "Price Increase Count M/M": 0.2273,
+        "Days on Market M/M": -0.2432
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 235000,
+        "Median Listing Price M/M": 0.024,
+        "New Listing Count M/M": 0.3891,
+        "Price Increase Count M/M": 0.0476,
+        "Days on Market M/M": -0.26
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 229500,
+        "Median Listing Price M/M": 0.0338,
+        "New Listing Count M/M": -0.0466,
+        "Price Increase Count M/M": 0.4483,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 222000,
+        "Median Listing Price M/M": 0.0095,
+        "New Listing Count M/M": 0.3883,
+        "Price Increase Count M/M": 0.16,
+        "Days on Market M/M": 0.1236
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 219900,
+        "Median Listing Price M/M": -0.017,
+        "New Listing Count M/M": -0.3027,
+        "Price Increase Count M/M": -0.0566,
+        "Days on Market M/M": 0.1867
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 223700,
+        "Median Listing Price M/M": -0.0053,
+        "New Listing Count M/M": -0.2039,
+        "Price Increase Count M/M": -0.2933,
+        "Days on Market M/M": 0.0714
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 224900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1496,
+        "Price Increase Count M/M": -0.0854,
+        "Days on Market M/M": 0.129
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 224900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1284,
+        "Price Increase Count M/M": -0.1183,
+        "Days on Market M/M": 0.0508
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 224900,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0663,
+        "Price Increase Count M/M": -0.0106,
+        "Days on Market M/M": 0.0926
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 225000,
+        "Median Listing Price M/M": -0.0205,
+        "New Listing Count M/M": -0.0343,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0588
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 229700,
+        "Median Listing Price M/M": 0.0209,
+        "New Listing Count M/M": -0.0622,
+        "Price Increase Count M/M": -0.248,
+        "Days on Market M/M": -0.0377
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 225000,
+        "Median Listing Price M/M": 0.0232,
+        "New Listing Count M/M": 0.2022,
+        "Price Increase Count M/M": 0.3298,
+        "Days on Market M/M": -0.0364
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 219900,
+        "Median Listing Price M/M": 0.0233,
+        "New Listing Count M/M": 0.0865,
+        "Price Increase Count M/M": -0.1132,
+        "Days on Market M/M": -0.2857
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 214900,
+        "Median Listing Price M/M": 0.0382,
+        "New Listing Count M/M": 0.368,
+        "Price Increase Count M/M": 0.7966,
+        "Days on Market M/M": -0.2804
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 207000,
+        "Median Listing Price M/M": 0.0355,
+        "New Listing Count M/M": 0.2805,
+        "Price Increase Count M/M": -0.0635,
+        "Days on Market M/M": -0.0183
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 199900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3486,
+        "Price Increase Count M/M": -0.1,
+        "Days on Market M/M": 0.09
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 199900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.3001,
+        "Price Increase Count M/M": -0.0789,
+        "Days on Market M/M": 0.1494
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 199900,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.2569,
+        "Price Increase Count M/M": -0.1364,
+        "Days on Market M/M": 0.0875
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 200050,
+        "Median Listing Price M/M": -0.0265,
+        "New Listing Count M/M": -0.1644,
+        "Price Increase Count M/M": -0.0538,
+        "Days on Market M/M": 0.0526
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 205500,
+        "Median Listing Price M/M": -0.0062,
+        "New Listing Count M/M": -0.0796,
+        "Price Increase Count M/M": -0.1308,
+        "Days on Market M/M": 0.0857
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 206775,
+        "Median Listing Price M/M": 0.0084,
+        "New Listing Count M/M": -0.0556,
+        "Price Increase Count M/M": 0.1889,
+        "Days on Market M/M": 0.0769
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 205050,
+        "Median Listing Price M/M": 0.0148,
+        "New Listing Count M/M": -0.101,
+        "Price Increase Count M/M": -0.1667,
+        "Days on Market M/M": 0.1111
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 202050,
+        "Median Listing Price M/M": 0.0105,
+        "New Listing Count M/M": -0.0781,
+        "Price Increase Count M/M": 0.1739,
+        "Days on Market M/M": 0.0086
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0251,
+        "New Listing Count M/M": 0.0531,
+        "Price Increase Count M/M": -0.2203,
+        "Days on Market M/M": -0.0645
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 195050,
+        "Median Listing Price M/M": 0.0268,
+        "New Listing Count M/M": 0.1681,
+        "Price Increase Count M/M": 0.1683,
+        "Days on Market M/M": -0.3261
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0298,
+        "New Listing Count M/M": 0.3361,
+        "Price Increase Count M/M": 0.2317,
+        "Days on Market M/M": -0.2137
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 184450,
+        "Median Listing Price M/M": 0.025,
+        "New Listing Count M/M": 0.3145,
+        "Price Increase Count M/M": 0.64,
+        "Days on Market M/M": -0.0085
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.4172,
+        "Price Increase Count M/M": -0.1803,
+        "Days on Market M/M": 0.0876
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": -0.0236,
+        "New Listing Count M/M": -0.3327,
+        "Price Increase Count M/M": -0.1159,
+        "Days on Market M/M": 0.1015
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 184300,
+        "Median Listing Price M/M": -0.0041,
+        "New Listing Count M/M": -0.2088,
+        "Price Increase Count M/M": -0.2159,
+        "Days on Market M/M": 0.0591
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 185050,
+        "Median Listing Price M/M": -0.0078,
+        "New Listing Count M/M": -0.1144,
+        "Price Increase Count M/M": -0.1698,
+        "Days on Market M/M": 0.0508
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 186500,
+        "Median Listing Price M/M": -0.0096,
+        "New Listing Count M/M": -0.104,
+        "Price Increase Count M/M": 0.1042,
+        "Days on Market M/M": 0.0994
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 188300,
+        "Median Listing Price M/M": -0.0013,
+        "New Listing Count M/M": -0.1065,
+        "Price Increase Count M/M": -0.1273,
+        "Days on Market M/M": 0.1027
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 188550,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0749,
+        "Price Increase Count M/M": 0.0784,
+        "Days on Market M/M": 0.0977
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 188550,
+        "Median Listing Price M/M": 0.0195,
+        "New Listing Count M/M": -0.0828,
+        "Price Increase Count M/M": -0.15,
+        "Days on Market M/M": -0.0075
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": 0.0278,
+        "New Listing Count M/M": 0.0424,
+        "Price Increase Count M/M": 0.0909,
+        "Days on Market M/M": -0.141
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0254,
+        "New Listing Count M/M": 0.1328,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": -0.2844
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 175500,
+        "Median Listing Price M/M": 0.0201,
+        "New Listing Count M/M": 0.337,
+        "Price Increase Count M/M": -0.0112,
+        "Days on Market M/M": -0.1138
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 172050,
+        "Median Listing Price M/M": 0.0124,
+        "New Listing Count M/M": 0.2041,
+        "Price Increase Count M/M": 0.2361,
+        "Days on Market M/M": -0.0081
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.4342,
+        "Price Increase Count M/M": 0.3091,
+        "Days on Market M/M": 0.0377
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": -0.0286,
+        "New Listing Count M/M": -0.2589,
+        "Price Increase Count M/M": -0.2949,
+        "Days on Market M/M": 0.1168
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.2094,
+        "Price Increase Count M/M": -0.1789,
+        "Days on Market M/M": 0.0542
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 175000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0615,
+        "Price Increase Count M/M": -0.0206,
+        "Days on Market M/M": 0.0628
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 175000,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.1723,
+        "Price Increase Count M/M": -0.1182,
+        "Days on Market M/M": 0.0977
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.2888,
+        "Price Increase Count M/M": -0.12,
+        "Days on Market M/M": 0.1154
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 175050,
+        "Median Listing Price M/M": -0.0009,
+        "New Listing Count M/M": 0.1163,
+        "Price Increase Count M/M": 0.0504,
+        "Days on Market M/M": 0.0759
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 175200,
+        "Median Listing Price M/M": 0.0014,
+        "New Listing Count M/M": -0.1132,
+        "Price Increase Count M/M": -0.0703,
+        "Days on Market M/M": 0.0069
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": 0.0264,
+        "New Listing Count M/M": 0.0382,
+        "Price Increase Count M/M": 0.2308,
+        "Days on Market M/M": -0.1111
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 170450,
+        "Median Listing Price M/M": 0.0029,
+        "New Listing Count M/M": 0.1037,
+        "Price Increase Count M/M": -0.0545,
+        "Days on Market M/M": -0.3306
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0331,
+        "New Listing Count M/M": 0.3332,
+        "Price Increase Count M/M": 0.1,
+        "Days on Market M/M": -0.097
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 164500,
+        "Median Listing Price M/M": 0.028,
+        "New Listing Count M/M": 0.2021,
+        "Price Increase Count M/M": 0.2987,
+        "Days on Market M/M": 0.019
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 160025,
+        "Median Listing Price M/M": -0.0271,
+        "New Listing Count M/M": 0.4722,
+        "Price Increase Count M/M": 0.0694,
+        "Days on Market M/M": 0.0437
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 164475,
+        "Median Listing Price M/M": -0.0242,
+        "New Listing Count M/M": -0.2188,
+        "Price Increase Count M/M": -0.1628,
+        "Days on Market M/M": 0.1053
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 168550,
+        "Median Listing Price M/M": -0.0082,
+        "New Listing Count M/M": -0.2265,
+        "Price Increase Count M/M": -0.1042,
+        "Days on Market M/M": 0.0755
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1266,
+        "Price Increase Count M/M": -0.0495,
+        "Days on Market M/M": 0.0928
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.117,
+        "Price Increase Count M/M": -0.1293,
+        "Days on Market M/M": 0.1149
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.0623,
+        "Price Increase Count M/M": -0.0085,
+        "Days on Market M/M": 0.1013
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 170050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1176,
+        "Price Increase Count M/M": 0.0636,
+        "Days on Market M/M": 0.0533
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 170050,
+        "Median Listing Price M/M": 0.0032,
+        "New Listing Count M/M": -0.0655,
+        "Price Increase Count M/M": -0.1538,
+        "Days on Market M/M": -0.1018
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 169500,
+        "Median Listing Price M/M": 0.0186,
+        "New Listing Count M/M": 0.1348,
+        "Price Increase Count M/M": 0.1111,
+        "Days on Market M/M": -0.1692
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 166400,
+        "Median Listing Price M/M": 0.0403,
+        "New Listing Count M/M": 0.2182,
+        "Price Increase Count M/M": 0.5811,
+        "Days on Market M/M": -0.2664
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2383,
+        "Price Increase Count M/M": -0.2211,
+        "Days on Market M/M": -0.0108
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0057,
+        "New Listing Count M/M": 0.1291,
+        "Price Increase Count M/M": 0.0795,
+        "Days on Market M/M": 0.0259
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 159050,
+        "Median Listing Price M/M": -0.0031,
+        "New Listing Count M/M": 0.5498,
+        "Price Increase Count M/M": 0.8333,
+        "Days on Market M/M": 0.0887
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 159550,
+        "Median Listing Price M/M": -0.0025,
+        "New Listing Count M/M": -0.3582,
+        "Price Increase Count M/M": -0.4667,
+        "Days on Market M/M": 0.1121
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": -0.0277,
+        "New Listing Count M/M": -0.1613,
+        "Price Increase Count M/M": -0.1176,
+        "Days on Market M/M": 0.0569
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 164500,
+        "Median Listing Price M/M": -0.0027,
+        "New Listing Count M/M": -0.0767,
+        "Price Increase Count M/M": 0.0408,
+        "Days on Market M/M": 0.0765
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.1353,
+        "Price Increase Count M/M": -0.1091,
+        "Days on Market M/M": 0.095
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": -0.0114,
+        "New Listing Count M/M": -0.0517,
+        "Price Increase Count M/M": -0.1729,
+        "Days on Market M/M": 0.0783
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 166950,
+        "Median Listing Price M/M": -0.0095,
+        "New Listing Count M/M": -0.058,
+        "Price Increase Count M/M": 0.0391,
+        "Days on Market M/M": 0.0122
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 168550,
+        "Median Listing Price M/M": 0.0184,
+        "New Listing Count M/M": -0.0793,
+        "Price Increase Count M/M": -0.0078,
+        "Days on Market M/M": -0.0629
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 165500,
+        "Median Listing Price M/M": 0.0119,
+        "New Listing Count M/M": 0.0873,
+        "Price Increase Count M/M": 0.2286,
+        "Days on Market M/M": -0.125
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 163550,
+        "Median Listing Price M/M": 0.0225,
+        "New Listing Count M/M": 0.1977,
+        "Price Increase Count M/M": -0.1102,
+        "Days on Market M/M": -0.2366
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0172,
+        "New Listing Count M/M": 0.1674,
+        "Price Increase Count M/M": 0.2041,
+        "Days on Market M/M": -0.0775
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 157250,
+        "Median Listing Price M/M": 0.0142,
+        "New Listing Count M/M": 0.0875,
+        "Price Increase Count M/M": -0.1091,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 155050,
+        "Median Listing Price M/M": -0.019,
+        "New Listing Count M/M": 0.415,
+        "Price Increase Count M/M": 0.375,
+        "Days on Market M/M": 0.0365
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 158050,
+        "Median Listing Price M/M": -0.0119,
+        "New Listing Count M/M": -0.1951,
+        "Price Increase Count M/M": 0.1594,
+        "Days on Market M/M": 0.0745
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": -0.0053,
+        "New Listing Count M/M": -0.1679,
+        "Price Increase Count M/M": -0.266,
+        "Days on Market M/M": 0.0408
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 160800,
+        "Median Listing Price M/M": -0.0252,
+        "New Listing Count M/M": -0.055,
+        "Price Increase Count M/M": -0.1754,
+        "Days on Market M/M": 0.0381
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.0825,
+        "Price Increase Count M/M": 0.0755,
+        "Days on Market M/M": 0.0727
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": -0.0114,
+        "New Listing Count M/M": -0.0998,
+        "Price Increase Count M/M": 0.1778,
+        "Days on Market M/M": 0.068
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 166950,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": 0.0249,
+        "Price Increase Count M/M": -0.1892,
+        "Days on Market M/M": 0.0619
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 167550,
+        "Median Listing Price M/M": 0.003,
+        "New Listing Count M/M": -0.1176,
+        "Price Increase Count M/M": 0.0472,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Wisconsin",
+        "Median Listing Price": 167050,
+        "Median Listing Price M/M": 0.0127,
+        "New Listing Count M/M": -0.037,
+        "Price Increase Count M/M": 0.2184,
+        "Days on Market M/M": -0.0849
+    }
+]

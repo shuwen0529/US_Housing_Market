@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 625000,
+        "Median Listing Price M/M": 0.0248,
+        "New Listing Count M/M": 0.2785,
+        "Price Increase Count M/M": -0.2143,
+        "Days on Market M/M": -0.1081
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 609900,
+        "Median Listing Price M/M": 0.0167,
+        "New Listing Count M/M": 0.1686,
+        "Price Increase Count M/M": 0.4,
+        "Days on Market M/M": -0.1957
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 599900,
+        "Median Listing Price M/M": 0.0054,
+        "New Listing Count M/M": 0.2605,
+        "Price Increase Count M/M": 0.4286,
+        "Days on Market M/M": -0.2923
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 596700,
+        "Median Listing Price M/M": -0.0038,
+        "New Listing Count M/M": 0.2014,
+        "Price Increase Count M/M": -0.3,
+        "Days on Market M/M": 0.1818
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 599000,
+        "Median Listing Price M/M": -0.0013,
+        "New Listing Count M/M": -0.3236,
+        "Price Increase Count M/M": -0.4118,
+        "Days on Market M/M": 0.3095
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 599800,
+        "Median Listing Price M/M": -0.0357,
+        "New Listing Count M/M": -0.2514,
+        "Price Increase Count M/M": 0.0625,
+        "Days on Market M/M": 0.2727
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 622000,
+        "Median Listing Price M/M": 0.0368,
+        "New Listing Count M/M": -0.1202,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.1081
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 599900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.8035,
+        "Price Increase Count M/M": -0.0588,
+        "Days on Market M/M": -0.0976
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 599900,
+        "Median Listing Price M/M": -0.0084,
+        "New Listing Count M/M": -0.2851,
+        "Price Increase Count M/M": 0.4167,
+        "Days on Market M/M": 0.1081
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 605000,
+        "Median Listing Price M/M": 0.0083,
+        "New Listing Count M/M": -0.0936,
+        "Price Increase Count M/M": -0.2941,
+        "Days on Market M/M": 0.1935
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 600000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.0582,
+        "Price Increase Count M/M": 0.3077,
+        "Days on Market M/M": 0.0333
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 599900,
+        "Median Listing Price M/M": 0.0015,
+        "New Listing Count M/M": 0.0125,
+        "Price Increase Count M/M": -0.2778,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 599000,
+        "Median Listing Price M/M": 0.0111,
+        "New Listing Count M/M": 0.0895,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 592400,
+        "Median Listing Price M/M": 0.0439,
+        "New Listing Count M/M": 0.3892,
+        "Price Increase Count M/M": 0.0909,
+        "Days on Market M/M": -0.2368
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 567500,
+        "Median Listing Price M/M": 0.0296,
+        "New Listing Count M/M": 0.1078,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.3333
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 551200,
+        "Median Listing Price M/M": 0.0022,
+        "New Listing Count M/M": 0.3689,
+        "Price Increase Count M/M": 0.1,
+        "Days on Market M/M": 0.14
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 550000,
+        "Median Listing Price M/M": -0.0747,
+        "New Listing Count M/M": -0.4467,
+        "Price Increase Count M/M": -0.0909,
+        "Days on Market M/M": 0.1905
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 594400,
+        "Median Listing Price M/M": 0.0054,
+        "New Listing Count M/M": -0.1453,
+        "Price Increase Count M/M": -0.3125,
+        "Days on Market M/M": 0.3125
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 591244,
+        "Median Listing Price M/M": 0.0071,
+        "New Listing Count M/M": -0.1623,
+        "Price Increase Count M/M": -0.0588,
+        "Days on Market M/M": -0.0857
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 587050,
+        "Median Listing Price M/M": 0.0673,
+        "New Listing Count M/M": 0.8554,
+        "Price Increase Count M/M": -0.15,
+        "Days on Market M/M": -0.2135
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 550050,
+        "Median Listing Price M/M": -0.0832,
+        "New Listing Count M/M": -0.1309,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": 0.2714
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 599950,
+        "Median Listing Price M/M": -0.0284,
+        "New Listing Count M/M": -0.2751,
+        "Price Increase Count M/M": 0.2308,
+        "Days on Market M/M": 0.129
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 617500,
+        "Median Listing Price M/M": 0.0291,
+        "New Listing Count M/M": -0.0623,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.1923
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 600024,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0891,
+        "Price Increase Count M/M": 1.1667,
+        "Days on Market M/M": -0.1613
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 600044,
+        "Median Listing Price M/M": 0.0046,
+        "New Listing Count M/M": 0.2257,
+        "Price Increase Count M/M": -0.5,
+        "Days on Market M/M": -0.0313
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 597300,
+        "Median Listing Price M/M": 0.0351,
+        "New Listing Count M/M": 0.0293,
+        "Price Increase Count M/M": -0.0769,
+        "Days on Market M/M": -0.1351
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 577050,
+        "Median Listing Price M/M": 0.0035,
+        "New Listing Count M/M": 0.1425,
+        "Price Increase Count M/M": 0.625,
+        "Days on Market M/M": -0.3148
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 575050,
+        "Median Listing Price M/M": 0.0314,
+        "New Listing Count M/M": 0.4206,
+        "Price Increase Count M/M": 1.0,
+        "Days on Market M/M": 0.1739
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 557550,
+        "Median Listing Price M/M": -0.0202,
+        "New Listing Count M/M": -0.362,
+        "Price Increase Count M/M": -0.5556,
+        "Days on Market M/M": 0.2105
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 569050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0271,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": 0.2258
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 569050,
+        "Median Listing Price M/M": 0.0216,
+        "New Listing Count M/M": -0.2698,
+        "Price Increase Count M/M": -0.2941,
+        "Days on Market M/M": -0.1268
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 557000,
+        "Median Listing Price M/M": -0.0046,
+        "New Listing Count M/M": 0.817,
+        "Price Increase Count M/M": 0.5455,
+        "Days on Market M/M": -0.1744
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 559550,
+        "Median Listing Price M/M": -0.0394,
+        "New Listing Count M/M": -0.2234,
+        "Price Increase Count M/M": 0.1,
+        "Days on Market M/M": 0.1026
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 582500,
+        "Median Listing Price M/M": 0.0001,
+        "New Listing Count M/M": -0.1005,
+        "Price Increase Count M/M": -0.1667,
+        "Days on Market M/M": 0.0833
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 582450,
+        "Median Listing Price M/M": 0.0043,
+        "New Listing Count M/M": -0.0478,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": 0.1613
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 579950,
+        "Median Listing Price M/M": 0.0061,
+        "New Listing Count M/M": -0.1154,
+        "Price Increase Count M/M": 0.1429,
+        "Days on Market M/M": 0.0877
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 576425,
+        "Median Listing Price M/M": 0.0615,
+        "New Listing Count M/M": 0.0744,
+        "Price Increase Count M/M": 0.2727,
+        "Days on Market M/M": -0.0806
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 543050,
+        "Median Listing Price M/M": 0.0343,
+        "New Listing Count M/M": 0.4622,
+        "Price Increase Count M/M": -0.1538,
+        "Days on Market M/M": -0.2791
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 525050,
+        "Median Listing Price M/M": 0.0314,
+        "New Listing Count M/M": 0.1414,
+        "Price Increase Count M/M": 0.625,
+        "Days on Market M/M": -0.2833
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 509050,
+        "Median Listing Price M/M": -0.0233,
+        "New Listing Count M/M": 0.3551,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.1215
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 521175,
+        "Median Listing Price M/M": -0.0332,
+        "New Listing Count M/M": -0.3989,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.3375
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 539050,
+        "Median Listing Price M/M": -0.0054,
+        "New Listing Count M/M": -0.1927,
+        "Price Increase Count M/M": -0.2,
+        "Days on Market M/M": 0.25
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 541999,
+        "Median Listing Price M/M": 0.0271,
+        "New Listing Count M/M": -0.16,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.0857
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 527675,
+        "Median Listing Price M/M": 0.0205,
+        "New Listing Count M/M": 0.3963,
+        "Price Increase Count M/M": 0.0714,
+        "Days on Market M/M": -0.1463
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 517050,
+        "Median Listing Price M/M": -0.0152,
+        "New Listing Count M/M": -0.1826,
+        "Price Increase Count M/M": 0.0769,
+        "Days on Market M/M": 0.0933
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 525050,
+        "Median Listing Price M/M": 0.0024,
+        "New Listing Count M/M": -0.0688,
+        "Price Increase Count M/M": -0.1333,
+        "Days on Market M/M": 0.2097
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 523797,
+        "Median Listing Price M/M": -0.0024,
+        "New Listing Count M/M": -0.0426,
+        "Price Increase Count M/M": -0.0625,
+        "Days on Market M/M": 0.1481
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 525050,
+        "Median Listing Price M/M": -0.0013,
+        "New Listing Count M/M": -0.0096,
+        "Price Increase Count M/M": 0.4545,
+        "Days on Market M/M": -0.027
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 525721,
+        "Median Listing Price M/M": 0.075,
+        "New Listing Count M/M": 0.2005,
+        "Price Increase Count M/M": -0.0833,
+        "Days on Market M/M": -0.25
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 489050,
+        "Median Listing Price M/M": 0.0241,
+        "New Listing Count M/M": 0.3152,
+        "Price Increase Count M/M": -0.0769,
+        "Days on Market M/M": -0.1957
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 477550,
+        "Median Listing Price M/M": 0.0107,
+        "New Listing Count M/M": 0.1458,
+        "Price Increase Count M/M": 0.3,
+        "Days on Market M/M": -0.284
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 472500,
+        "Median Listing Price M/M": -0.0095,
+        "New Listing Count M/M": 0.44,
+        "Price Increase Count M/M": -0.2308,
+        "Days on Market M/M": 0.1272
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 477050,
+        "Median Listing Price M/M": -0.0165,
+        "New Listing Count M/M": -0.4595,
+        "Price Increase Count M/M": 1.1667,
+        "Days on Market M/M": 0.2667
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 485050,
+        "Median Listing Price M/M": -0.0101,
+        "New Listing Count M/M": -0.1553,
+        "Price Increase Count M/M": -0.5385,
+        "Days on Market M/M": 0.25
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 489999,
+        "Median Listing Price M/M": -0.0142,
+        "New Listing Count M/M": -0.2289,
+        "Price Increase Count M/M": -0.1875,
+        "Days on Market M/M": 0.0746
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 497050,
+        "Median Listing Price M/M": 0.1069,
+        "New Listing Count M/M": 0.6512,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": -0.2872
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 449050,
+        "Median Listing Price M/M": -0.0022,
+        "New Listing Count M/M": -0.2092,
+        "Price Increase Count M/M": -0.2,
+        "Days on Market M/M": 0.2129
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 450046,
+        "Median Listing Price M/M": -0.0424,
+        "New Listing Count M/M": -0.2148,
+        "Price Increase Count M/M": 0.0714,
+        "Days on Market M/M": 0.0473
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 469950,
+        "Median Listing Price M/M": -0.0107,
+        "New Listing Count M/M": 0.0884,
+        "Price Increase Count M/M": -0.3913,
+        "Days on Market M/M": -0.1957
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 475045,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0591,
+        "Price Increase Count M/M": 0.5333,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 475050,
+        "Median Listing Price M/M": 0.0349,
+        "New Listing Count M/M": 0.3525,
+        "Price Increase Count M/M": 0.0714,
+        "Days on Market M/M": -0.2203
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 459050,
+        "Median Listing Price M/M": 0.02,
+        "New Listing Count M/M": 0.2308,
+        "Price Increase Count M/M": -0.2632,
+        "Days on Market M/M": -0.2107
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 450050,
+        "Median Listing Price M/M": -0.0055,
+        "New Listing Count M/M": 0.0031,
+        "Price Increase Count M/M": 0.9,
+        "Days on Market M/M": 0.017
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 452550,
+        "Median Listing Price M/M": -0.0161,
+        "New Listing Count M/M": 0.5882,
+        "Price Increase Count M/M": -0.5,
+        "Days on Market M/M": 0.2049
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 459950,
+        "Median Listing Price M/M": -0.0458,
+        "New Listing Count M/M": -0.4809,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.3261
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 482050,
+        "Median Listing Price M/M": -0.0103,
+        "New Listing Count M/M": -0.1382,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": 0.15
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 487050,
+        "Median Listing Price M/M": 0.0362,
+        "New Listing Count M/M": -0.1618,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": -0.1667
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 470050,
+        "Median Listing Price M/M": 0.0331,
+        "New Listing Count M/M": 0.4392,
+        "Price Increase Count M/M": -0.4194,
+        "Days on Market M/M": -0.068
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 455000,
+        "Median Listing Price M/M": -0.0216,
+        "New Listing Count M/M": -0.137,
+        "Price Increase Count M/M": 0.4091,
+        "Days on Market M/M": 0.1573
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 465050,
+        "Median Listing Price M/M": -0.0411,
+        "New Listing Count M/M": -0.0837,
+        "Price Increase Count M/M": -0.2143,
+        "Days on Market M/M": 0.141
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 485000,
+        "Median Listing Price M/M": 0.0606,
+        "New Listing Count M/M": -0.0324,
+        "Price Increase Count M/M": 0.8667,
+        "Days on Market M/M": 0.0833
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 457300,
+        "Median Listing Price M/M": 0.0525,
+        "New Listing Count M/M": 0.0186,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": -0.0526
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 434500,
+        "Median Listing Price M/M": 0.0127,
+        "New Listing Count M/M": 0.1659,
+        "Price Increase Count M/M": -0.0909,
+        "Days on Market M/M": -0.1163
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 429050,
+        "Median Listing Price M/M": 0.0082,
+        "New Listing Count M/M": 0.2455,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.3676
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 425549,
+        "Median Listing Price M/M": 0.0639,
+        "New Listing Count M/M": 0.0405,
+        "Price Increase Count M/M": 0.375,
+        "Days on Market M/M": -0.1758
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 400000,
+        "Median Listing Price M/M": -0.0001,
+        "New Listing Count M/M": 0.2159,
+        "Price Increase Count M/M": 0.1429,
+        "Days on Market M/M": 0.1301
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 400050,
+        "Median Listing Price M/M": -0.0587,
+        "New Listing Count M/M": -0.0294,
+        "Price Increase Count M/M": -0.1765,
+        "Days on Market M/M": 0.2269
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 425000,
+        "Median Listing Price M/M": 0.0095,
+        "New Listing Count M/M": -0.2747,
+        "Price Increase Count M/M": 0.3077,
+        "Days on Market M/M": 0.1442
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 421000,
+        "Median Listing Price M/M": 0.0534,
+        "New Listing Count M/M": -0.1812,
+        "Price Increase Count M/M": -0.0714,
+        "Days on Market M/M": -0.1475
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 399675,
+        "Median Listing Price M/M": 0.0273,
+        "New Listing Count M/M": 0.3921,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.0963
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 389050,
+        "Median Listing Price M/M": -0.0251,
+        "New Listing Count M/M": -0.0653,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0887
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 399050,
+        "Median Listing Price M/M": -0.016,
+        "New Listing Count M/M": -0.2331,
+        "Price Increase Count M/M": -0.2222,
+        "Days on Market M/M": 0.1481
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 405525,
+        "Median Listing Price M/M": 0.0151,
+        "New Listing Count M/M": 0.0432,
+        "Price Increase Count M/M": -0.1818,
+        "Days on Market M/M": 0.0588
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "District of Columbia",
+        "Median Listing Price": 399500,
+        "Median Listing Price M/M": 0.0081,
+        "New Listing Count M/M": -0.1941,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.0097
+    }
+]

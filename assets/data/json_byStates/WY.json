@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Wyoming",
+        "Median Listing Price": 251500,
+        "Median Listing Price M/M": 0.0064,
+        "New Listing Count M/M": 0.1584,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": -0.1832
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Wyoming",
+        "Median Listing Price": 249900,
+        "Median Listing Price M/M": 0.0016,
+        "New Listing Count M/M": 0.2393,
+        "Price Increase Count M/M": -0.4,
+        "Days on Market M/M": 0.0077
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Wyoming",
+        "Median Listing Price": 249500,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0316,
+        "Price Increase Count M/M": 0.4286,
+        "Days on Market M/M": 0.0484
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Wyoming",
+        "Median Listing Price": 249500,
+        "Median Listing Price M/M": -0.002,
+        "New Listing Count M/M": 0.5192,
+        "Price Increase Count M/M": 0.75,
+        "Days on Market M/M": 0.0508
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Wyoming",
+        "Median Listing Price": 250000,
+        "Median Listing Price M/M": -0.0196,
+        "New Listing Count M/M": -0.4206,
+        "Price Increase Count M/M": -0.2727,
+        "Days on Market M/M": 0.1569
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Wyoming",
+        "Median Listing Price": 255000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0602,
+        "Price Increase Count M/M": -0.3529,
+        "Days on Market M/M": 0.0737
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Wyoming",
+        "Median Listing Price": 255000,
+        "Median Listing Price M/M": -0.0154,
+        "New Listing Count M/M": -0.1198,
+        "Price Increase Count M/M": 0.7,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Wyoming",
+        "Median Listing Price": 259000,
+        "Median Listing Price M/M": -0.0038,
+        "New Listing Count M/M": -0.1161,
+        "Price Increase Count M/M": -0.2308,
+        "Days on Market M/M": 0.0976
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Wyoming",
+        "Median Listing Price": 260000,
+        "Median Listing Price M/M": -0.0185,
+        "New Listing Count M/M": -0.0594,
+        "Price Increase Count M/M": 0.0833,
+        "Days on Market M/M": 0.0789
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Wyoming",
+        "Median Listing Price": 264900,
+        "Median Listing Price M/M": 0.0188,
+        "New Listing Count M/M": -0.0457,
+        "Price Increase Count M/M": -0.5385,
+        "Days on Market M/M": 0.0133
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Wyoming",
+        "Median Listing Price": 260000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0617,
+        "Price Increase Count M/M": 0.0833,
+        "Days on Market M/M": -0.0132
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Wyoming",
+        "Median Listing Price": 260000,
+        "Median Listing Price M/M": 0.0196,
+        "New Listing Count M/M": 0.1522,
+        "Price Increase Count M/M": 0.2,
+        "Days on Market M/M": -0.1264
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Wyoming",
+        "Median Listing Price": 255000,
+        "Median Listing Price M/M": 0.0159,
+        "New Listing Count M/M": 0.014,
+        "Price Increase Count M/M": -0.1304,
+        "Days on Market M/M": -0.2869
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Wyoming",
+        "Median Listing Price": 251000,
+        "Median Listing Price M/M": 0.008,
+        "New Listing Count M/M": 0.3378,
+        "Price Increase Count M/M": 0.6429,
+        "Days on Market M/M": -0.0687
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Wyoming",
+        "Median Listing Price": 249000,
+        "Median Listing Price M/M": 0.0093,
+        "New Listing Count M/M": 0.039,
+        "Price Increase Count M/M": 0.2727,
+        "Days on Market M/M": 0.0077
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Wyoming",
+        "Median Listing Price": 246700,
+        "Median Listing Price M/M": 0.0102,
+        "New Listing Count M/M": 0.4246,
+        "Price Increase Count M/M": 0.375,
+        "Days on Market M/M": 0.0484
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Wyoming",
+        "Median Listing Price": 244200,
+        "Median Listing Price M/M": 0.007,
+        "New Listing Count M/M": -0.1923,
+        "Price Increase Count M/M": 0.1429,
+        "Days on Market M/M": 0.1273
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Wyoming",
+        "Median Listing Price": 242500,
+        "Median Listing Price M/M": -0.0257,
+        "New Listing Count M/M": -0.1429,
+        "Price Increase Count M/M": -0.5,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Wyoming",
+        "Median Listing Price": 248950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.251,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0929
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Wyoming",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.005,
+        "New Listing Count M/M": -0.1164,
+        "Price Increase Count M/M": -0.0667,
+        "Days on Market M/M": 0.1296
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Wyoming",
+        "Median Listing Price": 247800,
+        "Median Listing Price M/M": -0.005,
+        "New Listing Count M/M": -0.0248,
+        "Price Increase Count M/M": -0.0625,
+        "Days on Market M/M": 0.08
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Wyoming",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0163,
+        "New Listing Count M/M": -0.162,
+        "Price Increase Count M/M": -0.1579,
+        "Days on Market M/M": 0.0274
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Wyoming",
+        "Median Listing Price": 245050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1254,
+        "Price Increase Count M/M": 0.7273,
+        "Days on Market M/M": -0.0331
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Wyoming",
+        "Median Listing Price": 245050,
+        "Median Listing Price M/M": 0.0213,
+        "New Listing Count M/M": 0.1199,
+        "Price Increase Count M/M": -0.2143,
+        "Days on Market M/M": -0.2053
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Wyoming",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0008,
+        "New Listing Count M/M": 0.2361,
+        "Price Increase Count M/M": -0.0667,
+        "Days on Market M/M": -0.2549
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Wyoming",
+        "Median Listing Price": 239750,
+        "Median Listing Price M/M": 0.02,
+        "New Listing Count M/M": 0.1644,
+        "Price Increase Count M/M": -0.0625,
+        "Days on Market M/M": -0.0556
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Wyoming",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2045,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Wyoming",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": -0.0057,
+        "New Listing Count M/M": 0.1365,
+        "Price Increase Count M/M": -0.2941,
+        "Days on Market M/M": 0.0588
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Wyoming",
+        "Median Listing Price": 236400,
+        "Median Listing Price M/M": -0.0121,
+        "New Listing Count M/M": -0.0814,
+        "Price Increase Count M/M": 0.5455,
+        "Days on Market M/M": 0.1087
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Wyoming",
+        "Median Listing Price": 239300,
+        "Median Listing Price M/M": -0.0231,
+        "New Listing Count M/M": -0.2358,
+        "Price Increase Count M/M": -0.5,
+        "Days on Market M/M": 0.0748
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Wyoming",
+        "Median Listing Price": 244950,
+        "Median Listing Price M/M": -0.0118,
+        "New Listing Count M/M": -0.0831,
+        "Price Increase Count M/M": 0.1579,
+        "Days on Market M/M": 0.0863
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Wyoming",
+        "Median Listing Price": 247875,
+        "Median Listing Price M/M": 0.0057,
+        "New Listing Count M/M": -0.1155,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.1006
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Wyoming",
+        "Median Listing Price": 246475,
+        "Median Listing Price M/M": -0.01,
+        "New Listing Count M/M": -0.0916,
+        "Price Increase Count M/M": 0.1875,
+        "Days on Market M/M": 0.0783
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Wyoming",
+        "Median Listing Price": 248975,
+        "Median Listing Price M/M": 0.016,
+        "New Listing Count M/M": -0.0626,
+        "Price Increase Count M/M": -0.2727,
+        "Days on Market M/M": 0.0993
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Wyoming",
+        "Median Listing Price": 245050,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": 0.0164,
+        "Price Increase Count M/M": -0.0833,
+        "Days on Market M/M": 0.0067
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Wyoming",
+        "Median Listing Price": 245000,
+        "Median Listing Price M/M": 0.0206,
+        "New Listing Count M/M": -0.0231,
+        "Price Increase Count M/M": 0.7143,
+        "Days on Market M/M": -0.1228
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Wyoming",
+        "Median Listing Price": 240050,
+        "Median Listing Price M/M": -0.0204,
+        "New Listing Count M/M": 0.1513,
+        "Price Increase Count M/M": -0.2632,
+        "Days on Market M/M": -0.2629
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Wyoming",
+        "Median Listing Price": 245050,
+        "Median Listing Price M/M": 0.0109,
+        "New Listing Count M/M": 0.3932,
+        "Price Increase Count M/M": 0.2667,
+        "Days on Market M/M": -0.072
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Wyoming",
+        "Median Listing Price": 242400,
+        "Median Listing Price M/M": 0.0098,
+        "New Listing Count M/M": 0.0263,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.0163
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Wyoming",
+        "Median Listing Price": 240050,
+        "Median Listing Price M/M": -0.02,
+        "New Listing Count M/M": 0.5688,
+        "Price Increase Count M/M": 0.4286,
+        "Days on Market M/M": 0.0558
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Wyoming",
+        "Median Listing Price": 244950,
+        "Median Listing Price M/M": -0.0163,
+        "New Listing Count M/M": -0.3057,
+        "Price Increase Count M/M": -0.65,
+        "Days on Market M/M": 0.1311
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Wyoming",
+        "Median Listing Price": 249000,
+        "Median Listing Price M/M": -0.0012,
+        "New Listing Count M/M": -0.199,
+        "Price Increase Count M/M": 0.4286,
+        "Days on Market M/M": 0.0899
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Wyoming",
+        "Median Listing Price": 249300,
+        "Median Listing Price M/M": -0.0028,
+        "New Listing Count M/M": -0.0508,
+        "Price Increase Count M/M": -0.125,
+        "Days on Market M/M": 0.0925
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Wyoming",
+        "Median Listing Price": 250000,
+        "Median Listing Price M/M": -0.0081,
+        "New Listing Count M/M": -0.1287,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": 0.0949
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Wyoming",
+        "Median Listing Price": 252050,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.25,
+        "Price Increase Count M/M": -0.0526,
+        "Days on Market M/M": 0.0604
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Wyoming",
+        "Median Listing Price": 252200,
+        "Median Listing Price M/M": 0.0086,
+        "New Listing Count M/M": -0.011,
+        "Price Increase Count M/M": -0.0952,
+        "Days on Market M/M": 0.0068
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Wyoming",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": 0.1618,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": -0.075
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Wyoming",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0126,
+        "New Listing Count M/M": -0.0126,
+        "Price Increase Count M/M": -0.0667,
+        "Days on Market M/M": -0.1489
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Wyoming",
+        "Median Listing Price": 246850,
+        "Median Listing Price M/M": 0.0073,
+        "New Listing Count M/M": 0.1461,
+        "Price Increase Count M/M": -0.4231,
+        "Days on Market M/M": -0.2358
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Wyoming",
+        "Median Listing Price": 245050,
+        "Median Listing Price M/M": 0.0031,
+        "New Listing Count M/M": 0.1408,
+        "Price Increase Count M/M": -0.0714,
+        "Days on Market M/M": -0.0646
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Wyoming",
+        "Median Listing Price": 244300,
+        "Median Listing Price M/M": -0.001,
+        "New Listing Count M/M": 0.0867,
+        "Price Increase Count M/M": 0.5556,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Wyoming",
+        "Median Listing Price": 244550,
+        "Median Listing Price M/M": 0.0062,
+        "New Listing Count M/M": 0.2895,
+        "Price Increase Count M/M": 0.8,
+        "Days on Market M/M": 0.0395
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Wyoming",
+        "Median Listing Price": 243050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1828,
+        "Price Increase Count M/M": -0.375,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Wyoming",
+        "Median Listing Price": 243050,
+        "Median Listing Price M/M": 0.0128,
+        "New Listing Count M/M": -0.0723,
+        "Price Increase Count M/M": -0.1579,
+        "Days on Market M/M": 0.055
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Wyoming",
+        "Median Listing Price": 239975,
+        "Median Listing Price M/M": -0.0096,
+        "New Listing Count M/M": -0.0739,
+        "Price Increase Count M/M": -0.24,
+        "Days on Market M/M": 0.1066
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Wyoming",
+        "Median Listing Price": 242300,
+        "Median Listing Price M/M": 0.0094,
+        "New Listing Count M/M": -0.1981,
+        "Price Increase Count M/M": -0.0385,
+        "Days on Market M/M": 0.1322
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Wyoming",
+        "Median Listing Price": 240050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.0609,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.0545
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Wyoming",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0088,
+        "New Listing Count M/M": -0.1016,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": -0.006
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Wyoming",
+        "Median Listing Price": 237850,
+        "Median Listing Price M/M": 0.0313,
+        "New Listing Count M/M": 0.113,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.1487
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Wyoming",
+        "Median Listing Price": 230625,
+        "Median Listing Price M/M": 0.0248,
+        "New Listing Count M/M": 0.0708,
+        "Price Increase Count M/M": 0.5294,
+        "Days on Market M/M": -0.2041
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Wyoming",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1776,
+        "Price Increase Count M/M": 0.0625,
+        "Days on Market M/M": -0.1493
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Wyoming",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.002,
+        "New Listing Count M/M": 0.3571,
+        "Price Increase Count M/M": -0.0588,
+        "Days on Market M/M": -0.0464
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Wyoming",
+        "Median Listing Price": 224600,
+        "Median Listing Price M/M": 0.021,
+        "New Listing Count M/M": -0.0372,
+        "Price Increase Count M/M": 0.1333,
+        "Days on Market M/M": 0.0468
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Wyoming",
+        "Median Listing Price": 219987,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": 0.2289,
+        "Price Increase Count M/M": -0.0625,
+        "Days on Market M/M": 0.1182
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Wyoming",
+        "Median Listing Price": 220050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2345,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": 0.0979
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Wyoming",
+        "Median Listing Price": 220050,
+        "Median Listing Price M/M": -0.0222,
+        "New Listing Count M/M": -0.0771,
+        "Price Increase Count M/M": -0.4375,
+        "Days on Market M/M": 0.0829
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Wyoming",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1694,
+        "Price Increase Count M/M": 0.7778,
+        "Days on Market M/M": 0.1186
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Wyoming",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1684,
+        "Price Increase Count M/M": -0.4,
+        "Days on Market M/M": 0.0778
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Wyoming",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": 0.0139,
+        "Price Increase Count M/M": 1.1429,
+        "Days on Market M/M": 0.0227
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Wyoming",
+        "Median Listing Price": 224950,
+        "Median Listing Price M/M": 0.0153,
+        "New Listing Count M/M": -0.1329,
+        "Price Increase Count M/M": -0.5,
+        "Days on Market M/M": 0.0233
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Wyoming",
+        "Median Listing Price": 221550,
+        "Median Listing Price M/M": 0.0068,
+        "New Listing Count M/M": 0.0764,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": -0.0444
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Wyoming",
+        "Median Listing Price": 220050,
+        "Median Listing Price M/M": 0.0011,
+        "New Listing Count M/M": 0.1061,
+        "Price Increase Count M/M": -0.2759,
+        "Days on Market M/M": -0.1
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Wyoming",
+        "Median Listing Price": 219812,
+        "Median Listing Price M/M": 0.0069,
+        "New Listing Count M/M": 0.0451,
+        "Price Increase Count M/M": 0.6111,
+        "Days on Market M/M": -0.2366
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Wyoming",
+        "Median Listing Price": 218300,
+        "Median Listing Price M/M": 0.0151,
+        "New Listing Count M/M": 0.223,
+        "Price Increase Count M/M": -0.2174,
+        "Days on Market M/M": -0.0576
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Wyoming",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0357,
+        "Price Increase Count M/M": 0.4375,
+        "Days on Market M/M": 0.0036
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Wyoming",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.4483,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.0654
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Wyoming",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": -0.0194,
+        "New Listing Count M/M": -0.1471,
+        "Price Increase Count M/M": 0.8462,
+        "Days on Market M/M": 0.0656
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Wyoming",
+        "Median Listing Price": 219300,
+        "Median Listing Price M/M": -0.0034,
+        "New Listing Count M/M": -0.1807,
+        "Price Increase Count M/M": -0.3158,
+        "Days on Market M/M": 0.0383
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Wyoming",
+        "Median Listing Price": 220050,
+        "Median Listing Price M/M": -0.0222,
+        "New Listing Count M/M": -0.1208,
+        "Price Increase Count M/M": 0.5833,
+        "Days on Market M/M": 0.119
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Wyoming",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0598,
+        "Price Increase Count M/M": -0.5714,
+        "Days on Market M/M": 0.0938
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Wyoming",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0528,
+        "Price Increase Count M/M": 1.0,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Wyoming",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1808,
+        "Price Increase Count M/M": 0.0769,
+        "Days on Market M/M": 0.0286
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Wyoming",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0152,
+        "Price Increase Count M/M": -0.48,
+        "Days on Market M/M": -0.0838
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Wyoming",
+        "Median Listing Price": 224972,
+        "Median Listing Price M/M": 0.0011,
+        "New Listing Count M/M": 0.1426,
+        "Price Increase Count M/M": 0.5625,
+        "Days on Market M/M": -0.1838
+    }
+]

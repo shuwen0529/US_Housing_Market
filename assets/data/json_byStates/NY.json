@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "New York",
+        "Median Listing Price": 449900,
+        "Median Listing Price M/M": 0.0227,
+        "New Listing Count M/M": 0.0864,
+        "Price Increase Count M/M": -0.0636,
+        "Days on Market M/M": -0.2
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "New York",
+        "Median Listing Price": 439900,
+        "Median Listing Price M/M": 0.0242,
+        "New Listing Count M/M": 0.334,
+        "Price Increase Count M/M": 0.2582,
+        "Days on Market M/M": -0.1429
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "New York",
+        "Median Listing Price": 429500,
+        "Median Listing Price M/M": 0.03,
+        "New Listing Count M/M": -0.0062,
+        "Price Increase Count M/M": -0.0864,
+        "Days on Market M/M": 0.0096
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "New York",
+        "Median Listing Price": 417000,
+        "Median Listing Price M/M": 0.0048,
+        "New Listing Count M/M": 0.393,
+        "Price Increase Count M/M": 0.3087,
+        "Days on Market M/M": 0.0947
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "New York",
+        "Median Listing Price": 415000,
+        "Median Listing Price M/M": -0.0095,
+        "New Listing Count M/M": -0.2802,
+        "Price Increase Count M/M": -0.145,
+        "Days on Market M/M": 0.1047
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "New York",
+        "Median Listing Price": 419000,
+        "Median Listing Price M/M": 0.0282,
+        "New Listing Count M/M": -0.2586,
+        "Price Increase Count M/M": -0.1774,
+        "Days on Market M/M": 0.0361
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "New York",
+        "Median Listing Price": 407500,
+        "Median Listing Price M/M": 0.0092,
+        "New Listing Count M/M": -0.0083,
+        "Price Increase Count M/M": -0.0917,
+        "Days on Market M/M": 0.0122
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "New York",
+        "Median Listing Price": 403800,
+        "Median Listing Price M/M": 0.0095,
+        "New Listing Count M/M": 0.0886,
+        "Price Increase Count M/M": -0.0217,
+        "Days on Market M/M": 0.1081
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "New York",
+        "Median Listing Price": 400000,
+        "Median Listing Price M/M": -0.0453,
+        "New Listing Count M/M": -0.1287,
+        "Price Increase Count M/M": -0.1598,
+        "Days on Market M/M": 0.0882
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "New York",
+        "Median Listing Price": 419000,
+        "Median Listing Price M/M": -0.0183,
+        "New Listing Count M/M": -0.1118,
+        "Price Increase Count M/M": 0.0683,
+        "Days on Market M/M": 0.0968
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "New York",
+        "Median Listing Price": 426800,
+        "Median Listing Price M/M": -0.0051,
+        "New Listing Count M/M": -0.0103,
+        "Price Increase Count M/M": 0.0302,
+        "Days on Market M/M": -0.0462
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "New York",
+        "Median Listing Price": 429000,
+        "Median Listing Price M/M": 0.0337,
+        "New Listing Count M/M": 0.0964,
+        "Price Increase Count M/M": -0.0829,
+        "Days on Market M/M": -0.1216
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "New York",
+        "Median Listing Price": 415000,
+        "Median Listing Price M/M": 0.0388,
+        "New Listing Count M/M": 0.2361,
+        "Price Increase Count M/M": 0.1391,
+        "Days on Market M/M": -0.2043
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "New York",
+        "Median Listing Price": 399500,
+        "Median Listing Price M/M": 0.0296,
+        "New Listing Count M/M": 0.1087,
+        "Price Increase Count M/M": 0.233,
+        "Days on Market M/M": -0.1308
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "New York",
+        "Median Listing Price": 388000,
+        "Median Listing Price M/M": 0.0793,
+        "New Listing Count M/M": 0.2455,
+        "Price Increase Count M/M": 0.2023,
+        "Days on Market M/M": -0.0093
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "New York",
+        "Median Listing Price": 359500,
+        "Median Listing Price M/M": 0.0184,
+        "New Listing Count M/M": 0.462,
+        "Price Increase Count M/M": 0.0198,
+        "Days on Market M/M": 0.08
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "New York",
+        "Median Listing Price": 353000,
+        "Median Listing Price M/M": 0.0086,
+        "New Listing Count M/M": -0.3621,
+        "Price Increase Count M/M": -0.2632,
+        "Days on Market M/M": 0.0753
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "New York",
+        "Median Listing Price": 350000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1778,
+        "Price Increase Count M/M": 0.0301,
+        "Days on Market M/M": 0.0449
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "New York",
+        "Median Listing Price": 350050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0452,
+        "Price Increase Count M/M": -0.17,
+        "Days on Market M/M": 0.0349
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "New York",
+        "Median Listing Price": 349950,
+        "Median Listing Price M/M": 0.0011,
+        "New Listing Count M/M": -0.0564,
+        "Price Increase Count M/M": 0.061,
+        "Days on Market M/M": 0.075
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "New York",
+        "Median Listing Price": 349550,
+        "Median Listing Price M/M": -0.0124,
+        "New Listing Count M/M": -0.066,
+        "Price Increase Count M/M": -0.0383,
+        "Days on Market M/M": 0.0959
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "New York",
+        "Median Listing Price": 353950,
+        "Median Listing Price M/M": -0.0142,
+        "New Listing Count M/M": -0.0658,
+        "Price Increase Count M/M": -0.105,
+        "Days on Market M/M": 0.0896
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "New York",
+        "Median Listing Price": 359050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0909,
+        "Price Increase Count M/M": 0.0355,
+        "Days on Market M/M": -0.0147
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "New York",
+        "Median Listing Price": 359050,
+        "Median Listing Price M/M": 0.0286,
+        "New Listing Count M/M": 0.1142,
+        "Price Increase Count M/M": 0.1016,
+        "Days on Market M/M": -0.1053
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "New York",
+        "Median Listing Price": 349050,
+        "Median Listing Price M/M": 0.0421,
+        "New Listing Count M/M": 0.3722,
+        "Price Increase Count M/M": 0.1925,
+        "Days on Market M/M": -0.2585
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "New York",
+        "Median Listing Price": 334950,
+        "Median Listing Price M/M": 0.0242,
+        "New Listing Count M/M": 0.0101,
+        "Price Increase Count M/M": -0.0904,
+        "Days on Market M/M": -0.0682
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "New York",
+        "Median Listing Price": 327050,
+        "Median Listing Price M/M": 0.0582,
+        "New Listing Count M/M": 0.1428,
+        "Price Increase Count M/M": 0.1959,
+        "Days on Market M/M": -0.0351
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "New York",
+        "Median Listing Price": 309050,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": 0.284,
+        "Price Increase Count M/M": -0.0543,
+        "Days on Market M/M": 0.0806
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "New York",
+        "Median Listing Price": 309500,
+        "Median Listing Price M/M": -0.0175,
+        "New Listing Count M/M": -0.3096,
+        "Price Increase Count M/M": 0.0129,
+        "Days on Market M/M": 0.0446
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "New York",
+        "Median Listing Price": 315000,
+        "Median Listing Price M/M": 0.0499,
+        "New Listing Count M/M": -0.0218,
+        "Price Increase Count M/M": -0.1511,
+        "Days on Market M/M": 0.0412
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "New York",
+        "Median Listing Price": 300040,
+        "Median Listing Price M/M": 0.0018,
+        "New Listing Count M/M": -0.054,
+        "Price Increase Count M/M": -0.1012,
+        "Days on Market M/M": 0.0104
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "New York",
+        "Median Listing Price": 299500,
+        "Median Listing Price M/M": 0.0015,
+        "New Listing Count M/M": 0.0222,
+        "Price Increase Count M/M": 0.3545,
+        "Days on Market M/M": 0.0787
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "New York",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": -0.003,
+        "New Listing Count M/M": -0.1237,
+        "Price Increase Count M/M": -0.2173,
+        "Days on Market M/M": 0.141
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "New York",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": -0.0214,
+        "New Listing Count M/M": -0.1509,
+        "Price Increase Count M/M": -0.0104,
+        "Days on Market M/M": 0.0759
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "New York",
+        "Median Listing Price": 306500,
+        "Median Listing Price M/M": 0.0051,
+        "New Listing Count M/M": -0.0555,
+        "Price Increase Count M/M": -0.035,
+        "Days on Market M/M": -0.0068
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "New York",
+        "Median Listing Price": 304950,
+        "Median Listing Price M/M": 0.0197,
+        "New Listing Count M/M": 0.0292,
+        "Price Increase Count M/M": -0.0244,
+        "Days on Market M/M": -0.1412
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "New York",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0312,
+        "New Listing Count M/M": 0.1131,
+        "Price Increase Count M/M": 0.0567,
+        "Days on Market M/M": -0.213
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "New York",
+        "Median Listing Price": 290000,
+        "Median Listing Price M/M": 0.0359,
+        "New Listing Count M/M": 0.2791,
+        "Price Increase Count M/M": 0.289,
+        "Days on Market M/M": -0.1074
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "New York",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0178,
+        "New Listing Count M/M": 0.1318,
+        "Price Increase Count M/M": 0.0308,
+        "Days on Market M/M": 0.0083
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "New York",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3635,
+        "Price Increase Count M/M": 0.1451,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "New York",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": -0.0143,
+        "New Listing Count M/M": -0.287,
+        "Price Increase Count M/M": -0.1667,
+        "Days on Market M/M": 0.0741
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "New York",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": -0.0016,
+        "New Listing Count M/M": -0.1695,
+        "Price Increase Count M/M": -0.1232,
+        "Days on Market M/M": 0.0588
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "New York",
+        "Median Listing Price": 279500,
+        "Median Listing Price M/M": 0.0016,
+        "New Listing Count M/M": -0.0656,
+        "Price Increase Count M/M": -0.0767,
+        "Days on Market M/M": 0.0355
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "New York",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": -0.0032,
+        "New Listing Count M/M": -0.0639,
+        "Price Increase Count M/M": 0.0442,
+        "Days on Market M/M": 0.1067
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "New York",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2152,
+        "Price Increase Count M/M": -0.019,
+        "Days on Market M/M": 0.141
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "New York",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": -0.0074,
+        "New Listing Count M/M": -0.0097,
+        "Price Increase Count M/M": -0.0238,
+        "Days on Market M/M": 0.1064
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "New York",
+        "Median Listing Price": 282050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0697,
+        "Price Increase Count M/M": -0.0913,
+        "Days on Market M/M": -0.0342
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "New York",
+        "Median Listing Price": 282050,
+        "Median Listing Price M/M": 0.0091,
+        "New Listing Count M/M": 0.0683,
+        "Price Increase Count M/M": 0.0667,
+        "Days on Market M/M": -0.1978
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "New York",
+        "Median Listing Price": 279500,
+        "Median Listing Price M/M": 0.0162,
+        "New Listing Count M/M": 0.2617,
+        "Price Increase Count M/M": 0.1207,
+        "Days on Market M/M": -0.2602
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "New York",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0577,
+        "New Listing Count M/M": 0.5476,
+        "Price Increase Count M/M": 0.2473,
+        "Days on Market M/M": -0.0081
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "New York",
+        "Median Listing Price": 260050,
+        "Median Listing Price M/M": 0.0117,
+        "New Listing Count M/M": -0.1615,
+        "Price Increase Count M/M": -0.0852,
+        "Days on Market M/M": 0.0081
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "New York",
+        "Median Listing Price": 257050,
+        "Median Listing Price M/M": -0.0037,
+        "New Listing Count M/M": 0.2687,
+        "Price Increase Count M/M": 0.3377,
+        "Days on Market M/M": 0.025
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "New York",
+        "Median Listing Price": 258000,
+        "Median Listing Price M/M": 0.0116,
+        "New Listing Count M/M": -0.1589,
+        "Price Increase Count M/M": -0.2645,
+        "Days on Market M/M": 0.1009
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "New York",
+        "Median Listing Price": 255050,
+        "Median Listing Price M/M": -0.0154,
+        "New Listing Count M/M": -0.0989,
+        "Price Increase Count M/M": 0.0265,
+        "Days on Market M/M": 0.0686
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "New York",
+        "Median Listing Price": 259050,
+        "Median Listing Price M/M": -0.0035,
+        "New Listing Count M/M": -0.1845,
+        "Price Increase Count M/M": -0.1541,
+        "Days on Market M/M": 0.057
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "New York",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": 0.0113,
+        "New Listing Count M/M": 0.0957,
+        "Price Increase Count M/M": -0.0299,
+        "Days on Market M/M": 0.0966
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "New York",
+        "Median Listing Price": 257050,
+        "Median Listing Price M/M": -0.0087,
+        "New Listing Count M/M": -0.0751,
+        "Price Increase Count M/M": -0.1617,
+        "Days on Market M/M": 0.121
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "New York",
+        "Median Listing Price": 259300,
+        "Median Listing Price M/M": -0.0025,
+        "New Listing Count M/M": -0.1301,
+        "Price Increase Count M/M": 0.0069,
+        "Days on Market M/M": 0.0608
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "New York",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": 0.0398,
+        "New Listing Count M/M": -0.0649,
+        "Price Increase Count M/M": -0.0917,
+        "Days on Market M/M": -0.2251
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "New York",
+        "Median Listing Price": 250000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.0012,
+        "Price Increase Count M/M": 0.2698,
+        "Days on Market M/M": -0.0905
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "New York",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0417,
+        "New Listing Count M/M": 0.5285,
+        "Price Increase Count M/M": 0.1962,
+        "Days on Market M/M": -0.1985
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "New York",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.074,
+        "Price Increase Count M/M": 0.0604,
+        "Days on Market M/M": 0.0038
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "New York",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": -0.0079,
+        "New Listing Count M/M": 0.0014,
+        "Price Increase Count M/M": 0.0681,
+        "Days on Market M/M": 0.0276
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "New York",
+        "Median Listing Price": 241850,
+        "Median Listing Price M/M": -0.0289,
+        "New Listing Count M/M": 0.8819,
+        "Price Increase Count M/M": 0.2798,
+        "Days on Market M/M": 0.0763
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "New York",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": -0.0028,
+        "New Listing Count M/M": -0.4227,
+        "Price Increase Count M/M": -0.4092,
+        "Days on Market M/M": 0.0876
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "New York",
+        "Median Listing Price": 249750,
+        "Median Listing Price M/M": 0.0028,
+        "New Listing Count M/M": -0.1621,
+        "Price Increase Count M/M": -0.1358,
+        "Days on Market M/M": 0.0333
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "New York",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0663,
+        "Price Increase Count M/M": -0.0251,
+        "Days on Market M/M": 0.0294
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "New York",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0668,
+        "Price Increase Count M/M": -0.0779,
+        "Days on Market M/M": 0.0794
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "New York",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.0681,
+        "Price Increase Count M/M": 0.1098,
+        "Days on Market M/M": 0.0925
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "New York",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0754,
+        "Price Increase Count M/M": -0.1265,
+        "Days on Market M/M": 0.0679
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "New York",
+        "Median Listing Price": 250040,
+        "Median Listing Price M/M": -0.0195,
+        "New Listing Count M/M": -0.1748,
+        "Price Increase Count M/M": 0.0652,
+        "Days on Market M/M": 0.0062
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "New York",
+        "Median Listing Price": 255000,
+        "Median Listing Price M/M": 0.0099,
+        "New Listing Count M/M": 0.1779,
+        "Price Increase Count M/M": 0.133,
+        "Days on Market M/M": -0.1056
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "New York",
+        "Median Listing Price": 252500,
+        "Median Listing Price M/M": 0.0102,
+        "New Listing Count M/M": 0.1625,
+        "Price Increase Count M/M": 0.041,
+        "Days on Market M/M": -0.2241
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "New York",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": 0.2934,
+        "Price Increase Count M/M": 0.1048,
+        "Days on Market M/M": -0.1145
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "New York",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0425,
+        "Price Increase Count M/M": -0.014,
+        "Days on Market M/M": -0.015
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "New York",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.616,
+        "Price Increase Count M/M": 0.2695,
+        "Days on Market M/M": 0.0231
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "New York",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0533,
+        "Price Increase Count M/M": 0.151,
+        "Days on Market M/M": 0.0879
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "New York",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.3299,
+        "Price Increase Count M/M": -0.3099,
+        "Days on Market M/M": 0.0437
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "New York",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0728,
+        "Price Increase Count M/M": 0.0503,
+        "Days on Market M/M": 0.0409
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "New York",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.01,
+        "Price Increase Count M/M": -0.0479,
+        "Days on Market M/M": 0.0476
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "New York",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": -0.0347,
+        "New Listing Count M/M": -0.1089,
+        "Price Increase Count M/M": -0.0851,
+        "Days on Market M/M": 0.0825
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "New York",
+        "Median Listing Price": 259050,
+        "Median Listing Price M/M": -0.0114,
+        "New Listing Count M/M": -0.0644,
+        "Price Increase Count M/M": 0.0292,
+        "Days on Market M/M": 0.0319
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "New York",
+        "Median Listing Price": 262050,
+        "Median Listing Price M/M": -0.0217,
+        "New Listing Count M/M": -0.0359,
+        "Price Increase Count M/M": -0.0622,
+        "Days on Market M/M": 0.0108
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "New York",
+        "Median Listing Price": 267850,
+        "Median Listing Price M/M": -0.0045,
+        "New Listing Count M/M": -0.0722,
+        "Price Increase Count M/M": 0.1686,
+        "Days on Market M/M": -0.0363
+    }
+]

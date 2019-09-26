@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Virginia",
+        "Median Listing Price": 325000,
+        "Median Listing Price M/M": 0.0367,
+        "New Listing Count M/M": 0.1273,
+        "Price Increase Count M/M": -0.0191,
+        "Days on Market M/M": -0.1875
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Virginia",
+        "Median Listing Price": 313500,
+        "Median Listing Price M/M": 0.0492,
+        "New Listing Count M/M": 0.3041,
+        "Price Increase Count M/M": 0.3358,
+        "Days on Market M/M": -0.2644
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Virginia",
+        "Median Listing Price": 298800,
+        "Median Listing Price M/M": 0.0132,
+        "New Listing Count M/M": 0.1585,
+        "Price Increase Count M/M": -0.1384,
+        "Days on Market M/M": -0.0645
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Virginia",
+        "Median Listing Price": 294900,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": 0.4941,
+        "Price Increase Count M/M": 0.5588,
+        "Days on Market M/M": 0.069
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Virginia",
+        "Median Listing Price": 295000,
+        "Median Listing Price M/M": -0.0167,
+        "New Listing Count M/M": -0.3391,
+        "Price Increase Count M/M": -0.3014,
+        "Days on Market M/M": 0.1757
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Virginia",
+        "Median Listing Price": 300000,
+        "Median Listing Price M/M": -0.0323,
+        "New Listing Count M/M": -0.1817,
+        "Price Increase Count M/M": -0.0489,
+        "Days on Market M/M": 0.0571
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Virginia",
+        "Median Listing Price": 310000,
+        "Median Listing Price M/M": -0.0137,
+        "New Listing Count M/M": -0.0492,
+        "Price Increase Count M/M": -0.1023,
+        "Days on Market M/M": 0.0294
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Virginia",
+        "Median Listing Price": 314300,
+        "Median Listing Price M/M": -0.0022,
+        "New Listing Count M/M": -0.0766,
+        "Price Increase Count M/M": -0.1276,
+        "Days on Market M/M": 0.0462
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Virginia",
+        "Median Listing Price": 315000,
+        "Median Listing Price M/M": -0.0153,
+        "New Listing Count M/M": -0.0561,
+        "Price Increase Count M/M": 0.1073,
+        "Days on Market M/M": 0.0833
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Virginia",
+        "Median Listing Price": 319900,
+        "Median Listing Price M/M": -0.0154,
+        "New Listing Count M/M": -0.0505,
+        "Price Increase Count M/M": -0.149,
+        "Days on Market M/M": 0.1321
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Virginia",
+        "Median Listing Price": 324900,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.1065,
+        "Price Increase Count M/M": 0.1751,
+        "Days on Market M/M": 0.06
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Virginia",
+        "Median Listing Price": 325000,
+        "Median Listing Price M/M": 0.0156,
+        "New Listing Count M/M": 0.0068,
+        "Price Increase Count M/M": -0.2063,
+        "Days on Market M/M": -0.0196
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Virginia",
+        "Median Listing Price": 320000,
+        "Median Listing Price M/M": 0.0509,
+        "New Listing Count M/M": 0.1085,
+        "Price Increase Count M/M": 0.1122,
+        "Days on Market M/M": -0.1053
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Virginia",
+        "Median Listing Price": 304500,
+        "Median Listing Price M/M": 0.0322,
+        "New Listing Count M/M": 0.2513,
+        "Price Increase Count M/M": 0.197,
+        "Days on Market M/M": -0.3049
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Virginia",
+        "Median Listing Price": 295000,
+        "Median Listing Price M/M": 0.0208,
+        "New Listing Count M/M": 0.2844,
+        "Price Increase Count M/M": -0.1253,
+        "Days on Market M/M": -0.1183
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Virginia",
+        "Median Listing Price": 289000,
+        "Median Listing Price M/M": -0.0034,
+        "New Listing Count M/M": 0.3373,
+        "Price Increase Count M/M": 0.2767,
+        "Days on Market M/M": 0.0568
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Virginia",
+        "Median Listing Price": 290000,
+        "Median Listing Price M/M": -0.0476,
+        "New Listing Count M/M": -0.2759,
+        "Price Increase Count M/M": 0.0381,
+        "Days on Market M/M": 0.1139
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Virginia",
+        "Median Listing Price": 304500,
+        "Median Listing Price M/M": -0.0016,
+        "New Listing Count M/M": -0.1697,
+        "Price Increase Count M/M": -0.1836,
+        "Days on Market M/M": 0.0822
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Virginia",
+        "Median Listing Price": 305050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0711,
+        "Price Increase Count M/M": -0.0354,
+        "Days on Market M/M": 0.021
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Virginia",
+        "Median Listing Price": 304950,
+        "Median Listing Price M/M": 0.0163,
+        "New Listing Count M/M": -0.0156,
+        "Price Increase Count M/M": -0.1283,
+        "Days on Market M/M": 0.0672
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Virginia",
+        "Median Listing Price": 300050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0841,
+        "Price Increase Count M/M": 0.1079,
+        "Days on Market M/M": -0.0147
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Virginia",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": -0.0001,
+        "New Listing Count M/M": -0.0401,
+        "Price Increase Count M/M": 0.1243,
+        "Days on Market M/M": 0.1057
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Virginia",
+        "Median Listing Price": 299975,
+        "Median Listing Price M/M": 0.0001,
+        "New Listing Count M/M": -0.0859,
+        "Price Increase Count M/M": -0.2009,
+        "Days on Market M/M": 0.0603
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Virginia",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0341,
+        "New Listing Count M/M": -0.0031,
+        "Price Increase Count M/M": 0.1371,
+        "Days on Market M/M": -0.0169
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Virginia",
+        "Median Listing Price": 290050,
+        "Median Listing Price M/M": 0.0268,
+        "New Listing Count M/M": 0.0895,
+        "Price Increase Count M/M": -0.1058,
+        "Days on Market M/M": -0.1061
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Virginia",
+        "Median Listing Price": 282475,
+        "Median Listing Price M/M": 0.0422,
+        "New Listing Count M/M": 0.187,
+        "Price Increase Count M/M": 0.1034,
+        "Days on Market M/M": -0.3016
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Virginia",
+        "Median Listing Price": 271050,
+        "Median Listing Price M/M": 0.0226,
+        "New Listing Count M/M": 0.2947,
+        "Price Increase Count M/M": -0.0284,
+        "Days on Market M/M": -0.0825
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Virginia",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": -0.0149,
+        "New Listing Count M/M": 0.348,
+        "Price Increase Count M/M": 0.371,
+        "Days on Market M/M": 0.0564
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Virginia",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": -0.0218,
+        "New Listing Count M/M": -0.2708,
+        "Price Increase Count M/M": 0.056,
+        "Days on Market M/M": 0.0894
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Virginia",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": -0.0175,
+        "New Listing Count M/M": -0.0923,
+        "Price Increase Count M/M": -0.3163,
+        "Days on Market M/M": 0.0529
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Virginia",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0861,
+        "Price Increase Count M/M": 0.1879,
+        "Days on Market M/M": 0.0366
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Virginia",
+        "Median Listing Price": 280050,
+        "Median Listing Price M/M": -0.0018,
+        "New Listing Count M/M": -0.0675,
+        "Price Increase Count M/M": -0.1771,
+        "Days on Market M/M": 0.038
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Virginia",
+        "Median Listing Price": 280547,
+        "Median Listing Price M/M": -0.0158,
+        "New Listing Count M/M": -0.0733,
+        "Price Increase Count M/M": 0.0335,
+        "Days on Market M/M": 0.0676
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Virginia",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": -0.0051,
+        "New Listing Count M/M": -0.0439,
+        "Price Increase Count M/M": -0.0051,
+        "Days on Market M/M": 0.0882
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Virginia",
+        "Median Listing Price": 286500,
+        "Median Listing Price M/M": -0.0019,
+        "New Listing Count M/M": -0.1053,
+        "Price Increase Count M/M": -0.0347,
+        "Days on Market M/M": 0.1148
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Virginia",
+        "Median Listing Price": 287050,
+        "Median Listing Price M/M": 0.0327,
+        "New Listing Count M/M": -0.1039,
+        "Price Increase Count M/M": 0.0412,
+        "Days on Market M/M": -0.0394
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Virginia",
+        "Median Listing Price": 277949,
+        "Median Listing Price M/M": 0.0312,
+        "New Listing Count M/M": 0.0839,
+        "Price Increase Count M/M": -0.0784,
+        "Days on Market M/M": -0.2063
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Virginia",
+        "Median Listing Price": 269545,
+        "Median Listing Price M/M": 0.0387,
+        "New Listing Count M/M": 0.3979,
+        "Price Increase Count M/M": 0.2605,
+        "Days on Market M/M": -0.2271
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Virginia",
+        "Median Listing Price": 259500,
+        "Median Listing Price M/M": 0.0255,
+        "New Listing Count M/M": 0.3879,
+        "Price Increase Count M/M": 0.0373,
+        "Days on Market M/M": -0.0327
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Virginia",
+        "Median Listing Price": 253050,
+        "Median Listing Price M/M": -0.0266,
+        "New Listing Count M/M": 0.0992,
+        "Price Increase Count M/M": 0.2385,
+        "Days on Market M/M": 0.049
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Virginia",
+        "Median Listing Price": 259975,
+        "Median Listing Price M/M": -0.0355,
+        "New Listing Count M/M": -0.1973,
+        "Price Increase Count M/M": -0.1667,
+        "Days on Market M/M": 0.1087
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Virginia",
+        "Median Listing Price": 269550,
+        "Median Listing Price M/M": -0.0199,
+        "New Listing Count M/M": -0.1719,
+        "Price Increase Count M/M": -0.1211,
+        "Days on Market M/M": 0.0455
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Virginia",
+        "Median Listing Price": 275025,
+        "Median Listing Price M/M": 0.0001,
+        "New Listing Count M/M": -0.108,
+        "Price Increase Count M/M": -0.0874,
+        "Days on Market M/M": 0.0292
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Virginia",
+        "Median Listing Price": 275000,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.1399,
+        "Price Increase Count M/M": 0.0746,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Virginia",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": -0.0108,
+        "New Listing Count M/M": -0.1303,
+        "Price Increase Count M/M": -0.0321,
+        "Days on Market M/M": 0.0946
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Virginia",
+        "Median Listing Price": 278050,
+        "Median Listing Price M/M": -0.0055,
+        "New Listing Count M/M": 0.0323,
+        "Price Increase Count M/M": -0.1922,
+        "Days on Market M/M": 0.1045
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Virginia",
+        "Median Listing Price": 279600,
+        "Median Listing Price M/M": 0.0056,
+        "New Listing Count M/M": -0.1111,
+        "Price Increase Count M/M": 0.0571,
+        "Days on Market M/M": 0.0806
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Virginia",
+        "Median Listing Price": 278050,
+        "Median Listing Price M/M": 0.03,
+        "New Listing Count M/M": -0.0354,
+        "Price Increase Count M/M": -0.172,
+        "Days on Market M/M": -0.1206
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Virginia",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0421,
+        "New Listing Count M/M": 0.2276,
+        "Price Increase Count M/M": 0.303,
+        "Days on Market M/M": -0.25
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Virginia",
+        "Median Listing Price": 259050,
+        "Median Listing Price M/M": 0.0364,
+        "New Listing Count M/M": 0.262,
+        "Price Increase Count M/M": 0.0437,
+        "Days on Market M/M": -0.1296
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Virginia",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": 0.0064,
+        "Price Increase Count M/M": -0.1828,
+        "Days on Market M/M": -0.027
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Virginia",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": 0.5482,
+        "Price Increase Count M/M": 0.36,
+        "Days on Market M/M": 0.0571
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Virginia",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": -0.0351,
+        "New Listing Count M/M": -0.2957,
+        "Price Increase Count M/M": -0.0331,
+        "Days on Market M/M": 0.1053
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Virginia",
+        "Median Listing Price": 259050,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.1096,
+        "Price Increase Count M/M": -0.0499,
+        "Days on Market M/M": 0.0615
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Virginia",
+        "Median Listing Price": 259975,
+        "Median Listing Price M/M": -0.007,
+        "New Listing Count M/M": -0.0895,
+        "Price Increase Count M/M": 0.233,
+        "Days on Market M/M": 0.0287
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Virginia",
+        "Median Listing Price": 261800,
+        "Median Listing Price M/M": -0.0288,
+        "New Listing Count M/M": -0.0528,
+        "Price Increase Count M/M": -0.1868,
+        "Days on Market M/M": 0.0741
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Virginia",
+        "Median Listing Price": 269550,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": 0.012,
+        "Price Increase Count M/M": -0.05,
+        "Days on Market M/M": 0.0728
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Virginia",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.0821,
+        "Price Increase Count M/M": 0.0695,
+        "Days on Market M/M": 0.0942
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Virginia",
+        "Median Listing Price": 270000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1028,
+        "Price Increase Count M/M": -0.2609,
+        "Days on Market M/M": -0.0213
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Virginia",
+        "Median Listing Price": 269995,
+        "Median Listing Price M/M": 0.0264,
+        "New Listing Count M/M": -0.0238,
+        "Price Increase Count M/M": 0.0285,
+        "Days on Market M/M": -0.1296
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Virginia",
+        "Median Listing Price": 263045,
+        "Median Listing Price M/M": 0.0524,
+        "New Listing Count M/M": 0.1546,
+        "Price Increase Count M/M": 0.2239,
+        "Days on Market M/M": -0.2703
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Virginia",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0412,
+        "New Listing Count M/M": 0.4439,
+        "Price Increase Count M/M": 0.1519,
+        "Days on Market M/M": -0.0826
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Virginia",
+        "Median Listing Price": 240050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": 0.0071,
+        "Price Increase Count M/M": -0.0516,
+        "Days on Market M/M": 0.0168
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Virginia",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": 0.4079,
+        "Price Increase Count M/M": 0.5462,
+        "Days on Market M/M": 0.0917
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Virginia",
+        "Median Listing Price": 240050,
+        "Median Listing Price M/M": -0.0365,
+        "New Listing Count M/M": -0.2809,
+        "Price Increase Count M/M": -0.2632,
+        "Days on Market M/M": 0.1122
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Virginia",
+        "Median Listing Price": 249140,
+        "Median Listing Price M/M": -0.0032,
+        "New Listing Count M/M": -0.1299,
+        "Price Increase Count M/M": -0.0978,
+        "Days on Market M/M": 0.0481
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Virginia",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0504,
+        "Price Increase Count M/M": -0.0324,
+        "Days on Market M/M": 0.0054
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Virginia",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0669,
+        "Price Increase Count M/M": -0.1232,
+        "Days on Market M/M": 0.0508
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Virginia",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0391,
+        "Price Increase Count M/M": -0.0538,
+        "Days on Market M/M": 0.0859
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Virginia",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": -0.0192,
+        "New Listing Count M/M": 0.0072,
+        "Price Increase Count M/M": -0.1771,
+        "Days on Market M/M": 0.1164
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Virginia",
+        "Median Listing Price": 254950,
+        "Median Listing Price M/M": 0.0097,
+        "New Listing Count M/M": -0.1128,
+        "Price Increase Count M/M": 0.0669,
+        "Days on Market M/M": 0.0504
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Virginia",
+        "Median Listing Price": 252500,
+        "Median Listing Price M/M": 0.011,
+        "New Listing Count M/M": -0.0202,
+        "Price Increase Count M/M": -0.0764,
+        "Days on Market M/M": -0.0414
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Virginia",
+        "Median Listing Price": 249750,
+        "Median Listing Price M/M": 0.0408,
+        "New Listing Count M/M": 0.114,
+        "Price Increase Count M/M": -0.0283,
+        "Days on Market M/M": -0.1761
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Virginia",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0433,
+        "New Listing Count M/M": 0.168,
+        "Price Increase Count M/M": 0.0599,
+        "Days on Market M/M": -0.2072
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Virginia",
+        "Median Listing Price": 229997,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": 0.1482,
+        "Price Increase Count M/M": 0.2535,
+        "Days on Market M/M": -0.039
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Virginia",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": 0.309,
+        "Price Increase Count M/M": 0.2171,
+        "Days on Market M/M": 0.0313
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Virginia",
+        "Median Listing Price": 230050,
+        "Median Listing Price M/M": -0.0213,
+        "New Listing Count M/M": -0.1141,
+        "Price Increase Count M/M": 0.4286,
+        "Days on Market M/M": 0.0419
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Virginia",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": -0.0178,
+        "New Listing Count M/M": -0.1506,
+        "Price Increase Count M/M": -0.296,
+        "Days on Market M/M": 0.0337
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Virginia",
+        "Median Listing Price": 239300,
+        "Median Listing Price M/M": -0.0027,
+        "New Listing Count M/M": -0.0547,
+        "Price Increase Count M/M": -0.0387,
+        "Days on Market M/M": 0.0097
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Virginia",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": -0.0024,
+        "New Listing Count M/M": -0.0081,
+        "Price Increase Count M/M": 0.097,
+        "Days on Market M/M": 0.0457
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Virginia",
+        "Median Listing Price": 240521,
+        "Median Listing Price M/M": -0.0245,
+        "New Listing Count M/M": -0.0306,
+        "Price Increase Count M/M": -0.0179,
+        "Days on Market M/M": 0.0707
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Virginia",
+        "Median Listing Price": 246550,
+        "Median Listing Price M/M": -0.012,
+        "New Listing Count M/M": -0.0846,
+        "Price Increase Count M/M": -0.1683,
+        "Days on Market M/M": 0.1018
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Virginia",
+        "Median Listing Price": 249550,
+        "Median Listing Price M/M": -0.0016,
+        "New Listing Count M/M": -0.0415,
+        "Price Increase Count M/M": -0.0648,
+        "Days on Market M/M": 0.0503
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Virginia",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0026,
+        "New Listing Count M/M": -0.109,
+        "Price Increase Count M/M": -0.1166,
+        "Days on Market M/M": -0.0063
+    }
+]

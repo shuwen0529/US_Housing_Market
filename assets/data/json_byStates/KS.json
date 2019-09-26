@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Kansas",
+        "Median Listing Price": 194800,
+        "Median Listing Price M/M": 0.053,
+        "New Listing Count M/M": 0.2353,
+        "Price Increase Count M/M": -0.125,
+        "Days on Market M/M": -0.2235
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Kansas",
+        "Median Listing Price": 185000,
+        "Median Listing Price M/M": 0.0452,
+        "New Listing Count M/M": 0.185,
+        "Price Increase Count M/M": 0.4426,
+        "Days on Market M/M": -0.0957
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Kansas",
+        "Median Listing Price": 177000,
+        "Median Listing Price M/M": 0.0418,
+        "New Listing Count M/M": 0.0504,
+        "Price Increase Count M/M": -0.3579,
+        "Days on Market M/M": 0.0217
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Kansas",
+        "Median Listing Price": 169900,
+        "Median Listing Price M/M": -0.0122,
+        "New Listing Count M/M": 0.2989,
+        "Price Increase Count M/M": 0.9792,
+        "Days on Market M/M": 0.1084
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Kansas",
+        "Median Listing Price": 172000,
+        "Median Listing Price M/M": -0.0407,
+        "New Listing Count M/M": -0.3265,
+        "Price Increase Count M/M": -0.1724,
+        "Days on Market M/M": 0.137
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Kansas",
+        "Median Listing Price": 179300,
+        "Median Listing Price M/M": -0.0255,
+        "New Listing Count M/M": -0.1443,
+        "Price Increase Count M/M": -0.3696,
+        "Days on Market M/M": 0.058
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Kansas",
+        "Median Listing Price": 184000,
+        "Median Listing Price M/M": -0.0054,
+        "New Listing Count M/M": 0.015,
+        "Price Increase Count M/M": 0.3939,
+        "Days on Market M/M": 0.0455
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Kansas",
+        "Median Listing Price": 185000,
+        "Median Listing Price M/M": -0.0107,
+        "New Listing Count M/M": -0.0546,
+        "Price Increase Count M/M": -0.2326,
+        "Days on Market M/M": 0.0645
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Kansas",
+        "Median Listing Price": 187000,
+        "Median Listing Price M/M": -0.0106,
+        "New Listing Count M/M": -0.0325,
+        "Price Increase Count M/M": -0.0227,
+        "Days on Market M/M": 0.069
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Kansas",
+        "Median Listing Price": 189000,
+        "Median Listing Price M/M": -0.0016,
+        "New Listing Count M/M": -0.1446,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.0741
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Kansas",
+        "Median Listing Price": 189300,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0411,
+        "Price Increase Count M/M": 0.2941,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Kansas",
+        "Median Listing Price": 189300,
+        "Median Listing Price M/M": 0.0523,
+        "New Listing Count M/M": 0.0073,
+        "Price Increase Count M/M": -0.1774,
+        "Days on Market M/M": -0.0847
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Kansas",
+        "Median Listing Price": 179900,
+        "Median Listing Price M/M": 0.0411,
+        "New Listing Count M/M": 0.0634,
+        "Price Increase Count M/M": 0.6986,
+        "Days on Market M/M": -0.1324
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Kansas",
+        "Median Listing Price": 172800,
+        "Median Listing Price M/M": 0.028,
+        "New Listing Count M/M": 0.3514,
+        "Price Increase Count M/M": -0.1705,
+        "Days on Market M/M": -0.2273
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Kansas",
+        "Median Listing Price": 168100,
+        "Median Listing Price M/M": 0.0357,
+        "New Listing Count M/M": 0.1335,
+        "Price Increase Count M/M": 0.1579,
+        "Days on Market M/M": -0.0222
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Kansas",
+        "Median Listing Price": 162300,
+        "Median Listing Price M/M": -0.0043,
+        "New Listing Count M/M": 0.1328,
+        "Price Increase Count M/M": 0.3571,
+        "Days on Market M/M": 0.0714
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Kansas",
+        "Median Listing Price": 163000,
+        "Median Listing Price M/M": -0.0406,
+        "New Listing Count M/M": -0.1849,
+        "Price Increase Count M/M": -0.1884,
+        "Days on Market M/M": 0.1507
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Kansas",
+        "Median Listing Price": 169900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1289,
+        "Price Increase Count M/M": -0.0921,
+        "Days on Market M/M": 0.0896
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Kansas",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1275,
+        "Price Increase Count M/M": -0.1739,
+        "Days on Market M/M": 0.0308
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Kansas",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0052,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": 0.0117
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Kansas",
+        "Median Listing Price": 170025,
+        "Median Listing Price M/M": -0.0287,
+        "New Listing Count M/M": -0.0805,
+        "Price Increase Count M/M": -0.1375,
+        "Days on Market M/M": 0.0708
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Kansas",
+        "Median Listing Price": 175050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0446,
+        "Price Increase Count M/M": 0.1111,
+        "Days on Market M/M": 0.0169
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Kansas",
+        "Median Listing Price": 175050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0402,
+        "Price Increase Count M/M": -0.3455,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Kansas",
+        "Median Listing Price": 175050,
+        "Median Listing Price M/M": 0.0355,
+        "New Listing Count M/M": 0.0091,
+        "Price Increase Count M/M": 0.5278,
+        "Days on Market M/M": 0.0172
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Kansas",
+        "Median Listing Price": 169050,
+        "Median Listing Price M/M": 0.0471,
+        "New Listing Count M/M": -0.0421,
+        "Price Increase Count M/M": -0.2088,
+        "Days on Market M/M": -0.0413
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Kansas",
+        "Median Listing Price": 161450,
+        "Median Listing Price M/M": 0.0689,
+        "New Listing Count M/M": 0.2336,
+        "Price Increase Count M/M": 0.0341,
+        "Days on Market M/M": -0.2798
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Kansas",
+        "Median Listing Price": 151050,
+        "Median Listing Price M/M": 0.01,
+        "New Listing Count M/M": 0.2675,
+        "Price Increase Count M/M": 0.1892,
+        "Days on Market M/M": -0.0769
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Kansas",
+        "Median Listing Price": 149549,
+        "Median Listing Price M/M": -0.0027,
+        "New Listing Count M/M": 0.3041,
+        "Price Increase Count M/M": 0.5745,
+        "Days on Market M/M": 0.1098
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Kansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": -0.0329,
+        "New Listing Count M/M": -0.2781,
+        "Price Increase Count M/M": 0.0444,
+        "Days on Market M/M": 0.1156
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Kansas",
+        "Median Listing Price": 155050,
+        "Median Listing Price M/M": -0.0276,
+        "New Listing Count M/M": -0.0753,
+        "Price Increase Count M/M": -0.3571,
+        "Days on Market M/M": 0.0652
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Kansas",
+        "Median Listing Price": 159450,
+        "Median Listing Price M/M": -0.0031,
+        "New Listing Count M/M": -0.1008,
+        "Price Increase Count M/M": -0.2308,
+        "Days on Market M/M": 0.0222
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Kansas",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.0372,
+        "Price Increase Count M/M": 0.2133,
+        "Days on Market M/M": 0.0305
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Kansas",
+        "Median Listing Price": 159975,
+        "Median Listing Price M/M": -0.0248,
+        "New Listing Count M/M": -0.0641,
+        "Price Increase Count M/M": 0.1364,
+        "Days on Market M/M": 0.0565
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Kansas",
+        "Median Listing Price": 164050,
+        "Median Listing Price M/M": -0.0027,
+        "New Listing Count M/M": -0.0764,
+        "Price Increase Count M/M": -0.0294,
+        "Days on Market M/M": 0.0248
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Kansas",
+        "Median Listing Price": 164500,
+        "Median Listing Price M/M": 0.0278,
+        "New Listing Count M/M": 0.0417,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0431
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Kansas",
+        "Median Listing Price": 160049,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.1078,
+        "Price Increase Count M/M": -0.3761,
+        "Days on Market M/M": 0.0265
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Kansas",
+        "Median Listing Price": 160000,
+        "Median Listing Price M/M": 0.0373,
+        "New Listing Count M/M": 0.0621,
+        "Price Increase Count M/M": 0.3625,
+        "Days on Market M/M": -0.1439
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Kansas",
+        "Median Listing Price": 154250,
+        "Median Listing Price M/M": 0.0321,
+        "New Listing Count M/M": 0.2345,
+        "Price Increase Count M/M": -0.0588,
+        "Days on Market M/M": -0.2667
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Kansas",
+        "Median Listing Price": 149450,
+        "Median Listing Price M/M": 0.0303,
+        "New Listing Count M/M": 0.1931,
+        "Price Increase Count M/M": 0.0897,
+        "Days on Market M/M": -0.0323
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Kansas",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": 0.007,
+        "New Listing Count M/M": 0.2813,
+        "Price Increase Count M/M": 0.6596,
+        "Days on Market M/M": 0.0941
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Kansas",
+        "Median Listing Price": 144048,
+        "Median Listing Price M/M": -0.0368,
+        "New Listing Count M/M": -0.2055,
+        "Price Increase Count M/M": -0.1296,
+        "Days on Market M/M": 0.1333
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Kansas",
+        "Median Listing Price": 149550,
+        "Median Listing Price M/M": -0.003,
+        "New Listing Count M/M": -0.1584,
+        "Price Increase Count M/M": -0.1563,
+        "Days on Market M/M": 0.0601
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Kansas",
+        "Median Listing Price": 149999,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0697,
+        "Price Increase Count M/M": -0.2558,
+        "Days on Market M/M": 0.0328
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Kansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0483,
+        "Price Increase Count M/M": 0.1944,
+        "Days on Market M/M": 0.0224
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Kansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": -0.017,
+        "New Listing Count M/M": -0.1861,
+        "Price Increase Count M/M": -0.04,
+        "Days on Market M/M": 0.0308
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Kansas",
+        "Median Listing Price": 152550,
+        "Median Listing Price M/M": -0.0142,
+        "New Listing Count M/M": -0.0832,
+        "Price Increase Count M/M": -0.1573,
+        "Days on Market M/M": 0.0569
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Kansas",
+        "Median Listing Price": 154750,
+        "Median Listing Price M/M": -0.027,
+        "New Listing Count M/M": 0.0849,
+        "Price Increase Count M/M": 0.0349,
+        "Days on Market M/M": 0.0424
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Kansas",
+        "Median Listing Price": 159050,
+        "Median Listing Price M/M": 0.046,
+        "New Listing Count M/M": -0.0236,
+        "Price Increase Count M/M": -0.0753,
+        "Days on Market M/M": -0.0407
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Kansas",
+        "Median Listing Price": 152050,
+        "Median Listing Price M/M": 0.0154,
+        "New Listing Count M/M": 0.1201,
+        "Price Increase Count M/M": 0.0333,
+        "Days on Market M/M": -0.1087
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Kansas",
+        "Median Listing Price": 149750,
+        "Median Listing Price M/M": 0.0487,
+        "New Listing Count M/M": 0.1767,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.2775
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Kansas",
+        "Median Listing Price": 142800,
+        "Median Listing Price M/M": 0.02,
+        "New Listing Count M/M": 0.1027,
+        "Price Increase Count M/M": 0.1688,
+        "Days on Market M/M": -0.0155
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Kansas",
+        "Median Listing Price": 140000,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": 0.3761,
+        "Price Increase Count M/M": 0.2833,
+        "Days on Market M/M": 0.0718
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Kansas",
+        "Median Listing Price": 140050,
+        "Median Listing Price M/M": -0.0345,
+        "New Listing Count M/M": -0.2229,
+        "Price Increase Count M/M": 0.0345,
+        "Days on Market M/M": 0.1313
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Kansas",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": -0.0119,
+        "New Listing Count M/M": -0.1737,
+        "Price Increase Count M/M": -0.3483,
+        "Days on Market M/M": 0.0458
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Kansas",
+        "Median Listing Price": 146800,
+        "Median Listing Price M/M": 0.0009,
+        "New Listing Count M/M": -0.108,
+        "Price Increase Count M/M": 0.2714,
+        "Days on Market M/M": 0.0479
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Kansas",
+        "Median Listing Price": 146675,
+        "Median Listing Price M/M": -0.0093,
+        "New Listing Count M/M": 0.0263,
+        "Price Increase Count M/M": -0.0541,
+        "Days on Market M/M": 0.0139
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Kansas",
+        "Median Listing Price": 148050,
+        "Median Listing Price M/M": -0.0127,
+        "New Listing Count M/M": -0.0997,
+        "Price Increase Count M/M": -0.1685,
+        "Days on Market M/M": 0.0827
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Kansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": 0.0104,
+        "Price Increase Count M/M": 0.2361,
+        "Days on Market M/M": 0.0726
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Kansas",
+        "Median Listing Price": 150000,
+        "Median Listing Price M/M": 0.0017,
+        "New Listing Count M/M": -0.0994,
+        "Price Increase Count M/M": -0.191,
+        "Days on Market M/M": 0.0081
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Kansas",
+        "Median Listing Price": 149750,
+        "Median Listing Price M/M": 0.0342,
+        "New Listing Count M/M": -0.007,
+        "Price Increase Count M/M": 0.0988,
+        "Days on Market M/M": -0.1087
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Kansas",
+        "Median Listing Price": 144800,
+        "Median Listing Price M/M": 0.0414,
+        "New Listing Count M/M": 0.1543,
+        "Price Increase Count M/M": -0.0357,
+        "Days on Market M/M": -0.2333
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Kansas",
+        "Median Listing Price": 139050,
+        "Median Listing Price M/M": 0.0392,
+        "New Listing Count M/M": 0.4008,
+        "Price Increase Count M/M": 0.1351,
+        "Days on Market M/M": -0.1176
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Kansas",
+        "Median Listing Price": 133800,
+        "Median Listing Price M/M": 0.0128,
+        "New Listing Count M/M": -0.01,
+        "Price Increase Count M/M": 0.5417,
+        "Days on Market M/M": 0.0149
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Kansas",
+        "Median Listing Price": 132107,
+        "Median Listing Price M/M": -0.0182,
+        "New Listing Count M/M": 0.4205,
+        "Price Increase Count M/M": 0.2632,
+        "Days on Market M/M": 0.1167
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Kansas",
+        "Median Listing Price": 134550,
+        "Median Listing Price M/M": -0.0055,
+        "New Listing Count M/M": -0.3127,
+        "Price Increase Count M/M": -0.4648,
+        "Days on Market M/M": 0.1043
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Kansas",
+        "Median Listing Price": 135300,
+        "Median Listing Price M/M": -0.0035,
+        "New Listing Count M/M": -0.1623,
+        "Price Increase Count M/M": -0.0658,
+        "Days on Market M/M": 0.0316
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Kansas",
+        "Median Listing Price": 135775,
+        "Median Listing Price M/M": -0.0158,
+        "New Listing Count M/M": -0.0061,
+        "Price Increase Count M/M": -0.0256,
+        "Days on Market M/M": 0.0395
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Kansas",
+        "Median Listing Price": 137950,
+        "Median Listing Price M/M": 0.0047,
+        "New Listing Count M/M": -0.0744,
+        "Price Increase Count M/M": -0.0127,
+        "Days on Market M/M": 0.078
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Kansas",
+        "Median Listing Price": 137300,
+        "Median Listing Price M/M": -0.0034,
+        "New Listing Count M/M": -0.0773,
+        "Price Increase Count M/M": 0.0972,
+        "Days on Market M/M": 0.0368
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Kansas",
+        "Median Listing Price": 137775,
+        "Median Listing Price M/M": 0.0127,
+        "New Listing Count M/M": -0.0953,
+        "Price Increase Count M/M": -0.2,
+        "Days on Market M/M": 0.0303
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Kansas",
+        "Median Listing Price": 136050,
+        "Median Listing Price M/M": -0.0089,
+        "New Listing Count M/M": 0.0364,
+        "Price Increase Count M/M": -0.1892,
+        "Days on Market M/M": -0.0149
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Kansas",
+        "Median Listing Price": 137275,
+        "Median Listing Price M/M": 0.009,
+        "New Listing Count M/M": 0.0127,
+        "Price Increase Count M/M": 0.1809,
+        "Days on Market M/M": -0.0694
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Kansas",
+        "Median Listing Price": 136050,
+        "Median Listing Price M/M": 0.0187,
+        "New Listing Count M/M": 0.083,
+        "Price Increase Count M/M": 0.4688,
+        "Days on Market M/M": -0.04
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Kansas",
+        "Median Listing Price": 133550,
+        "Median Listing Price M/M": 0.0275,
+        "New Listing Count M/M": 0.0801,
+        "Price Increase Count M/M": -0.1233,
+        "Days on Market M/M": -0.2105
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Kansas",
+        "Median Listing Price": 129975,
+        "Median Listing Price M/M": 0.0017,
+        "New Listing Count M/M": 0.0692,
+        "Price Increase Count M/M": 0.058,
+        "Days on Market M/M": -0.0594
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Kansas",
+        "Median Listing Price": 129750,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": 0.3448,
+        "Price Increase Count M/M": 0.0781,
+        "Days on Market M/M": 0.0632
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Kansas",
+        "Median Listing Price": 129950,
+        "Median Listing Price M/M": -0.0114,
+        "New Listing Count M/M": -0.1233,
+        "Price Increase Count M/M": 0.561,
+        "Days on Market M/M": 0.0497
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Kansas",
+        "Median Listing Price": 131455,
+        "Median Listing Price M/M": -0.0261,
+        "New Listing Count M/M": -0.0791,
+        "Price Increase Count M/M": -0.3279,
+        "Days on Market M/M": 0.0226
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Kansas",
+        "Median Listing Price": 134975,
+        "Median Listing Price M/M": -0.0187,
+        "New Listing Count M/M": -0.0929,
+        "Price Increase Count M/M": -0.1029,
+        "Days on Market M/M": 0.0536
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Kansas",
+        "Median Listing Price": 137550,
+        "Median Listing Price M/M": -0.0157,
+        "New Listing Count M/M": -0.0513,
+        "Price Increase Count M/M": -0.0556,
+        "Days on Market M/M": 0.0435
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Kansas",
+        "Median Listing Price": 139750,
+        "Median Listing Price M/M": -0.0014,
+        "New Listing Count M/M": -0.0479,
+        "Price Increase Count M/M": -0.027,
+        "Days on Market M/M": 0.0063
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Kansas",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": -0.0486,
+        "Price Increase Count M/M": 0.1935,
+        "Days on Market M/M": 0.0526
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Kansas",
+        "Median Listing Price": 140050,
+        "Median Listing Price M/M": -0.0158,
+        "New Listing Count M/M": -0.0137,
+        "Price Increase Count M/M": -0.1948,
+        "Days on Market M/M": 0.034
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Kansas",
+        "Median Listing Price": 142300,
+        "Median Listing Price M/M": 0.0018,
+        "New Listing Count M/M": -0.0652,
+        "Price Increase Count M/M": -0.0941,
+        "Days on Market M/M": -0.02
+    }
+]

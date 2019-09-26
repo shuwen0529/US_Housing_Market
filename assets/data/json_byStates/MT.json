@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Montana",
+        "Median Listing Price": 335000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.5573,
+        "Price Increase Count M/M": 0.3182,
+        "Days on Market M/M": -0.2199
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Montana",
+        "Median Listing Price": 335000,
+        "Median Listing Price M/M": 0.0182,
+        "New Listing Count M/M": 0.022,
+        "Price Increase Count M/M": 0.2222,
+        "Days on Market M/M": 0.0071
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Montana",
+        "Median Listing Price": 329000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0739,
+        "Price Increase Count M/M": -0.28,
+        "Days on Market M/M": 0.0294
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Montana",
+        "Median Listing Price": 329000,
+        "Median Listing Price M/M": -0.0009,
+        "New Listing Count M/M": 0.3305,
+        "Price Increase Count M/M": 0.3889,
+        "Days on Market M/M": 0.0968
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Montana",
+        "Median Listing Price": 329300,
+        "Median Listing Price M/M": 0.0009,
+        "New Listing Count M/M": -0.2047,
+        "Price Increase Count M/M": -0.1818,
+        "Days on Market M/M": 0.1273
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Montana",
+        "Median Listing Price": 329000,
+        "Median Listing Price M/M": -0.0024,
+        "New Listing Count M/M": -0.2029,
+        "Price Increase Count M/M": 0.1,
+        "Days on Market M/M": 0.1224
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Montana",
+        "Median Listing Price": 329800,
+        "Median Listing Price M/M": 0.0024,
+        "New Listing Count M/M": -0.2046,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.0889
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Montana",
+        "Median Listing Price": 329000,
+        "Median Listing Price M/M": -0.0179,
+        "New Listing Count M/M": -0.1148,
+        "Price Increase Count M/M": -0.2683,
+        "Days on Market M/M": 0.1538
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Montana",
+        "Median Listing Price": 335000,
+        "Median Listing Price M/M": 0.0015,
+        "New Listing Count M/M": -0.1,
+        "Price Increase Count M/M": 1.5625,
+        "Days on Market M/M": 0.1304
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Montana",
+        "Median Listing Price": 334500,
+        "Median Listing Price M/M": 0.009,
+        "New Listing Count M/M": -0.1308,
+        "Price Increase Count M/M": -0.5676,
+        "Days on Market M/M": 0.0455
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Montana",
+        "Median Listing Price": 331500,
+        "Median Listing Price M/M": 0.0076,
+        "New Listing Count M/M": 0.078,
+        "Price Increase Count M/M": -0.119,
+        "Days on Market M/M": -0.12
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Montana",
+        "Median Listing Price": 329000,
+        "Median Listing Price M/M": 0.0123,
+        "New Listing Count M/M": 0.2378,
+        "Price Increase Count M/M": 0.4,
+        "Days on Market M/M": -0.2105
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Montana",
+        "Median Listing Price": 325000,
+        "Median Listing Price M/M": 0.0163,
+        "New Listing Count M/M": 0.1834,
+        "Price Increase Count M/M": -0.0323,
+        "Days on Market M/M": -0.2149
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Montana",
+        "Median Listing Price": 319800,
+        "Median Listing Price M/M": 0.0009,
+        "New Listing Count M/M": 0.3318,
+        "Price Increase Count M/M": 0.3478,
+        "Days on Market M/M": -0.097
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Montana",
+        "Median Listing Price": 319500,
+        "Median Listing Price M/M": -0.0013,
+        "New Listing Count M/M": 0.0252,
+        "Price Increase Count M/M": 0.2105,
+        "Days on Market M/M": 0.0075
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Montana",
+        "Median Listing Price": 319900,
+        "Median Listing Price M/M": 0.0091,
+        "New Listing Count M/M": 0.2451,
+        "Price Increase Count M/M": 0.3571,
+        "Days on Market M/M": 0.064
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Montana",
+        "Median Listing Price": 317000,
+        "Median Listing Price M/M": -0.0056,
+        "New Listing Count M/M": -0.0414,
+        "Price Increase Count M/M": -0.2222,
+        "Days on Market M/M": 0.1161
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Montana",
+        "Median Listing Price": 318800,
+        "Median Listing Price M/M": -0.0038,
+        "New Listing Count M/M": -0.2549,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": 0.0467
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Montana",
+        "Median Listing Price": 320050,
+        "Median Listing Price M/M": -0.0054,
+        "New Listing Count M/M": -0.0881,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.163
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Montana",
+        "Median Listing Price": 321800,
+        "Median Listing Price M/M": 0.0031,
+        "New Listing Count M/M": -0.2209,
+        "Price Increase Count M/M": 0.2,
+        "Days on Market M/M": 0.1288
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Montana",
+        "Median Listing Price": 320800,
+        "Median Listing Price M/M": -0.0131,
+        "New Listing Count M/M": -0.0374,
+        "Price Increase Count M/M": -0.5,
+        "Days on Market M/M": 0.0867
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Montana",
+        "Median Listing Price": 325050,
+        "Median Listing Price M/M": 0.002,
+        "New Listing Count M/M": -0.1182,
+        "Price Increase Count M/M": -0.0476,
+        "Days on Market M/M": 0.0563
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Montana",
+        "Median Listing Price": 324392,
+        "Median Listing Price M/M": 0.0297,
+        "New Listing Count M/M": -0.0428,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": -0.047
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Montana",
+        "Median Listing Price": 315050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": 0.1963,
+        "Price Increase Count M/M": 0.2,
+        "Days on Market M/M": -0.232
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Montana",
+        "Median Listing Price": 314950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": 0.2108,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": -0.2868
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Montana",
+        "Median Listing Price": 315050,
+        "Median Listing Price M/M": 0.0082,
+        "New Listing Count M/M": 0.2633,
+        "Price Increase Count M/M": 0.4815,
+        "Days on Market M/M": 0.1148
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Montana",
+        "Median Listing Price": 312500,
+        "Median Listing Price M/M": -0.0081,
+        "New Listing Count M/M": 0.2472,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Montana",
+        "Median Listing Price": 315050,
+        "Median Listing Price M/M": 0.0261,
+        "New Listing Count M/M": 0.2723,
+        "Price Increase Count M/M": -0.2174,
+        "Days on Market M/M": 0.0844
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Montana",
+        "Median Listing Price": 307050,
+        "Median Listing Price M/M": 0.0233,
+        "New Listing Count M/M": -0.2212,
+        "Price Increase Count M/M": 0.0952,
+        "Days on Market M/M": 0.087
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Montana",
+        "Median Listing Price": 300050,
+        "Median Listing Price M/M": -0.04,
+        "New Listing Count M/M": -0.284,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": -0.0591
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Montana",
+        "Median Listing Price": 312550,
+        "Median Listing Price M/M": 0.0084,
+        "New Listing Count M/M": -0.0193,
+        "Price Increase Count M/M": -0.125,
+        "Days on Market M/M": 0.0628
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Montana",
+        "Median Listing Price": 309950,
+        "Median Listing Price M/M": -0.0149,
+        "New Listing Count M/M": -0.1267,
+        "Price Increase Count M/M": 0.0667,
+        "Days on Market M/M": 0.0781
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Montana",
+        "Median Listing Price": 314625,
+        "Median Listing Price M/M": 0.0034,
+        "New Listing Count M/M": -0.1151,
+        "Price Increase Count M/M": 0.0714,
+        "Days on Market M/M": 0.1163
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Montana",
+        "Median Listing Price": 313550,
+        "Median Listing Price M/M": 0.0129,
+        "New Listing Count M/M": -0.0911,
+        "Price Increase Count M/M": -0.4815,
+        "Days on Market M/M": 0.0299
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Montana",
+        "Median Listing Price": 309550,
+        "Median Listing Price M/M": 0.0317,
+        "New Listing Count M/M": -0.0681,
+        "Price Increase Count M/M": 0.8,
+        "Days on Market M/M": -0.0618
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Montana",
+        "Median Listing Price": 300050,
+        "Median Listing Price M/M": 0.005,
+        "New Listing Count M/M": 0.1101,
+        "Price Increase Count M/M": -0.0909,
+        "Days on Market M/M": -0.2426
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Montana",
+        "Median Listing Price": 298550,
+        "Median Listing Price M/M": -0.0017,
+        "New Listing Count M/M": 0.0995,
+        "Price Increase Count M/M": 0.2222,
+        "Days on Market M/M": -0.1897
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Montana",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": -0.003,
+        "New Listing Count M/M": 0.2679,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": -0.0881
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Montana",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.003,
+        "New Listing Count M/M": 0.2648,
+        "Price Increase Count M/M": 0.3846,
+        "Days on Market M/M": 0.0392
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Montana",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3787,
+        "Price Increase Count M/M": 0.625,
+        "Days on Market M/M": 0.0373
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Montana",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.3044,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.1174
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Montana",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1158,
+        "Price Increase Count M/M": -0.4483,
+        "Days on Market M/M": 0.0732
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Montana",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0831,
+        "Price Increase Count M/M": -0.0333,
+        "Days on Market M/M": 0.0982
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Montana",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1663,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": 0.1089
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Montana",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.001,
+        "New Listing Count M/M": -0.1858,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.1477
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Montana",
+        "Median Listing Price": 298750,
+        "Median Listing Price M/M": 0.0125,
+        "New Listing Count M/M": -0.1789,
+        "Price Increase Count M/M": -0.2653,
+        "Days on Market M/M": 0.0602
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Montana",
+        "Median Listing Price": 295050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1296,
+        "Price Increase Count M/M": 0.6333,
+        "Days on Market M/M": -0.0778
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Montana",
+        "Median Listing Price": 295050,
+        "Median Listing Price M/M": 0.0017,
+        "New Listing Count M/M": 0.0065,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": -0.3156
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Montana",
+        "Median Listing Price": 294550,
+        "Median Listing Price M/M": 0.0159,
+        "New Listing Count M/M": 0.1843,
+        "Price Increase Count M/M": 0.125,
+        "Days on Market M/M": -0.203
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Montana",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": 0.0031,
+        "New Listing Count M/M": 0.1527,
+        "Price Increase Count M/M": 0.0811,
+        "Days on Market M/M": -0.0323
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Montana",
+        "Median Listing Price": 289050,
+        "Median Listing Price M/M": 0.023,
+        "New Listing Count M/M": 0.2679,
+        "Price Increase Count M/M": 1.0556,
+        "Days on Market M/M": 0.0396
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Montana",
+        "Median Listing Price": 282550,
+        "Median Listing Price M/M": -0.0009,
+        "New Listing Count M/M": 0.4916,
+        "Price Increase Count M/M": 0.125,
+        "Days on Market M/M": 0.0861
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Montana",
+        "Median Listing Price": 282800,
+        "Median Listing Price M/M": 0.0102,
+        "New Listing Count M/M": -0.1815,
+        "Price Increase Count M/M": -0.2,
+        "Days on Market M/M": 0.1439
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Montana",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0032,
+        "New Listing Count M/M": -0.1474,
+        "Price Increase Count M/M": -0.3103,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Montana",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2242,
+        "Price Increase Count M/M": -0.0938,
+        "Days on Market M/M": 0.106
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Montana",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": 0.0145,
+        "New Listing Count M/M": -0.1292,
+        "Price Increase Count M/M": 0.2308,
+        "Days on Market M/M": 0.1421
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Montana",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1183,
+        "Price Increase Count M/M": -0.2121,
+        "Days on Market M/M": 0.092
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Montana",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.1127,
+        "Price Increase Count M/M": -0.175,
+        "Days on Market M/M": 0.0116
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Montana",
+        "Median Listing Price": 274950,
+        "Median Listing Price M/M": 0.0257,
+        "New Listing Count M/M": -0.0114,
+        "Price Increase Count M/M": -0.0698,
+        "Days on Market M/M": -0.1269
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Montana",
+        "Median Listing Price": 268050,
+        "Median Listing Price M/M": 0.0009,
+        "New Listing Count M/M": 0.1622,
+        "Price Increase Count M/M": 0.2647,
+        "Days on Market M/M": -0.2731
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Montana",
+        "Median Listing Price": 267800,
+        "Median Listing Price M/M": 0.0104,
+        "New Listing Count M/M": -0.0537,
+        "Price Increase Count M/M": -0.15,
+        "Days on Market M/M": -0.1478
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Montana",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.7818,
+        "Price Increase Count M/M": 0.8182,
+        "Days on Market M/M": -0.0479
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Montana",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1044,
+        "Price Increase Count M/M": 0.1579,
+        "Days on Market M/M": 0.0405
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Montana",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": -0.0092,
+        "New Listing Count M/M": 1.041,
+        "Price Increase Count M/M": -0.05,
+        "Days on Market M/M": 0.0772
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Montana",
+        "Median Listing Price": 267500,
+        "Median Listing Price M/M": 0.0092,
+        "New Listing Count M/M": -0.3786,
+        "Price Increase Count M/M": -0.2857,
+        "Days on Market M/M": 0.1331
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Montana",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": -0.0149,
+        "New Listing Count M/M": -0.1488,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": 0.0735
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Montana",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": -0.0215,
+        "New Listing Count M/M": -0.1663,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0938
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Montana",
+        "Median Listing Price": 274950,
+        "Median Listing Price M/M": 0.0183,
+        "New Listing Count M/M": -0.1683,
+        "Price Increase Count M/M": -0.5385,
+        "Days on Market M/M": 0.0927
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Montana",
+        "Median Listing Price": 270000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.1745,
+        "Price Increase Count M/M": 0.2093,
+        "Days on Market M/M": 0.0733
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Montana",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0041,
+        "Price Increase Count M/M": 0.0238,
+        "Days on Market M/M": 0.0053
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Montana",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.017,
+        "New Listing Count M/M": -0.0625,
+        "Price Increase Count M/M": -0.0455,
+        "Days on Market M/M": -0.0452
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Montana",
+        "Median Listing Price": 265425,
+        "Median Listing Price M/M": 0.0207,
+        "New Listing Count M/M": 0.143,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.1422
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Montana",
+        "Median Listing Price": 260050,
+        "Median Listing Price M/M": -0.0057,
+        "New Listing Count M/M": 0.079,
+        "Price Increase Count M/M": 0.6923,
+        "Days on Market M/M": -0.2318
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Montana",
+        "Median Listing Price": 261550,
+        "Median Listing Price M/M": 0.0097,
+        "New Listing Count M/M": 0.3191,
+        "Price Increase Count M/M": -0.0714,
+        "Days on Market M/M": -0.0876
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Montana",
+        "Median Listing Price": 259050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0365,
+        "Price Increase Count M/M": 0.0769,
+        "Days on Market M/M": -0.006
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Montana",
+        "Median Listing Price": 259050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3333,
+        "Price Increase Count M/M": 0.1818,
+        "Days on Market M/M": 0.0472
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Montana",
+        "Median Listing Price": 259050,
+        "Median Listing Price M/M": 0.036,
+        "New Listing Count M/M": 0.0341,
+        "Price Increase Count M/M": 0.2222,
+        "Days on Market M/M": -0.1117
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Montana",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": -0.0194,
+        "New Listing Count M/M": -0.2122,
+        "Price Increase Count M/M": -0.4545,
+        "Days on Market M/M": 0.0915
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Montana",
+        "Median Listing Price": 255000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.1163,
+        "Price Increase Count M/M": 0.1786,
+        "Days on Market M/M": 0.0933
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Montana",
+        "Median Listing Price": 254950,
+        "Median Listing Price M/M": 0.0196,
+        "New Listing Count M/M": -0.1845,
+        "Price Increase Count M/M": -0.2222,
+        "Days on Market M/M": 0.0989
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Montana",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1985,
+        "Price Increase Count M/M": 0.125,
+        "Days on Market M/M": 0.0341
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Montana",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1188,
+        "Price Increase Count M/M": 0.1034,
+        "Days on Market M/M": -0.0638
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Montana",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.0634,
+        "Price Increase Count M/M": 0.1154,
+        "Days on Market M/M": -0.1132
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Montana",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": 0.0255,
+        "Price Increase Count M/M": -0.2571,
+        "Days on Market M/M": -0.1264
+    }
+]

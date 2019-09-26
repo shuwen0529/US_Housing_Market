@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 220000,
+        "Median Listing Price M/M": 0.0481,
+        "New Listing Count M/M": 0.2044,
+        "Price Increase Count M/M": 0.0344,
+        "Days on Market M/M": -0.2529
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 209900,
+        "Median Listing Price M/M": 0.0511,
+        "New Listing Count M/M": 0.2647,
+        "Price Increase Count M/M": 0.0053,
+        "Days on Market M/M": -0.1471
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 199700,
+        "Median Listing Price M/M": 0.0246,
+        "New Listing Count M/M": 0.0383,
+        "Price Increase Count M/M": 0.2921,
+        "Days on Market M/M": 0.0099
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 194900,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": 0.291,
+        "Price Increase Count M/M": 0.2652,
+        "Days on Market M/M": 0.1222
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 195600,
+        "Median Listing Price M/M": -0.0215,
+        "New Listing Count M/M": -0.2468,
+        "Price Increase Count M/M": -0.0417,
+        "Days on Market M/M": 0.125
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 199900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1835,
+        "Price Increase Count M/M": -0.2814,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 199900,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.0565,
+        "Price Increase Count M/M": -0.0773,
+        "Days on Market M/M": 0.0274
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 200000,
+        "Median Listing Price M/M": -0.0123,
+        "New Listing Count M/M": -0.0008,
+        "Price Increase Count M/M": 0.0742,
+        "Days on Market M/M": 0.0735
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 202500,
+        "Median Listing Price M/M": -0.0357,
+        "New Listing Count M/M": -0.0882,
+        "Price Increase Count M/M": -0.0989,
+        "Days on Market M/M": 0.0462
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 210000,
+        "Median Listing Price M/M": -0.0047,
+        "New Listing Count M/M": -0.0555,
+        "Price Increase Count M/M": 0.0595,
+        "Days on Market M/M": 0.0833
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 211000,
+        "Median Listing Price M/M": 0.0149,
+        "New Listing Count M/M": -0.0639,
+        "Price Increase Count M/M": -0.2521,
+        "Days on Market M/M": -0.0625
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 207900,
+        "Median Listing Price M/M": 0.04,
+        "New Listing Count M/M": 0.0609,
+        "Price Increase Count M/M": 0.2041,
+        "Days on Market M/M": -0.1351
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 199900,
+        "Median Listing Price M/M": 0.0262,
+        "New Listing Count M/M": 0.2224,
+        "Price Increase Count M/M": -0.0051,
+        "Days on Market M/M": -0.2128
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 194800,
+        "Median Listing Price M/M": 0.0296,
+        "New Listing Count M/M": 0.1658,
+        "Price Increase Count M/M": 0.2313,
+        "Days on Market M/M": -0.1215
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 189200,
+        "Median Listing Price M/M": 0.0233,
+        "New Listing Count M/M": 0.1796,
+        "Price Increase Count M/M": -0.0184,
+        "Days on Market M/M": 0.0094
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 184900,
+        "Median Listing Price M/M": -0.016,
+        "New Listing Count M/M": 0.2771,
+        "Price Increase Count M/M": 0.5673,
+        "Days on Market M/M": 0.1042
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 187900,
+        "Median Listing Price M/M": -0.0254,
+        "New Listing Count M/M": -0.3411,
+        "Price Increase Count M/M": -0.3864,
+        "Days on Market M/M": 0.1034
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 192800,
+        "Median Listing Price M/M": -0.0108,
+        "New Listing Count M/M": -0.1765,
+        "Price Increase Count M/M": -0.0088,
+        "Days on Market M/M": 0.061
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 194950,
+        "Median Listing Price M/M": 0.0049,
+        "New Listing Count M/M": 0.0153,
+        "Price Increase Count M/M": -0.0058,
+        "Days on Market M/M": 0.0186
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 194000,
+        "Median Listing Price M/M": -0.0049,
+        "New Listing Count M/M": -0.0766,
+        "Price Increase Count M/M": -0.0497,
+        "Days on Market M/M": 0.0662
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 194950,
+        "Median Listing Price M/M": -0.0132,
+        "New Listing Count M/M": -0.0626,
+        "Price Increase Count M/M": -0.1084,
+        "Days on Market M/M": 0.0486
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 197550,
+        "Median Listing Price M/M": -0.0075,
+        "New Listing Count M/M": -0.0245,
+        "Price Increase Count M/M": 0.1567,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 199050,
+        "Median Listing Price M/M": 0.0063,
+        "New Listing Count M/M": -0.0927,
+        "Price Increase Count M/M": -0.0304,
+        "Days on Market M/M": 0.0075
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 197800,
+        "Median Listing Price M/M": 0.0413,
+        "New Listing Count M/M": 0.0086,
+        "Price Increase Count M/M": -0.2096,
+        "Days on Market M/M": -0.0946
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0268,
+        "New Listing Count M/M": 0.163,
+        "Price Increase Count M/M": -0.0858,
+        "Days on Market M/M": -0.241
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 185000,
+        "Median Listing Price M/M": 0.0423,
+        "New Listing Count M/M": 0.1916,
+        "Price Increase Count M/M": 0.3726,
+        "Days on Market M/M": -0.1216
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 177500,
+        "Median Listing Price M/M": 0.0146,
+        "New Listing Count M/M": 0.1982,
+        "Price Increase Count M/M": 0.0673,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": -0.0144,
+        "New Listing Count M/M": 0.2647,
+        "Price Increase Count M/M": 0.1104,
+        "Days on Market M/M": 0.0882
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 177500,
+        "Median Listing Price M/M": -0.0139,
+        "New Listing Count M/M": -0.2613,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": 0.0737
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 180000,
+        "Median Listing Price M/M": -0.0268,
+        "New Listing Count M/M": -0.1357,
+        "Price Increase Count M/M": -0.1801,
+        "Days on Market M/M": 0.044
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.0496,
+        "Price Increase Count M/M": -0.2088,
+        "Days on Market M/M": 0.0225
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 185050,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": -0.0036,
+        "Price Increase Count M/M": -0.0097,
+        "Days on Market M/M": 0.0409
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": -0.0159,
+        "New Listing Count M/M": -0.0881,
+        "Price Increase Count M/M": 0.0989,
+        "Days on Market M/M": 0.0688
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 187947,
+        "Median Listing Price M/M": -0.0058,
+        "New Listing Count M/M": -0.0829,
+        "Price Increase Count M/M": -0.0788,
+        "Days on Market M/M": 0.0738
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": 0.0167,
+        "New Listing Count M/M": -0.0732,
+        "Price Increase Count M/M": -0.0193,
+        "Days on Market M/M": 0.0205
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 185950,
+        "Median Listing Price M/M": 0.0331,
+        "New Listing Count M/M": -0.0152,
+        "Price Increase Count M/M": -0.1,
+        "Days on Market M/M": -0.1043
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 180000,
+        "Median Listing Price M/M": 0.0031,
+        "New Listing Count M/M": 0.0551,
+        "Price Increase Count M/M": 0.1031,
+        "Days on Market M/M": -0.2238
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 179450,
+        "Median Listing Price M/M": 0.0467,
+        "New Listing Count M/M": 0.4045,
+        "Price Increase Count M/M": 0.0638,
+        "Days on Market M/M": -0.1026
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 171450,
+        "Median Listing Price M/M": 0.0142,
+        "New Listing Count M/M": -0.0012,
+        "Price Increase Count M/M": 0.2174,
+        "Days on Market M/M": 0.0541
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 169050,
+        "Median Listing Price M/M": -0.0053,
+        "New Listing Count M/M": 0.318,
+        "Price Increase Count M/M": 0.1378,
+        "Days on Market M/M": 0.0571
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": -0.0179,
+        "New Listing Count M/M": -0.2253,
+        "Price Increase Count M/M": -0.1914,
+        "Days on Market M/M": 0.1053
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 173050,
+        "Median Listing Price M/M": -0.0114,
+        "New Listing Count M/M": -0.1983,
+        "Price Increase Count M/M": -0.2325,
+        "Days on Market M/M": 0.0615
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 175045,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0113,
+        "Price Increase Count M/M": 0.0806,
+        "Days on Market M/M": 0.0229
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 175050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0354,
+        "Price Increase Count M/M": 0.1657,
+        "Days on Market M/M": 0.0671
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 175050,
+        "Median Listing Price M/M": -0.0272,
+        "New Listing Count M/M": -0.2082,
+        "Price Increase Count M/M": -0.0694,
+        "Days on Market M/M": 0.0446
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0072,
+        "Price Increase Count M/M": 0.0514,
+        "Days on Market M/M": 0.1135
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0978,
+        "Price Increase Count M/M": -0.1355,
+        "Days on Market M/M": 0.0217
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.028,
+        "New Listing Count M/M": 0.0803,
+        "Price Increase Count M/M": -0.1457,
+        "Days on Market M/M": -0.2203
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 175050,
+        "Median Listing Price M/M": 0.03,
+        "New Listing Count M/M": 0.2564,
+        "Price Increase Count M/M": 0.2525,
+        "Days on Market M/M": -0.2625
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0219,
+        "New Listing Count M/M": 0.2696,
+        "Price Increase Count M/M": 0.0667,
+        "Days on Market M/M": -0.0123
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 166300,
+        "Median Listing Price M/M": 0.0079,
+        "New Listing Count M/M": -0.0605,
+        "Price Increase Count M/M": 0.0653,
+        "Days on Market M/M": 0.0297
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 164995,
+        "Median Listing Price M/M": -0.0164,
+        "New Listing Count M/M": 0.4369,
+        "Price Increase Count M/M": 0.2616,
+        "Days on Market M/M": 0.0583
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 167750,
+        "Median Listing Price M/M": -0.0129,
+        "New Listing Count M/M": -0.285,
+        "Price Increase Count M/M": -0.2207,
+        "Days on Market M/M": 0.104
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": -0.0151,
+        "New Listing Count M/M": -0.1447,
+        "Price Increase Count M/M": -0.1268,
+        "Days on Market M/M": 0.0632
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 172550,
+        "Median Listing Price M/M": 0.0073,
+        "New Listing Count M/M": -0.0853,
+        "Price Increase Count M/M": -0.1977,
+        "Days on Market M/M": 0.027
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 171300,
+        "Median Listing Price M/M": -0.0214,
+        "New Listing Count M/M": 0.004,
+        "Price Increase Count M/M": -0.1004,
+        "Days on Market M/M": 0.0632
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 175050,
+        "Median Listing Price M/M": -0.0272,
+        "New Listing Count M/M": -0.0852,
+        "Price Increase Count M/M": 0.2938,
+        "Days on Market M/M": 0.0875
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0773,
+        "Price Increase Count M/M": -0.0068,
+        "Days on Market M/M": 0.0811
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0025,
+        "New Listing Count M/M": -0.0544,
+        "Price Increase Count M/M": -0.0636,
+        "Days on Market M/M": -0.0327
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 179500,
+        "Median Listing Price M/M": 0.026,
+        "New Listing Count M/M": 0.0022,
+        "Price Increase Count M/M": 0.1185,
+        "Days on Market M/M": -0.1905
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": 0.0349,
+        "New Listing Count M/M": 0.2817,
+        "Price Increase Count M/M": -0.0866,
+        "Days on Market M/M": -0.244
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 169050,
+        "Median Listing Price M/M": 0.0246,
+        "New Listing Count M/M": 0.3909,
+        "Price Increase Count M/M": 0.3669,
+        "Days on Market M/M": -0.0119
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 164988,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0009,
+        "Price Increase Count M/M": -0.1058,
+        "Days on Market M/M": 0.0412
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 164937,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": 0.4265,
+        "Price Increase Count M/M": 1.52,
+        "Days on Market M/M": 0.1045
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": -0.0222,
+        "New Listing Count M/M": -0.3573,
+        "Price Increase Count M/M": -0.4966,
+        "Days on Market M/M": 0.0945
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 168800,
+        "Median Listing Price M/M": -0.0068,
+        "New Listing Count M/M": -0.1276,
+        "Price Increase Count M/M": 0.3186,
+        "Days on Market M/M": 0.0469
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0622,
+        "Price Increase Count M/M": 0.2556,
+        "Days on Market M/M": 0.0213
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.0773,
+        "Price Increase Count M/M": -0.2913,
+        "Days on Market M/M": 0.0387
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 170000,
+        "Median Listing Price M/M": -0.0283,
+        "New Listing Count M/M": 0.0104,
+        "Price Increase Count M/M": -0.4806,
+        "Days on Market M/M": 0.0523
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": -0.0224,
+        "New Listing Count M/M": -0.0441,
+        "Price Increase Count M/M": -0.3633,
+        "Days on Market M/M": 0.0617
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 178950,
+        "Median Listing Price M/M": 0.0136,
+        "New Listing Count M/M": -0.086,
+        "Price Increase Count M/M": 0.0832,
+        "Days on Market M/M": 0.0189
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 176550,
+        "Median Listing Price M/M": 0.0089,
+        "New Listing Count M/M": 0.0071,
+        "Price Increase Count M/M": -0.0899,
+        "Days on Market M/M": -0.0422
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 175000,
+        "Median Listing Price M/M": 0.0297,
+        "New Listing Count M/M": 0.1328,
+        "Price Increase Count M/M": 0.0091,
+        "Days on Market M/M": -0.217
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0297,
+        "New Listing Count M/M": 0.2443,
+        "Price Increase Count M/M": 0.4088,
+        "Days on Market M/M": -0.152
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0006,
+        "New Listing Count M/M": -0.0048,
+        "Price Increase Count M/M": 0.0809,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3952,
+        "Price Increase Count M/M": 0.3852,
+        "Days on Market M/M": 0.0331
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": -0.0243,
+        "New Listing Count M/M": -0.085,
+        "Price Increase Count M/M": -0.2295,
+        "Days on Market M/M": 0.0756
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 169050,
+        "Median Listing Price M/M": -0.0053,
+        "New Listing Count M/M": -0.2305,
+        "Price Increase Count M/M": 0.0259,
+        "Days on Market M/M": 0.0514
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0461,
+        "Price Increase Count M/M": 0.0381,
+        "Days on Market M/M": 0.0918
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": -0.0151,
+        "New Listing Count M/M": -0.0072,
+        "Price Increase Count M/M": 0.1495,
+        "Days on Market M/M": 0.0316
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 172550,
+        "Median Listing Price M/M": -0.0142,
+        "New Listing Count M/M": -0.0749,
+        "Price Increase Count M/M": -0.0102,
+        "Days on Market M/M": 0.044
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 175040,
+        "Median Listing Price M/M": -0.0104,
+        "New Listing Count M/M": -0.0849,
+        "Price Increase Count M/M": -0.3276,
+        "Days on Market M/M": 0.0111
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 176878,
+        "Median Listing Price M/M": -0.006,
+        "New Listing Count M/M": 0.0138,
+        "Price Increase Count M/M": 0.2404,
+        "Days on Market M/M": -0.011
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Pennsylvania",
+        "Median Listing Price": 177950,
+        "Median Listing Price M/M": 0.0166,
+        "New Listing Count M/M": -0.0666,
+        "Price Increase Count M/M": 0.2567,
+        "Days on Market M/M": -0.0421
+    }
+]

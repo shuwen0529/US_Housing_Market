@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Nebraska",
+        "Median Listing Price": 251600,
+        "Median Listing Price M/M": 0.0068,
+        "New Listing Count M/M": 0.3326,
+        "Price Increase Count M/M": 0.0385,
+        "Days on Market M/M": -0.2424
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Nebraska",
+        "Median Listing Price": 249900,
+        "Median Listing Price M/M": 0.0753,
+        "New Listing Count M/M": 0.213,
+        "Price Increase Count M/M": -0.6286,
+        "Days on Market M/M": -0.0704
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Nebraska",
+        "Median Listing Price": 232400,
+        "Median Listing Price M/M": 0.0224,
+        "New Listing Count M/M": -0.0806,
+        "Price Increase Count M/M": 1.0,
+        "Days on Market M/M": -0.0274
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Nebraska",
+        "Median Listing Price": 227300,
+        "Median Listing Price M/M": 0.0102,
+        "New Listing Count M/M": 0.3955,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": 0.0735
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Nebraska",
+        "Median Listing Price": 225000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.3647,
+        "Price Increase Count M/M": -0.1176,
+        "Days on Market M/M": 0.2593
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Nebraska",
+        "Median Listing Price": 225000,
+        "Median Listing Price M/M": -0.0136,
+        "New Listing Count M/M": -0.1235,
+        "Price Increase Count M/M": 0.2143,
+        "Days on Market M/M": 0.0189
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Nebraska",
+        "Median Listing Price": 228100,
+        "Median Listing Price M/M": -0.0083,
+        "New Listing Count M/M": -0.0707,
+        "Price Increase Count M/M": -0.2222,
+        "Days on Market M/M": 0.0192
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Nebraska",
+        "Median Listing Price": 230000,
+        "Median Listing Price M/M": -0.0204,
+        "New Listing Count M/M": 0.0204,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.1064
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Nebraska",
+        "Median Listing Price": 234800,
+        "Median Listing Price M/M": -0.0009,
+        "New Listing Count M/M": -0.1035,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.0444
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Nebraska",
+        "Median Listing Price": 235000,
+        "Median Listing Price M/M": -0.0017,
+        "New Listing Count M/M": -0.0499,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.0714
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Nebraska",
+        "Median Listing Price": 235400,
+        "Median Listing Price M/M": -0.0008,
+        "New Listing Count M/M": 0.1011,
+        "Price Increase Count M/M": 0.2857,
+        "Days on Market M/M": -0.087
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Nebraska",
+        "Median Listing Price": 235600,
+        "Median Listing Price M/M": -0.0142,
+        "New Listing Count M/M": 0.1135,
+        "Price Increase Count M/M": 0.1053,
+        "Days on Market M/M": -0.0417
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Nebraska",
+        "Median Listing Price": 239000,
+        "Median Listing Price M/M": 0.0231,
+        "New Listing Count M/M": 0.0846,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": -0.2
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Nebraska",
+        "Median Listing Price": 233600,
+        "Median Listing Price M/M": 0.0291,
+        "New Listing Count M/M": 0.3232,
+        "Price Increase Count M/M": 0.6286,
+        "Days on Market M/M": -0.2
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Nebraska",
+        "Median Listing Price": 227000,
+        "Median Listing Price M/M": 0.0342,
+        "New Listing Count M/M": 0.0579,
+        "Price Increase Count M/M": -0.1463,
+        "Days on Market M/M": -0.0132
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Nebraska",
+        "Median Listing Price": 219500,
+        "Median Listing Price M/M": 0.0457,
+        "New Listing Count M/M": 0.0435,
+        "Price Increase Count M/M": 0.4643,
+        "Days on Market M/M": 0.1515
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Nebraska",
+        "Median Listing Price": 209900,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": -0.215,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": 0.1379
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Nebraska",
+        "Median Listing Price": 209800,
+        "Median Listing Price M/M": -0.0192,
+        "New Listing Count M/M": -0.1245,
+        "Price Increase Count M/M": -0.1923,
+        "Days on Market M/M": 0.0357
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Nebraska",
+        "Median Listing Price": 213950,
+        "Median Listing Price M/M": -0.0051,
+        "New Listing Count M/M": -0.0487,
+        "Price Increase Count M/M": 0.3684,
+        "Days on Market M/M": 0.037
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Nebraska",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": -0.0115,
+        "New Listing Count M/M": -0.0198,
+        "Price Increase Count M/M": -0.5581,
+        "Days on Market M/M": 0.0485
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Nebraska",
+        "Median Listing Price": 217550,
+        "Median Listing Price M/M": -0.0091,
+        "New Listing Count M/M": -0.0406,
+        "Price Increase Count M/M": 0.4333,
+        "Days on Market M/M": 0.051
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Nebraska",
+        "Median Listing Price": 219550,
+        "Median Listing Price M/M": -0.002,
+        "New Listing Count M/M": -0.0524,
+        "Price Increase Count M/M": -0.1176,
+        "Days on Market M/M": -0.0297
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Nebraska",
+        "Median Listing Price": 220000,
+        "Median Listing Price M/M": -0.0056,
+        "New Listing Count M/M": 0.0617,
+        "Price Increase Count M/M": -0.2273,
+        "Days on Market M/M": 0.01
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Nebraska",
+        "Median Listing Price": 221250,
+        "Median Listing Price M/M": 0.0288,
+        "New Listing Count M/M": 0.0483,
+        "Price Increase Count M/M": 0.4667,
+        "Days on Market M/M": -0.0196
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Nebraska",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0628,
+        "New Listing Count M/M": 0.0904,
+        "Price Increase Count M/M": -0.5946,
+        "Days on Market M/M": -0.113
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Nebraska",
+        "Median Listing Price": 202348,
+        "Median Listing Price M/M": 0.023,
+        "New Listing Count M/M": 0.2147,
+        "Price Increase Count M/M": 1.2424,
+        "Days on Market M/M": -0.2069
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Nebraska",
+        "Median Listing Price": 197800,
+        "Median Listing Price M/M": 0.0463,
+        "New Listing Count M/M": 0.1024,
+        "Price Increase Count M/M": 0.0313,
+        "Days on Market M/M": -0.0823
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Nebraska",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": 0.0222,
+        "New Listing Count M/M": 0.2492,
+        "Price Increase Count M/M": 0.6,
+        "Days on Market M/M": 0.1127
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Nebraska",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.2943,
+        "Price Increase Count M/M": -0.2,
+        "Days on Market M/M": 0.1687
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Nebraska",
+        "Median Listing Price": 185037,
+        "Median Listing Price M/M": -0.0001,
+        "New Listing Count M/M": -0.1938,
+        "Price Increase Count M/M": -0.2188,
+        "Days on Market M/M": 0.0658
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Nebraska",
+        "Median Listing Price": 185050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0094,
+        "Price Increase Count M/M": 0.1034,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Nebraska",
+        "Median Listing Price": 185049,
+        "Median Listing Price M/M": -0.0209,
+        "New Listing Count M/M": -0.0507,
+        "Price Increase Count M/M": -0.1944,
+        "Days on Market M/M": 0.0093
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Nebraska",
+        "Median Listing Price": 189000,
+        "Median Listing Price M/M": -0.0102,
+        "New Listing Count M/M": -0.0044,
+        "Price Increase Count M/M": -0.1,
+        "Days on Market M/M": 0.0288
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Nebraska",
+        "Median Listing Price": 190950,
+        "Median Listing Price M/M": -0.0255,
+        "New Listing Count M/M": -0.0367,
+        "Price Increase Count M/M": 0.2903,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Nebraska",
+        "Median Listing Price": 195950,
+        "Median Listing Price M/M": 0.0155,
+        "New Listing Count M/M": 0.0549,
+        "Price Increase Count M/M": -0.1389,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Nebraska",
+        "Median Listing Price": 192950,
+        "Median Listing Price M/M": 0.035,
+        "New Listing Count M/M": -0.0422,
+        "Price Increase Count M/M": -0.3571,
+        "Days on Market M/M": -0.037
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Nebraska",
+        "Median Listing Price": 186433,
+        "Median Listing Price M/M": 0.0357,
+        "New Listing Count M/M": 0.0274,
+        "Price Increase Count M/M": 0.3023,
+        "Days on Market M/M": -0.0847
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Nebraska",
+        "Median Listing Price": 180000,
+        "Median Listing Price M/M": 0.0286,
+        "New Listing Count M/M": 0.3263,
+        "Price Increase Count M/M": 0.0488,
+        "Days on Market M/M": -0.1862
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Nebraska",
+        "Median Listing Price": 175000,
+        "Median Listing Price M/M": 0.0297,
+        "New Listing Count M/M": 0.0071,
+        "Price Increase Count M/M": 0.2813,
+        "Days on Market M/M": -0.0584
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Nebraska",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0297,
+        "New Listing Count M/M": 0.2975,
+        "Price Increase Count M/M": 0.8824,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Nebraska",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2898,
+        "Price Increase Count M/M": -0.3929,
+        "Days on Market M/M": 0.1475
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Nebraska",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1364,
+        "Price Increase Count M/M": -0.2632,
+        "Days on Market M/M": 0.1091
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Nebraska",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": 0.0422,
+        "Price Increase Count M/M": -0.1556,
+        "Days on Market M/M": 0.0185
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Nebraska",
+        "Median Listing Price": 165083,
+        "Median Listing Price M/M": -0.0058,
+        "New Listing Count M/M": -0.1207,
+        "Price Increase Count M/M": 0.0227,
+        "Days on Market M/M": 0.0588
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Nebraska",
+        "Median Listing Price": 166050,
+        "Median Listing Price M/M": -0.0261,
+        "New Listing Count M/M": -0.0888,
+        "Price Increase Count M/M": -0.1373,
+        "Days on Market M/M": 0.0625
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Nebraska",
+        "Median Listing Price": 170500,
+        "Median Listing Price M/M": -0.0187,
+        "New Listing Count M/M": -0.0101,
+        "Price Increase Count M/M": 0.3784,
+        "Days on Market M/M": -0.0103
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Nebraska",
+        "Median Listing Price": 173750,
+        "Median Listing Price M/M": 0.0055,
+        "New Listing Count M/M": 0.0354,
+        "Price Increase Count M/M": -0.26,
+        "Days on Market M/M": -0.0102
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Nebraska",
+        "Median Listing Price": 172800,
+        "Median Listing Price M/M": 0.047,
+        "New Listing Count M/M": -0.0244,
+        "Price Increase Count M/M": 0.2821,
+        "Days on Market M/M": -0.0667
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Nebraska",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0319,
+        "New Listing Count M/M": 0.0918,
+        "Price Increase Count M/M": 0.2188,
+        "Days on Market M/M": -0.125
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Nebraska",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0665,
+        "New Listing Count M/M": 0.2378,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": -0.2208
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Nebraska",
+        "Median Listing Price": 149975,
+        "Median Listing Price M/M": 0.0237,
+        "New Listing Count M/M": -0.0218,
+        "Price Increase Count M/M": -0.3143,
+        "Days on Market M/M": -0.0494
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Nebraska",
+        "Median Listing Price": 146500,
+        "Median Listing Price M/M": 0.0091,
+        "New Listing Count M/M": 0.4288,
+        "Price Increase Count M/M": 0.5909,
+        "Days on Market M/M": 0.08
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Nebraska",
+        "Median Listing Price": 145175,
+        "Median Listing Price M/M": -0.026,
+        "New Listing Count M/M": -0.2444,
+        "Price Increase Count M/M": -0.1538,
+        "Days on Market M/M": 0.1364
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Nebraska",
+        "Median Listing Price": 149050,
+        "Median Listing Price M/M": -0.0047,
+        "New Listing Count M/M": -0.1928,
+        "Price Increase Count M/M": -0.1875,
+        "Days on Market M/M": 0.0645
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Nebraska",
+        "Median Listing Price": 149750,
+        "Median Listing Price M/M": -0.0013,
+        "New Listing Count M/M": -0.023,
+        "Price Increase Count M/M": -0.0857,
+        "Days on Market M/M": 0.0248
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Nebraska",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0013,
+        "New Listing Count M/M": -0.0668,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": 0.0254
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Nebraska",
+        "Median Listing Price": 149750,
+        "Median Listing Price M/M": -0.002,
+        "New Listing Count M/M": -0.123,
+        "Price Increase Count M/M": -0.434,
+        "Days on Market M/M": 0.0351
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Nebraska",
+        "Median Listing Price": 150050,
+        "Median Listing Price M/M": 0.0033,
+        "New Listing Count M/M": 0.0566,
+        "Price Increase Count M/M": 0.4722,
+        "Days on Market M/M": 0.0755
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Nebraska",
+        "Median Listing Price": 149550,
+        "Median Listing Price M/M": 0.031,
+        "New Listing Count M/M": -0.0834,
+        "Price Increase Count M/M": -0.28,
+        "Days on Market M/M": -0.0783
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Nebraska",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": 0.0007,
+        "Price Increase Count M/M": 0.0417,
+        "Days on Market M/M": -0.1085
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Nebraska",
+        "Median Listing Price": 145025,
+        "Median Listing Price M/M": 0.0355,
+        "New Listing Count M/M": 0.2024,
+        "Price Increase Count M/M": -0.1429,
+        "Days on Market M/M": -0.1042
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Nebraska",
+        "Median Listing Price": 140050,
+        "Median Listing Price M/M": 0.0285,
+        "New Listing Count M/M": 0.1944,
+        "Price Increase Count M/M": 0.2444,
+        "Days on Market M/M": -0.191
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Nebraska",
+        "Median Listing Price": 136174,
+        "Median Listing Price M/M": 0.0083,
+        "New Listing Count M/M": 0.0174,
+        "Price Increase Count M/M": -0.1818,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Nebraska",
+        "Median Listing Price": 135049,
+        "Median Listing Price M/M": 0.0037,
+        "New Listing Count M/M": 0.3746,
+        "Price Increase Count M/M": 1.75,
+        "Days on Market M/M": 0.1125
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Nebraska",
+        "Median Listing Price": 134550,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": -0.2688,
+        "Price Increase Count M/M": -0.2593,
+        "Days on Market M/M": 0.1679
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Nebraska",
+        "Median Listing Price": 134750,
+        "Median Listing Price M/M": -0.0096,
+        "New Listing Count M/M": -0.1736,
+        "Price Increase Count M/M": -0.325,
+        "Days on Market M/M": 0.0301
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Nebraska",
+        "Median Listing Price": 136050,
+        "Median Listing Price M/M": 0.0074,
+        "New Listing Count M/M": -0.0192,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": 0.0726
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Nebraska",
+        "Median Listing Price": 135050,
+        "Median Listing Price M/M": -0.0164,
+        "New Listing Count M/M": -0.0713,
+        "Price Increase Count M/M": -0.1795,
+        "Days on Market M/M": 0.0508
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Nebraska",
+        "Median Listing Price": 137300,
+        "Median Listing Price M/M": -0.0191,
+        "New Listing Count M/M": -0.1097,
+        "Price Increase Count M/M": -0.1136,
+        "Days on Market M/M": 0.0261
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Nebraska",
+        "Median Listing Price": 139975,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": 0.1742,
+        "Price Increase Count M/M": -0.0833,
+        "Days on Market M/M": 0.0455
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Nebraska",
+        "Median Listing Price": 140000,
+        "Median Listing Price M/M": -0.0071,
+        "New Listing Count M/M": -0.0715,
+        "Price Increase Count M/M": 0.4118,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Nebraska",
+        "Median Listing Price": 141000,
+        "Median Listing Price M/M": 0.0085,
+        "New Listing Count M/M": 0.07,
+        "Price Increase Count M/M": -0.4035,
+        "Days on Market M/M": -0.0351
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Nebraska",
+        "Median Listing Price": 139812,
+        "Median Listing Price M/M": 0.0055,
+        "New Listing Count M/M": -0.0548,
+        "Price Increase Count M/M": 0.0556,
+        "Days on Market M/M": -0.1231
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Nebraska",
+        "Median Listing Price": 139050,
+        "Median Listing Price M/M": 0.0296,
+        "New Listing Count M/M": 0.3075,
+        "Price Increase Count M/M": -0.5574,
+        "Days on Market M/M": -0.1925
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Nebraska",
+        "Median Listing Price": 135050,
+        "Median Listing Price M/M": 0.0093,
+        "New Listing Count M/M": 0.1254,
+        "Price Increase Count M/M": 1.7111,
+        "Days on Market M/M": -0.08
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Nebraska",
+        "Median Listing Price": 133800,
+        "Median Listing Price M/M": 0.0019,
+        "New Listing Count M/M": 0.1628,
+        "Price Increase Count M/M": 0.3235,
+        "Days on Market M/M": 0.0542
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Nebraska",
+        "Median Listing Price": 133550,
+        "Median Listing Price M/M": -0.0074,
+        "New Listing Count M/M": -0.1233,
+        "Price Increase Count M/M": 0.1724,
+        "Days on Market M/M": 0.1141
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Nebraska",
+        "Median Listing Price": 134550,
+        "Median Listing Price M/M": -0.0037,
+        "New Listing Count M/M": -0.1609,
+        "Price Increase Count M/M": -0.0333,
+        "Days on Market M/M": 0.0205
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Nebraska",
+        "Median Listing Price": 135050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0077,
+        "Price Increase Count M/M": -0.3478,
+        "Days on Market M/M": 0.0429
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Nebraska",
+        "Median Listing Price": 135050,
+        "Median Listing Price M/M": -0.0055,
+        "New Listing Count M/M": -0.0872,
+        "Price Increase Count M/M": -0.1786,
+        "Days on Market M/M": 0.0219
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Nebraska",
+        "Median Listing Price": 135800,
+        "Median Listing Price M/M": -0.0163,
+        "New Listing Count M/M": -0.0266,
+        "Price Increase Count M/M": 0.5556,
+        "Days on Market M/M": 0.0224
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Nebraska",
+        "Median Listing Price": 138050,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.0528,
+        "Price Increase Count M/M": 0.0909,
+        "Days on Market M/M": 0.0635
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Nebraska",
+        "Median Listing Price": 138550,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.0105,
+        "Price Increase Count M/M": -0.3265,
+        "Days on Market M/M": 0.0413
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Nebraska",
+        "Median Listing Price": 139050,
+        "Median Listing Price M/M": -0.0064,
+        "New Listing Count M/M": -0.0349,
+        "Price Increase Count M/M": 0.0426,
+        "Days on Market M/M": -0.0163
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Ohio",
+        "Median Listing Price": 182200,
+        "Median Listing Price M/M": 0.0417,
+        "New Listing Count M/M": 0.2048,
+        "Price Increase Count M/M": 0.3441,
+        "Days on Market M/M": -0.2167
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Ohio",
+        "Median Listing Price": 174900,
+        "Median Listing Price M/M": 0.0505,
+        "New Listing Count M/M": 0.2216,
+        "Price Increase Count M/M": 0.1273,
+        "Days on Market M/M": -0.2308
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Ohio",
+        "Median Listing Price": 166500,
+        "Median Listing Price M/M": 0.0109,
+        "New Listing Count M/M": 0.1067,
+        "Price Increase Count M/M": 0.0714,
+        "Days on Market M/M": -0.025
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Ohio",
+        "Median Listing Price": 164700,
+        "Median Listing Price M/M": -0.0012,
+        "New Listing Count M/M": 0.1454,
+        "Price Increase Count M/M": 0.4528,
+        "Days on Market M/M": 0.1594
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Ohio",
+        "Median Listing Price": 164900,
+        "Median Listing Price M/M": -0.0243,
+        "New Listing Count M/M": -0.2767,
+        "Price Increase Count M/M": -0.3161,
+        "Days on Market M/M": 0.15
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Ohio",
+        "Median Listing Price": 169000,
+        "Median Listing Price M/M": -0.0053,
+        "New Listing Count M/M": -0.1555,
+        "Price Increase Count M/M": -0.1243,
+        "Days on Market M/M": 0.0169
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Ohio",
+        "Median Listing Price": 169900,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.0239,
+        "Price Increase Count M/M": -0.1571,
+        "Days on Market M/M": 0.0926
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Ohio",
+        "Median Listing Price": 170000,
+        "Median Listing Price M/M": -0.028,
+        "New Listing Count M/M": -0.1165,
+        "Price Increase Count M/M": -0.0411,
+        "Days on Market M/M": 0.08
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Ohio",
+        "Median Listing Price": 174900,
+        "Median Listing Price M/M": -0.0174,
+        "New Listing Count M/M": -0.0506,
+        "Price Increase Count M/M": -0.0641,
+        "Days on Market M/M": 0.0638
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Ohio",
+        "Median Listing Price": 178000,
+        "Median Listing Price M/M": 0.0028,
+        "New Listing Count M/M": -0.0289,
+        "Price Increase Count M/M": -0.064,
+        "Days on Market M/M": 0.0444
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Ohio",
+        "Median Listing Price": 177500,
+        "Median Listing Price M/M": 0.0236,
+        "New Listing Count M/M": 0.0202,
+        "Price Increase Count M/M": -0.2114,
+        "Days on Market M/M": -0.0217
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Ohio",
+        "Median Listing Price": 173400,
+        "Median Listing Price M/M": 0.0515,
+        "New Listing Count M/M": 0.0908,
+        "Price Increase Count M/M": 0.1569,
+        "Days on Market M/M": -0.1154
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Ohio",
+        "Median Listing Price": 164900,
+        "Median Listing Price M/M": 0.0537,
+        "New Listing Count M/M": 0.1093,
+        "Price Increase Count M/M": 0.0418,
+        "Days on Market M/M": -0.1186
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Ohio",
+        "Median Listing Price": 156500,
+        "Median Listing Price M/M": 0.044,
+        "New Listing Count M/M": 0.2285,
+        "Price Increase Count M/M": 0.1741,
+        "Days on Market M/M": -0.2716
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Ohio",
+        "Median Listing Price": 149900,
+        "Median Listing Price M/M": 0.0128,
+        "New Listing Count M/M": 0.2244,
+        "Price Increase Count M/M": 0.1789,
+        "Days on Market M/M": -0.0581
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Ohio",
+        "Median Listing Price": 148000,
+        "Median Listing Price M/M": -0.0127,
+        "New Listing Count M/M": 0.1265,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": 0.1467
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Ohio",
+        "Median Listing Price": 149900,
+        "Median Listing Price M/M": -0.0323,
+        "New Listing Count M/M": -0.2589,
+        "Price Increase Count M/M": -0.283,
+        "Days on Market M/M": 0.1194
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Ohio",
+        "Median Listing Price": 154900,
+        "Median Listing Price M/M": 0.0124,
+        "New Listing Count M/M": -0.1427,
+        "Price Increase Count M/M": 0.0192,
+        "Days on Market M/M": 0.0308
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Ohio",
+        "Median Listing Price": 153050,
+        "Median Listing Price M/M": -0.0126,
+        "New Listing Count M/M": -0.0671,
+        "Price Increase Count M/M": 0.0452,
+        "Days on Market M/M": 0.0744
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Ohio",
+        "Median Listing Price": 155000,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.0983,
+        "Price Increase Count M/M": -0.0478,
+        "Days on Market M/M": 0.0342
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Ohio",
+        "Median Listing Price": 155050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0271,
+        "Price Increase Count M/M": -0.0048,
+        "Days on Market M/M": 0.0263
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Ohio",
+        "Median Listing Price": 155050,
+        "Median Listing Price M/M": 0.0006,
+        "New Listing Count M/M": -0.0324,
+        "Price Increase Count M/M": -0.0323,
+        "Days on Market M/M": 0.0459
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Ohio",
+        "Median Listing Price": 154950,
+        "Median Listing Price M/M": 0.0333,
+        "New Listing Count M/M": 0.0167,
+        "Price Increase Count M/M": 0.0188,
+        "Days on Market M/M": -0.018
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Ohio",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0083,
+        "Price Increase Count M/M": -0.2947,
+        "Days on Market M/M": -0.0089
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Ohio",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0449,
+        "New Listing Count M/M": 0.0898,
+        "Price Increase Count M/M": 0.1144,
+        "Days on Market M/M": -0.145
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Ohio",
+        "Median Listing Price": 143500,
+        "Median Listing Price M/M": 0.0471,
+        "New Listing Count M/M": 0.2019,
+        "Price Increase Count M/M": 0.2488,
+        "Days on Market M/M": -0.2514
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Ohio",
+        "Median Listing Price": 137050,
+        "Median Listing Price M/M": 0.0156,
+        "New Listing Count M/M": 0.1824,
+        "Price Increase Count M/M": 0.0637,
+        "Days on Market M/M": -0.0278
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Ohio",
+        "Median Listing Price": 134950,
+        "Median Listing Price M/M": -0.0063,
+        "New Listing Count M/M": 0.1823,
+        "Price Increase Count M/M": 0.0303,
+        "Days on Market M/M": 0.0909
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Ohio",
+        "Median Listing Price": 135800,
+        "Median Listing Price M/M": -0.0283,
+        "New Listing Count M/M": -0.2434,
+        "Price Increase Count M/M": 0.0259,
+        "Days on Market M/M": 0.082
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Ohio",
+        "Median Listing Price": 139750,
+        "Median Listing Price M/M": -0.0014,
+        "New Listing Count M/M": -0.1455,
+        "Price Increase Count M/M": -0.2025,
+        "Days on Market M/M": 0.0445
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Ohio",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": -0.0191,
+        "Price Increase Count M/M": -0.0163,
+        "Days on Market M/M": 0.0657
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Ohio",
+        "Median Listing Price": 140050,
+        "Median Listing Price M/M": -0.0106,
+        "New Listing Count M/M": -0.0846,
+        "Price Increase Count M/M": -0.1488,
+        "Days on Market M/M": 0.0458
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Ohio",
+        "Median Listing Price": 141550,
+        "Median Listing Price M/M": -0.0098,
+        "New Listing Count M/M": -0.0897,
+        "Price Increase Count M/M": 0.0248,
+        "Days on Market M/M": 0.0565
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Ohio",
+        "Median Listing Price": 142950,
+        "Median Listing Price M/M": 0.0067,
+        "New Listing Count M/M": -0.0396,
+        "Price Increase Count M/M": -0.0473,
+        "Days on Market M/M": 0.0164
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Ohio",
+        "Median Listing Price": 142000,
+        "Median Listing Price M/M": 0.0146,
+        "New Listing Count M/M": 0.0012,
+        "Price Increase Count M/M": -0.075,
+        "Days on Market M/M": -0.0161
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Ohio",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.016,
+        "New Listing Count M/M": 0.0044,
+        "Price Increase Count M/M": -0.0303,
+        "Days on Market M/M": -0.0677
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Ohio",
+        "Median Listing Price": 137750,
+        "Median Listing Price M/M": 0.0335,
+        "New Listing Count M/M": 0.0639,
+        "Price Increase Count M/M": 0.2406,
+        "Days on Market M/M": -0.1529
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Ohio",
+        "Median Listing Price": 133287,
+        "Median Listing Price M/M": 0.0302,
+        "New Listing Count M/M": 0.1875,
+        "Price Increase Count M/M": 0.0556,
+        "Days on Market M/M": -0.1907
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Ohio",
+        "Median Listing Price": 129375,
+        "Median Listing Price M/M": 0.0272,
+        "New Listing Count M/M": 0.2387,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": -0.0102
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Ohio",
+        "Median Listing Price": 125950,
+        "Median Listing Price M/M": -0.0198,
+        "New Listing Count M/M": 0.2745,
+        "Price Increase Count M/M": 0.0566,
+        "Days on Market M/M": 0.1011
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Ohio",
+        "Median Listing Price": 128500,
+        "Median Listing Price M/M": -0.0112,
+        "New Listing Count M/M": -0.269,
+        "Price Increase Count M/M": -0.3375,
+        "Days on Market M/M": 0.0988
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Ohio",
+        "Median Listing Price": 129950,
+        "Median Listing Price M/M": -0.0178,
+        "New Listing Count M/M": -0.1867,
+        "Price Increase Count M/M": 0.2183,
+        "Days on Market M/M": 0.0658
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Ohio",
+        "Median Listing Price": 132300,
+        "Median Listing Price M/M": -0.0183,
+        "New Listing Count M/M": -0.0409,
+        "Price Increase Count M/M": -0.1126,
+        "Days on Market M/M": 0.027
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Ohio",
+        "Median Listing Price": 134762,
+        "Median Listing Price M/M": -0.0014,
+        "New Listing Count M/M": -0.1374,
+        "Price Increase Count M/M": -0.0902,
+        "Days on Market M/M": 0.0725
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Ohio",
+        "Median Listing Price": 134950,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": -0.1327,
+        "Price Increase Count M/M": -0.0963,
+        "Days on Market M/M": 0.0534
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Ohio",
+        "Median Listing Price": 135050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": 0.0416,
+        "Price Increase Count M/M": 0.063,
+        "Days on Market M/M": 0.0738
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Ohio",
+        "Median Listing Price": 135000,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.0182,
+        "Price Increase Count M/M": 0.0079,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Ohio",
+        "Median Listing Price": 134950,
+        "Median Listing Price M/M": 0.0522,
+        "New Listing Count M/M": 0.069,
+        "Price Increase Count M/M": 0.0909,
+        "Days on Market M/M": -0.1701
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Ohio",
+        "Median Listing Price": 128250,
+        "Median Listing Price M/M": 0.0264,
+        "New Listing Count M/M": 0.2114,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": -0.2423
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Ohio",
+        "Median Listing Price": 124950,
+        "Median Listing Price M/M": 0.0413,
+        "New Listing Count M/M": 0.1453,
+        "Price Increase Count M/M": -0.066,
+        "Days on Market M/M": -0.0806
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Ohio",
+        "Median Listing Price": 120000,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": 0.043,
+        "Price Increase Count M/M": 0.0242,
+        "Days on Market M/M": 0.0048
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Ohio",
+        "Median Listing Price": 119950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.301,
+        "Price Increase Count M/M": 0.5109,
+        "Days on Market M/M": 0.0714
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Ohio",
+        "Median Listing Price": 119950,
+        "Median Listing Price M/M": -0.04,
+        "New Listing Count M/M": -0.201,
+        "Price Increase Count M/M": -0.3716,
+        "Days on Market M/M": 0.0889
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Ohio",
+        "Median Listing Price": 124950,
+        "Median Listing Price M/M": -0.0083,
+        "New Listing Count M/M": -0.1533,
+        "Price Increase Count M/M": 0.172,
+        "Days on Market M/M": 0.0651
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Ohio",
+        "Median Listing Price": 126000,
+        "Median Listing Price M/M": -0.016,
+        "New Listing Count M/M": -0.0827,
+        "Price Increase Count M/M": -0.1733,
+        "Days on Market M/M": 0.0563
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Ohio",
+        "Median Listing Price": 128050,
+        "Median Listing Price M/M": -0.0146,
+        "New Listing Count M/M": -0.0956,
+        "Price Increase Count M/M": -0.1541,
+        "Days on Market M/M": 0.0811
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Ohio",
+        "Median Listing Price": 129950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1007,
+        "Price Increase Count M/M": 0.1928,
+        "Days on Market M/M": 0.0647
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Ohio",
+        "Median Listing Price": 129950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0501,
+        "Price Increase Count M/M": -0.122,
+        "Days on Market M/M": 0.0221
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Ohio",
+        "Median Listing Price": 129950,
+        "Median Listing Price M/M": 0.0008,
+        "New Listing Count M/M": -0.0054,
+        "Price Increase Count M/M": 0.004,
+        "Days on Market M/M": -0.049
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Ohio",
+        "Median Listing Price": 129851,
+        "Median Listing Price M/M": 0.0347,
+        "New Listing Count M/M": 0.0399,
+        "Price Increase Count M/M": 0.0243,
+        "Days on Market M/M": -0.1488
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Ohio",
+        "Median Listing Price": 125500,
+        "Median Listing Price M/M": 0.0454,
+        "New Listing Count M/M": 0.1468,
+        "Price Increase Count M/M": 0.0833,
+        "Days on Market M/M": -0.1845
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Ohio",
+        "Median Listing Price": 120050,
+        "Median Listing Price M/M": 0.0084,
+        "New Listing Count M/M": 0.296,
+        "Price Increase Count M/M": 0.0556,
+        "Days on Market M/M": -0.0636
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Ohio",
+        "Median Listing Price": 119050,
+        "Median Listing Price M/M": 0.018,
+        "New Listing Count M/M": 0.0713,
+        "Price Increase Count M/M": -0.129,
+        "Days on Market M/M": 0.0185
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Ohio",
+        "Median Listing Price": 116950,
+        "Median Listing Price M/M": -0.0093,
+        "New Listing Count M/M": 0.351,
+        "Price Increase Count M/M": 0.2917,
+        "Days on Market M/M": 0.1134
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Ohio",
+        "Median Listing Price": 118050,
+        "Median Listing Price M/M": -0.0158,
+        "New Listing Count M/M": -0.3146,
+        "Price Increase Count M/M": -0.1312,
+        "Days on Market M/M": 0.0718
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Ohio",
+        "Median Listing Price": 119950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0964,
+        "Price Increase Count M/M": -0.0905,
+        "Days on Market M/M": 0.0462
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Ohio",
+        "Median Listing Price": 119950,
+        "Median Listing Price M/M": -0.0008,
+        "New Listing Count M/M": -0.1008,
+        "Price Increase Count M/M": -0.1066,
+        "Days on Market M/M": 0.0549
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Ohio",
+        "Median Listing Price": 120050,
+        "Median Listing Price M/M": -0.0315,
+        "New Listing Count M/M": -0.1015,
+        "Price Increase Count M/M": -0.0811,
+        "Days on Market M/M": 0.0789
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Ohio",
+        "Median Listing Price": 123950,
+        "Median Listing Price M/M": -0.008,
+        "New Listing Count M/M": -0.0207,
+        "Price Increase Count M/M": 0.1341,
+        "Days on Market M/M": 0.034
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Ohio",
+        "Median Listing Price": 124950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0619,
+        "Price Increase Count M/M": -0.0261,
+        "Days on Market M/M": 0.05
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Ohio",
+        "Median Listing Price": 124950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0717,
+        "Price Increase Count M/M": -0.0853,
+        "Days on Market M/M": -0.0411
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Ohio",
+        "Median Listing Price": 124950,
+        "Median Listing Price M/M": 0.0284,
+        "New Listing Count M/M": 0.0515,
+        "Price Increase Count M/M": 0.0812,
+        "Days on Market M/M": -0.0641
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Ohio",
+        "Median Listing Price": 121500,
+        "Median Listing Price M/M": 0.0129,
+        "New Listing Count M/M": 0.1231,
+        "Price Increase Count M/M": 0.0423,
+        "Days on Market M/M": -0.1702
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Ohio",
+        "Median Listing Price": 119950,
+        "Median Listing Price M/M": 0.0381,
+        "New Listing Count M/M": 0.1914,
+        "Price Increase Count M/M": 0.0924,
+        "Days on Market M/M": -0.1455
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Ohio",
+        "Median Listing Price": 115550,
+        "Median Listing Price M/M": 0.0043,
+        "New Listing Count M/M": 0.0336,
+        "Price Increase Count M/M": 0.0215,
+        "Days on Market M/M": -0.0179
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Ohio",
+        "Median Listing Price": 115050,
+        "Median Listing Price M/M": -0.0171,
+        "New Listing Count M/M": 0.3167,
+        "Price Increase Count M/M": 0.1535,
+        "Days on Market M/M": 0.037
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Ohio",
+        "Median Listing Price": 117050,
+        "Median Listing Price M/M": -0.0242,
+        "New Listing Count M/M": -0.1552,
+        "Price Increase Count M/M": 0.0802,
+        "Days on Market M/M": 0.064
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Ohio",
+        "Median Listing Price": 119950,
+        "Median Listing Price M/M": -0.0008,
+        "New Listing Count M/M": -0.1142,
+        "Price Increase Count M/M": -0.0508,
+        "Days on Market M/M": 0.0464
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Ohio",
+        "Median Listing Price": 120050,
+        "Median Listing Price M/M": -0.0392,
+        "New Listing Count M/M": -0.044,
+        "Price Increase Count M/M": -0.2183,
+        "Days on Market M/M": 0.0104
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Ohio",
+        "Median Listing Price": 124950,
+        "Median Listing Price M/M": -0.0008,
+        "New Listing Count M/M": -0.0194,
+        "Price Increase Count M/M": 0.0862,
+        "Days on Market M/M": 0.0267
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Ohio",
+        "Median Listing Price": 125050,
+        "Median Listing Price M/M": -0.0157,
+        "New Listing Count M/M": -0.0549,
+        "Price Increase Count M/M": 0.0087,
+        "Days on Market M/M": 0.0506
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Ohio",
+        "Median Listing Price": 127050,
+        "Median Listing Price M/M": -0.0078,
+        "New Listing Count M/M": -0.0562,
+        "Price Increase Count M/M": -0.0213,
+        "Days on Market M/M": 0.0409
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Ohio",
+        "Median Listing Price": 128050,
+        "Median Listing Price M/M": 0.0023,
+        "New Listing Count M/M": -0.0444,
+        "Price Increase Count M/M": -0.0962,
+        "Days on Market M/M": 0.0301
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Ohio",
+        "Median Listing Price": 127750,
+        "Median Listing Price M/M": 0.0216,
+        "New Listing Count M/M": -0.0384,
+        "Price Increase Count M/M": 0.0744,
+        "Days on Market M/M": -0.0568
+    }
+]

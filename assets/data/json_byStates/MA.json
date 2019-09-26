@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 499000,
+        "Median Listing Price M/M": 0.031,
+        "New Listing Count M/M": 0.3709,
+        "Price Increase Count M/M": 0.0667,
+        "Days on Market M/M": -0.2308
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 484000,
+        "Median Listing Price M/M": 0.042,
+        "New Listing Count M/M": 0.4225,
+        "Price Increase Count M/M": -0.0909,
+        "Days on Market M/M": -0.3158
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 464500,
+        "Median Listing Price M/M": 0.0325,
+        "New Listing Count M/M": 0.0656,
+        "Price Increase Count M/M": 0.125,
+        "Days on Market M/M": -0.0732
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 449900,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": 0.4989,
+        "Price Increase Count M/M": 0.5172,
+        "Days on Market M/M": 0.1233
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 450000,
+        "Median Listing Price M/M": -0.0207,
+        "New Listing Count M/M": -0.4458,
+        "Price Increase Count M/M": -0.1471,
+        "Days on Market M/M": 0.2373
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 459500,
+        "Median Listing Price M/M": -0.0108,
+        "New Listing Count M/M": -0.2462,
+        "Price Increase Count M/M": -0.2842,
+        "Days on Market M/M": 0.1346
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 464500,
+        "Median Listing Price M/M": 0.0098,
+        "New Listing Count M/M": -0.1015,
+        "Price Increase Count M/M": -0.246,
+        "Days on Market M/M": -0.0189
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 460000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0794,
+        "Price Increase Count M/M": -0.0308,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 460000,
+        "Median Listing Price M/M": -0.0316,
+        "New Listing Count M/M": 0.0429,
+        "Price Increase Count M/M": -0.058,
+        "Days on Market M/M": 0.1522
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 475000,
+        "Median Listing Price M/M": -0.0104,
+        "New Listing Count M/M": -0.2946,
+        "Price Increase Count M/M": -0.035,
+        "Days on Market M/M": 0.2105
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 480000,
+        "Median Listing Price M/M": -0.0052,
+        "New Listing Count M/M": 0.0325,
+        "Price Increase Count M/M": -0.0069,
+        "Days on Market M/M": 0.1176
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 482500,
+        "Median Listing Price M/M": 0.0073,
+        "New Listing Count M/M": 0.1257,
+        "Price Increase Count M/M": -0.0526,
+        "Days on Market M/M": -0.15
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 479000,
+        "Median Listing Price M/M": 0.0312,
+        "New Listing Count M/M": 0.3178,
+        "Price Increase Count M/M": 0.434,
+        "Days on Market M/M": -0.1667
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 464500,
+        "Median Listing Price M/M": 0.0345,
+        "New Listing Count M/M": 0.2995,
+        "Price Increase Count M/M": -0.1846,
+        "Days on Market M/M": -0.3924
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 449000,
+        "Median Listing Price M/M": 0.0263,
+        "New Listing Count M/M": 0.4048,
+        "Price Increase Count M/M": 0.5116,
+        "Days on Market M/M": -0.092
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 437500,
+        "Median Listing Price M/M": 0.0057,
+        "New Listing Count M/M": 0.3393,
+        "Price Increase Count M/M": -0.14,
+        "Days on Market M/M": 0.1757
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 435000,
+        "Median Listing Price M/M": -0.0301,
+        "New Listing Count M/M": -0.4479,
+        "Price Increase Count M/M": -0.0291,
+        "Days on Market M/M": 0.2131
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 448500,
+        "Median Listing Price M/M": 0.0065,
+        "New Listing Count M/M": -0.2264,
+        "Price Increase Count M/M": -0.3224,
+        "Days on Market M/M": 0.0893
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 445688,
+        "Median Listing Price M/M": 0.0014,
+        "New Listing Count M/M": -0.1521,
+        "Price Increase Count M/M": 0.0556,
+        "Days on Market M/M": -0.0345
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 445050,
+        "Median Listing Price M/M": 0.0011,
+        "New Listing Count M/M": 0.1576,
+        "Price Increase Count M/M": 0.0286,
+        "Days on Market M/M": -0.0252
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 444550,
+        "Median Listing Price M/M": -0.012,
+        "New Listing Count M/M": 0.0265,
+        "Price Increase Count M/M": -0.1139,
+        "Days on Market M/M": 0.1019
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 449950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2927,
+        "Price Increase Count M/M": -0.0186,
+        "Days on Market M/M": 0.1868
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 449950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0473,
+        "Price Increase Count M/M": -0.0747,
+        "Days on Market M/M": 0.0706
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 449950,
+        "Median Listing Price M/M": 0.002,
+        "New Listing Count M/M": 0.0751,
+        "Price Increase Count M/M": 0.2254,
+        "Days on Market M/M": -0.0761
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 449050,
+        "Median Listing Price M/M": 0.0334,
+        "New Listing Count M/M": 0.3239,
+        "Price Increase Count M/M": -0.034,
+        "Days on Market M/M": -0.2137
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 434550,
+        "Median Listing Price M/M": 0.0353,
+        "New Listing Count M/M": 0.3671,
+        "Price Increase Count M/M": 0.0576,
+        "Days on Market M/M": -0.3237
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 419750,
+        "Median Listing Price M/M": 0.0495,
+        "New Listing Count M/M": 0.1645,
+        "Price Increase Count M/M": 0.3365,
+        "Days on Market M/M": -0.0798
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 399950,
+        "Median Listing Price M/M": -0.0125,
+        "New Listing Count M/M": 0.3166,
+        "Price Increase Count M/M": -0.1405,
+        "Days on Market M/M": 0.1325
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 405000,
+        "Median Listing Price M/M": -0.0242,
+        "New Listing Count M/M": -0.3293,
+        "Price Increase Count M/M": -0.1295,
+        "Days on Market M/M": 0.1942
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 415050,
+        "Median Listing Price M/M": -0.0117,
+        "New Listing Count M/M": -0.2609,
+        "Price Increase Count M/M": -0.0071,
+        "Days on Market M/M": 0.053
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 419950,
+        "Median Listing Price M/M": 0.0011,
+        "New Listing Count M/M": -0.1819,
+        "Price Increase Count M/M": 0.0448,
+        "Days on Market M/M": -0.0571
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 419500,
+        "Median Listing Price M/M": 0.0029,
+        "New Listing Count M/M": 0.2317,
+        "Price Increase Count M/M": -0.0563,
+        "Days on Market M/M": 0.0294
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 418300,
+        "Median Listing Price M/M": 0.0226,
+        "New Listing Count M/M": -0.0749,
+        "Price Increase Count M/M": -0.0658,
+        "Days on Market M/M": 0.1148
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 409050,
+        "Median Listing Price M/M": 0.0022,
+        "New Listing Count M/M": -0.2503,
+        "Price Increase Count M/M": -0.1958,
+        "Days on Market M/M": 0.1296
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 408150,
+        "Median Listing Price M/M": 0.0205,
+        "New Listing Count M/M": -0.1058,
+        "Price Increase Count M/M": 0.1524,
+        "Days on Market M/M": 0.0385
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 399950,
+        "Median Listing Price M/M": 0.0023,
+        "New Listing Count M/M": 0.1778,
+        "Price Increase Count M/M": 0.025,
+        "Days on Market M/M": -0.0095
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 399050,
+        "Median Listing Price M/M": 0.0298,
+        "New Listing Count M/M": 0.0545,
+        "Price Increase Count M/M": 0.0127,
+        "Days on Market M/M": -0.2164
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 387500,
+        "Median Listing Price M/M": 0.0474,
+        "New Listing Count M/M": 0.5689,
+        "Price Increase Count M/M": 0.188,
+        "Days on Market M/M": -0.3093
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 369950,
+        "Median Listing Price M/M": 0.0278,
+        "New Listing Count M/M": 0.1181,
+        "Price Increase Count M/M": -0.0075,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 359950,
+        "Median Listing Price M/M": -0.0193,
+        "New Listing Count M/M": 0.463,
+        "Price Increase Count M/M": 0.1261,
+        "Days on Market M/M": 0.1023
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 367049,
+        "Median Listing Price M/M": -0.0173,
+        "New Listing Count M/M": -0.3934,
+        "Price Increase Count M/M": 0.266,
+        "Days on Market M/M": 0.1733
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 373500,
+        "Median Listing Price M/M": -0.0041,
+        "New Listing Count M/M": -0.2378,
+        "Price Increase Count M/M": -0.3517,
+        "Days on Market M/M": 0.0309
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 375050,
+        "Median Listing Price M/M": 0.0008,
+        "New Listing Count M/M": -0.1657,
+        "Price Increase Count M/M": -0.0823,
+        "Days on Market M/M": -0.0102
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 374750,
+        "Median Listing Price M/M": 0.0019,
+        "New Listing Count M/M": 0.1336,
+        "Price Increase Count M/M": -0.1596,
+        "Days on Market M/M": 0.0652
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 374050,
+        "Median Listing Price M/M": -0.0027,
+        "New Listing Count M/M": -0.1072,
+        "Price Increase Count M/M": 0.3926,
+        "Days on Market M/M": 0.1695
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 375050,
+        "Median Listing Price M/M": -0.0106,
+        "New Listing Count M/M": -0.2243,
+        "Price Increase Count M/M": -0.2105,
+        "Days on Market M/M": 0.2165
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 379050,
+        "Median Listing Price M/M": 0.0107,
+        "New Listing Count M/M": -0.0881,
+        "Price Increase Count M/M": -0.1186,
+        "Days on Market M/M": 0.0778
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 375050,
+        "Median Listing Price M/M": 0.0137,
+        "New Listing Count M/M": 0.0775,
+        "Price Increase Count M/M": -0.0102,
+        "Days on Market M/M": -0.2241
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 369999,
+        "Median Listing Price M/M": 0.0305,
+        "New Listing Count M/M": 0.6685,
+        "Price Increase Count M/M": 0.3243,
+        "Days on Market M/M": -0.4369
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 359050,
+        "Median Listing Price M/M": 0.026,
+        "New Listing Count M/M": 0.8571,
+        "Price Increase Count M/M": 0.7831,
+        "Days on Market M/M": -0.0679
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 349950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.3192,
+        "Price Increase Count M/M": -0.4196,
+        "Days on Market M/M": 0.0425
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 349950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.5804,
+        "Price Increase Count M/M": 0.5053,
+        "Days on Market M/M": 0.1099
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 349950,
+        "Median Listing Price M/M": -0.0141,
+        "New Listing Count M/M": -0.3539,
+        "Price Increase Count M/M": -0.3493,
+        "Days on Market M/M": 0.1506
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 354950,
+        "Median Listing Price M/M": -0.0113,
+        "New Listing Count M/M": -0.2457,
+        "Price Increase Count M/M": -0.1257,
+        "Days on Market M/M": 0.044
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 358994,
+        "Median Listing Price M/M": 0.0141,
+        "New Listing Count M/M": -0.2401,
+        "Price Increase Count M/M": 0.0245,
+        "Days on Market M/M": -0.0063
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 354000,
+        "Median Listing Price M/M": 0.0113,
+        "New Listing Count M/M": 0.2042,
+        "Price Increase Count M/M": -0.1141,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 350050,
+        "Median Listing Price M/M": -0.0182,
+        "New Listing Count M/M": -0.059,
+        "Price Increase Count M/M": 0.0279,
+        "Days on Market M/M": 0.1364
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 356550,
+        "Median Listing Price M/M": -0.0094,
+        "New Listing Count M/M": -0.1861,
+        "Price Increase Count M/M": 0.0056,
+        "Days on Market M/M": 0.1579
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 359950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0844,
+        "Price Increase Count M/M": -0.0964,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 359950,
+        "Median Listing Price M/M": 0.0107,
+        "New Listing Count M/M": -0.0086,
+        "Price Increase Count M/M": -0.0664,
+        "Days on Market M/M": -0.0924
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 356125,
+        "Median Listing Price M/M": 0.0176,
+        "New Listing Count M/M": 0.3376,
+        "Price Increase Count M/M": 0.1593,
+        "Days on Market M/M": -0.2468
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 349950,
+        "Median Listing Price M/M": 0.03,
+        "New Listing Count M/M": 0.4025,
+        "Price Increase Count M/M": 0.2908,
+        "Days on Market M/M": -0.2617
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 339750,
+        "Median Listing Price M/M": 0.0127,
+        "New Listing Count M/M": 0.1118,
+        "Price Increase Count M/M": -0.2079,
+        "Days on Market M/M": 0.019
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 335500,
+        "Median Listing Price M/M": -0.0131,
+        "New Listing Count M/M": 0.7664,
+        "Price Increase Count M/M": 0.7115,
+        "Days on Market M/M": 0.129
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 339950,
+        "Median Listing Price M/M": -0.0148,
+        "New Listing Count M/M": -0.4689,
+        "Price Increase Count M/M": -0.4157,
+        "Days on Market M/M": 0.1698
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 345050,
+        "Median Listing Price M/M": -0.0058,
+        "New Listing Count M/M": -0.1971,
+        "Price Increase Count M/M": -0.043,
+        "Days on Market M/M": 0.06
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 347050,
+        "Median Listing Price M/M": -0.0057,
+        "New Listing Count M/M": -0.1846,
+        "Price Increase Count M/M": -0.051,
+        "Days on Market M/M": -0.0132
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 349050,
+        "Median Listing Price M/M": -0.002,
+        "New Listing Count M/M": 0.0703,
+        "Price Increase Count M/M": 0.0103,
+        "Days on Market M/M": 0.0483
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 349750,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": 0.0493,
+        "Price Increase Count M/M": 0.0265,
+        "Days on Market M/M": 0.0902
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 349950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.2031,
+        "Price Increase Count M/M": -0.0357,
+        "Days on Market M/M": 0.1271
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 350050,
+        "Median Listing Price M/M": 0.0009,
+        "New Listing Count M/M": -0.1059,
+        "Price Increase Count M/M": -0.0485,
+        "Days on Market M/M": 0.0826
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 349750,
+        "Median Listing Price M/M": 0.017,
+        "New Listing Count M/M": 0.056,
+        "Price Increase Count M/M": -0.0762,
+        "Days on Market M/M": -0.1066
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 343900,
+        "Median Listing Price M/M": 0.0234,
+        "New Listing Count M/M": 0.2225,
+        "Price Increase Count M/M": 0.2528,
+        "Days on Market M/M": -0.2078
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 336050,
+        "Median Listing Price M/M": 0.0338,
+        "New Listing Count M/M": 0.4379,
+        "Price Increase Count M/M": 0.5214,
+        "Days on Market M/M": -0.2968
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 325050,
+        "Median Listing Price M/M": 0.0175,
+        "New Listing Count M/M": 0.0218,
+        "Price Increase Count M/M": -0.2403,
+        "Days on Market M/M": -0.0179
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 319451,
+        "Median Listing Price M/M": -0.0016,
+        "New Listing Count M/M": 0.5749,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": 0.0825
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 319950,
+        "Median Listing Price M/M": -0.0157,
+        "New Listing Count M/M": -0.2902,
+        "Price Increase Count M/M": 0.0313,
+        "Days on Market M/M": 0.0785
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 325050,
+        "Median Listing Price M/M": -0.0122,
+        "New Listing Count M/M": -0.2328,
+        "Price Increase Count M/M": -0.2147,
+        "Days on Market M/M": 0.0324
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 329050,
+        "Median Listing Price M/M": 0.0083,
+        "New Listing Count M/M": -0.1633,
+        "Price Increase Count M/M": -0.1141,
+        "Days on Market M/M": -0.0054
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 326350,
+        "Median Listing Price M/M": 0.004,
+        "New Listing Count M/M": 0.1266,
+        "Price Increase Count M/M": 0.1871,
+        "Days on Market M/M": 0.0276
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 325050,
+        "Median Listing Price M/M": -0.0149,
+        "New Listing Count M/M": -0.054,
+        "Price Increase Count M/M": 0.0473,
+        "Days on Market M/M": 0.097
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 329950,
+        "Median Listing Price M/M": -0.0041,
+        "New Listing Count M/M": -0.1497,
+        "Price Increase Count M/M": -0.1345,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 331300,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.0591,
+        "Price Increase Count M/M": 0.1176,
+        "Days on Market M/M": 0.087
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Massachusetts",
+        "Median Listing Price": 331500,
+        "Median Listing Price M/M": 0.0047,
+        "New Listing Count M/M": -0.1665,
+        "Price Increase Count M/M": -0.1105,
+        "Days on Market M/M": -0.035
+    }
+]

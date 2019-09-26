@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 205000,
+        "Median Listing Price M/M": 0.0302,
+        "New Listing Count M/M": 0.0965,
+        "Price Increase Count M/M": -0.1887,
+        "Days on Market M/M": -0.0769
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 199000,
+        "Median Listing Price M/M": 0.0474,
+        "New Listing Count M/M": 0.0987,
+        "Price Increase Count M/M": -0.0093,
+        "Days on Market M/M": -0.1875
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 190000,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": 0.0056,
+        "Price Increase Count M/M": 0.5286,
+        "Days on Market M/M": -0.0476
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": 0.0021,
+        "New Listing Count M/M": 0.2695,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": 0.0244
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 189500,
+        "Median Listing Price M/M": -0.0026,
+        "New Listing Count M/M": -0.1751,
+        "Price Increase Count M/M": -0.3182,
+        "Days on Market M/M": 0.1081
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 190000,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": -0.0346,
+        "Price Increase Count M/M": -0.4014,
+        "Days on Market M/M": 0.0137
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0839,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.058
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0586,
+        "Price Increase Count M/M": -0.0101,
+        "Days on Market M/M": 0.0455
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.1218,
+        "Price Increase Count M/M": -0.1316,
+        "Days on Market M/M": 0.0313
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 190000,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": 0.0027,
+        "Price Increase Count M/M": -0.0256,
+        "Days on Market M/M": 0.0847
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0325,
+        "Price Increase Count M/M": -0.1333,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": 0.0048,
+        "New Listing Count M/M": 0.0539,
+        "Price Increase Count M/M": 0.2273,
+        "Days on Market M/M": -0.0328
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 189000,
+        "Median Listing Price M/M": 0.0216,
+        "New Listing Count M/M": 0.2248,
+        "Price Increase Count M/M": 0.0891,
+        "Days on Market M/M": -0.1159
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 185000,
+        "Median Listing Price M/M": 0.0283,
+        "New Listing Count M/M": -0.0594,
+        "Price Increase Count M/M": -0.0901,
+        "Days on Market M/M": -0.1266
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 179900,
+        "Median Listing Price M/M": 0.0011,
+        "New Listing Count M/M": 0.0689,
+        "Price Increase Count M/M": 0.0183,
+        "Days on Market M/M": -0.0482
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 179700,
+        "Median Listing Price M/M": -0.0011,
+        "New Listing Count M/M": 0.2534,
+        "Price Increase Count M/M": 0.0686,
+        "Days on Market M/M": 0.0247
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 179900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.159,
+        "Price Increase Count M/M": -0.1282,
+        "Days on Market M/M": 0.0946
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 179900,
+        "Median Listing Price M/M": -0.0115,
+        "New Listing Count M/M": -0.0753,
+        "Price Increase Count M/M": 0.0446,
+        "Days on Market M/M": 0.0137
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 182050,
+        "Median Listing Price M/M": -0.0149,
+        "New Listing Count M/M": -0.0729,
+        "Price Increase Count M/M": 0.0182,
+        "Days on Market M/M": 0.0815
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 184800,
+        "Median Listing Price M/M": -0.0014,
+        "New Listing Count M/M": -0.0468,
+        "Price Increase Count M/M": -0.2029,
+        "Days on Market M/M": 0.0305
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 185050,
+        "Median Listing Price M/M": -0.0237,
+        "New Listing Count M/M": -0.0906,
+        "Price Increase Count M/M": 0.1311,
+        "Days on Market M/M": 0.0077
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 189550,
+        "Median Listing Price M/M": -0.0011,
+        "New Listing Count M/M": 0.0036,
+        "Price Increase Count M/M": -0.0543,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 189750,
+        "Median Listing Price M/M": 0.0001,
+        "New Listing Count M/M": 0.0218,
+        "Price Increase Count M/M": 0.1121,
+        "Days on Market M/M": 0.0484
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 189725,
+        "Median Listing Price M/M": 0.0253,
+        "New Listing Count M/M": 0.0383,
+        "Price Increase Count M/M": 0.0175,
+        "Days on Market M/M": 0.0164
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 185050,
+        "Median Listing Price M/M": 0.0221,
+        "New Listing Count M/M": -0.0449,
+        "Price Increase Count M/M": 0.1753,
+        "Days on Market M/M": -0.0317
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 181050,
+        "Median Listing Price M/M": 0.0136,
+        "New Listing Count M/M": 0.1803,
+        "Price Increase Count M/M": -0.0102,
+        "Days on Market M/M": -0.1871
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 178625,
+        "Median Listing Price M/M": 0.0089,
+        "New Listing Count M/M": 0.0688,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": -0.0663
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 177050,
+        "Median Listing Price M/M": -0.0038,
+        "New Listing Count M/M": 0.2684,
+        "Price Increase Count M/M": 0.1831,
+        "Days on Market M/M": 0.0184
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 177725,
+        "Median Listing Price M/M": -0.0069,
+        "New Listing Count M/M": -0.1586,
+        "Price Increase Count M/M": -0.3364,
+        "Days on Market M/M": 0.0867
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 178960,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.0338,
+        "Price Increase Count M/M": -0.0932,
+        "Days on Market M/M": 0.087
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 179050,
+        "Median Listing Price M/M": 0.0027,
+        "New Listing Count M/M": -0.0678,
+        "Price Increase Count M/M": -0.0167,
+        "Days on Market M/M": 0.0299
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 178560,
+        "Median Listing Price M/M": -0.0055,
+        "New Listing Count M/M": -0.0976,
+        "Price Increase Count M/M": -0.0625,
+        "Days on Market M/M": 0.0075
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 179550,
+        "Median Listing Price M/M": -0.0022,
+        "New Listing Count M/M": -0.0079,
+        "Price Increase Count M/M": 0.2075,
+        "Days on Market M/M": -0.0075
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.0226,
+        "Price Increase Count M/M": -0.1719,
+        "Days on Market M/M": 0.0308
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 180050,
+        "Median Listing Price M/M": 0.0006,
+        "New Listing Count M/M": -0.0098,
+        "Price Increase Count M/M": 0.0847,
+        "Days on Market M/M": 0.0484
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0115,
+        "New Listing Count M/M": -0.0489,
+        "Price Increase Count M/M": 0.0442,
+        "Days on Market M/M": -0.0159
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 177900,
+        "Median Listing Price M/M": 0.0257,
+        "New Listing Count M/M": 0.1326,
+        "Price Increase Count M/M": -0.0813,
+        "Days on Market M/M": -0.0455
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 173450,
+        "Median Listing Price M/M": 0.0206,
+        "New Listing Count M/M": 0.0271,
+        "Price Increase Count M/M": 0.1081,
+        "Days on Market M/M": -0.1592
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0113,
+        "New Listing Count M/M": 0.0798,
+        "Price Increase Count M/M": 0.0882,
+        "Days on Market M/M": -0.0765
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 168050,
+        "Median Listing Price M/M": 0.003,
+        "New Listing Count M/M": 0.2378,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0429
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 167550,
+        "Median Listing Price M/M": -0.0141,
+        "New Listing Count M/M": -0.2151,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.1164
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0013,
+        "New Listing Count M/M": -0.0337,
+        "Price Increase Count M/M": -0.2867,
+        "Days on Market M/M": 0.0504
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 169723,
+        "Median Listing Price M/M": 0.004,
+        "New Listing Count M/M": -0.0471,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0296
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 169050,
+        "Median Listing Price M/M": 0.006,
+        "New Listing Count M/M": -0.0836,
+        "Price Increase Count M/M": 0.0515,
+        "Days on Market M/M": 0.0075
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 168050,
+        "Median Listing Price M/M": -0.0088,
+        "New Listing Count M/M": -0.1457,
+        "Price Increase Count M/M": 0.2593,
+        "Days on Market M/M": -0.0074
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 169550,
+        "Median Listing Price M/M": -0.0024,
+        "New Listing Count M/M": 0.0665,
+        "Price Increase Count M/M": -0.1074,
+        "Days on Market M/M": 0.0385
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0053,
+        "New Listing Count M/M": -0.0311,
+        "Price Increase Count M/M": -0.097,
+        "Days on Market M/M": 0.0656
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 169050,
+        "Median Listing Price M/M": 0.0076,
+        "New Listing Count M/M": -0.037,
+        "Price Increase Count M/M": -0.2209,
+        "Days on Market M/M": -0.0758
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 167775,
+        "Median Listing Price M/M": 0.0483,
+        "New Listing Count M/M": 0.1017,
+        "Price Increase Count M/M": 0.5357,
+        "Days on Market M/M": -0.0294
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 160050,
+        "Median Listing Price M/M": 0.016,
+        "New Listing Count M/M": 0.0642,
+        "Price Increase Count M/M": -0.0088,
+        "Days on Market M/M": -0.1807
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 157525,
+        "Median Listing Price M/M": 0.003,
+        "New Listing Count M/M": 0.0627,
+        "Price Increase Count M/M": 0.018,
+        "Days on Market M/M": -0.0405
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 157050,
+        "Median Listing Price M/M": 0.0149,
+        "New Listing Count M/M": 0.2729,
+        "Price Increase Count M/M": 0.1563,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 154750,
+        "Median Listing Price M/M": -0.0013,
+        "New Listing Count M/M": -0.2066,
+        "Price Increase Count M/M": 0.0213,
+        "Days on Market M/M": 0.109
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 154950,
+        "Median Listing Price M/M": 0.0013,
+        "New Listing Count M/M": 0.016,
+        "Price Increase Count M/M": -0.1376,
+        "Days on Market M/M": 0.047
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 154750,
+        "Median Listing Price M/M": -0.0019,
+        "New Listing Count M/M": -0.0913,
+        "Price Increase Count M/M": -0.0992,
+        "Days on Market M/M": 0.0276
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 155043,
+        "Median Listing Price M/M": 0.0689,
+        "New Listing Count M/M": -0.1522,
+        "Price Increase Count M/M": 0.1204,
+        "Days on Market M/M": 0.0507
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": -0.0373,
+        "New Listing Count M/M": 0.0709,
+        "Price Increase Count M/M": -0.027,
+        "Days on Market M/M": -0.035
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 150677,
+        "Median Listing Price M/M": -0.009,
+        "New Listing Count M/M": 0.0052,
+        "Price Increase Count M/M": -0.1462,
+        "Days on Market M/M": 0.0672
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 152050,
+        "Median Listing Price M/M": 0.014,
+        "New Listing Count M/M": -0.0214,
+        "Price Increase Count M/M": -0.4715,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0034,
+        "New Listing Count M/M": -0.0372,
+        "Price Increase Count M/M": 0.7698,
+        "Days on Market M/M": -0.0496
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 149447,
+        "Median Listing Price M/M": 0.0198,
+        "New Listing Count M/M": -0.0351,
+        "Price Increase Count M/M": 0.0859,
+        "Days on Market M/M": -0.06
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 146550,
+        "Median Listing Price M/M": 0.0177,
+        "New Listing Count M/M": 0.267,
+        "Price Increase Count M/M": 0.0407,
+        "Days on Market M/M": -0.162
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 144000,
+        "Median Listing Price M/M": 0.0066,
+        "New Listing Count M/M": -0.0623,
+        "Price Increase Count M/M": 0.1389,
+        "Days on Market M/M": -0.0428
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 143050,
+        "Median Listing Price M/M": 0.0007,
+        "New Listing Count M/M": 0.7321,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.0506
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 142950,
+        "Median Listing Price M/M": -0.006,
+        "New Listing Count M/M": -0.3226,
+        "Price Increase Count M/M": -0.3143,
+        "Days on Market M/M": 0.092
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 143812,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": -0.0805,
+        "Price Increase Count M/M": -0.386,
+        "Days on Market M/M": 0.0516
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 143300,
+        "Median Listing Price M/M": -0.0017,
+        "New Listing Count M/M": -0.056,
+        "Price Increase Count M/M": -0.0058,
+        "Days on Market M/M": 0.0473
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 143550,
+        "Median Listing Price M/M": -0.0031,
+        "New Listing Count M/M": -0.1108,
+        "Price Increase Count M/M": 0.1242,
+        "Days on Market M/M": 0.0803
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 144000,
+        "Median Listing Price M/M": -0.0066,
+        "New Listing Count M/M": -0.0702,
+        "Price Increase Count M/M": 0.1168,
+        "Days on Market M/M": -0.0144
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 144950,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": 0.0031,
+        "Price Increase Count M/M": -0.315,
+        "Days on Market M/M": 0.0373
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0383,
+        "Price Increase Count M/M": 0.3605,
+        "Days on Market M/M": 0.0469
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0344,
+        "Price Increase Count M/M": -0.3975,
+        "Days on Market M/M": -0.0376
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": 0.0069,
+        "New Listing Count M/M": 0.0129,
+        "Price Increase Count M/M": 0.7429,
+        "Days on Market M/M": -0.0221
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 144050,
+        "Median Listing Price M/M": 0.0286,
+        "New Listing Count M/M": 0.1621,
+        "Price Increase Count M/M": -0.3607,
+        "Days on Market M/M": -0.2184
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 140050,
+        "Median Listing Price M/M": 0.0007,
+        "New Listing Count M/M": 0.0481,
+        "Price Increase Count M/M": 1.4333,
+        "Days on Market M/M": -0.0645
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3321,
+        "Price Increase Count M/M": 0.0714,
+        "Days on Market M/M": 0.0449
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": -0.0131,
+        "New Listing Count M/M": -0.1376,
+        "Price Increase Count M/M": -0.0562,
+        "Days on Market M/M": 0.0659
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 141814,
+        "Median Listing Price M/M": -0.0216,
+        "New Listing Count M/M": -0.0916,
+        "Price Increase Count M/M": -0.2393,
+        "Days on Market M/M": 0.0373
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 144950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0351,
+        "Price Increase Count M/M": -0.1397,
+        "Days on Market M/M": 0.019
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 144950,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": -0.0375,
+        "Price Increase Count M/M": 0.1525,
+        "Days on Market M/M": 0.0395
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": -0.0062,
+        "New Listing Count M/M": -0.0202,
+        "Price Increase Count M/M": 0.0172,
+        "Days on Market M/M": 0.0133
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 145950,
+        "Median Listing Price M/M": 0.0012,
+        "New Listing Count M/M": -0.036,
+        "Price Increase Count M/M": 0.0357,
+        "Days on Market M/M": 0.049
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 145772,
+        "Median Listing Price M/M": 0.0063,
+        "New Listing Count M/M": -0.0664,
+        "Price Increase Count M/M": 0.1429,
+        "Days on Market M/M": 0.0438
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Oklahoma",
+        "Median Listing Price": 144865,
+        "Median Listing Price M/M": 0.0174,
+        "New Listing Count M/M": -0.0325,
+        "Price Increase Count M/M": -0.1901,
+        "Days on Market M/M": -0.0072
+    }
+]

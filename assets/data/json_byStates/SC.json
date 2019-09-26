@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "South Carolina",
+        "Median Listing Price": 270000,
+        "Median Listing Price M/M": 0.0116,
+        "New Listing Count M/M": 0.0279,
+        "Price Increase Count M/M": -0.0304,
+        "Days on Market M/M": -0.0274
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "South Carolina",
+        "Median Listing Price": 266900,
+        "Median Listing Price M/M": 0.0265,
+        "New Listing Count M/M": 0.0792,
+        "Price Increase Count M/M": 0.1143,
+        "Days on Market M/M": -0.2151
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "South Carolina",
+        "Median Listing Price": 260000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0383,
+        "Price Increase Count M/M": 0.0853,
+        "Days on Market M/M": -0.0412
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "South Carolina",
+        "Median Listing Price": 260000,
+        "Median Listing Price M/M": -0.0034,
+        "New Listing Count M/M": 0.6497,
+        "Price Increase Count M/M": 0.2524,
+        "Days on Market M/M": 0.0211
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "South Carolina",
+        "Median Listing Price": 260900,
+        "Median Listing Price M/M": 0.0035,
+        "New Listing Count M/M": -0.2793,
+        "Price Increase Count M/M": 0.051,
+        "Days on Market M/M": 0.092
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "South Carolina",
+        "Median Listing Price": 260000,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.1199,
+        "Price Increase Count M/M": -0.0733,
+        "Days on Market M/M": 0.0482
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "South Carolina",
+        "Median Listing Price": 259900,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": 0.0547,
+        "Price Increase Count M/M": -0.0764,
+        "Days on Market M/M": 0.0122
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "South Carolina",
+        "Median Listing Price": 260000,
+        "Median Listing Price M/M": -0.0019,
+        "New Listing Count M/M": -0.129,
+        "Price Increase Count M/M": -0.2117,
+        "Days on Market M/M": 0.0513
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "South Carolina",
+        "Median Listing Price": 260500,
+        "Median Listing Price M/M": -0.0095,
+        "New Listing Count M/M": 0.0039,
+        "Price Increase Count M/M": -0.1197,
+        "Days on Market M/M": 0.0541
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "South Carolina",
+        "Median Listing Price": 263000,
+        "Median Listing Price M/M": -0.0072,
+        "New Listing Count M/M": -0.0577,
+        "Price Increase Count M/M": 0.162,
+        "Days on Market M/M": 0.0278
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "South Carolina",
+        "Median Listing Price": 264900,
+        "Median Listing Price M/M": 0.0126,
+        "New Listing Count M/M": -0.0526,
+        "Price Increase Count M/M": -0.1262,
+        "Days on Market M/M": 0.0588
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "South Carolina",
+        "Median Listing Price": 261600,
+        "Median Listing Price M/M": 0.0065,
+        "New Listing Count M/M": 0.0108,
+        "Price Increase Count M/M": 0.0833,
+        "Days on Market M/M": -0.0145
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "South Carolina",
+        "Median Listing Price": 259900,
+        "Median Listing Price M/M": 0.0257,
+        "New Listing Count M/M": -0.0245,
+        "Price Increase Count M/M": -0.0491,
+        "Days on Market M/M": -0.1039
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "South Carolina",
+        "Median Listing Price": 253400,
+        "Median Listing Price M/M": 0.014,
+        "New Listing Count M/M": 0.1579,
+        "Price Increase Count M/M": 0.0395,
+        "Days on Market M/M": -0.172
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "South Carolina",
+        "Median Listing Price": 249900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1268,
+        "Price Increase Count M/M": 0.0376,
+        "Days on Market M/M": -0.051
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "South Carolina",
+        "Median Listing Price": 249900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.312,
+        "Price Increase Count M/M": 0.7105,
+        "Days on Market M/M": 0.0652
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "South Carolina",
+        "Median Listing Price": 249900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2313,
+        "Price Increase Count M/M": -0.0579,
+        "Days on Market M/M": 0.0575
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "South Carolina",
+        "Median Listing Price": 249900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.03,
+        "Price Increase Count M/M": -0.3847,
+        "Days on Market M/M": 0.0116
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "South Carolina",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0026,
+        "New Listing Count M/M": 0.0975,
+        "Price Increase Count M/M": 0.1368,
+        "Days on Market M/M": 0.0361
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "South Carolina",
+        "Median Listing Price": 249300,
+        "Median Listing Price M/M": 0.0054,
+        "New Listing Count M/M": -0.1481,
+        "Price Increase Count M/M": 0.0701,
+        "Days on Market M/M": 0.0375
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "South Carolina",
+        "Median Listing Price": 247950,
+        "Median Listing Price M/M": -0.0044,
+        "New Listing Count M/M": -0.0619,
+        "Price Increase Count M/M": 0.0498,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "South Carolina",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": 0.0045,
+        "Price Increase Count M/M": -0.1332,
+        "Days on Market M/M": 0.0526
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "South Carolina",
+        "Median Listing Price": 249132,
+        "Median Listing Price M/M": 0.0038,
+        "New Listing Count M/M": -0.0487,
+        "Price Increase Count M/M": -0.2162,
+        "Days on Market M/M": 0.034
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "South Carolina",
+        "Median Listing Price": 248183,
+        "Median Listing Price M/M": 0.0339,
+        "New Listing Count M/M": -0.0075,
+        "Price Increase Count M/M": 0.0932,
+        "Days on Market M/M": 0.0208
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "South Carolina",
+        "Median Listing Price": 240050,
+        "Median Listing Price M/M": 0.0148,
+        "New Listing Count M/M": -0.0554,
+        "Price Increase Count M/M": 0.0264,
+        "Days on Market M/M": -0.0769
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "South Carolina",
+        "Median Listing Price": 236550,
+        "Median Listing Price M/M": 0.0285,
+        "New Listing Count M/M": 0.116,
+        "Price Increase Count M/M": -0.0996,
+        "Days on Market M/M": -0.1917
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "South Carolina",
+        "Median Listing Price": 230000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": 0.2008,
+        "Price Increase Count M/M": 0.3735,
+        "Days on Market M/M": -0.1147
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "South Carolina",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3204,
+        "Price Increase Count M/M": 0.6066,
+        "Days on Market M/M": 0.0531
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "South Carolina",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2031,
+        "Price Increase Count M/M": -0.3297,
+        "Days on Market M/M": 0.067
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "South Carolina",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0019,
+        "Price Increase Count M/M": 0.0581,
+        "Days on Market M/M": 0.0319
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "South Carolina",
+        "Median Listing Price": 230050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1231,
+        "Price Increase Count M/M": 0.0023,
+        "Days on Market M/M": 0.0387
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "South Carolina",
+        "Median Listing Price": 230050,
+        "Median Listing Price M/M": 0.0112,
+        "New Listing Count M/M": -0.0202,
+        "Price Increase Count M/M": -0.1471,
+        "Days on Market M/M": 0.0226
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "South Carolina",
+        "Median Listing Price": 227500,
+        "Median Listing Price M/M": -0.0111,
+        "New Listing Count M/M": -0.0612,
+        "Price Increase Count M/M": -0.2402,
+        "Days on Market M/M": 0.0536
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "South Carolina",
+        "Median Listing Price": 230050,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": 0.0092,
+        "Price Increase Count M/M": 0.2015,
+        "Days on Market M/M": 0.037
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "South Carolina",
+        "Median Listing Price": 230000,
+        "Median Listing Price M/M": 0.0022,
+        "New Listing Count M/M": -0.0936,
+        "Price Increase Count M/M": 0.0055,
+        "Days on Market M/M": 0.0253
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "South Carolina",
+        "Median Listing Price": 229500,
+        "Median Listing Price M/M": 0.0198,
+        "New Listing Count M/M": -0.0006,
+        "Price Increase Count M/M": -0.2058,
+        "Days on Market M/M": -0.0247
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "South Carolina",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0158,
+        "New Listing Count M/M": -0.0099,
+        "Price Increase Count M/M": 0.0665,
+        "Days on Market M/M": -0.105
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "South Carolina",
+        "Median Listing Price": 221550,
+        "Median Listing Price M/M": 0.007,
+        "New Listing Count M/M": 0.1019,
+        "Price Increase Count M/M": 0.0015,
+        "Days on Market M/M": -0.162
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "South Carolina",
+        "Median Listing Price": 219999,
+        "Median Listing Price M/M": 0.0048,
+        "New Listing Count M/M": 0.1186,
+        "Price Increase Count M/M": 0.3024,
+        "Days on Market M/M": -0.069
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "South Carolina",
+        "Median Listing Price": 218950,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": 0.3761,
+        "Price Increase Count M/M": 0.2784,
+        "Days on Market M/M": 0.0498
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "South Carolina",
+        "Median Listing Price": 219000,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.113,
+        "Price Increase Count M/M": -0.0152,
+        "Days on Market M/M": 0.0833
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "South Carolina",
+        "Median Listing Price": 219050,
+        "Median Listing Price M/M": 0.0105,
+        "New Listing Count M/M": -0.1189,
+        "Price Increase Count M/M": -0.0367,
+        "Days on Market M/M": 0.0355
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "South Carolina",
+        "Median Listing Price": 216777,
+        "Median Listing Price M/M": 0.008,
+        "New Listing Count M/M": -0.0903,
+        "Price Increase Count M/M": -0.1371,
+        "Days on Market M/M": 0.0207
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "South Carolina",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": -0.0002,
+        "Price Increase Count M/M": 0.2154,
+        "Days on Market M/M": 0.0376
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "South Carolina",
+        "Median Listing Price": 214950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.196,
+        "Price Increase Count M/M": -0.2857,
+        "Days on Market M/M": 0.0508
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "South Carolina",
+        "Median Listing Price": 214950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.011,
+        "Price Increase Count M/M": 0.2787,
+        "Days on Market M/M": 0.0473
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "South Carolina",
+        "Median Listing Price": 214950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0367,
+        "Price Increase Count M/M": -0.1029,
+        "Days on Market M/M": 0.0181
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "South Carolina",
+        "Median Listing Price": 214950,
+        "Median Listing Price M/M": 0.0248,
+        "New Listing Count M/M": -0.0033,
+        "Price Increase Count M/M": -0.0775,
+        "Days on Market M/M": -0.046
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "South Carolina",
+        "Median Listing Price": 209750,
+        "Median Listing Price M/M": 0.0439,
+        "New Listing Count M/M": 0.0154,
+        "Price Increase Count M/M": -0.0077,
+        "Days on Market M/M": -0.2018
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "South Carolina",
+        "Median Listing Price": 200933,
+        "Median Listing Price M/M": 0.0049,
+        "New Listing Count M/M": 0.1072,
+        "Price Increase Count M/M": 0.0442,
+        "Days on Market M/M": -0.0603
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "South Carolina",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0016,
+        "New Listing Count M/M": 0.0381,
+        "Price Increase Count M/M": 0.3245,
+        "Days on Market M/M": -0.0413
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "South Carolina",
+        "Median Listing Price": 199630,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": 0.4841,
+        "Price Increase Count M/M": 0.1605,
+        "Days on Market M/M": 0.0342
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "South Carolina",
+        "Median Listing Price": 199734,
+        "Median Listing Price M/M": 0.0009,
+        "New Listing Count M/M": -0.226,
+        "Price Increase Count M/M": -0.1563,
+        "Days on Market M/M": 0.0734
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "South Carolina",
+        "Median Listing Price": 199550,
+        "Median Listing Price M/M": 0.0025,
+        "New Listing Count M/M": -0.0166,
+        "Price Increase Count M/M": -0.0588,
+        "Days on Market M/M": 0.014
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "South Carolina",
+        "Median Listing Price": 199050,
+        "Median Listing Price M/M": 0.0057,
+        "New Listing Count M/M": -0.0755,
+        "Price Increase Count M/M": 0.1493,
+        "Days on Market M/M": 0.0386
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "South Carolina",
+        "Median Listing Price": 197927,
+        "Median Listing Price M/M": 0.0101,
+        "New Listing Count M/M": -0.0225,
+        "Price Increase Count M/M": -0.0851,
+        "Days on Market M/M": 0.0248
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "South Carolina",
+        "Median Listing Price": 195950,
+        "Median Listing Price M/M": -0.0027,
+        "New Listing Count M/M": -0.1041,
+        "Price Increase Count M/M": -0.0152,
+        "Days on Market M/M": 0.0306
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "South Carolina",
+        "Median Listing Price": 196487,
+        "Median Listing Price M/M": 0.0063,
+        "New Listing Count M/M": 0.0327,
+        "Price Increase Count M/M": 0.0765,
+        "Days on Market M/M": 0.0538
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "South Carolina",
+        "Median Listing Price": 195262,
+        "Median Listing Price M/M": 0.013,
+        "New Listing Count M/M": -0.0756,
+        "Price Increase Count M/M": -0.2546,
+        "Days on Market M/M": -0.1389
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "South Carolina",
+        "Median Listing Price": 192750,
+        "Median Listing Price M/M": 0.0089,
+        "New Listing Count M/M": 0.0923,
+        "Price Increase Count M/M": 0.0863,
+        "Days on Market M/M": -0.1462
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "South Carolina",
+        "Median Listing Price": 191050,
+        "Median Listing Price M/M": 0.0106,
+        "New Listing Count M/M": -0.0337,
+        "Price Increase Count M/M": 0.0918,
+        "Days on Market M/M": -0.0489
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "South Carolina",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": 0.0126,
+        "New Listing Count M/M": 0.2064,
+        "Price Increase Count M/M": 0.0324,
+        "Days on Market M/M": 0.0038
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "South Carolina",
+        "Median Listing Price": 186700,
+        "Median Listing Price M/M": 0.0095,
+        "New Listing Count M/M": -0.0511,
+        "Price Increase Count M/M": 0.0256,
+        "Days on Market M/M": 0.0192
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "South Carolina",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.4212,
+        "Price Increase Count M/M": 0.7613,
+        "Days on Market M/M": 0.0484
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "South Carolina",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.1704,
+        "Price Increase Count M/M": -0.3148,
+        "Days on Market M/M": 0.0644
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "South Carolina",
+        "Median Listing Price": 185050,
+        "Median Listing Price M/M": -0.0018,
+        "New Listing Count M/M": -0.1115,
+        "Price Increase Count M/M": -0.1451,
+        "Days on Market M/M": 0.013
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "South Carolina",
+        "Median Listing Price": 185380,
+        "Median Listing Price M/M": -0.0116,
+        "New Listing Count M/M": -0.0083,
+        "Price Increase Count M/M": -0.1578,
+        "Days on Market M/M": 0.0177
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "South Carolina",
+        "Median Listing Price": 187550,
+        "Median Listing Price M/M": -0.0001,
+        "New Listing Count M/M": -0.0341,
+        "Price Increase Count M/M": 0.1029,
+        "Days on Market M/M": 0.032
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "South Carolina",
+        "Median Listing Price": 187565,
+        "Median Listing Price M/M": 0.0014,
+        "New Listing Count M/M": -0.0593,
+        "Price Increase Count M/M": 0.1365,
+        "Days on Market M/M": 0.0186
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "South Carolina",
+        "Median Listing Price": 187300,
+        "Median Listing Price M/M": 0.0122,
+        "New Listing Count M/M": 0.0158,
+        "Price Increase Count M/M": -0.1878,
+        "Days on Market M/M": 0.0539
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "South Carolina",
+        "Median Listing Price": 185050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0442,
+        "Price Increase Count M/M": -0.2065,
+        "Days on Market M/M": 0.0355
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "South Carolina",
+        "Median Listing Price": 185050,
+        "Median Listing Price M/M": 0.0084,
+        "New Listing Count M/M": -0.0225,
+        "Price Increase Count M/M": 0.1653,
+        "Days on Market M/M": 0.0155
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "South Carolina",
+        "Median Listing Price": 183500,
+        "Median Listing Price M/M": 0.0197,
+        "New Listing Count M/M": -0.0107,
+        "Price Increase Count M/M": 0.0814,
+        "Days on Market M/M": -0.178
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "South Carolina",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.005,
+        "New Listing Count M/M": 0.0558,
+        "Price Increase Count M/M": -0.123,
+        "Days on Market M/M": -0.0888
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "South Carolina",
+        "Median Listing Price": 179050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0749,
+        "Price Increase Count M/M": 0.377,
+        "Days on Market M/M": -0.0443
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "South Carolina",
+        "Median Listing Price": 179050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.4624,
+        "Price Increase Count M/M": 0.3358,
+        "Days on Market M/M": 0.0265
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "South Carolina",
+        "Median Listing Price": 179050,
+        "Median Listing Price M/M": -0.0045,
+        "New Listing Count M/M": -0.1552,
+        "Price Increase Count M/M": 0.161,
+        "Days on Market M/M": -0.0038
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "South Carolina",
+        "Median Listing Price": 179857,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.056,
+        "Price Increase Count M/M": -0.1027,
+        "Days on Market M/M": 0.0038
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "South Carolina",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0101,
+        "Price Increase Count M/M": -0.0674,
+        "Days on Market M/M": -0.0075
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "South Carolina",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0328,
+        "Price Increase Count M/M": 0.3239,
+        "Days on Market M/M": 0.035
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "South Carolina",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0005,
+        "Price Increase Count M/M": -0.2804,
+        "Days on Market M/M": 0.0533
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "South Carolina",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.0437,
+        "Price Increase Count M/M": 0.0803,
+        "Days on Market M/M": 0.0517
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "South Carolina",
+        "Median Listing Price": 180000,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.0357,
+        "Price Increase Count M/M": -0.0214,
+        "Days on Market M/M": 0.0175
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "South Carolina",
+        "Median Listing Price": 180050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0976,
+        "Price Increase Count M/M": 0.0145,
+        "Days on Market M/M": -0.0539
+    }
+]

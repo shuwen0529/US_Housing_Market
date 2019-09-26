@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Arizona",
+        "Median Listing Price": 338900,
+        "Median Listing Price M/M": 0.027,
+        "New Listing Count M/M": 0.0604,
+        "Price Increase Count M/M": 0.0806,
+        "Days on Market M/M": -0.0192
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Arizona",
+        "Median Listing Price": 330000,
+        "Median Listing Price M/M": 0.0154,
+        "New Listing Count M/M": 0.0013,
+        "Price Increase Count M/M": 0.1429,
+        "Days on Market M/M": -0.0877
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Arizona",
+        "Median Listing Price": 325000,
+        "Median Listing Price M/M": 0.0015,
+        "New Listing Count M/M": -0.02,
+        "Price Increase Count M/M": -0.0606,
+        "Days on Market M/M": -0.1364
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Arizona",
+        "Median Listing Price": 324500,
+        "Median Listing Price M/M": 0.0172,
+        "New Listing Count M/M": 0.4646,
+        "Price Increase Count M/M": 0.3051,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Arizona",
+        "Median Listing Price": 319000,
+        "Median Listing Price M/M": -0.0062,
+        "New Listing Count M/M": -0.2374,
+        "Price Increase Count M/M": 0.1531,
+        "Days on Market M/M": 0.1538
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Arizona",
+        "Median Listing Price": 321000,
+        "Median Listing Price M/M": 0.0031,
+        "New Listing Count M/M": -0.0382,
+        "Price Increase Count M/M": -0.2943,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Arizona",
+        "Median Listing Price": 320000,
+        "Median Listing Price M/M": -0.0108,
+        "New Listing Count M/M": 0.0289,
+        "Price Increase Count M/M": 0.0023,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Arizona",
+        "Median Listing Price": 323500,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": 0.0065,
+        "Price Increase Count M/M": -0.0545,
+        "Days on Market M/M": -0.0189
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Arizona",
+        "Median Listing Price": 324000,
+        "Median Listing Price M/M": -0.0031,
+        "New Listing Count M/M": 0.0465,
+        "Price Increase Count M/M": -0.1774,
+        "Days on Market M/M": 0.0192
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Arizona",
+        "Median Listing Price": 325000,
+        "Median Listing Price M/M": -0.0055,
+        "New Listing Count M/M": -0.0769,
+        "Price Increase Count M/M": -0.1254,
+        "Days on Market M/M": 0.0612
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Arizona",
+        "Median Listing Price": 326800,
+        "Median Listing Price M/M": -0.0037,
+        "New Listing Count M/M": -0.0766,
+        "Price Increase Count M/M": -0.1039,
+        "Days on Market M/M": 0.0208
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Arizona",
+        "Median Listing Price": 328000,
+        "Median Listing Price M/M": 0.0095,
+        "New Listing Count M/M": -0.032,
+        "Price Increase Count M/M": 0.0723,
+        "Days on Market M/M": -0.04
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Arizona",
+        "Median Listing Price": 324900,
+        "Median Listing Price M/M": 0.0156,
+        "New Listing Count M/M": 0.0041,
+        "Price Increase Count M/M": 0.2206,
+        "Days on Market M/M": -0.0196
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Arizona",
+        "Median Listing Price": 319900,
+        "Median Listing Price M/M": 0.0156,
+        "New Listing Count M/M": 0.0333,
+        "Price Increase Count M/M": -0.1067,
+        "Days on Market M/M": -0.1053
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Arizona",
+        "Median Listing Price": 315000,
+        "Median Listing Price M/M": 0.0194,
+        "New Listing Count M/M": 0.0129,
+        "Price Increase Count M/M": 0.1113,
+        "Days on Market M/M": -0.1493
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Arizona",
+        "Median Listing Price": 309000,
+        "Median Listing Price M/M": 0.03,
+        "New Listing Count M/M": 0.5149,
+        "Price Increase Count M/M": 0.6606,
+        "Days on Market M/M": 0.0308
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Arizona",
+        "Median Listing Price": 300000,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.2562,
+        "Price Increase Count M/M": -0.2466,
+        "Days on Market M/M": 0.2037
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Arizona",
+        "Median Listing Price": 299900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.071,
+        "Price Increase Count M/M": -0.1544,
+        "Days on Market M/M": -0.0182
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Arizona",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.045,
+        "Price Increase Count M/M": -0.0208,
+        "Days on Market M/M": -0.0678
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Arizona",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0107,
+        "Price Increase Count M/M": 0.0252,
+        "Days on Market M/M": -0.0084
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Arizona",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": 0.0256,
+        "Price Increase Count M/M": 0.0617,
+        "Days on Market M/M": 0.0259
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Arizona",
+        "Median Listing Price": 300050,
+        "Median Listing Price M/M": -0.0164,
+        "New Listing Count M/M": -0.0674,
+        "Price Increase Count M/M": -0.0041,
+        "Days on Market M/M": 0.0357
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Arizona",
+        "Median Listing Price": 305047,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0828,
+        "Price Increase Count M/M": -0.1191,
+        "Days on Market M/M": 0.037
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Arizona",
+        "Median Listing Price": 305050,
+        "Median Listing Price M/M": 0.0167,
+        "New Listing Count M/M": -0.0181,
+        "Price Increase Count M/M": -0.0918,
+        "Days on Market M/M": 0.0189
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Arizona",
+        "Median Listing Price": 300050,
+        "Median Listing Price M/M": 0.0033,
+        "New Listing Count M/M": -0.0325,
+        "Price Increase Count M/M": 0.0702,
+        "Days on Market M/M": -0.0536
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Arizona",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0181,
+        "New Listing Count M/M": 0.0308,
+        "Price Increase Count M/M": 0.0775,
+        "Days on Market M/M": -0.1642
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Arizona",
+        "Median Listing Price": 293743,
+        "Median Listing Price M/M": 0.0166,
+        "New Listing Count M/M": 0.1001,
+        "Price Increase Count M/M": 0.058,
+        "Days on Market M/M": -0.1067
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Arizona",
+        "Median Listing Price": 288950,
+        "Median Listing Price M/M": 0.0137,
+        "New Listing Count M/M": 0.3308,
+        "Price Increase Count M/M": -0.0909,
+        "Days on Market M/M": 0.1029
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Arizona",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1938,
+        "Price Increase Count M/M": 0.1555,
+        "Days on Market M/M": 0.1148
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Arizona",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0873,
+        "Price Increase Count M/M": -0.0165,
+        "Days on Market M/M": -0.0161
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Arizona",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": 0.0352,
+        "Price Increase Count M/M": 0.0386,
+        "Days on Market M/M": -0.0746
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Arizona",
+        "Median Listing Price": 285000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": 0.0686,
+        "Price Increase Count M/M": -0.0717,
+        "Days on Market M/M": -0.0074
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Arizona",
+        "Median Listing Price": 284950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": 0.0359,
+        "Price Increase Count M/M": -0.0669,
+        "Days on Market M/M": 0.0385
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Arizona",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": -0.0138,
+        "New Listing Count M/M": -0.0951,
+        "Price Increase Count M/M": 0.0653,
+        "Days on Market M/M": 0.0078
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Arizona",
+        "Median Listing Price": 289050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0572,
+        "Price Increase Count M/M": -0.0399,
+        "Days on Market M/M": 0.0238
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Arizona",
+        "Median Listing Price": 289050,
+        "Median Listing Price M/M": 0.014,
+        "New Listing Count M/M": -0.0726,
+        "Price Increase Count M/M": 0.1097,
+        "Days on Market M/M": 0.0328
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Arizona",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": 0.02,
+        "New Listing Count M/M": 0.0162,
+        "Price Increase Count M/M": 0.0194,
+        "Days on Market M/M": 0.0339
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Arizona",
+        "Median Listing Price": 279450,
+        "Median Listing Price M/M": 0.0162,
+        "New Listing Count M/M": 0.0,
+        "Price Increase Count M/M": 0.0043,
+        "Days on Market M/M": -0.1748
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Arizona",
+        "Median Listing Price": 275000,
+        "Median Listing Price M/M": 0.0187,
+        "New Listing Count M/M": 0.0162,
+        "Price Increase Count M/M": -0.0512,
+        "Days on Market M/M": -0.0949
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Arizona",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.5839,
+        "Price Increase Count M/M": 0.6159,
+        "Days on Market M/M": 0.0897
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Arizona",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2074,
+        "Price Increase Count M/M": -0.2053,
+        "Days on Market M/M": 0.1154
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Arizona",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1356,
+        "Price Increase Count M/M": -0.1667,
+        "Days on Market M/M": 0.0078
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Arizona",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0555,
+        "Price Increase Count M/M": -0.0694,
+        "Days on Market M/M": -0.0584
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Arizona",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0033,
+        "New Listing Count M/M": 0.0727,
+        "Price Increase Count M/M": 0.0746,
+        "Days on Market M/M": -0.0352
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Arizona",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": -0.0218,
+        "New Listing Count M/M": -0.0854,
+        "Price Increase Count M/M": 0.0531,
+        "Days on Market M/M": 0.029
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Arizona",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": -0.0121,
+        "New Listing Count M/M": -0.0512,
+        "Price Increase Count M/M": -0.0979,
+        "Days on Market M/M": 0.0222
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Arizona",
+        "Median Listing Price": 278420,
+        "Median Listing Price M/M": 0.0123,
+        "New Listing Count M/M": -0.0311,
+        "Price Increase Count M/M": -0.1045,
+        "Days on Market M/M": 0.0227
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Arizona",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0189,
+        "New Listing Count M/M": -0.0606,
+        "Price Increase Count M/M": 0.051,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Arizona",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0381,
+        "New Listing Count M/M": 0.0337,
+        "Price Increase Count M/M": -0.0727,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Arizona",
+        "Median Listing Price": 260050,
+        "Median Listing Price M/M": 0.0402,
+        "New Listing Count M/M": -0.0094,
+        "Price Increase Count M/M": -0.0214,
+        "Days on Market M/M": -0.1902
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Arizona",
+        "Median Listing Price": 250000,
+        "Median Listing Price M/M": 0.002,
+        "New Listing Count M/M": -0.0048,
+        "Price Increase Count M/M": 0.4712,
+        "Days on Market M/M": -0.024
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Arizona",
+        "Median Listing Price": 249500,
+        "Median Listing Price M/M": 0.002,
+        "New Listing Count M/M": 0.5275,
+        "Price Increase Count M/M": 0.0106,
+        "Days on Market M/M": 0.0774
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Arizona",
+        "Median Listing Price": 249000,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.2444,
+        "Price Increase Count M/M": -0.1085,
+        "Days on Market M/M": 0.0764
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Arizona",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1077,
+        "Price Increase Count M/M": -0.0959,
+        "Days on Market M/M": -0.0204
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Arizona",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0042,
+        "New Listing Count M/M": 0.0794,
+        "Price Increase Count M/M": 0.1552,
+        "Days on Market M/M": -0.0577
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Arizona",
+        "Median Listing Price": 248000,
+        "Median Listing Price M/M": 0.0335,
+        "New Listing Count M/M": 0.0608,
+        "Price Increase Count M/M": -0.2132,
+        "Days on Market M/M": 0.0263
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Arizona",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0889,
+        "Price Increase Count M/M": 0.1097,
+        "Days on Market M/M": 0.034
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Arizona",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0312,
+        "Price Increase Count M/M": -0.0393,
+        "Days on Market M/M": 0.0208
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Arizona",
+        "Median Listing Price": 240050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.0771,
+        "Price Increase Count M/M": -0.2317,
+        "Days on Market M/M": 0.036
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Arizona",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0165,
+        "New Listing Count M/M": -0.0154,
+        "Price Increase Count M/M": 0.1033,
+        "Days on Market M/M": 0.0146
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Arizona",
+        "Median Listing Price": 236050,
+        "Median Listing Price M/M": 0.0223,
+        "New Listing Count M/M": -0.0321,
+        "Price Increase Count M/M": 0.1196,
+        "Days on Market M/M": 0.0224
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Arizona",
+        "Median Listing Price": 230900,
+        "Median Listing Price M/M": 0.0081,
+        "New Listing Count M/M": 0.0303,
+        "Price Increase Count M/M": -0.1385,
+        "Days on Market M/M": -0.1519
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Arizona",
+        "Median Listing Price": 229050,
+        "Median Listing Price M/M": 0.0178,
+        "New Listing Count M/M": -0.01,
+        "Price Increase Count M/M": 0.0963,
+        "Days on Market M/M": -0.0186
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Arizona",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.5098,
+        "Price Increase Count M/M": 0.2857,
+        "Days on Market M/M": 0.1338
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Arizona",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2588,
+        "Price Increase Count M/M": -0.2513,
+        "Days on Market M/M": 0.1736
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Arizona",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0865,
+        "Price Increase Count M/M": 0.0181,
+        "Days on Market M/M": 0.0083
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Arizona",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0547,
+        "Price Increase Count M/M": -0.0367,
+        "Days on Market M/M": -0.0323
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Arizona",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0207,
+        "Price Increase Count M/M": -0.1551,
+        "Days on Market M/M": -0.008
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Arizona",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0954,
+        "Price Increase Count M/M": 0.2798,
+        "Days on Market M/M": 0.0081
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Arizona",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.1306,
+        "Price Increase Count M/M": -0.1811,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Arizona",
+        "Median Listing Price": 224950,
+        "Median Listing Price M/M": 0.0223,
+        "New Listing Count M/M": 0.0459,
+        "Price Increase Count M/M": -0.094,
+        "Days on Market M/M": -0.0236
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Arizona",
+        "Median Listing Price": 220050,
+        "Median Listing Price M/M": 0.0141,
+        "New Listing Count M/M": -0.0376,
+        "Price Increase Count M/M": -0.0042,
+        "Days on Market M/M": -0.0379
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Arizona",
+        "Median Listing Price": 217000,
+        "Median Listing Price M/M": 0.038,
+        "New Listing Count M/M": 0.0496,
+        "Price Increase Count M/M": 0.1293,
+        "Days on Market M/M": -0.0149
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Arizona",
+        "Median Listing Price": 209050,
+        "Median Listing Price M/M": 0.0455,
+        "New Listing Count M/M": -0.0019,
+        "Price Increase Count M/M": -0.1893,
+        "Days on Market M/M": -0.1299
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Arizona",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0058,
+        "New Listing Count M/M": 0.0395,
+        "Price Increase Count M/M": 0.1568,
+        "Days on Market M/M": -0.0253
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Arizona",
+        "Median Listing Price": 198800,
+        "Median Listing Price M/M": 0.0192,
+        "New Listing Count M/M": 0.2096,
+        "Price Increase Count M/M": 0.0903,
+        "Days on Market M/M": 0.0822
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Arizona",
+        "Median Listing Price": 195050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1651,
+        "Price Increase Count M/M": 0.1567,
+        "Days on Market M/M": 0.1061
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Arizona",
+        "Median Listing Price": 195050,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": -0.0664,
+        "Price Increase Count M/M": -0.1299,
+        "Days on Market M/M": -0.0222
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Arizona",
+        "Median Listing Price": 194950,
+        "Median Listing Price M/M": 0.0258,
+        "New Listing Count M/M": 0.0555,
+        "Price Increase Count M/M": 0.0732,
+        "Days on Market M/M": -0.0625
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Arizona",
+        "Median Listing Price": 190050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0706,
+        "Price Increase Count M/M": 0.0749,
+        "Days on Market M/M": -0.0137
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Arizona",
+        "Median Listing Price": 190050,
+        "Median Listing Price M/M": -0.0206,
+        "New Listing Count M/M": 0.0118,
+        "Price Increase Count M/M": -0.0697,
+        "Days on Market M/M": 0.0139
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Arizona",
+        "Median Listing Price": 194050,
+        "Median Listing Price M/M": 0.0056,
+        "New Listing Count M/M": -0.0368,
+        "Price Increase Count M/M": 0.1321,
+        "Days on Market M/M": -0.0137
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Arizona",
+        "Median Listing Price": 192975,
+        "Median Listing Price M/M": 0.0154,
+        "New Listing Count M/M": 0.0244,
+        "Price Increase Count M/M": -0.0416,
+        "Days on Market M/M": -0.0331
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Arizona",
+        "Median Listing Price": 190050,
+        "Median Listing Price M/M": 0.0053,
+        "New Listing Count M/M": -0.1042,
+        "Price Increase Count M/M": -0.0752,
+        "Days on Market M/M": -0.0443
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Florida",
+        "Median Listing Price": 325000,
+        "Median Listing Price M/M": 0.0018,
+        "New Listing Count M/M": -0.0541,
+        "Price Increase Count M/M": -0.1205,
+        "Days on Market M/M": -0.0253
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Florida",
+        "Median Listing Price": 324400,
+        "Median Listing Price M/M": 0.0141,
+        "New Listing Count M/M": -0.0126,
+        "Price Increase Count M/M": 0.1059,
+        "Days on Market M/M": -0.0366
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Florida",
+        "Median Listing Price": 319900,
+        "Median Listing Price M/M": 0.0019,
+        "New Listing Count M/M": -0.0318,
+        "Price Increase Count M/M": 0.0056,
+        "Days on Market M/M": -0.0353
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Florida",
+        "Median Listing Price": 319300,
+        "Median Listing Price M/M": 0.0044,
+        "New Listing Count M/M": 0.3737,
+        "Price Increase Count M/M": 0.2386,
+        "Days on Market M/M": 0.0625
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Florida",
+        "Median Listing Price": 317900,
+        "Median Listing Price M/M": -0.0034,
+        "New Listing Count M/M": -0.1572,
+        "Price Increase Count M/M": -0.1136,
+        "Days on Market M/M": 0.039
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Florida",
+        "Median Listing Price": 319000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.028,
+        "Price Increase Count M/M": 0.091,
+        "Days on Market M/M": -0.0253
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Florida",
+        "Median Listing Price": 319000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0317,
+        "Price Increase Count M/M": -0.0203,
+        "Days on Market M/M": -0.0125
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Florida",
+        "Median Listing Price": 319000,
+        "Median Listing Price M/M": -0.0028,
+        "New Listing Count M/M": 0.0087,
+        "Price Increase Count M/M": -0.1228,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Florida",
+        "Median Listing Price": 319900,
+        "Median Listing Price M/M": -0.0127,
+        "New Listing Count M/M": -0.0193,
+        "Price Increase Count M/M": 0.0565,
+        "Days on Market M/M": 0.0127
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Florida",
+        "Median Listing Price": 324000,
+        "Median Listing Price M/M": -0.0031,
+        "New Listing Count M/M": -0.0246,
+        "Price Increase Count M/M": -0.0734,
+        "Days on Market M/M": 0.0395
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Florida",
+        "Median Listing Price": 325000,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0375,
+        "Price Increase Count M/M": -0.0333,
+        "Days on Market M/M": 0.0411
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Florida",
+        "Median Listing Price": 324900,
+        "Median Listing Price M/M": 0.0059,
+        "New Listing Count M/M": 0.0159,
+        "Price Increase Count M/M": -0.0854,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Florida",
+        "Median Listing Price": 323000,
+        "Median Listing Price M/M": 0.0097,
+        "New Listing Count M/M": -0.0815,
+        "Price Increase Count M/M": 0.0147,
+        "Days on Market M/M": 0.0735
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Florida",
+        "Median Listing Price": 319900,
+        "Median Listing Price M/M": 0.0028,
+        "New Listing Count M/M": -0.0068,
+        "Price Increase Count M/M": 0.0601,
+        "Days on Market M/M": -0.1282
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Florida",
+        "Median Listing Price": 319000,
+        "Median Listing Price M/M": 0.0031,
+        "New Listing Count M/M": 0.0156,
+        "Price Increase Count M/M": 0.0034,
+        "Days on Market M/M": -0.0488
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Florida",
+        "Median Listing Price": 318000,
+        "Median Listing Price M/M": 0.0095,
+        "New Listing Count M/M": 0.3332,
+        "Price Increase Count M/M": 0.2624,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Florida",
+        "Median Listing Price": 315000,
+        "Median Listing Price M/M": 0.0032,
+        "New Listing Count M/M": -0.1552,
+        "Price Increase Count M/M": -0.0605,
+        "Days on Market M/M": -0.0575
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Florida",
+        "Median Listing Price": 314000,
+        "Median Listing Price M/M": 0.0136,
+        "New Listing Count M/M": 0.0373,
+        "Price Increase Count M/M": 0.0263,
+        "Days on Market M/M": -0.0114
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Florida",
+        "Median Listing Price": 309800,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": 0.6143,
+        "Price Increase Count M/M": 0.2707,
+        "Days on Market M/M": 0.0292
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Florida",
+        "Median Listing Price": 310000,
+        "Median Listing Price M/M": -0.0112,
+        "New Listing Count M/M": -0.3907,
+        "Price Increase Count M/M": -0.3225,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Florida",
+        "Median Listing Price": 313500,
+        "Median Listing Price M/M": -0.0046,
+        "New Listing Count M/M": -0.0341,
+        "Price Increase Count M/M": 0.1177,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Florida",
+        "Median Listing Price": 314950,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": 0.0521,
+        "Price Increase Count M/M": -0.0836,
+        "Days on Market M/M": 0.0125
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Florida",
+        "Median Listing Price": 315000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0821,
+        "Price Increase Count M/M": -0.0952,
+        "Days on Market M/M": 0.039
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Florida",
+        "Median Listing Price": 315000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.0196,
+        "Price Increase Count M/M": 0.0537,
+        "Days on Market M/M": 0.0267
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Florida",
+        "Median Listing Price": 314950,
+        "Median Listing Price M/M": 0.016,
+        "New Listing Count M/M": -0.0143,
+        "Price Increase Count M/M": 0.0391,
+        "Days on Market M/M": 0.0067
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Florida",
+        "Median Listing Price": 310000,
+        "Median Listing Price M/M": 0.0077,
+        "New Listing Count M/M": -0.0254,
+        "Price Increase Count M/M": -0.0144,
+        "Days on Market M/M": -0.1024
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Florida",
+        "Median Listing Price": 307630,
+        "Median Listing Price M/M": 0.0256,
+        "New Listing Count M/M": 0.0249,
+        "Price Increase Count M/M": 0.0226,
+        "Days on Market M/M": -0.046
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Florida",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.003,
+        "New Listing Count M/M": 0.2673,
+        "Price Increase Count M/M": 0.2151,
+        "Days on Market M/M": 0.0058
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Florida",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0007,
+        "New Listing Count M/M": -0.1174,
+        "Price Increase Count M/M": -0.0979,
+        "Days on Market M/M": 0.0237
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Florida",
+        "Median Listing Price": 298847,
+        "Median Listing Price M/M": 0.0129,
+        "New Listing Count M/M": 0.0693,
+        "Price Increase Count M/M": 0.023,
+        "Days on Market M/M": 0.0181
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Florida",
+        "Median Listing Price": 295050,
+        "Median Listing Price M/M": 0.0263,
+        "New Listing Count M/M": -0.034,
+        "Price Increase Count M/M": 0.0113,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Florida",
+        "Median Listing Price": 287500,
+        "Median Listing Price M/M": -0.0088,
+        "New Listing Count M/M": 0.0198,
+        "Price Increase Count M/M": -0.0181,
+        "Days on Market M/M": 0.0122
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Florida",
+        "Median Listing Price": 290050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0355,
+        "Price Increase Count M/M": 0.0491,
+        "Days on Market M/M": 0.0123
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Florida",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.022,
+        "Price Increase Count M/M": -0.0965,
+        "Days on Market M/M": 0.0189
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Florida",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": 0.0031,
+        "New Listing Count M/M": -0.077,
+        "Price Increase Count M/M": -0.0174,
+        "Days on Market M/M": 0.0461
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Florida",
+        "Median Listing Price": 289050,
+        "Median Listing Price M/M": 0.0234,
+        "New Listing Count M/M": -0.021,
+        "Price Increase Count M/M": -0.0737,
+        "Days on Market M/M": 0.034
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Florida",
+        "Median Listing Price": 282450,
+        "Median Listing Price M/M": 0.0106,
+        "New Listing Count M/M": -0.0481,
+        "Price Increase Count M/M": 0.0393,
+        "Days on Market M/M": 0.0426
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Florida",
+        "Median Listing Price": 279500,
+        "Median Listing Price M/M": 0.0184,
+        "New Listing Count M/M": -0.0408,
+        "Price Increase Count M/M": 0.0149,
+        "Days on Market M/M": -0.1296
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Florida",
+        "Median Listing Price": 274450,
+        "Median Listing Price M/M": 0.0201,
+        "New Listing Count M/M": 0.0151,
+        "Price Increase Count M/M": -0.0203,
+        "Days on Market M/M": -0.0471
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Florida",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": 0.0155,
+        "New Listing Count M/M": 0.3613,
+        "Price Increase Count M/M": 0.1789,
+        "Days on Market M/M": 0.0494
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Florida",
+        "Median Listing Price": 264950,
+        "Median Listing Price M/M": 0.015,
+        "New Listing Count M/M": -0.1482,
+        "Price Increase Count M/M": -0.0735,
+        "Days on Market M/M": 0.0125
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Florida",
+        "Median Listing Price": 261040,
+        "Median Listing Price M/M": 0.0077,
+        "New Listing Count M/M": 0.0083,
+        "Price Increase Count M/M": -0.1018,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Florida",
+        "Median Listing Price": 259050,
+        "Median Listing Price M/M": 0.0157,
+        "New Listing Count M/M": 0.0619,
+        "Price Increase Count M/M": 0.1159,
+        "Days on Market M/M": -0.0244
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Florida",
+        "Median Listing Price": 255050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.002,
+        "Price Increase Count M/M": -0.0011,
+        "Days on Market M/M": 0.0123
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Florida",
+        "Median Listing Price": 255050,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": -0.1722,
+        "Price Increase Count M/M": -0.0595,
+        "Days on Market M/M": 0.0318
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Florida",
+        "Median Listing Price": 254138,
+        "Median Listing Price M/M": 0.0045,
+        "New Listing Count M/M": 0.0196,
+        "Price Increase Count M/M": 0.0531,
+        "Days on Market M/M": 0.0329
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Florida",
+        "Median Listing Price": 253000,
+        "Median Listing Price M/M": 0.0118,
+        "New Listing Count M/M": -0.0201,
+        "Price Increase Count M/M": -0.0269,
+        "Days on Market M/M": 0.0133
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Florida",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.0408,
+        "Price Increase Count M/M": -0.0681,
+        "Days on Market M/M": 0.0067
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Florida",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.02,
+        "New Listing Count M/M": -0.0358,
+        "Price Increase Count M/M": 0.0344,
+        "Days on Market M/M": 0.0068
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Florida",
+        "Median Listing Price": 245050,
+        "Median Listing Price M/M": 0.0213,
+        "New Listing Count M/M": -0.0051,
+        "Price Increase Count M/M": -0.0353,
+        "Days on Market M/M": -0.1345
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Florida",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0162,
+        "New Listing Count M/M": -0.024,
+        "Price Increase Count M/M": 0.0404,
+        "Days on Market M/M": -0.0339
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Florida",
+        "Median Listing Price": 236125,
+        "Median Listing Price M/M": 0.0048,
+        "New Listing Count M/M": 0.229,
+        "Price Increase Count M/M": 0.1734,
+        "Days on Market M/M": 0.0291
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Florida",
+        "Median Listing Price": 235000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.0296,
+        "Price Increase Count M/M": -0.1035,
+        "Days on Market M/M": 0.0488
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Florida",
+        "Median Listing Price": 234950,
+        "Median Listing Price M/M": 0.0181,
+        "New Listing Count M/M": -0.0628,
+        "Price Increase Count M/M": -0.0619,
+        "Days on Market M/M": -0.0061
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Florida",
+        "Median Listing Price": 230772,
+        "Median Listing Price M/M": 0.0034,
+        "New Listing Count M/M": 0.0642,
+        "Price Increase Count M/M": 0.0292,
+        "Days on Market M/M": -0.012
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Florida",
+        "Median Listing Price": 230000,
+        "Median Listing Price M/M": 0.0548,
+        "New Listing Count M/M": -0.0516,
+        "Price Increase Count M/M": -0.0561,
+        "Days on Market M/M": -0.0291
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Florida",
+        "Median Listing Price": 218050,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.0693,
+        "Price Increase Count M/M": -0.0453,
+        "Days on Market M/M": 0.0058
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Florida",
+        "Median Listing Price": 218000,
+        "Median Listing Price M/M": 0.0044,
+        "New Listing Count M/M": 0.076,
+        "Price Increase Count M/M": 0.0637,
+        "Days on Market M/M": 0.0427
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Florida",
+        "Median Listing Price": 217050,
+        "Median Listing Price M/M": -0.0332,
+        "New Listing Count M/M": -0.1007,
+        "Price Increase Count M/M": -0.0671,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Florida",
+        "Median Listing Price": 224500,
+        "Median Listing Price M/M": 0.0205,
+        "New Listing Count M/M": -0.0216,
+        "Price Increase Count M/M": -0.0972,
+        "Days on Market M/M": -0.012
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Florida",
+        "Median Listing Price": 220000,
+        "Median Listing Price M/M": 0.0043,
+        "New Listing Count M/M": 0.0175,
+        "Price Increase Count M/M": 0.1093,
+        "Days on Market M/M": -0.0119
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Florida",
+        "Median Listing Price": 219050,
+        "Median Listing Price M/M": 0.0048,
+        "New Listing Count M/M": -0.0329,
+        "Price Increase Count M/M": -0.0461,
+        "Days on Market M/M": -0.0667
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Florida",
+        "Median Listing Price": 218000,
+        "Median Listing Price M/M": 0.0137,
+        "New Listing Count M/M": 0.0502,
+        "Price Increase Count M/M": 0.077,
+        "Days on Market M/M": -0.0164
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Florida",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2605,
+        "Price Increase Count M/M": 0.1731,
+        "Days on Market M/M": 0.0517
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Florida",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1575,
+        "Price Increase Count M/M": -0.1355,
+        "Days on Market M/M": 0.0482
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Florida",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0832,
+        "Price Increase Count M/M": -0.0217,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Florida",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": 0.1501,
+        "Price Increase Count M/M": -0.015,
+        "Days on Market M/M": -0.0349
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Florida",
+        "Median Listing Price": 214950,
+        "Median Listing Price M/M": -0.0051,
+        "New Listing Count M/M": -0.0111,
+        "Price Increase Count M/M": -0.0929,
+        "Days on Market M/M": -0.0282
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Florida",
+        "Median Listing Price": 216045,
+        "Median Listing Price M/M": -0.0068,
+        "New Listing Count M/M": -0.0181,
+        "Price Increase Count M/M": 0.1132,
+        "Days on Market M/M": -0.0167
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Florida",
+        "Median Listing Price": 217525,
+        "Median Listing Price M/M": 0.012,
+        "New Listing Count M/M": 0.0546,
+        "Price Increase Count M/M": -0.0239,
+        "Days on Market M/M": 0.0227
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Florida",
+        "Median Listing Price": 214950,
+        "Median Listing Price M/M": -0.014,
+        "New Listing Count M/M": 0.0177,
+        "Price Increase Count M/M": -0.0686,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Florida",
+        "Median Listing Price": 217995,
+        "Median Listing Price M/M": 0.0137,
+        "New Listing Count M/M": -0.0374,
+        "Price Increase Count M/M": -0.1471,
+        "Days on Market M/M": 0.0115
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Florida",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0238,
+        "New Listing Count M/M": 0.0187,
+        "Price Increase Count M/M": 0.1621,
+        "Days on Market M/M": -0.0745
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Florida",
+        "Median Listing Price": 210050,
+        "Median Listing Price M/M": 0.0244,
+        "New Listing Count M/M": -0.0482,
+        "Price Increase Count M/M": -0.0399,
+        "Days on Market M/M": -0.0784
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Florida",
+        "Median Listing Price": 205049,
+        "Median Listing Price M/M": 0.0255,
+        "New Listing Count M/M": 0.0046,
+        "Price Increase Count M/M": 0.0617,
+        "Days on Market M/M": -0.0423
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Florida",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0023,
+        "New Listing Count M/M": 0.2479,
+        "Price Increase Count M/M": 0.2422,
+        "Days on Market M/M": -0.0047
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Florida",
+        "Median Listing Price": 199500,
+        "Median Listing Price M/M": 0.0023,
+        "New Listing Count M/M": -0.0934,
+        "Price Increase Count M/M": 0.0305,
+        "Days on Market M/M": -0.0273
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Florida",
+        "Median Listing Price": 199050,
+        "Median Listing Price M/M": 0.0205,
+        "New Listing Count M/M": -0.0061,
+        "Price Increase Count M/M": -0.017,
+        "Days on Market M/M": -0.0435
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Florida",
+        "Median Listing Price": 195050,
+        "Median Listing Price M/M": 0.0026,
+        "New Listing Count M/M": 0.0627,
+        "Price Increase Count M/M": 0.1228,
+        "Days on Market M/M": -0.0254
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Florida",
+        "Median Listing Price": 194550,
+        "Median Listing Price M/M": 0.0013,
+        "New Listing Count M/M": 0.0054,
+        "Price Increase Count M/M": -0.0284,
+        "Days on Market M/M": 0.0172
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Florida",
+        "Median Listing Price": 194300,
+        "Median Listing Price M/M": -0.0033,
+        "New Listing Count M/M": 0.0088,
+        "Price Increase Count M/M": 0.1174,
+        "Days on Market M/M": 0.0175
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Florida",
+        "Median Listing Price": 194950,
+        "Median Listing Price M/M": 0.0112,
+        "New Listing Count M/M": -0.0334,
+        "Price Increase Count M/M": -0.1412,
+        "Days on Market M/M": 0.027
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Florida",
+        "Median Listing Price": 192800,
+        "Median Listing Price M/M": 0.0013,
+        "New Listing Count M/M": -0.0686,
+        "Price Increase Count M/M": -0.0271,
+        "Days on Market M/M": 0.023
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Florida",
+        "Median Listing Price": 192550,
+        "Median Listing Price M/M": 0.0108,
+        "New Listing Count M/M": -0.0198,
+        "Price Increase Count M/M": 0.0248,
+        "Days on Market M/M": 0.0093
+    }
+]

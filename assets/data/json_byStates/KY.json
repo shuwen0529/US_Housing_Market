@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Kentucky",
+        "Median Listing Price": 200000,
+        "Median Listing Price M/M": 0.0065,
+        "New Listing Count M/M": 0.0695,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.0946
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Kentucky",
+        "Median Listing Price": 198700,
+        "Median Listing Price M/M": 0.0463,
+        "New Listing Count M/M": 0.2441,
+        "Price Increase Count M/M": 0.0137,
+        "Days on Market M/M": -0.2043
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Kentucky",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": 0.0032,
+        "New Listing Count M/M": -0.0804,
+        "Price Increase Count M/M": 0.0139,
+        "Days on Market M/M": 0.0109
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Kentucky",
+        "Median Listing Price": 189300,
+        "Median Listing Price M/M": -0.0032,
+        "New Listing Count M/M": 0.362,
+        "Price Increase Count M/M": -0.2174,
+        "Days on Market M/M": 0.0698
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Kentucky",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": -0.0211,
+        "New Listing Count M/M": -0.2155,
+        "Price Increase Count M/M": 0.7692,
+        "Days on Market M/M": 0.1316
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Kentucky",
+        "Median Listing Price": 194000,
+        "Median Listing Price M/M": -0.0051,
+        "New Listing Count M/M": -0.1712,
+        "Price Increase Count M/M": -0.3659,
+        "Days on Market M/M": 0.0857
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Kentucky",
+        "Median Listing Price": 195000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0349,
+        "Price Increase Count M/M": -0.1087,
+        "Days on Market M/M": 0.0448
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Kentucky",
+        "Median Listing Price": 195000,
+        "Median Listing Price M/M": -0.0031,
+        "New Listing Count M/M": -0.1168,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0308
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Kentucky",
+        "Median Listing Price": 195600,
+        "Median Listing Price M/M": -0.0081,
+        "New Listing Count M/M": 0.0088,
+        "Price Increase Count M/M": -0.1481,
+        "Days on Market M/M": 0.0484
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Kentucky",
+        "Median Listing Price": 197200,
+        "Median Listing Price M/M": 0.0077,
+        "New Listing Count M/M": -0.0398,
+        "Price Increase Count M/M": 0.1739,
+        "Days on Market M/M": 0.0333
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Kentucky",
+        "Median Listing Price": 195700,
+        "Median Listing Price M/M": 0.014,
+        "New Listing Count M/M": 0.0507,
+        "Price Increase Count M/M": -0.0417,
+        "Days on Market M/M": -0.0323
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Kentucky",
+        "Median Listing Price": 193000,
+        "Median Listing Price M/M": 0.0271,
+        "New Listing Count M/M": 0.057,
+        "Price Increase Count M/M": 0.0909,
+        "Days on Market M/M": -0.0606
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Kentucky",
+        "Median Listing Price": 187900,
+        "Median Listing Price M/M": 0.0313,
+        "New Listing Count M/M": 0.0694,
+        "Price Increase Count M/M": -0.1927,
+        "Days on Market M/M": -0.1538
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Kentucky",
+        "Median Listing Price": 182200,
+        "Median Listing Price M/M": 0.019,
+        "New Listing Count M/M": 0.1579,
+        "Price Increase Count M/M": 0.3293,
+        "Days on Market M/M": -0.1875
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Kentucky",
+        "Median Listing Price": 178800,
+        "Median Listing Price M/M": 0.0136,
+        "New Listing Count M/M": 0.1823,
+        "Price Increase Count M/M": -0.1458,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Kentucky",
+        "Median Listing Price": 176400,
+        "Median Listing Price M/M": -0.0028,
+        "New Listing Count M/M": 0.1369,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.0909
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Kentucky",
+        "Median Listing Price": 176900,
+        "Median Listing Price M/M": -0.0167,
+        "New Listing Count M/M": -0.2415,
+        "Price Increase Count M/M": -0.4074,
+        "Days on Market M/M": 0.1139
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Kentucky",
+        "Median Listing Price": 179900,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.1247,
+        "Price Increase Count M/M": -0.0357,
+        "Days on Market M/M": 0.0533
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Kentucky",
+        "Median Listing Price": 180050,
+        "Median Listing Price M/M": -0.0067,
+        "New Listing Count M/M": -0.0369,
+        "Price Increase Count M/M": 0.4,
+        "Days on Market M/M": 0.0274
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Kentucky",
+        "Median Listing Price": 181259,
+        "Median Listing Price M/M": -0.0165,
+        "New Listing Count M/M": -0.0852,
+        "Price Increase Count M/M": -0.3846,
+        "Days on Market M/M": 0.0429
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Kentucky",
+        "Median Listing Price": 184300,
+        "Median Listing Price M/M": 0.0014,
+        "New Listing Count M/M": -0.0415,
+        "Price Increase Count M/M": 0.1818,
+        "Days on Market M/M": 0.0448
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Kentucky",
+        "Median Listing Price": 184050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0379,
+        "Price Increase Count M/M": 0.1224,
+        "Days on Market M/M": 0.0152
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Kentucky",
+        "Median Listing Price": 184000,
+        "Median Listing Price M/M": 0.016,
+        "New Listing Count M/M": 0.0435,
+        "Price Increase Count M/M": -0.3194,
+        "Days on Market M/M": -0.0222
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Kentucky",
+        "Median Listing Price": 181100,
+        "Median Listing Price M/M": 0.0346,
+        "New Listing Count M/M": 0.0708,
+        "Price Increase Count M/M": 0.1613,
+        "Days on Market M/M": -0.0493
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Kentucky",
+        "Median Listing Price": 175050,
+        "Median Listing Price M/M": 0.03,
+        "New Listing Count M/M": 0.0217,
+        "Price Increase Count M/M": -0.1842,
+        "Days on Market M/M": -0.118
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Kentucky",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.03,
+        "New Listing Count M/M": 0.157,
+        "Price Increase Count M/M": 0.2459,
+        "Days on Market M/M": -0.1744
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Kentucky",
+        "Median Listing Price": 165000,
+        "Median Listing Price M/M": 0.0316,
+        "New Listing Count M/M": 0.0756,
+        "Price Increase Count M/M": 0.2449,
+        "Days on Market M/M": -0.025
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Kentucky",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": -0.0039,
+        "New Listing Count M/M": 0.3278,
+        "Price Increase Count M/M": 0.1951,
+        "Days on Market M/M": 0.087
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Kentucky",
+        "Median Listing Price": 160584,
+        "Median Listing Price M/M": -0.0265,
+        "New Listing Count M/M": -0.2425,
+        "Price Increase Count M/M": -0.2264,
+        "Days on Market M/M": 0.0888
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Kentucky",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.137,
+        "Price Increase Count M/M": 0.1277,
+        "Days on Market M/M": 0.0563
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Kentucky",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0746,
+        "Price Increase Count M/M": -0.1132,
+        "Days on Market M/M": 0.0127
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Kentucky",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0708,
+        "Price Increase Count M/M": 0.191,
+        "Days on Market M/M": 0.0327
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Kentucky",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": -0.0288,
+        "New Listing Count M/M": -0.01,
+        "Price Increase Count M/M": 0.0114,
+        "Days on Market M/M": 0.0479
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Kentucky",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0056,
+        "New Listing Count M/M": -0.0465,
+        "Price Increase Count M/M": -0.0737,
+        "Days on Market M/M": 0.0504
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Kentucky",
+        "Median Listing Price": 169000,
+        "Median Listing Price M/M": 0.0239,
+        "New Listing Count M/M": -0.0518,
+        "Price Increase Count M/M": -0.1204,
+        "Days on Market M/M": 0.0221
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Kentucky",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0123,
+        "New Listing Count M/M": 0.0091,
+        "Price Increase Count M/M": -0.027,
+        "Days on Market M/M": -0.0811
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Kentucky",
+        "Median Listing Price": 163050,
+        "Median Listing Price M/M": 0.0252,
+        "New Listing Count M/M": 0.0739,
+        "Price Increase Count M/M": -0.2071,
+        "Days on Market M/M": -0.2043
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Kentucky",
+        "Median Listing Price": 159045,
+        "Median Listing Price M/M": 0.0298,
+        "New Listing Count M/M": 0.275,
+        "Price Increase Count M/M": 0.3462,
+        "Days on Market M/M": -0.1468
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Kentucky",
+        "Median Listing Price": 154450,
+        "Median Listing Price M/M": 0.0158,
+        "New Listing Count M/M": 0.2355,
+        "Price Increase Count M/M": 0.4054,
+        "Days on Market M/M": 0.0093
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Kentucky",
+        "Median Listing Price": 152050,
+        "Median Listing Price M/M": -0.0059,
+        "New Listing Count M/M": 0.1345,
+        "Price Increase Count M/M": -0.119,
+        "Days on Market M/M": 0.0693
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Kentucky",
+        "Median Listing Price": 152950,
+        "Median Listing Price M/M": -0.0199,
+        "New Listing Count M/M": -0.2189,
+        "Price Increase Count M/M": -0.16,
+        "Days on Market M/M": 0.1222
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Kentucky",
+        "Median Listing Price": 156050,
+        "Median Listing Price M/M": -0.017,
+        "New Listing Count M/M": -0.1553,
+        "Price Increase Count M/M": 0.1236,
+        "Days on Market M/M": 0.0526
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Kentucky",
+        "Median Listing Price": 158750,
+        "Median Listing Price M/M": -0.0075,
+        "New Listing Count M/M": -0.088,
+        "Price Increase Count M/M": 0.0723,
+        "Days on Market M/M": 0.0301
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Kentucky",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1278,
+        "Price Increase Count M/M": -0.2455,
+        "Days on Market M/M": 0.0375
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Kentucky",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.163,
+        "Price Increase Count M/M": 0.2644,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Kentucky",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0016,
+        "New Listing Count M/M": 0.0378,
+        "Price Increase Count M/M": -0.2162,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Kentucky",
+        "Median Listing Price": 159700,
+        "Median Listing Price M/M": 0.0073,
+        "New Listing Count M/M": -0.0076,
+        "Price Increase Count M/M": -0.0263,
+        "Days on Market M/M": -0.0333
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Kentucky",
+        "Median Listing Price": 158550,
+        "Median Listing Price M/M": 0.0232,
+        "New Listing Count M/M": -0.0062,
+        "Price Increase Count M/M": -0.0256,
+        "Days on Market M/M": -0.1477
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Kentucky",
+        "Median Listing Price": 154950,
+        "Median Listing Price M/M": 0.0333,
+        "New Listing Count M/M": 0.2437,
+        "Price Increase Count M/M": 0.1471,
+        "Days on Market M/M": -0.2281
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Kentucky",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0064,
+        "New Listing Count M/M": 0.0184,
+        "Price Increase Count M/M": -0.2214,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Kentucky",
+        "Median Listing Price": 149000,
+        "Median Listing Price M/M": 0.0034,
+        "New Listing Count M/M": 0.0137,
+        "Price Increase Count M/M": 0.7467,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Kentucky",
+        "Median Listing Price": 148500,
+        "Median Listing Price M/M": -0.0037,
+        "New Listing Count M/M": 0.4136,
+        "Price Increase Count M/M": 0.0135,
+        "Days on Market M/M": 0.0704
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Kentucky",
+        "Median Listing Price": 149050,
+        "Median Listing Price M/M": -0.006,
+        "New Listing Count M/M": -0.254,
+        "Price Increase Count M/M": -0.26,
+        "Days on Market M/M": 0.0979
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Kentucky",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0348,
+        "Price Increase Count M/M": 0.0101,
+        "Days on Market M/M": 0.043
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Kentucky",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1658,
+        "Price Increase Count M/M": -0.1538,
+        "Days on Market M/M": 0.0508
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Kentucky",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0387,
+        "Price Increase Count M/M": -0.025,
+        "Days on Market M/M": 0.0663
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Kentucky",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0596,
+        "Price Increase Count M/M": 0.1321,
+        "Days on Market M/M": 0.044
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Kentucky",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0104,
+        "Price Increase Count M/M": -0.0185,
+        "Days on Market M/M": 0.0461
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Kentucky",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0044,
+        "New Listing Count M/M": -0.0608,
+        "Price Increase Count M/M": -0.3121,
+        "Days on Market M/M": -0.044
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Kentucky",
+        "Median Listing Price": 149300,
+        "Median Listing Price M/M": 0.0261,
+        "New Listing Count M/M": -0.0204,
+        "Price Increase Count M/M": 0.3652,
+        "Days on Market M/M": -0.1497
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Kentucky",
+        "Median Listing Price": 145500,
+        "Median Listing Price M/M": 0.025,
+        "New Listing Count M/M": 0.3392,
+        "Price Increase Count M/M": 0.0088,
+        "Days on Market M/M": -0.194
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Kentucky",
+        "Median Listing Price": 141950,
+        "Median Listing Price M/M": 0.0143,
+        "New Listing Count M/M": 0.1609,
+        "Price Increase Count M/M": 0.0459,
+        "Days on Market M/M": -0.0252
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Kentucky",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0087,
+        "Price Increase Count M/M": 0.3293,
+        "Days on Market M/M": 0.0393
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Kentucky",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2949,
+        "Price Increase Count M/M": 0.2059,
+        "Days on Market M/M": 0.0802
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Kentucky",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.2553,
+        "Price Increase Count M/M": -0.2273,
+        "Days on Market M/M": 0.0872
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Kentucky",
+        "Median Listing Price": 140000,
+        "Median Listing Price M/M": -0.0092,
+        "New Listing Count M/M": -0.089,
+        "Price Increase Count M/M": -0.0538,
+        "Days on Market M/M": 0.0656
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Kentucky",
+        "Median Listing Price": 141300,
+        "Median Listing Price M/M": -0.0053,
+        "New Listing Count M/M": -0.1,
+        "Price Increase Count M/M": 0.0109,
+        "Days on Market M/M": 0.0281
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Kentucky",
+        "Median Listing Price": 142050,
+        "Median Listing Price M/M": -0.0014,
+        "New Listing Count M/M": -0.0779,
+        "Price Increase Count M/M": -0.3285,
+        "Days on Market M/M": 0.0471
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Kentucky",
+        "Median Listing Price": 142250,
+        "Median Listing Price M/M": -0.0173,
+        "New Listing Count M/M": -0.0227,
+        "Price Increase Count M/M": 0.1513,
+        "Days on Market M/M": 0.0366
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Kentucky",
+        "Median Listing Price": 144750,
+        "Median Listing Price M/M": -0.0014,
+        "New Listing Count M/M": 0.0045,
+        "Price Increase Count M/M": -0.0083,
+        "Days on Market M/M": 0.025
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Kentucky",
+        "Median Listing Price": 144950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0639,
+        "Price Increase Count M/M": 0.0256,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Kentucky",
+        "Median Listing Price": 144950,
+        "Median Listing Price M/M": 0.0049,
+        "New Listing Count M/M": 0.0441,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": -0.0476
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Kentucky",
+        "Median Listing Price": 144250,
+        "Median Listing Price M/M": 0.0307,
+        "New Listing Count M/M": 0.0449,
+        "Price Increase Count M/M": 0.04,
+        "Days on Market M/M": -0.134
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Kentucky",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2286,
+        "Price Increase Count M/M": 0.2712,
+        "Days on Market M/M": -0.1261
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Kentucky",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0228,
+        "Price Increase Count M/M": 0.4937,
+        "Days on Market M/M": -0.0177
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Kentucky",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3877,
+        "Price Increase Count M/M": -0.0366,
+        "Days on Market M/M": 0.0463
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Kentucky",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": -0.0113,
+        "New Listing Count M/M": -0.1664,
+        "Price Increase Count M/M": 0.025,
+        "Days on Market M/M": 0.0693
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Kentucky",
+        "Median Listing Price": 141550,
+        "Median Listing Price M/M": -0.0238,
+        "New Listing Count M/M": -0.0879,
+        "Price Increase Count M/M": -0.2982,
+        "Days on Market M/M": 0.0359
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Kentucky",
+        "Median Listing Price": 144996,
+        "Median Listing Price M/M": -0.0065,
+        "New Listing Count M/M": -0.0314,
+        "Price Increase Count M/M": 0.0364,
+        "Days on Market M/M": 0.0156
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Kentucky",
+        "Median Listing Price": 145950,
+        "Median Listing Price M/M": -0.0122,
+        "New Listing Count M/M": -0.1016,
+        "Price Increase Count M/M": 0.0891,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Kentucky",
+        "Median Listing Price": 147750,
+        "Median Listing Price M/M": -0.0081,
+        "New Listing Count M/M": -0.0211,
+        "Price Increase Count M/M": -0.1441,
+        "Days on Market M/M": 0.0323
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Kentucky",
+        "Median Listing Price": 148950,
+        "Median Listing Price M/M": -0.004,
+        "New Listing Count M/M": -0.029,
+        "Price Increase Count M/M": 0.0351,
+        "Days on Market M/M": 0.0333
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Kentucky",
+        "Median Listing Price": 149550,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.0189,
+        "Price Increase Count M/M": 0.0654,
+        "Days on Market M/M": 0.0227
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Kentucky",
+        "Median Listing Price": 149591,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": -0.0704,
+        "Price Increase Count M/M": 0.019,
+        "Days on Market M/M": -0.0538
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Iowa",
+        "Median Listing Price": 213300,
+        "Median Listing Price M/M": 0.0162,
+        "New Listing Count M/M": 0.4066,
+        "Price Increase Count M/M": 0.1,
+        "Days on Market M/M": -0.2093
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Iowa",
+        "Median Listing Price": 209900,
+        "Median Listing Price M/M": 0.0521,
+        "New Listing Count M/M": 0.2799,
+        "Price Increase Count M/M": 0.8519,
+        "Days on Market M/M": -0.1042
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Iowa",
+        "Median Listing Price": 199500,
+        "Median Listing Price M/M": 0.0231,
+        "New Listing Count M/M": -0.1392,
+        "Price Increase Count M/M": -0.5179,
+        "Days on Market M/M": 0.0323
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Iowa",
+        "Median Listing Price": 195000,
+        "Median Listing Price M/M": 0.0263,
+        "New Listing Count M/M": 0.4592,
+        "Price Increase Count M/M": 0.75,
+        "Days on Market M/M": 0.0449
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Iowa",
+        "Median Listing Price": 190000,
+        "Median Listing Price M/M": -0.0251,
+        "New Listing Count M/M": -0.3231,
+        "Price Increase Count M/M": -0.4754,
+        "Days on Market M/M": 0.141
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Iowa",
+        "Median Listing Price": 194900,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.1254,
+        "Price Increase Count M/M": -0.2179,
+        "Days on Market M/M": 0.0833
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Iowa",
+        "Median Listing Price": 195000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0966,
+        "Price Increase Count M/M": 0.3929,
+        "Days on Market M/M": 0.0746
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Iowa",
+        "Median Listing Price": 195000,
+        "Median Listing Price M/M": -0.0245,
+        "New Listing Count M/M": -0.0598,
+        "Price Increase Count M/M": -0.0508,
+        "Days on Market M/M": 0.0469
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Iowa",
+        "Median Listing Price": 199900,
+        "Median Listing Price M/M": -0.0244,
+        "New Listing Count M/M": -0.0309,
+        "Price Increase Count M/M": 0.0536,
+        "Days on Market M/M": 0.0492
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Iowa",
+        "Median Listing Price": 204900,
+        "Median Listing Price M/M": -0.0238,
+        "New Listing Count M/M": -0.0327,
+        "Price Increase Count M/M": -0.2432,
+        "Days on Market M/M": 0.0517
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Iowa",
+        "Median Listing Price": 209900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0129,
+        "Price Increase Count M/M": -0.1957,
+        "Days on Market M/M": -0.0169
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Iowa",
+        "Median Listing Price": 209900,
+        "Median Listing Price M/M": 0.0495,
+        "New Listing Count M/M": 0.0841,
+        "Price Increase Count M/M": 0.122,
+        "Days on Market M/M": -0.0923
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Iowa",
+        "Median Listing Price": 200000,
+        "Median Listing Price M/M": 0.0035,
+        "New Listing Count M/M": 0.0997,
+        "Price Increase Count M/M": 0.1549,
+        "Days on Market M/M": -0.1447
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Iowa",
+        "Median Listing Price": 199300,
+        "Median Listing Price M/M": 0.0289,
+        "New Listing Count M/M": 0.2437,
+        "Price Increase Count M/M": 0.3922,
+        "Days on Market M/M": -0.1915
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Iowa",
+        "Median Listing Price": 193700,
+        "Median Listing Price M/M": 0.0249,
+        "New Listing Count M/M": 0.1216,
+        "Price Increase Count M/M": 0.0625,
+        "Days on Market M/M": -0.0105
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Iowa",
+        "Median Listing Price": 189000,
+        "Median Listing Price M/M": 0.0216,
+        "New Listing Count M/M": 0.2047,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": 0.0674
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Iowa",
+        "Median Listing Price": 185000,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": -0.2051,
+        "Price Increase Count M/M": 0.1489,
+        "Days on Market M/M": 0.1558
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Iowa",
+        "Median Listing Price": 184900,
+        "Median Listing Price M/M": 0.0232,
+        "New Listing Count M/M": -0.1867,
+        "Price Increase Count M/M": -0.1296,
+        "Days on Market M/M": 0.1159
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Iowa",
+        "Median Listing Price": 180750,
+        "Median Listing Price M/M": -0.0109,
+        "New Listing Count M/M": -0.1201,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0222
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Iowa",
+        "Median Listing Price": 182750,
+        "Median Listing Price M/M": -0.0122,
+        "New Listing Count M/M": -0.0552,
+        "Price Increase Count M/M": -0.129,
+        "Days on Market M/M": 0.0305
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Iowa",
+        "Median Listing Price": 185000,
+        "Median Listing Price M/M": -0.0136,
+        "New Listing Count M/M": 0.0159,
+        "Price Increase Count M/M": 0.2917,
+        "Days on Market M/M": 0.0397
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Iowa",
+        "Median Listing Price": 187550,
+        "Median Listing Price M/M": -0.004,
+        "New Listing Count M/M": -0.0645,
+        "Price Increase Count M/M": -0.4217,
+        "Days on Market M/M": 0.0328
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Iowa",
+        "Median Listing Price": 188300,
+        "Median Listing Price M/M": 0.0176,
+        "New Listing Count M/M": -0.0277,
+        "Price Increase Count M/M": 0.2206,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Iowa",
+        "Median Listing Price": 185050,
+        "Median Listing Price M/M": 0.0165,
+        "New Listing Count M/M": 0.0302,
+        "Price Increase Count M/M": -0.1707,
+        "Days on Market M/M": -0.0317
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Iowa",
+        "Median Listing Price": 182050,
+        "Median Listing Price M/M": 0.0142,
+        "New Listing Count M/M": 0.0805,
+        "Price Increase Count M/M": -0.0238,
+        "Days on Market M/M": -0.125
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Iowa",
+        "Median Listing Price": 179500,
+        "Median Listing Price M/M": 0.0479,
+        "New Listing Count M/M": 0.1738,
+        "Price Increase Count M/M": 0.1831,
+        "Days on Market M/M": -0.2381
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Iowa",
+        "Median Listing Price": 171300,
+        "Median Listing Price M/M": 0.0254,
+        "New Listing Count M/M": 0.1996,
+        "Price Increase Count M/M": 0.1833,
+        "Days on Market M/M": -0.0156
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Iowa",
+        "Median Listing Price": 167050,
+        "Median Listing Price M/M": 0.0127,
+        "New Listing Count M/M": 0.3857,
+        "Price Increase Count M/M": 0.5789,
+        "Days on Market M/M": 0.0909
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Iowa",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.3121,
+        "Price Increase Count M/M": -0.3091,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Iowa",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1448,
+        "Price Increase Count M/M": -0.1667,
+        "Days on Market M/M": 0.0811
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Iowa",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.004,
+        "New Listing Count M/M": -0.0511,
+        "Price Increase Count M/M": 0.1579,
+        "Days on Market M/M": 0.0068
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Iowa",
+        "Median Listing Price": 164300,
+        "Median Listing Price M/M": 0.0064,
+        "New Listing Count M/M": -0.0415,
+        "Price Increase Count M/M": -0.1231,
+        "Days on Market M/M": 0.0576
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Iowa",
+        "Median Listing Price": 163250,
+        "Median Listing Price M/M": -0.028,
+        "New Listing Count M/M": -0.048,
+        "Price Increase Count M/M": 0.0484,
+        "Days on Market M/M": 0.053
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Iowa",
+        "Median Listing Price": 167950,
+        "Median Listing Price M/M": 0.0179,
+        "New Listing Count M/M": -0.047,
+        "Price Increase Count M/M": 0.069,
+        "Days on Market M/M": 0.056
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Iowa",
+        "Median Listing Price": 165000,
+        "Median Listing Price M/M": 0.0303,
+        "New Listing Count M/M": -0.0495,
+        "Price Increase Count M/M": -0.1944,
+        "Days on Market M/M": 0.0081
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Iowa",
+        "Median Listing Price": 160150,
+        "Median Listing Price M/M": 0.0006,
+        "New Listing Count M/M": -0.0186,
+        "Price Increase Count M/M": 0.1613,
+        "Days on Market M/M": -0.1014
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Iowa",
+        "Median Listing Price": 160050,
+        "Median Listing Price M/M": 0.0273,
+        "New Listing Count M/M": 0.0961,
+        "Price Increase Count M/M": -0.1948,
+        "Days on Market M/M": -0.1481
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Iowa",
+        "Median Listing Price": 155800,
+        "Median Listing Price M/M": 0.0383,
+        "New Listing Count M/M": 0.3362,
+        "Price Increase Count M/M": 0.4528,
+        "Days on Market M/M": -0.194
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Iowa",
+        "Median Listing Price": 150050,
+        "Median Listing Price M/M": 0.0067,
+        "New Listing Count M/M": 0.0827,
+        "Price Increase Count M/M": -0.0185,
+        "Days on Market M/M": 0.0152
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Iowa",
+        "Median Listing Price": 149050,
+        "Median Listing Price M/M": 0.0136,
+        "New Listing Count M/M": 0.3389,
+        "Price Increase Count M/M": 0.3171,
+        "Days on Market M/M": 0.0879
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Iowa",
+        "Median Listing Price": 147050,
+        "Median Listing Price M/M": 0.0075,
+        "New Listing Count M/M": -0.2475,
+        "Price Increase Count M/M": -0.1087,
+        "Days on Market M/M": 0.1235
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Iowa",
+        "Median Listing Price": 145950,
+        "Median Listing Price M/M": -0.0041,
+        "New Listing Count M/M": -0.3808,
+        "Price Increase Count M/M": -0.2333,
+        "Days on Market M/M": 0.0588
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Iowa",
+        "Median Listing Price": 146550,
+        "Median Listing Price M/M": -0.0098,
+        "New Listing Count M/M": 0.4493,
+        "Price Increase Count M/M": 0.1765,
+        "Days on Market M/M": 0.0132
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Iowa",
+        "Median Listing Price": 148000,
+        "Median Listing Price M/M": -0.0104,
+        "New Listing Count M/M": -0.2996,
+        "Price Increase Count M/M": -0.2031,
+        "Days on Market M/M": 0.0486
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Iowa",
+        "Median Listing Price": 149550,
+        "Median Listing Price M/M": -0.0027,
+        "New Listing Count M/M": -0.0491,
+        "Price Increase Count M/M": 0.0492,
+        "Days on Market M/M": 0.0511
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Iowa",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0041,
+        "Price Increase Count M/M": -0.0615,
+        "Days on Market M/M": 0.0458
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Iowa",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0887,
+        "Price Increase Count M/M": -0.0972,
+        "Days on Market M/M": 0.0565
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Iowa",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0111,
+        "New Listing Count M/M": -0.073,
+        "Price Increase Count M/M": 0.1613,
+        "Days on Market M/M": -0.1143
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Iowa",
+        "Median Listing Price": 148300,
+        "Median Listing Price M/M": 0.0231,
+        "New Listing Count M/M": 0.2681,
+        "Price Increase Count M/M": -0.2439,
+        "Days on Market M/M": -0.2473
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Iowa",
+        "Median Listing Price": 144950,
+        "Median Listing Price M/M": 0.0357,
+        "New Listing Count M/M": 0.196,
+        "Price Increase Count M/M": 0.2059,
+        "Days on Market M/M": -0.1226
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Iowa",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0262,
+        "Price Increase Count M/M": 0.4167,
+        "Days on Market M/M": 0.0242
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Iowa",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0029,
+        "New Listing Count M/M": 0.4274,
+        "Price Increase Count M/M": 0.0667,
+        "Days on Market M/M": 0.0615
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Iowa",
+        "Median Listing Price": 139550,
+        "Median Listing Price M/M": -0.0029,
+        "New Listing Count M/M": -0.2234,
+        "Price Increase Count M/M": 0.0227,
+        "Days on Market M/M": 0.0955
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Iowa",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.1558,
+        "Price Increase Count M/M": -0.2,
+        "Days on Market M/M": 0.0854
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Iowa",
+        "Median Listing Price": 139975,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.0292,
+        "Price Increase Count M/M": -0.3529,
+        "Days on Market M/M": 0.0123
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Iowa",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0965,
+        "Price Increase Count M/M": 0.1806,
+        "Days on Market M/M": 0.0658
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Iowa",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0112,
+        "Price Increase Count M/M": 0.0746,
+        "Days on Market M/M": 0.034
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Iowa",
+        "Median Listing Price": 140000,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.108,
+        "Price Increase Count M/M": -0.1625,
+        "Days on Market M/M": 0.097
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Iowa",
+        "Median Listing Price": 140050,
+        "Median Listing Price M/M": 0.0007,
+        "New Listing Count M/M": -0.0183,
+        "Price Increase Count M/M": 0.2903,
+        "Days on Market M/M": -0.0822
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Iowa",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0047,
+        "New Listing Count M/M": -0.0111,
+        "Price Increase Count M/M": -0.2619,
+        "Days on Market M/M": -0.1751
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Iowa",
+        "Median Listing Price": 139300,
+        "Median Listing Price M/M": 0.0315,
+        "New Listing Count M/M": 0.2193,
+        "Price Increase Count M/M": 0.1053,
+        "Days on Market M/M": -0.2436
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Iowa",
+        "Median Listing Price": 135050,
+        "Median Listing Price M/M": 0.0173,
+        "New Listing Count M/M": 0.5035,
+        "Price Increase Count M/M": 0.6522,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Iowa",
+        "Median Listing Price": 132750,
+        "Median Listing Price M/M": 0.0061,
+        "New Listing Count M/M": -0.1219,
+        "Price Increase Count M/M": -0.193,
+        "Days on Market M/M": 0.0636
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Iowa",
+        "Median Listing Price": 131950,
+        "Median Listing Price M/M": 0.0146,
+        "New Listing Count M/M": 0.4616,
+        "Price Increase Count M/M": 0.5833,
+        "Days on Market M/M": 0.134
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Iowa",
+        "Median Listing Price": 130050,
+        "Median Listing Price M/M": -0.0166,
+        "New Listing Count M/M": -0.3135,
+        "Price Increase Count M/M": -0.4462,
+        "Days on Market M/M": 0.1023
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Iowa",
+        "Median Listing Price": 132250,
+        "Median Listing Price M/M": -0.0171,
+        "New Listing Count M/M": -0.2001,
+        "Price Increase Count M/M": -0.1216,
+        "Days on Market M/M": 0.0732
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Iowa",
+        "Median Listing Price": 134550,
+        "Median Listing Price M/M": 0.0037,
+        "New Listing Count M/M": -0.0634,
+        "Price Increase Count M/M": 0.1212,
+        "Days on Market M/M": 0.025
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Iowa",
+        "Median Listing Price": 134050,
+        "Median Listing Price M/M": -0.0067,
+        "New Listing Count M/M": 0.0141,
+        "Price Increase Count M/M": -0.2747,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Iowa",
+        "Median Listing Price": 134950,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": -0.0782,
+        "Price Increase Count M/M": 0.0225,
+        "Days on Market M/M": 0.0135
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Iowa",
+        "Median Listing Price": 135050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0486,
+        "Price Increase Count M/M": 0.1125,
+        "Days on Market M/M": 0.0725
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Iowa",
+        "Median Listing Price": 135050,
+        "Median Listing Price M/M": -0.0214,
+        "New Listing Count M/M": -0.0332,
+        "Price Increase Count M/M": 0.1765,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Iowa",
+        "Median Listing Price": 138000,
+        "Median Listing Price M/M": 0.0018,
+        "New Listing Count M/M": 0.0355,
+        "Price Increase Count M/M": -0.2444,
+        "Days on Market M/M": -0.0861
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Iowa",
+        "Median Listing Price": 137750,
+        "Median Listing Price M/M": 0.02,
+        "New Listing Count M/M": 0.1652,
+        "Price Increase Count M/M": 0.1538,
+        "Days on Market M/M": -0.2135
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Iowa",
+        "Median Listing Price": 135050,
+        "Median Listing Price M/M": 0.0384,
+        "New Listing Count M/M": 0.1948,
+        "Price Increase Count M/M": 0.2,
+        "Days on Market M/M": -0.1233
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Iowa",
+        "Median Listing Price": 130050,
+        "Median Listing Price M/M": 0.0008,
+        "New Listing Count M/M": -0.0381,
+        "Price Increase Count M/M": 0.0317,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Iowa",
+        "Median Listing Price": 129950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2944,
+        "Price Increase Count M/M": 0.3696,
+        "Days on Market M/M": 0.0735
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Iowa",
+        "Median Listing Price": 129950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1128,
+        "Price Increase Count M/M": -0.2069,
+        "Days on Market M/M": 0.0737
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Iowa",
+        "Median Listing Price": 129950,
+        "Median Listing Price M/M": -0.0084,
+        "New Listing Count M/M": -0.1455,
+        "Price Increase Count M/M": -0.0645,
+        "Days on Market M/M": 0.0383
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Iowa",
+        "Median Listing Price": 131050,
+        "Median Listing Price M/M": -0.0224,
+        "New Listing Count M/M": -0.0678,
+        "Price Increase Count M/M": -0.0606,
+        "Days on Market M/M": 0.0167
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Iowa",
+        "Median Listing Price": 134050,
+        "Median Listing Price M/M": -0.0067,
+        "New Listing Count M/M": -0.0476,
+        "Price Increase Count M/M": 0.1786,
+        "Days on Market M/M": 0.0112
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Iowa",
+        "Median Listing Price": 134950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0502,
+        "Price Increase Count M/M": -0.0667,
+        "Days on Market M/M": 0.023
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Iowa",
+        "Median Listing Price": 134950,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": -0.0223,
+        "Price Increase Count M/M": -0.1304,
+        "Days on Market M/M": 0.0741
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Iowa",
+        "Median Listing Price": 135050,
+        "Median Listing Price M/M": -0.016,
+        "New Listing Count M/M": -0.0291,
+        "Price Increase Count M/M": -0.0676,
+        "Days on Market M/M": 0.0189
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Iowa",
+        "Median Listing Price": 137250,
+        "Median Listing Price M/M": -0.0076,
+        "New Listing Count M/M": -0.072,
+        "Price Increase Count M/M": 0.2542,
+        "Days on Market M/M": -0.0245
+    }
+]

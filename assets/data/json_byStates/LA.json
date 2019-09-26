@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Louisiana",
+        "Median Listing Price": 229700,
+        "Median Listing Price M/M": 0.0209,
+        "New Listing Count M/M": -0.0114,
+        "Price Increase Count M/M": 0.0612,
+        "Days on Market M/M": -0.1236
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Louisiana",
+        "Median Listing Price": 225000,
+        "Median Listing Price M/M": 0.0045,
+        "New Listing Count M/M": 0.1208,
+        "Price Increase Count M/M": -0.1695,
+        "Days on Market M/M": -0.11
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Louisiana",
+        "Median Listing Price": 224000,
+        "Median Listing Price M/M": 0.0182,
+        "New Listing Count M/M": -0.0004,
+        "Price Increase Count M/M": 0.0826,
+        "Days on Market M/M": -0.0196
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Louisiana",
+        "Median Listing Price": 220000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.4187,
+        "Price Increase Count M/M": 0.5571,
+        "Days on Market M/M": 0.0625
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Louisiana",
+        "Median Listing Price": 220000,
+        "Median Listing Price M/M": -0.0077,
+        "New Listing Count M/M": -0.1514,
+        "Price Increase Count M/M": -0.0789,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Louisiana",
+        "Median Listing Price": 221700,
+        "Median Listing Price M/M": -0.004,
+        "New Listing Count M/M": -0.1151,
+        "Price Increase Count M/M": -0.2083,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Louisiana",
+        "Median Listing Price": 222600,
+        "Median Listing Price M/M": -0.0102,
+        "New Listing Count M/M": -0.0185,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0482
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Louisiana",
+        "Median Listing Price": 224900,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0581,
+        "Price Increase Count M/M": -0.2672,
+        "Days on Market M/M": 0.0375
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Louisiana",
+        "Median Listing Price": 225000,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.0761,
+        "Price Increase Count M/M": 0.1491,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Louisiana",
+        "Median Listing Price": 224900,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": 0.0365,
+        "Price Increase Count M/M": 0.2391,
+        "Days on Market M/M": 0.0274
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Louisiana",
+        "Median Listing Price": 225000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0924,
+        "Price Increase Count M/M": -0.2397,
+        "Days on Market M/M": 0.0139
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Louisiana",
+        "Median Listing Price": 225000,
+        "Median Listing Price M/M": 0.0112,
+        "New Listing Count M/M": 0.0504,
+        "Price Increase Count M/M": 0.1,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Louisiana",
+        "Median Listing Price": 222500,
+        "Median Listing Price M/M": 0.0183,
+        "New Listing Count M/M": -0.0388,
+        "Price Increase Count M/M": -0.0678,
+        "Days on Market M/M": -0.1429
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Louisiana",
+        "Median Listing Price": 218500,
+        "Median Listing Price M/M": 0.0163,
+        "New Listing Count M/M": 0.2052,
+        "Price Increase Count M/M": 0.3111,
+        "Days on Market M/M": -0.125
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Louisiana",
+        "Median Listing Price": 215000,
+        "Median Listing Price M/M": 0.0108,
+        "New Listing Count M/M": 0.1273,
+        "Price Increase Count M/M": 0.1538,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Louisiana",
+        "Median Listing Price": 212700,
+        "Median Listing Price M/M": -0.0028,
+        "New Listing Count M/M": 0.1568,
+        "Price Increase Count M/M": -0.093,
+        "Days on Market M/M": 0.0787
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Louisiana",
+        "Median Listing Price": 213300,
+        "Median Listing Price M/M": -0.0079,
+        "New Listing Count M/M": -0.1908,
+        "Price Increase Count M/M": -0.0227,
+        "Days on Market M/M": 0.0723
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Louisiana",
+        "Median Listing Price": 215000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0023,
+        "Price Increase Count M/M": 0.0476,
+        "Days on Market M/M": 0.0122
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Louisiana",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": -0.0095,
+        "New Listing Count M/M": -0.0059,
+        "Price Increase Count M/M": 0.1507,
+        "Days on Market M/M": 0.025
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Louisiana",
+        "Median Listing Price": 217105,
+        "Median Listing Price M/M": -0.0018,
+        "New Listing Count M/M": -0.0285,
+        "Price Increase Count M/M": -0.2626,
+        "Days on Market M/M": 0.0596
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Louisiana",
+        "Median Listing Price": 217500,
+        "Median Listing Price M/M": -0.0071,
+        "New Listing Count M/M": -0.0679,
+        "Price Increase Count M/M": 0.375,
+        "Days on Market M/M": 0.0067
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Louisiana",
+        "Median Listing Price": 219050,
+        "Median Listing Price M/M": -0.0032,
+        "New Listing Count M/M": 0.0435,
+        "Price Increase Count M/M": -0.4545,
+        "Days on Market M/M": 0.0135
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Louisiana",
+        "Median Listing Price": 219750,
+        "Median Listing Price M/M": 0.0101,
+        "New Listing Count M/M": -0.1002,
+        "Price Increase Count M/M": 0.1379,
+        "Days on Market M/M": 0.0137
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Louisiana",
+        "Median Listing Price": 217550,
+        "Median Listing Price M/M": 0.0121,
+        "New Listing Count M/M": 0.0321,
+        "Price Increase Count M/M": -0.0333,
+        "Days on Market M/M": -0.0135
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Louisiana",
+        "Median Listing Price": 214950,
+        "Median Listing Price M/M": 0.0322,
+        "New Listing Count M/M": 0.0088,
+        "Price Increase Count M/M": 0.1215,
+        "Days on Market M/M": -0.0513
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Louisiana",
+        "Median Listing Price": 208250,
+        "Median Listing Price M/M": 0.041,
+        "New Listing Count M/M": 0.1007,
+        "Price Increase Count M/M": 0.507,
+        "Days on Market M/M": -0.1333
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Louisiana",
+        "Median Listing Price": 200049,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0388,
+        "Price Increase Count M/M": -0.0139,
+        "Days on Market M/M": -0.0625
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Louisiana",
+        "Median Listing Price": 200049,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2517,
+        "Price Increase Count M/M": 0.2,
+        "Days on Market M/M": 0.0549
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Louisiana",
+        "Median Listing Price": 200050,
+        "Median Listing Price M/M": -0.0244,
+        "New Listing Count M/M": -0.0717,
+        "Price Increase Count M/M": -0.0769,
+        "Days on Market M/M": 0.052
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Louisiana",
+        "Median Listing Price": 205050,
+        "Median Listing Price M/M": -0.0097,
+        "New Listing Count M/M": -0.1151,
+        "Price Increase Count M/M": -0.3085,
+        "Days on Market M/M": 0.0176
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Louisiana",
+        "Median Listing Price": 207050,
+        "Median Listing Price M/M": -0.006,
+        "New Listing Count M/M": 0.0014,
+        "Price Increase Count M/M": 0.1325,
+        "Days on Market M/M": 0.0494
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Louisiana",
+        "Median Listing Price": 208300,
+        "Median Listing Price M/M": 0.0014,
+        "New Listing Count M/M": -0.0157,
+        "Price Increase Count M/M": -0.443,
+        "Days on Market M/M": 0.0519
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Louisiana",
+        "Median Listing Price": 208000,
+        "Median Listing Price M/M": -0.005,
+        "New Listing Count M/M": -0.0913,
+        "Price Increase Count M/M": 0.5851,
+        "Days on Market M/M": 0.0132
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Louisiana",
+        "Median Listing Price": 209050,
+        "Median Listing Price M/M": -0.0046,
+        "New Listing Count M/M": 0.0241,
+        "Price Increase Count M/M": 0.0444,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Louisiana",
+        "Median Listing Price": 210020,
+        "Median Listing Price M/M": 0.0042,
+        "New Listing Count M/M": -0.0507,
+        "Price Increase Count M/M": -0.2105,
+        "Days on Market M/M": 0.0133
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Louisiana",
+        "Median Listing Price": 209150,
+        "Median Listing Price M/M": 0.0335,
+        "New Listing Count M/M": 0.0503,
+        "Price Increase Count M/M": 0.0179,
+        "Days on Market M/M": -0.0132
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Louisiana",
+        "Median Listing Price": 202378,
+        "Median Listing Price M/M": 0.0144,
+        "New Listing Count M/M": 0.0157,
+        "Price Increase Count M/M": 0.0874,
+        "Days on Market M/M": -0.0318
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Louisiana",
+        "Median Listing Price": 199500,
+        "Median Listing Price M/M": 0.0207,
+        "New Listing Count M/M": -0.0418,
+        "Price Increase Count M/M": 0.0098,
+        "Days on Market M/M": -0.1649
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Louisiana",
+        "Median Listing Price": 195450,
+        "Median Listing Price M/M": 0.0151,
+        "New Listing Count M/M": 0.0898,
+        "Price Increase Count M/M": 0.5455,
+        "Days on Market M/M": -0.0208
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Louisiana",
+        "Median Listing Price": 192550,
+        "Median Listing Price M/M": 0.0137,
+        "New Listing Count M/M": 0.3851,
+        "Price Increase Count M/M": 0.1,
+        "Days on Market M/M": 0.0492
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Louisiana",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1707,
+        "Price Increase Count M/M": -0.2308,
+        "Days on Market M/M": 0.0893
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Louisiana",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1075,
+        "Price Increase Count M/M": -0.1034,
+        "Days on Market M/M": 0.05
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Louisiana",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0951,
+        "Price Increase Count M/M": -0.044,
+        "Days on Market M/M": 0.039
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Louisiana",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0048,
+        "New Listing Count M/M": -0.0179,
+        "Price Increase Count M/M": -0.1078,
+        "Days on Market M/M": 0.0267
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Louisiana",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1409,
+        "Price Increase Count M/M": 0.1209,
+        "Days on Market M/M": 0.0417
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Louisiana",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0072,
+        "Price Increase Count M/M": 0.1235,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Louisiana",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0208,
+        "Price Increase Count M/M": -0.1735,
+        "Days on Market M/M": -0.0137
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Louisiana",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": 0.0216,
+        "New Listing Count M/M": 0.0708,
+        "Price Increase Count M/M": -0.0101,
+        "Days on Market M/M": -0.0395
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Louisiana",
+        "Median Listing Price": 185050,
+        "Median Listing Price M/M": 0.0054,
+        "New Listing Count M/M": -0.0104,
+        "Price Increase Count M/M": 0.2375,
+        "Days on Market M/M": -0.1163
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Louisiana",
+        "Median Listing Price": 184050,
+        "Median Listing Price M/M": 0.0228,
+        "New Listing Count M/M": 0.0555,
+        "Price Increase Count M/M": -0.2727,
+        "Days on Market M/M": -0.1088
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Louisiana",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0078,
+        "New Listing Count M/M": 0.065,
+        "Price Increase Count M/M": 0.2941,
+        "Days on Market M/M": -0.0398
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Louisiana",
+        "Median Listing Price": 178550,
+        "Median Listing Price M/M": 0.0125,
+        "New Listing Count M/M": 0.2814,
+        "Price Increase Count M/M": 0.2143,
+        "Days on Market M/M": 0.0691
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Louisiana",
+        "Median Listing Price": 176350,
+        "Median Listing Price M/M": -0.0068,
+        "New Listing Count M/M": -0.1459,
+        "Price Increase Count M/M": -0.2045,
+        "Days on Market M/M": 0.175
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Louisiana",
+        "Median Listing Price": 177550,
+        "Median Listing Price M/M": 0.0028,
+        "New Listing Count M/M": -0.0464,
+        "Price Increase Count M/M": -0.0737,
+        "Days on Market M/M": 0.1189
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Louisiana",
+        "Median Listing Price": 177050,
+        "Median Listing Price M/M": -0.0025,
+        "New Listing Count M/M": -0.0293,
+        "Price Increase Count M/M": 0.0106,
+        "Days on Market M/M": -0.053
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Louisiana",
+        "Median Listing Price": 177500,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0728,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.1118
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Louisiana",
+        "Median Listing Price": 177500,
+        "Median Listing Price M/M": 0.0013,
+        "New Listing Count M/M": -0.025,
+        "Price Increase Count M/M": -0.1681,
+        "Days on Market M/M": 0.0366
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Louisiana",
+        "Median Listing Price": 177275,
+        "Median Listing Price M/M": 0.0041,
+        "New Listing Count M/M": -0.0493,
+        "Price Increase Count M/M": 0.1531,
+        "Days on Market M/M": 0.025
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Louisiana",
+        "Median Listing Price": 176550,
+        "Median Listing Price M/M": 0.0089,
+        "New Listing Count M/M": 0.0355,
+        "Price Increase Count M/M": -0.1901,
+        "Days on Market M/M": -0.0062
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Louisiana",
+        "Median Listing Price": 175000,
+        "Median Listing Price M/M": 0.0086,
+        "New Listing Count M/M": -0.009,
+        "Price Increase Count M/M": 0.0522,
+        "Days on Market M/M": -0.064
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Louisiana",
+        "Median Listing Price": 173500,
+        "Median Listing Price M/M": 0.0209,
+        "New Listing Count M/M": 0.0454,
+        "Price Increase Count M/M": 0.0849,
+        "Days on Market M/M": -0.1485
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Louisiana",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0024,
+        "New Listing Count M/M": -0.1184,
+        "Price Increase Count M/M": 0.2619,
+        "Days on Market M/M": -0.0605
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Louisiana",
+        "Median Listing Price": 169550,
+        "Median Listing Price M/M": 0.0047,
+        "New Listing Count M/M": 0.4766,
+        "Price Increase Count M/M": -0.2432,
+        "Days on Market M/M": -0.0183
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Louisiana",
+        "Median Listing Price": 168750,
+        "Median Listing Price M/M": -0.0018,
+        "New Listing Count M/M": 0.1381,
+        "Price Increase Count M/M": 0.6324,
+        "Days on Market M/M": 0.0842
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Louisiana",
+        "Median Listing Price": 169050,
+        "Median Listing Price M/M": -0.0053,
+        "New Listing Count M/M": -0.1849,
+        "Price Increase Count M/M": -0.0286,
+        "Days on Market M/M": 0.086
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Louisiana",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.08,
+        "Price Increase Count M/M": -0.2045,
+        "Days on Market M/M": 0.0449
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Louisiana",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0616,
+        "Price Increase Count M/M": 0.2941,
+        "Days on Market M/M": 0.0349
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Louisiana",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.0445,
+        "Price Increase Count M/M": -0.3524,
+        "Days on Market M/M": 0.0361
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Louisiana",
+        "Median Listing Price": 169999,
+        "Median Listing Price M/M": -0.007,
+        "New Listing Count M/M": -0.0077,
+        "Price Increase Count M/M": 0.0825,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Louisiana",
+        "Median Listing Price": 171200,
+        "Median Listing Price M/M": -0.0101,
+        "New Listing Count M/M": -0.0092,
+        "Price Increase Count M/M": -0.2177,
+        "Days on Market M/M": 0.0122
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Louisiana",
+        "Median Listing Price": 172950,
+        "Median Listing Price M/M": 0.0041,
+        "New Listing Count M/M": -0.0114,
+        "Price Increase Count M/M": 0.042,
+        "Days on Market M/M": 0.025
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Louisiana",
+        "Median Listing Price": 172250,
+        "Median Listing Price M/M": 0.0135,
+        "New Listing Count M/M": 0.0158,
+        "Price Increase Count M/M": -0.2273,
+        "Days on Market M/M": -0.0244
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Louisiana",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0113,
+        "New Listing Count M/M": -0.0678,
+        "Price Increase Count M/M": 0.3051,
+        "Days on Market M/M": -0.1277
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Louisiana",
+        "Median Listing Price": 168050,
+        "Median Listing Price M/M": 0.0182,
+        "New Listing Count M/M": 0.1608,
+        "Price Increase Count M/M": 0.1238,
+        "Days on Market M/M": -0.1256
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Louisiana",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0076,
+        "New Listing Count M/M": -0.005,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": -0.0138
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Louisiana",
+        "Median Listing Price": 163800,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": 0.4374,
+        "Price Increase Count M/M": 0.0227,
+        "Days on Market M/M": 0.0481
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Louisiana",
+        "Median Listing Price": 164050,
+        "Median Listing Price M/M": -0.0055,
+        "New Listing Count M/M": -0.1983,
+        "Price Increase Count M/M": 0.1282,
+        "Days on Market M/M": 0.0246
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Louisiana",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0804,
+        "Price Increase Count M/M": -0.2353,
+        "Days on Market M/M": 0.0464
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Louisiana",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.0156,
+        "Price Increase Count M/M": 0.1591,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Louisiana",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0306,
+        "Price Increase Count M/M": -0.0112,
+        "Days on Market M/M": 0.043
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Louisiana",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0654,
+        "Price Increase Count M/M": -0.0532,
+        "Days on Market M/M": 0.0333
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Louisiana",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0425,
+        "Price Increase Count M/M": -0.1215,
+        "Days on Market M/M": 0.0227
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Louisiana",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.092,
+        "Price Increase Count M/M": 0.2442,
+        "Days on Market M/M": -0.0056
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Louisiana",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0055,
+        "Price Increase Count M/M": -0.0227,
+        "Days on Market M/M": -0.0167
+    }
+]

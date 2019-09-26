@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Minnesota",
+        "Median Listing Price": 299900,
+        "Median Listing Price M/M": 0.0166,
+        "New Listing Count M/M": 0.4102,
+        "Price Increase Count M/M": 0.3837,
+        "Days on Market M/M": -0.2308
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Minnesota",
+        "Median Listing Price": 295000,
+        "Median Listing Price M/M": 0.0592,
+        "New Listing Count M/M": 0.1297,
+        "Price Increase Count M/M": 0.1467,
+        "Days on Market M/M": -0.2529
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Minnesota",
+        "Median Listing Price": 278500,
+        "Median Listing Price M/M": 0.0288,
+        "New Listing Count M/M": 0.172,
+        "Price Increase Count M/M": -0.0132,
+        "Days on Market M/M": -0.0645
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Minnesota",
+        "Median Listing Price": 270700,
+        "Median Listing Price M/M": 0.0215,
+        "New Listing Count M/M": 0.4864,
+        "Price Increase Count M/M": 0.2258,
+        "Days on Market M/M": 0.1772
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Minnesota",
+        "Median Listing Price": 265000,
+        "Median Listing Price M/M": -0.0163,
+        "New Listing Count M/M": -0.358,
+        "Price Increase Count M/M": -0.2346,
+        "Days on Market M/M": 0.197
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Minnesota",
+        "Median Listing Price": 269400,
+        "Median Listing Price M/M": -0.0096,
+        "New Listing Count M/M": -0.251,
+        "Price Increase Count M/M": -0.0795,
+        "Days on Market M/M": 0.1186
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Minnesota",
+        "Median Listing Price": 272000,
+        "Median Listing Price M/M": -0.0105,
+        "New Listing Count M/M": -0.1801,
+        "Price Increase Count M/M": -0.3529,
+        "Days on Market M/M": 0.0727
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Minnesota",
+        "Median Listing Price": 274900,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.1484,
+        "Price Increase Count M/M": 0.1057,
+        "Days on Market M/M": 0.0577
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Minnesota",
+        "Median Listing Price": 275000,
+        "Median Listing Price M/M": -0.009,
+        "New Listing Count M/M": -0.04,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": 0.1304
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Minnesota",
+        "Median Listing Price": 277500,
+        "Median Listing Price M/M": -0.0086,
+        "New Listing Count M/M": -0.0224,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0455
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Minnesota",
+        "Median Listing Price": 279900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0516,
+        "Price Increase Count M/M": 0.0861,
+        "Days on Market M/M": -0.0222
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Minnesota",
+        "Median Listing Price": 279900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2867,
+        "Price Increase Count M/M": 0.0634,
+        "Days on Market M/M": -0.1176
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Minnesota",
+        "Median Listing Price": 279900,
+        "Median Listing Price M/M": 0.005,
+        "New Listing Count M/M": 0.0761,
+        "Price Increase Count M/M": -0.0658,
+        "Days on Market M/M": -0.1053
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Minnesota",
+        "Median Listing Price": 278500,
+        "Median Listing Price M/M": 0.0589,
+        "New Listing Count M/M": 0.2535,
+        "Price Increase Count M/M": 0.078,
+        "Days on Market M/M": -0.3372
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Minnesota",
+        "Median Listing Price": 263000,
+        "Median Listing Price M/M": 0.0314,
+        "New Listing Count M/M": 0.3966,
+        "Price Increase Count M/M": 0.1016,
+        "Days on Market M/M": -0.0947
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Minnesota",
+        "Median Listing Price": 255000,
+        "Median Listing Price M/M": 0.0204,
+        "New Listing Count M/M": 0.3769,
+        "Price Increase Count M/M": 0.2549,
+        "Days on Market M/M": 0.0674
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Minnesota",
+        "Median Listing Price": 249900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.3005,
+        "Price Increase Count M/M": -0.0377,
+        "Days on Market M/M": 0.2192
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Minnesota",
+        "Median Listing Price": 249900,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.3669,
+        "Price Increase Count M/M": -0.0185,
+        "Days on Market M/M": 0.1061
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Minnesota",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0778,
+        "Price Increase Count M/M": -0.0769,
+        "Days on Market M/M": 0.0732
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Minnesota",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": -0.0167,
+        "New Listing Count M/M": -0.1376,
+        "Price Increase Count M/M": -0.1986,
+        "Days on Market M/M": 0.0424
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Minnesota",
+        "Median Listing Price": 254300,
+        "Median Listing Price M/M": -0.0183,
+        "New Listing Count M/M": -0.016,
+        "Price Increase Count M/M": 0.0282,
+        "Days on Market M/M": 0.0727
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Minnesota",
+        "Median Listing Price": 259050,
+        "Median Listing Price M/M": -0.0037,
+        "New Listing Count M/M": -0.111,
+        "Price Increase Count M/M": -0.0658,
+        "Days on Market M/M": 0.1111
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Minnesota",
+        "Median Listing Price": 260000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.0466,
+        "Price Increase Count M/M": 0.0411,
+        "Days on Market M/M": 0.0532
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Minnesota",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0867,
+        "Price Increase Count M/M": -0.1512,
+        "Days on Market M/M": -0.0408
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Minnesota",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": 0.0293,
+        "New Listing Count M/M": 0.1155,
+        "Price Increase Count M/M": 0.2741,
+        "Days on Market M/M": -0.1327
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Minnesota",
+        "Median Listing Price": 252550,
+        "Median Listing Price M/M": 0.0412,
+        "New Listing Count M/M": 0.3384,
+        "Price Increase Count M/M": 0.0547,
+        "Days on Market M/M": -0.3892
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Minnesota",
+        "Median Listing Price": 242550,
+        "Median Listing Price M/M": 0.0498,
+        "New Listing Count M/M": 0.4027,
+        "Price Increase Count M/M": 0.3617,
+        "Days on Market M/M": -0.0842
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Minnesota",
+        "Median Listing Price": 231050,
+        "Median Listing Price M/M": 0.0048,
+        "New Listing Count M/M": 0.3784,
+        "Price Increase Count M/M": 0.3056,
+        "Days on Market M/M": 0.1099
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Minnesota",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": -0.0194,
+        "New Listing Count M/M": -0.3225,
+        "Price Increase Count M/M": -0.2871,
+        "Days on Market M/M": 0.1519
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Minnesota",
+        "Median Listing Price": 234500,
+        "Median Listing Price M/M": -0.0023,
+        "New Listing Count M/M": -0.3002,
+        "Price Increase Count M/M": -0.0982,
+        "Days on Market M/M": 0.0972
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Minnesota",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.079,
+        "Price Increase Count M/M": -0.1181,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Minnesota",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": -0.0019,
+        "New Listing Count M/M": -0.1008,
+        "Price Increase Count M/M": -0.0305,
+        "Days on Market M/M": 0.0465
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Minnesota",
+        "Median Listing Price": 235500,
+        "Median Listing Price M/M": 0.0019,
+        "New Listing Count M/M": -0.0533,
+        "Price Increase Count M/M": -0.0903,
+        "Days on Market M/M": 0.075
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Minnesota",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1062,
+        "Price Increase Count M/M": -0.0069,
+        "Days on Market M/M": 0.1111
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Minnesota",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1001,
+        "Price Increase Count M/M": -0.0938,
+        "Days on Market M/M": 0.0385
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Minnesota",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.022,
+        "New Listing Count M/M": 0.0462,
+        "Price Increase Count M/M": 0.1189,
+        "Days on Market M/M": -0.0095
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Minnesota",
+        "Median Listing Price": 230000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": 0.1155,
+        "Price Increase Count M/M": 0.1,
+        "Days on Market M/M": -0.1667
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Minnesota",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": 0.0452,
+        "New Listing Count M/M": 0.3723,
+        "Price Increase Count M/M": 0.3684,
+        "Days on Market M/M": -0.3505
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Minnesota",
+        "Median Listing Price": 220000,
+        "Median Listing Price M/M": 0.0399,
+        "New Listing Count M/M": 0.3937,
+        "Price Increase Count M/M": -0.0865,
+        "Days on Market M/M": -0.049
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Minnesota",
+        "Median Listing Price": 211550,
+        "Median Listing Price M/M": -0.0135,
+        "New Listing Count M/M": 0.4275,
+        "Price Increase Count M/M": 0.0612,
+        "Days on Market M/M": 0.0794
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Minnesota",
+        "Median Listing Price": 214450,
+        "Median Listing Price M/M": -0.021,
+        "New Listing Count M/M": -0.3353,
+        "Price Increase Count M/M": -0.0392,
+        "Days on Market M/M": 0.1386
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Minnesota",
+        "Median Listing Price": 219050,
+        "Median Listing Price M/M": -0.0043,
+        "New Listing Count M/M": -0.2601,
+        "Price Increase Count M/M": -0.2609,
+        "Days on Market M/M": 0.071
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Minnesota",
+        "Median Listing Price": 220000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.0896,
+        "Price Increase Count M/M": 0.0534,
+        "Days on Market M/M": 0.069
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Minnesota",
+        "Median Listing Price": 219950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.1739,
+        "Price Increase Count M/M": 0.0565,
+        "Days on Market M/M": 0.0662
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Minnesota",
+        "Median Listing Price": 220049,
+        "Median Listing Price M/M": -0.0066,
+        "New Listing Count M/M": -0.0794,
+        "Price Increase Count M/M": -0.2298,
+        "Days on Market M/M": 0.0968
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Minnesota",
+        "Median Listing Price": 221500,
+        "Median Listing Price M/M": 0.0066,
+        "New Listing Count M/M": -0.1237,
+        "Price Increase Count M/M": 0.0255,
+        "Days on Market M/M": 0.069
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Minnesota",
+        "Median Listing Price": 220050,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": -0.0308,
+        "Price Increase Count M/M": -0.0655,
+        "Days on Market M/M": 0.0741
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Minnesota",
+        "Median Listing Price": 219950,
+        "Median Listing Price M/M": 0.0206,
+        "New Listing Count M/M": 0.0371,
+        "Price Increase Count M/M": 0.0633,
+        "Days on Market M/M": -0.0092
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Minnesota",
+        "Median Listing Price": 215500,
+        "Median Listing Price M/M": 0.0259,
+        "New Listing Count M/M": 0.1347,
+        "Price Increase Count M/M": 0.0128,
+        "Days on Market M/M": -0.1742
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Minnesota",
+        "Median Listing Price": 210050,
+        "Median Listing Price M/M": 0.0505,
+        "New Listing Count M/M": 0.3815,
+        "Price Increase Count M/M": 0.1064,
+        "Days on Market M/M": -0.3832
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Minnesota",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0048,
+        "New Listing Count M/M": 0.2601,
+        "Price Increase Count M/M": -0.0342,
+        "Days on Market M/M": -0.0273
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Minnesota",
+        "Median Listing Price": 199000,
+        "Median Listing Price M/M": -0.0038,
+        "New Listing Count M/M": 0.309,
+        "Price Increase Count M/M": 0.4747,
+        "Days on Market M/M": 0.0837
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Minnesota",
+        "Median Listing Price": 199750,
+        "Median Listing Price M/M": -0.0254,
+        "New Listing Count M/M": -0.1174,
+        "Price Increase Count M/M": -0.161,
+        "Days on Market M/M": 0.1667
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Minnesota",
+        "Median Listing Price": 204950,
+        "Median Listing Price M/M": -0.0236,
+        "New Listing Count M/M": -0.3118,
+        "Price Increase Count M/M": -0.1387,
+        "Days on Market M/M": 0.0943
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Minnesota",
+        "Median Listing Price": 209912,
+        "Median Listing Price M/M": 0.0116,
+        "New Listing Count M/M": -0.0518,
+        "Price Increase Count M/M": 0.0224,
+        "Days on Market M/M": 0.053
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Minnesota",
+        "Median Listing Price": 207500,
+        "Median Listing Price M/M": -0.0074,
+        "New Listing Count M/M": -0.1145,
+        "Price Increase Count M/M": -0.1829,
+        "Days on Market M/M": 0.0342
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Minnesota",
+        "Median Listing Price": 209050,
+        "Median Listing Price M/M": -0.0043,
+        "New Listing Count M/M": -0.0997,
+        "Price Increase Count M/M": -0.0989,
+        "Days on Market M/M": 0.0977
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Minnesota",
+        "Median Listing Price": 209950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0691,
+        "Price Increase Count M/M": 0.1375,
+        "Days on Market M/M": 0.0726
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Minnesota",
+        "Median Listing Price": 209950,
+        "Median Listing Price M/M": 0.05,
+        "New Listing Count M/M": -0.0344,
+        "Price Increase Count M/M": 0.1111,
+        "Days on Market M/M": 0.069
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Minnesota",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0071,
+        "New Listing Count M/M": 0.1009,
+        "Price Increase Count M/M": -0.1166,
+        "Days on Market M/M": -0.1077
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Minnesota",
+        "Median Listing Price": 198550,
+        "Median Listing Price M/M": 0.0453,
+        "New Listing Count M/M": 0.2208,
+        "Price Increase Count M/M": 0.3583,
+        "Days on Market M/M": -0.3085
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Minnesota",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0295,
+        "New Listing Count M/M": 0.4414,
+        "Price Increase Count M/M": -0.0769,
+        "Days on Market M/M": -0.1455
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Minnesota",
+        "Median Listing Price": 184500,
+        "Median Listing Price M/M": 0.0253,
+        "New Listing Count M/M": 0.093,
+        "Price Increase Count M/M": 0.1607,
+        "Days on Market M/M": 0.0233
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Minnesota",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": 0.5691,
+        "Price Increase Count M/M": 0.2727,
+        "Days on Market M/M": 0.1316
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Minnesota",
+        "Median Listing Price": 180050,
+        "Median Listing Price M/M": -0.027,
+        "New Listing Count M/M": -0.4347,
+        "Price Increase Count M/M": -0.3481,
+        "Days on Market M/M": 0.1243
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Minnesota",
+        "Median Listing Price": 185050,
+        "Median Listing Price M/M": 0.0071,
+        "New Listing Count M/M": -0.2468,
+        "Price Increase Count M/M": 0.0976,
+        "Days on Market M/M": 0.0563
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Minnesota",
+        "Median Listing Price": 183750,
+        "Median Listing Price M/M": -0.028,
+        "New Listing Count M/M": 0.0491,
+        "Price Increase Count M/M": -0.0538,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Minnesota",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1279,
+        "Price Increase Count M/M": -0.1156,
+        "Days on Market M/M": 0.0949
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Minnesota",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1081,
+        "Price Increase Count M/M": 0.0068,
+        "Days on Market M/M": 0.062
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Minnesota",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0238,
+        "Price Increase Count M/M": 0.0139,
+        "Days on Market M/M": 0.0574
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Minnesota",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": 0.0222,
+        "New Listing Count M/M": -0.0996,
+        "Price Increase Count M/M": -0.1377,
+        "Days on Market M/M": -0.0161
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Minnesota",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": 0.0278,
+        "New Listing Count M/M": 0.2497,
+        "Price Increase Count M/M": -0.0347,
+        "Days on Market M/M": -0.1014
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Minnesota",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.028,
+        "New Listing Count M/M": 0.1559,
+        "Price Increase Count M/M": 0.109,
+        "Days on Market M/M": -0.2333
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Minnesota",
+        "Median Listing Price": 175050,
+        "Median Listing Price M/M": 0.03,
+        "New Listing Count M/M": 0.2164,
+        "Price Increase Count M/M": 0.013,
+        "Days on Market M/M": -0.1667
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Minnesota",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0235,
+        "New Listing Count M/M": 0.072,
+        "Price Increase Count M/M": -0.0723,
+        "Days on Market M/M": -0.0226
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Minnesota",
+        "Median Listing Price": 166050,
+        "Median Listing Price M/M": -0.0177,
+        "New Listing Count M/M": 0.301,
+        "Price Increase Count M/M": 0.2969,
+        "Days on Market M/M": 0.0728
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Minnesota",
+        "Median Listing Price": 169050,
+        "Median Listing Price M/M": -0.0053,
+        "New Listing Count M/M": -0.2321,
+        "Price Increase Count M/M": 0.0579,
+        "Days on Market M/M": 0.0674
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Minnesota",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": -0.0255,
+        "New Listing Count M/M": -0.4788,
+        "Price Increase Count M/M": -0.0472,
+        "Days on Market M/M": 0.0663
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Minnesota",
+        "Median Listing Price": 174399,
+        "Median Listing Price M/M": -0.0009,
+        "New Listing Count M/M": 0.5735,
+        "Price Increase Count M/M": 0.0763,
+        "Days on Market M/M": -0.0372
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Minnesota",
+        "Median Listing Price": 174550,
+        "Median Listing Price M/M": -0.0023,
+        "New Listing Count M/M": -0.0661,
+        "Price Increase Count M/M": -0.2387,
+        "Days on Market M/M": 0.0621
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Minnesota",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.171,
+        "Price Increase Count M/M": 0.4091,
+        "Days on Market M/M": 0.0926
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Minnesota",
+        "Median Listing Price": 175050,
+        "Median Listing Price M/M": -0.0234,
+        "New Listing Count M/M": -0.2098,
+        "Price Increase Count M/M": -0.2143,
+        "Days on Market M/M": 0.0693
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Minnesota",
+        "Median Listing Price": 179250,
+        "Median Listing Price M/M": 0.019,
+        "New Listing Count M/M": 0.1085,
+        "Price Increase Count M/M": -0.0071,
+        "Days on Market M/M": -0.0162
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Minnesota",
+        "Median Listing Price": 175900,
+        "Median Listing Price M/M": 0.0054,
+        "New Listing Count M/M": -0.049,
+        "Price Increase Count M/M": -0.007,
+        "Days on Market M/M": -0.0435
+    }
+]

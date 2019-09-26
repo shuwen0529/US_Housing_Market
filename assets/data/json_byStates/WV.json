@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "West Virginia",
+        "Median Listing Price": 175000,
+        "Median Listing Price M/M": 0.03,
+        "New Listing Count M/M": 0.1787,
+        "Price Increase Count M/M": -0.0833,
+        "Days on Market M/M": -0.2521
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "West Virginia",
+        "Median Listing Price": 169900,
+        "Median Listing Price M/M": 0.0235,
+        "New Listing Count M/M": 0.2011,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": -0.0165
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "West Virginia",
+        "Median Listing Price": 166000,
+        "Median Listing Price M/M": 0.0061,
+        "New Listing Count M/M": 0.0236,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": 0.0168
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "West Virginia",
+        "Median Listing Price": 165000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3515,
+        "Price Increase Count M/M": 0.6875,
+        "Days on Market M/M": 0.0721
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "West Virginia",
+        "Median Listing Price": 165000,
+        "Median Listing Price M/M": -0.012,
+        "New Listing Count M/M": -0.2849,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.0882
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "West Virginia",
+        "Median Listing Price": 167000,
+        "Median Listing Price M/M": -0.0118,
+        "New Listing Count M/M": -0.0462,
+        "Price Increase Count M/M": -0.4545,
+        "Days on Market M/M": 0.0625
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "West Virginia",
+        "Median Listing Price": 169000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.154,
+        "Price Increase Count M/M": 0.375,
+        "Days on Market M/M": 0.0323
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "West Virginia",
+        "Median Listing Price": 169000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0853,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": 0.0449
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "West Virginia",
+        "Median Listing Price": 169000,
+        "Median Listing Price M/M": -0.0053,
+        "New Listing Count M/M": -0.0382,
+        "Price Increase Count M/M": 0.2857,
+        "Days on Market M/M": 0.0349
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "West Virginia",
+        "Median Listing Price": 169900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0332,
+        "Price Increase Count M/M": -0.3,
+        "Days on Market M/M": 0.0361
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "West Virginia",
+        "Median Listing Price": 169900,
+        "Median Listing Price M/M": 0.0018,
+        "New Listing Count M/M": -0.0037,
+        "Price Increase Count M/M": 0.0811,
+        "Days on Market M/M": -0.046
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "West Virginia",
+        "Median Listing Price": 169600,
+        "Median Listing Price M/M": 0.0279,
+        "New Listing Count M/M": 0.0751,
+        "Price Increase Count M/M": -0.2292,
+        "Days on Market M/M": -0.0842
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "West Virginia",
+        "Median Listing Price": 165000,
+        "Median Listing Price M/M": 0.0248,
+        "New Listing Count M/M": 0.1232,
+        "Price Increase Count M/M": 0.2308,
+        "Days on Market M/M": -0.2149
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "West Virginia",
+        "Median Listing Price": 161000,
+        "Median Listing Price M/M": 0.0126,
+        "New Listing Count M/M": 0.1137,
+        "Price Increase Count M/M": 0.1471,
+        "Days on Market M/M": -0.0163
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "West Virginia",
+        "Median Listing Price": 159000,
+        "Median Listing Price M/M": 0.0225,
+        "New Listing Count M/M": 0.1776,
+        "Price Increase Count M/M": 1.125,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "West Virginia",
+        "Median Listing Price": 155500,
+        "Median Listing Price M/M": -0.022,
+        "New Listing Count M/M": 0.1566,
+        "Price Increase Count M/M": -0.3846,
+        "Days on Market M/M": 0.0885
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "West Virginia",
+        "Median Listing Price": 159000,
+        "Median Listing Price M/M": -0.0056,
+        "New Listing Count M/M": -0.1739,
+        "Price Increase Count M/M": -0.1613,
+        "Days on Market M/M": 0.0865
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "West Virginia",
+        "Median Listing Price": 159900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1975,
+        "Price Increase Count M/M": -0.1842,
+        "Days on Market M/M": 0.0505
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "West Virginia",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.0078,
+        "Price Increase Count M/M": 0.1176,
+        "Days on Market M/M": 0.0421
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "West Virginia",
+        "Median Listing Price": 160050,
+        "Median Listing Price M/M": 0.0001,
+        "New Listing Count M/M": -0.1095,
+        "Price Increase Count M/M": 0.3077,
+        "Days on Market M/M": 0.027
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "West Virginia",
+        "Median Listing Price": 160035,
+        "Median Listing Price M/M": -0.0001,
+        "New Listing Count M/M": 0.0222,
+        "Price Increase Count M/M": -0.2778,
+        "Days on Market M/M": 0.0278
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "West Virginia",
+        "Median Listing Price": 160050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0606,
+        "Price Increase Count M/M": 1.0,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "West Virginia",
+        "Median Listing Price": 160050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0417,
+        "Price Increase Count M/M": -0.4545,
+        "Days on Market M/M": -0.0057
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "West Virginia",
+        "Median Listing Price": 160000,
+        "Median Listing Price M/M": 0.006,
+        "New Listing Count M/M": 0.0998,
+        "Price Increase Count M/M": -0.2143,
+        "Days on Market M/M": -0.0885
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "West Virginia",
+        "Median Listing Price": 159050,
+        "Median Listing Price M/M": 0.0258,
+        "New Listing Count M/M": 0.047,
+        "Price Increase Count M/M": 0.6154,
+        "Days on Market M/M": -0.232
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "West Virginia",
+        "Median Listing Price": 155050,
+        "Median Listing Price M/M": 0.0073,
+        "New Listing Count M/M": 0.1657,
+        "Price Increase Count M/M": 0.0833,
+        "Days on Market M/M": -0.0421
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "West Virginia",
+        "Median Listing Price": 153918,
+        "Median Listing Price M/M": 0.021,
+        "New Listing Count M/M": 0.3199,
+        "Price Increase Count M/M": -0.0769,
+        "Days on Market M/M": 0.0195
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "West Virginia",
+        "Median Listing Price": 150750,
+        "Median Listing Price M/M": -0.0225,
+        "New Listing Count M/M": 0.1848,
+        "Price Increase Count M/M": -0.2353,
+        "Days on Market M/M": 0.0802
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "West Virginia",
+        "Median Listing Price": 154225,
+        "Median Listing Price M/M": -0.0145,
+        "New Listing Count M/M": -0.2637,
+        "Price Increase Count M/M": 0.2593,
+        "Days on Market M/M": 0.0872
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "West Virginia",
+        "Median Listing Price": 156500,
+        "Median Listing Price M/M": -0.016,
+        "New Listing Count M/M": -0.1805,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": 0.0583
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "West Virginia",
+        "Median Listing Price": 159050,
+        "Median Listing Price M/M": -0.0028,
+        "New Listing Count M/M": -0.0011,
+        "Price Increase Count M/M": 0.1613,
+        "Days on Market M/M": 0.0249
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "West Virginia",
+        "Median Listing Price": 159500,
+        "Median Listing Price M/M": -0.0031,
+        "New Listing Count M/M": -0.1121,
+        "Price Increase Count M/M": -0.0882,
+        "Days on Market M/M": 0.0524
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "West Virginia",
+        "Median Listing Price": 160000,
+        "Median Listing Price M/M": -0.03,
+        "New Listing Count M/M": 0.0757,
+        "Price Increase Count M/M": 0.2143,
+        "Days on Market M/M": 0.038
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "West Virginia",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.0073,
+        "New Listing Count M/M": -0.1197,
+        "Price Increase Count M/M": -0.0968,
+        "Days on Market M/M": 0.0279
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "West Virginia",
+        "Median Listing Price": 163750,
+        "Median Listing Price M/M": 0.0043,
+        "New Listing Count M/M": 0.0117,
+        "Price Increase Count M/M": 0.0333,
+        "Days on Market M/M": -0.0056
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "West Virginia",
+        "Median Listing Price": 163049,
+        "Median Listing Price M/M": 0.0207,
+        "New Listing Count M/M": -0.0562,
+        "Price Increase Count M/M": -0.0909,
+        "Days on Market M/M": -0.1892
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "West Virginia",
+        "Median Listing Price": 159750,
+        "Median Listing Price M/M": 0.0124,
+        "New Listing Count M/M": 0.1654,
+        "Price Increase Count M/M": -0.2326,
+        "Days on Market M/M": -0.1462
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "West Virginia",
+        "Median Listing Price": 157800,
+        "Median Listing Price M/M": 0.028,
+        "New Listing Count M/M": 0.3338,
+        "Price Increase Count M/M": 1.5294,
+        "Days on Market M/M": -0.0226
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "West Virginia",
+        "Median Listing Price": 153500,
+        "Median Listing Price M/M": 0.0095,
+        "New Listing Count M/M": 0.1952,
+        "Price Increase Count M/M": -0.3929,
+        "Days on Market M/M": 0.064
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "West Virginia",
+        "Median Listing Price": 152050,
+        "Median Listing Price M/M": -0.0174,
+        "New Listing Count M/M": 0.0936,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": 0.0823
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "West Virginia",
+        "Median Listing Price": 154750,
+        "Median Listing Price M/M": -0.0175,
+        "New Listing Count M/M": -0.2521,
+        "Price Increase Count M/M": -0.0769,
+        "Days on Market M/M": 0.0794
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "West Virginia",
+        "Median Listing Price": 157500,
+        "Median Listing Price M/M": -0.0097,
+        "New Listing Count M/M": -0.1387,
+        "Price Increase Count M/M": -0.2973,
+        "Days on Market M/M": 0.0388
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "West Virginia",
+        "Median Listing Price": 159050,
+        "Median Listing Price M/M": 0.0079,
+        "New Listing Count M/M": -0.088,
+        "Price Increase Count M/M": 0.3214,
+        "Days on Market M/M": 0.0198
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "West Virginia",
+        "Median Listing Price": 157800,
+        "Median Listing Price M/M": 0.0177,
+        "New Listing Count M/M": -0.24,
+        "Price Increase Count M/M": 0.5556,
+        "Days on Market M/M": 0.0978
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "West Virginia",
+        "Median Listing Price": 155050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0008,
+        "Price Increase Count M/M": -0.3077,
+        "Days on Market M/M": 0.0888
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "West Virginia",
+        "Median Listing Price": 155050,
+        "Median Listing Price M/M": -0.0032,
+        "New Listing Count M/M": -0.0244,
+        "Price Increase Count M/M": -0.2973,
+        "Days on Market M/M": 0.0497
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "West Virginia",
+        "Median Listing Price": 155550,
+        "Median Listing Price M/M": 0.0032,
+        "New Listing Count M/M": -0.0152,
+        "Price Increase Count M/M": 0.1563,
+        "Days on Market M/M": -0.0852
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "West Virginia",
+        "Median Listing Price": 155050,
+        "Median Listing Price M/M": 0.0006,
+        "New Listing Count M/M": 0.0298,
+        "Price Increase Count M/M": -0.1795,
+        "Days on Market M/M": -0.1889
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "West Virginia",
+        "Median Listing Price": 154950,
+        "Median Listing Price M/M": 0.0333,
+        "New Listing Count M/M": 0.2322,
+        "Price Increase Count M/M": 0.3929,
+        "Days on Market M/M": -0.2138
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.006,
+        "New Listing Count M/M": 0.2094,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0494
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0699,
+        "Price Increase Count M/M": 0.0769,
+        "Days on Market M/M": 0.0194
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149050,
+        "Median Listing Price M/M": -0.0042,
+        "New Listing Count M/M": 0.4288,
+        "Price Increase Count M/M": 0.2381,
+        "Days on Market M/M": 0.0445
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149675,
+        "Median Listing Price M/M": -0.0018,
+        "New Listing Count M/M": -0.2305,
+        "Price Increase Count M/M": -0.3438,
+        "Days on Market M/M": 0.0833
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1217,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0163,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.0588
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.1491,
+        "Price Increase Count M/M": 0.2,
+        "Days on Market M/M": 0.0851
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "West Virginia",
+        "Median Listing Price": 150040,
+        "Median Listing Price M/M": -0.019,
+        "New Listing Count M/M": 0.0198,
+        "Price Increase Count M/M": -0.0625,
+        "Days on Market M/M": 0.0621
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "West Virginia",
+        "Median Listing Price": 152950,
+        "Median Listing Price M/M": 0.0126,
+        "New Listing Count M/M": -0.0545,
+        "Price Increase Count M/M": 0.1429,
+        "Days on Market M/M": 0.0291
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "West Virginia",
+        "Median Listing Price": 151050,
+        "Median Listing Price M/M": 0.0073,
+        "New Listing Count M/M": -0.058,
+        "Price Increase Count M/M": -0.2821,
+        "Days on Market M/M": -0.2217
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.003,
+        "New Listing Count M/M": 0.0504,
+        "Price Increase Count M/M": 0.56,
+        "Days on Market M/M": -0.2079
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149500,
+        "Median Listing Price M/M": 0.0314,
+        "New Listing Count M/M": 0.1275,
+        "Price Increase Count M/M": 0.1364,
+        "Days on Market M/M": -0.07
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "West Virginia",
+        "Median Listing Price": 144950,
+        "Median Listing Price M/M": 0.0357,
+        "New Listing Count M/M": 0.3495,
+        "Price Increase Count M/M": 0.2222,
+        "Days on Market M/M": 0.049
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "West Virginia",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.083,
+        "Price Increase Count M/M": -0.2174,
+        "Days on Market M/M": 0.0833
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "West Virginia",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3111,
+        "Price Increase Count M/M": 0.2778,
+        "Days on Market M/M": 0.082
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "West Virginia",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.3291,
+        "Price Increase Count M/M": 0.0588,
+        "Days on Market M/M": 0.1296
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "West Virginia",
+        "Median Listing Price": 140000,
+        "Median Listing Price M/M": -0.0328,
+        "New Listing Count M/M": -0.1427,
+        "Price Increase Count M/M": -0.4138,
+        "Days on Market M/M": 0.0485
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "West Virginia",
+        "Median Listing Price": 144750,
+        "Median Listing Price M/M": -0.0014,
+        "New Listing Count M/M": -0.0471,
+        "Price Increase Count M/M": 0.0357,
+        "Days on Market M/M": 0.051
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "West Virginia",
+        "Median Listing Price": 144950,
+        "Median Listing Price M/M": -0.0223,
+        "New Listing Count M/M": -0.1426,
+        "Price Increase Count M/M": -0.0345,
+        "Days on Market M/M": 0.0829
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "West Virginia",
+        "Median Listing Price": 148250,
+        "Median Listing Price M/M": -0.0054,
+        "New Listing Count M/M": -0.0527,
+        "Price Increase Count M/M": 0.3182,
+        "Days on Market M/M": 0.0197
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0979,
+        "Price Increase Count M/M": -0.2143,
+        "Days on Market M/M": -0.0028
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149050,
+        "Median Listing Price M/M": -0.0017,
+        "New Listing Count M/M": -0.0743,
+        "Price Increase Count M/M": -0.2432,
+        "Days on Market M/M": -0.022
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149300,
+        "Median Listing Price M/M": 0.0018,
+        "New Listing Count M/M": 0.0167,
+        "Price Increase Count M/M": 0.5417,
+        "Days on Market M/M": -0.1034
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149037,
+        "Median Listing Price M/M": 0.0275,
+        "New Listing Count M/M": 0.1413,
+        "Price Increase Count M/M": -0.1429,
+        "Days on Market M/M": -0.2008
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "West Virginia",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": 0.0296,
+        "New Listing Count M/M": 0.2665,
+        "Price Increase Count M/M": 0.037,
+        "Days on Market M/M": -0.0522
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "West Virginia",
+        "Median Listing Price": 140875,
+        "Median Listing Price M/M": 0.0066,
+        "New Listing Count M/M": -0.0367,
+        "Price Increase Count M/M": 0.2857,
+        "Days on Market M/M": 0.0152
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "West Virginia",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3279,
+        "Price Increase Count M/M": 0.05,
+        "Days on Market M/M": 0.082
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "West Virginia",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": -0.0332,
+        "New Listing Count M/M": -0.1456,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.0702
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "West Virginia",
+        "Median Listing Price": 144750,
+        "Median Listing Price M/M": -0.0021,
+        "New Listing Count M/M": -0.1917,
+        "Price Increase Count M/M": -0.2857,
+        "Days on Market M/M": 0.0317
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "West Virginia",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": -0.0196,
+        "New Listing Count M/M": -0.0511,
+        "Price Increase Count M/M": 0.6154,
+        "Days on Market M/M": 0.0327
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "West Virginia",
+        "Median Listing Price": 147950,
+        "Median Listing Price M/M": -0.007,
+        "New Listing Count M/M": -0.0289,
+        "Price Increase Count M/M": -0.0714,
+        "Days on Market M/M": 0.0313
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149000,
+        "Median Listing Price M/M": -0.0063,
+        "New Listing Count M/M": -0.0416,
+        "Price Increase Count M/M": 0.0769,
+        "Days on Market M/M": 0.0272
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0958,
+        "Price Increase Count M/M": -0.0714,
+        "Days on Market M/M": 0.0632
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0887,
+        "Price Increase Count M/M": -0.125,
+        "Days on Market M/M": -0.0206
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "West Virginia",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0027,
+        "New Listing Count M/M": -0.0579,
+        "Price Increase Count M/M": -0.2195,
+        "Days on Market M/M": -0.0583
+    }
+]

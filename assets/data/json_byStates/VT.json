@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Vermont",
+        "Median Listing Price": 283400,
+        "Median Listing Price M/M": 0.0194,
+        "New Listing Count M/M": 0.1192,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Vermont",
+        "Median Listing Price": 278000,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": 0.1254,
+        "Price Increase Count M/M": 0.6667,
+        "Days on Market M/M": 0.0235
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Vermont",
+        "Median Listing Price": 277000,
+        "Median Listing Price M/M": 0.0073,
+        "New Listing Count M/M": 0.2163,
+        "Price Increase Count M/M": -0.6,
+        "Days on Market M/M": 0.0366
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Vermont",
+        "Median Listing Price": 275000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.41,
+        "Price Increase Count M/M": 2.75,
+        "Days on Market M/M": 0.1007
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Vermont",
+        "Median Listing Price": 275000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2424,
+        "Price Increase Count M/M": -0.6364,
+        "Days on Market M/M": 0.1203
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Vermont",
+        "Median Listing Price": 275000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2258,
+        "Price Increase Count M/M": -0.0833,
+        "Days on Market M/M": 0.0992
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Vermont",
+        "Median Listing Price": 275000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2806,
+        "Price Increase Count M/M": -0.1429,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Vermont",
+        "Median Listing Price": 275000,
+        "Median Listing Price M/M": 0.0148,
+        "New Listing Count M/M": -0.0937,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": 0.134
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Vermont",
+        "Median Listing Price": 271000,
+        "Median Listing Price M/M": 0.0037,
+        "New Listing Count M/M": -0.1225,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.043
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Vermont",
+        "Median Listing Price": 270000,
+        "Median Listing Price M/M": 0.0189,
+        "New Listing Count M/M": -0.1078,
+        "Price Increase Count M/M": -0.1818,
+        "Days on Market M/M": -0.0971
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Vermont",
+        "Median Listing Price": 265000,
+        "Median Listing Price M/M": 0.0196,
+        "New Listing Count M/M": -0.0565,
+        "Price Increase Count M/M": 0.1,
+        "Days on Market M/M": -0.2016
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Vermont",
+        "Median Listing Price": 259900,
+        "Median Listing Price M/M": 0.0035,
+        "New Listing Count M/M": 0.4568,
+        "Price Increase Count M/M": 0.4286,
+        "Days on Market M/M": -0.2753
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Vermont",
+        "Median Listing Price": 259000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2526,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.043
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Vermont",
+        "Median Listing Price": 259000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0808,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0054
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Vermont",
+        "Median Listing Price": 259000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2914,
+        "Price Increase Count M/M": 0.2727,
+        "Days on Market M/M": 0.0393
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Vermont",
+        "Median Listing Price": 259000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2411,
+        "Price Increase Count M/M": -0.0833,
+        "Days on Market M/M": 0.092
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Vermont",
+        "Median Listing Price": 259000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2302,
+        "Price Increase Count M/M": -0.0769,
+        "Days on Market M/M": 0.1164
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Vermont",
+        "Median Listing Price": 259000,
+        "Median Listing Price M/M": 0.0058,
+        "New Listing Count M/M": -0.2971,
+        "Price Increase Count M/M": 0.0833,
+        "Days on Market M/M": 0.0815
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Vermont",
+        "Median Listing Price": 257550,
+        "Median Listing Price M/M": 0.0031,
+        "New Listing Count M/M": -0.1229,
+        "Price Increase Count M/M": -0.0769,
+        "Days on Market M/M": 0.1066
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Vermont",
+        "Median Listing Price": 256750,
+        "Median Listing Price M/M": 0.027,
+        "New Listing Count M/M": -0.1078,
+        "Price Increase Count M/M": -0.2778,
+        "Days on Market M/M": 0.1244
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Vermont",
+        "Median Listing Price": 250000,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.0752,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.014
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Vermont",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.1104,
+        "Price Increase Count M/M": 0.125,
+        "Days on Market M/M": -0.1046
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Vermont",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.124,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": -0.2413
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Vermont",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": -0.0161,
+        "New Listing Count M/M": 0.6096,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": -0.2391
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Vermont",
+        "Median Listing Price": 254050,
+        "Median Listing Price M/M": 0.016,
+        "New Listing Count M/M": 0.1662,
+        "Price Increase Count M/M": -0.2941,
+        "Days on Market M/M": -0.0096
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Vermont",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": 0.1301,
+        "Price Increase Count M/M": -0.2273,
+        "Days on Market M/M": 0.0121
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Vermont",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": 0.2183,
+        "Price Increase Count M/M": 0.5714,
+        "Days on Market M/M": 0.0644
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Vermont",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": -0.001,
+        "New Listing Count M/M": 0.1736,
+        "Price Increase Count M/M": 0.5556,
+        "Days on Market M/M": 0.0868
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Vermont",
+        "Median Listing Price": 249300,
+        "Median Listing Price M/M": -0.0026,
+        "New Listing Count M/M": -0.0692,
+        "Price Increase Count M/M": -0.3077,
+        "Days on Market M/M": 0.1019
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Vermont",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": -0.3011,
+        "Price Increase Count M/M": 0.3,
+        "Days on Market M/M": 0.0872
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Vermont",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0289,
+        "New Listing Count M/M": -0.2201,
+        "Price Increase Count M/M": -0.4444,
+        "Days on Market M/M": 0.1161
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Vermont",
+        "Median Listing Price": 242050,
+        "Median Listing Price M/M": -0.0049,
+        "New Listing Count M/M": -0.0021,
+        "Price Increase Count M/M": 0.0588,
+        "Days on Market M/M": 0.0595
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Vermont",
+        "Median Listing Price": 243250,
+        "Median Listing Price M/M": -0.0073,
+        "New Listing Count M/M": -0.2265,
+        "Price Increase Count M/M": -0.15,
+        "Days on Market M/M": 0.0244
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Vermont",
+        "Median Listing Price": 245050,
+        "Median Listing Price M/M": 0.0124,
+        "New Listing Count M/M": -0.0608,
+        "Price Increase Count M/M": 0.1111,
+        "Days on Market M/M": -0.0575
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Vermont",
+        "Median Listing Price": 242050,
+        "Median Listing Price M/M": 0.0088,
+        "New Listing Count M/M": -0.0464,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.1844
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Vermont",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0038,
+        "New Listing Count M/M": 0.1256,
+        "Price Increase Count M/M": 0.0588,
+        "Days on Market M/M": -0.1579
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Vermont",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": 0.0104,
+        "New Listing Count M/M": 0.1903,
+        "Price Increase Count M/M": 0.2143,
+        "Days on Market M/M": -0.044
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Vermont",
+        "Median Listing Price": 236600,
+        "Median Listing Price M/M": 0.0066,
+        "New Listing Count M/M": 0.1894,
+        "Price Increase Count M/M": -0.3636,
+        "Days on Market M/M": 0.014
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Vermont",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.0086,
+        "New Listing Count M/M": 0.0665,
+        "Price Increase Count M/M": 0.1,
+        "Days on Market M/M": 0.0538
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Vermont",
+        "Median Listing Price": 233050,
+        "Median Listing Price M/M": -0.0085,
+        "New Listing Count M/M": 0.4818,
+        "Price Increase Count M/M": 0.5385,
+        "Days on Market M/M": 0.0814
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Vermont",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": -0.0167,
+        "New Listing Count M/M": -0.1491,
+        "Price Increase Count M/M": 0.0833,
+        "Days on Market M/M": 0.1097
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Vermont",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.199,
+        "Price Increase Count M/M": -0.4545,
+        "Days on Market M/M": 0.1314
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Vermont",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.159,
+        "Price Increase Count M/M": -0.1852,
+        "Days on Market M/M": 0.1093
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Vermont",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2086,
+        "Price Increase Count M/M": 0.9286,
+        "Days on Market M/M": 0.133
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Vermont",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": 0.0042,
+        "New Listing Count M/M": -0.3144,
+        "Price Increase Count M/M": -0.3,
+        "Days on Market M/M": 0.0456
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Vermont",
+        "Median Listing Price": 238049,
+        "Median Listing Price M/M": 0.0021,
+        "New Listing Count M/M": -0.0785,
+        "Price Increase Count M/M": -0.3103,
+        "Days on Market M/M": -0.1203
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Vermont",
+        "Median Listing Price": 237550,
+        "Median Listing Price M/M": 0.0107,
+        "New Listing Count M/M": -0.0124,
+        "Price Increase Count M/M": 0.3182,
+        "Days on Market M/M": -0.315
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Vermont",
+        "Median Listing Price": 235025,
+        "Median Listing Price M/M": -0.0001,
+        "New Listing Count M/M": 0.4556,
+        "Price Increase Count M/M": 0.0476,
+        "Days on Market M/M": -0.1551
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Vermont",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": 0.1585,
+        "Price Increase Count M/M": 1.625,
+        "Days on Market M/M": -0.025
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Vermont",
+        "Median Listing Price": 234950,
+        "Median Listing Price M/M": 0.006,
+        "New Listing Count M/M": 0.2643,
+        "Price Increase Count M/M": -0.6,
+        "Days on Market M/M": 0.0526
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Vermont",
+        "Median Listing Price": 233550,
+        "Median Listing Price M/M": 0.0119,
+        "New Listing Count M/M": -0.0278,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": 0.0668
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Vermont",
+        "Median Listing Price": 230800,
+        "Median Listing Price M/M": -0.0127,
+        "New Listing Count M/M": 0.3899,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0809
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Vermont",
+        "Median Listing Price": 233775,
+        "Median Listing Price M/M": -0.0054,
+        "New Listing Count M/M": -0.2533,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": 0.109
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Vermont",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2228,
+        "Price Increase Count M/M": -0.1429,
+        "Days on Market M/M": 0.1264
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Vermont",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0302,
+        "Price Increase Count M/M": -0.087,
+        "Days on Market M/M": 0.0906
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Vermont",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": -0.0084,
+        "New Listing Count M/M": -0.2103,
+        "Price Increase Count M/M": 0.0455,
+        "Days on Market M/M": 0.114
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Vermont",
+        "Median Listing Price": 237050,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": -0.0574,
+        "Price Increase Count M/M": -0.2414,
+        "Days on Market M/M": 0.0044
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Vermont",
+        "Median Listing Price": 237400,
+        "Median Listing Price M/M": 0.0057,
+        "New Listing Count M/M": -0.1029,
+        "Price Increase Count M/M": 0.1154,
+        "Days on Market M/M": -0.0847
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Vermont",
+        "Median Listing Price": 236050,
+        "Median Listing Price M/M": 0.0211,
+        "New Listing Count M/M": -0.0499,
+        "Price Increase Count M/M": 0.0833,
+        "Days on Market M/M": -0.3168
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Vermont",
+        "Median Listing Price": 231175,
+        "Median Listing Price M/M": 0.0053,
+        "New Listing Count M/M": 0.4455,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": -0.1843
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Vermont",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2237,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.0349
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Vermont",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1392,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0591
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Vermont",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": 0.0001,
+        "New Listing Count M/M": 0.1646,
+        "Price Increase Count M/M": 0.2,
+        "Days on Market M/M": 0.0741
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Vermont",
+        "Median Listing Price": 229925,
+        "Median Listing Price M/M": -0.0001,
+        "New Listing Count M/M": 0.2771,
+        "Price Increase Count M/M": 0.875,
+        "Days on Market M/M": 0.1317
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Vermont",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.3319,
+        "Price Increase Count M/M": -0.4667,
+        "Days on Market M/M": 0.106
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Vermont",
+        "Median Listing Price": 230000,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.1165,
+        "Price Increase Count M/M": -0.0625,
+        "Days on Market M/M": 0.0786
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Vermont",
+        "Median Listing Price": 230050,
+        "Median Listing Price M/M": -0.0158,
+        "New Listing Count M/M": -0.1556,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0938
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Vermont",
+        "Median Listing Price": 233750,
+        "Median Listing Price M/M": -0.0051,
+        "New Listing Count M/M": -0.1463,
+        "Price Increase Count M/M": -0.2727,
+        "Days on Market M/M": 0.0894
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Vermont",
+        "Median Listing Price": 234950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0599,
+        "Price Increase Count M/M": -0.2143,
+        "Days on Market M/M": 0.0129
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Vermont",
+        "Median Listing Price": 234950,
+        "Median Listing Price M/M": 0.0082,
+        "New Listing Count M/M": -0.0829,
+        "Price Increase Count M/M": 0.2727,
+        "Days on Market M/M": -0.0645
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Vermont",
+        "Median Listing Price": 233050,
+        "Median Listing Price M/M": 0.0135,
+        "New Listing Count M/M": -0.0686,
+        "Price Increase Count M/M": 0.375,
+        "Days on Market M/M": -0.2322
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Vermont",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2503,
+        "Price Increase Count M/M": -0.2727,
+        "Days on Market M/M": -0.1739
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Vermont",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": 0.0039,
+        "New Listing Count M/M": 0.2209,
+        "Price Increase Count M/M": 0.1,
+        "Days on Market M/M": -0.0225
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Vermont",
+        "Median Listing Price": 229050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2918,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": 0.0152
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Vermont",
+        "Median Listing Price": 229050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0169,
+        "Price Increase Count M/M": 0.2308,
+        "Days on Market M/M": 0.0382
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Vermont",
+        "Median Listing Price": 229050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.324,
+        "Price Increase Count M/M": 0.625,
+        "Days on Market M/M": 0.072
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Vermont",
+        "Median Listing Price": 229050,
+        "Median Listing Price M/M": -0.003,
+        "New Listing Count M/M": -0.0653,
+        "Price Increase Count M/M": -0.619,
+        "Days on Market M/M": 0.1028
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Vermont",
+        "Median Listing Price": 229750,
+        "Median Listing Price M/M": 0.0031,
+        "New Listing Count M/M": -0.2534,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": 0.0772
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Vermont",
+        "Median Listing Price": 229050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1094,
+        "Price Increase Count M/M": 0.125,
+        "Days on Market M/M": 0.0876
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Vermont",
+        "Median Listing Price": 229050,
+        "Median Listing Price M/M": -0.003,
+        "New Listing Count M/M": -0.0972,
+        "Price Increase Count M/M": 0.1429,
+        "Days on Market M/M": 0.062
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Vermont",
+        "Median Listing Price": 229750,
+        "Median Listing Price M/M": -0.0221,
+        "New Listing Count M/M": -0.0963,
+        "Price Increase Count M/M": -0.2222,
+        "Days on Market M/M": 0.0078
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Vermont",
+        "Median Listing Price": 234950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1273,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": -0.089
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Vermont",
+        "Median Listing Price": 234950,
+        "Median Listing Price M/M": 0.0136,
+        "New Listing Count M/M": 0.0253,
+        "Price Increase Count M/M": -0.4,
+        "Days on Market M/M": -0.1994
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Vermont",
+        "Median Listing Price": 231800,
+        "Median Listing Price M/M": 0.0076,
+        "New Listing Count M/M": 0.1794,
+        "Price Increase Count M/M": 0.0526,
+        "Days on Market M/M": -0.129
+    }
+]

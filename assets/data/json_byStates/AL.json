@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Alabama",
+        "Median Listing Price": 229900,
+        "Median Listing Price M/M": 0.0222,
+        "New Listing Count M/M": 0.0266,
+        "Price Increase Count M/M": 0.122,
+        "Days on Market M/M": -0.0864
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Alabama",
+        "Median Listing Price": 224900,
+        "Median Listing Price M/M": 0.0422,
+        "New Listing Count M/M": 0.0805,
+        "Price Increase Count M/M": 0.0424,
+        "Days on Market M/M": -0.19
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Alabama",
+        "Median Listing Price": 215800,
+        "Median Listing Price M/M": 0.0146,
+        "New Listing Count M/M": 0.0794,
+        "Price Increase Count M/M": -0.0672,
+        "Days on Market M/M": -0.0654
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Alabama",
+        "Median Listing Price": 212700,
+        "Median Listing Price M/M": 0.0085,
+        "New Listing Count M/M": 0.4304,
+        "Price Increase Count M/M": 0.2048,
+        "Days on Market M/M": 0.049
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Alabama",
+        "Median Listing Price": 210900,
+        "Median Listing Price M/M": -0.0052,
+        "New Listing Count M/M": -0.1565,
+        "Price Increase Count M/M": 0.0145,
+        "Days on Market M/M": 0.0851
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Alabama",
+        "Median Listing Price": 212000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0988,
+        "Price Increase Count M/M": -0.1229,
+        "Days on Market M/M": 0.0682
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Alabama",
+        "Median Listing Price": 212000,
+        "Median Listing Price M/M": -0.0135,
+        "New Listing Count M/M": -0.0837,
+        "Price Increase Count M/M": -0.1324,
+        "Days on Market M/M": 0.0602
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Alabama",
+        "Median Listing Price": 214900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.075,
+        "Price Increase Count M/M": 0.1674,
+        "Days on Market M/M": 0.0506
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Alabama",
+        "Median Listing Price": 214900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0936,
+        "Price Increase Count M/M": -0.1241,
+        "Days on Market M/M": 0.0676
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Alabama",
+        "Median Listing Price": 214900,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.0041,
+        "Price Increase Count M/M": -0.3955,
+        "Days on Market M/M": 0.0278
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Alabama",
+        "Median Listing Price": 215000,
+        "Median Listing Price M/M": 0.0165,
+        "New Listing Count M/M": -0.0303,
+        "Price Increase Count M/M": 0.2865,
+        "Days on Market M/M": 0.0588
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Alabama",
+        "Median Listing Price": 211500,
+        "Median Listing Price M/M": 0.0076,
+        "New Listing Count M/M": -0.0302,
+        "Price Increase Count M/M": 0.4132,
+        "Days on Market M/M": -0.0685
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Alabama",
+        "Median Listing Price": 209900,
+        "Median Listing Price M/M": 0.05,
+        "New Listing Count M/M": -0.0056,
+        "Price Increase Count M/M": -0.2244,
+        "Days on Market M/M": -0.1889
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Alabama",
+        "Median Listing Price": 199900,
+        "Median Listing Price M/M": 0.0071,
+        "New Listing Count M/M": 0.1691,
+        "Price Increase Count M/M": -0.1635,
+        "Days on Market M/M": -0.1346
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Alabama",
+        "Median Listing Price": 198500,
+        "Median Listing Price M/M": 0.0179,
+        "New Listing Count M/M": 0.2018,
+        "Price Increase Count M/M": 0.3866,
+        "Days on Market M/M": -0.0459
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Alabama",
+        "Median Listing Price": 195000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2915,
+        "Price Increase Count M/M": 0.6012,
+        "Days on Market M/M": 0.0283
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Alabama",
+        "Median Listing Price": 195000,
+        "Median Listing Price M/M": -0.0046,
+        "New Listing Count M/M": -0.1923,
+        "Price Increase Count M/M": -0.3801,
+        "Days on Market M/M": 0.1042
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Alabama",
+        "Median Listing Price": 195900,
+        "Median Listing Price M/M": -0.0106,
+        "New Listing Count M/M": -0.0796,
+        "Price Increase Count M/M": 0.0927,
+        "Days on Market M/M": 0.0435
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Alabama",
+        "Median Listing Price": 198050,
+        "Median Listing Price M/M": -0.005,
+        "New Listing Count M/M": 0.0062,
+        "Price Increase Count M/M": 0.1324,
+        "Days on Market M/M": 0.0279
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Alabama",
+        "Median Listing Price": 199050,
+        "Median Listing Price M/M": -0.0013,
+        "New Listing Count M/M": -0.1466,
+        "Price Increase Count M/M": -0.0395,
+        "Days on Market M/M": 0.0287
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Alabama",
+        "Median Listing Price": 199300,
+        "Median Listing Price M/M": -0.0033,
+        "New Listing Count M/M": -0.0358,
+        "Price Increase Count M/M": -0.1493,
+        "Days on Market M/M": 0.0357
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Alabama",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0165,
+        "Price Increase Count M/M": -0.0111,
+        "Days on Market M/M": 0.0307
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Alabama",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0048,
+        "New Listing Count M/M": -0.0695,
+        "Price Increase Count M/M": 0.0188,
+        "Days on Market M/M": 0.0188
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Alabama",
+        "Median Listing Price": 199000,
+        "Median Listing Price M/M": 0.0171,
+        "New Listing Count M/M": -0.009,
+        "Price Increase Count M/M": -0.0699,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Alabama",
+        "Median Listing Price": 195650,
+        "Median Listing Price M/M": 0.0311,
+        "New Listing Count M/M": 0.0043,
+        "Price Increase Count M/M": -0.0684,
+        "Days on Market M/M": -0.1579
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Alabama",
+        "Median Listing Price": 189750,
+        "Median Listing Price M/M": 0.0257,
+        "New Listing Count M/M": 0.0491,
+        "Price Increase Count M/M": -0.2128,
+        "Days on Market M/M": -0.1364
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Alabama",
+        "Median Listing Price": 185000,
+        "Median Listing Price M/M": 0.0263,
+        "New Listing Count M/M": 0.2002,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": -0.0517
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Alabama",
+        "Median Listing Price": 180260,
+        "Median Listing Price M/M": -0.0044,
+        "New Listing Count M/M": 0.3375,
+        "Price Increase Count M/M": -0.0076,
+        "Days on Market M/M": 0.0545
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Alabama",
+        "Median Listing Price": 181050,
+        "Median Listing Price M/M": -0.0211,
+        "New Listing Count M/M": -0.0525,
+        "Price Increase Count M/M": 0.3575,
+        "Days on Market M/M": 0.0377
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Alabama",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.1643,
+        "Price Increase Count M/M": -0.3058,
+        "Days on Market M/M": 0.06
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Alabama",
+        "Median Listing Price": 185050,
+        "Median Listing Price M/M": -0.0128,
+        "New Listing Count M/M": -0.1453,
+        "Price Increase Count M/M": 0.3365,
+        "Days on Market M/M": 0.0309
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Alabama",
+        "Median Listing Price": 187450,
+        "Median Listing Price M/M": -0.0085,
+        "New Listing Count M/M": 0.0353,
+        "Price Increase Count M/M": -0.0502,
+        "Days on Market M/M": 0.0319
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Alabama",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": -0.0039,
+        "New Listing Count M/M": -0.1211,
+        "Price Increase Count M/M": 0.2733,
+        "Days on Market M/M": 0.0562
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Alabama",
+        "Median Listing Price": 189785,
+        "Median Listing Price M/M": -0.0009,
+        "New Listing Count M/M": -0.0041,
+        "Price Increase Count M/M": -0.3922,
+        "Days on Market M/M": 0.0289
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Alabama",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0048,
+        "New Listing Count M/M": -0.0974,
+        "Price Increase Count M/M": 0.0969,
+        "Days on Market M/M": 0.0176
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Alabama",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": 0.0222,
+        "New Listing Count M/M": 0.0585,
+        "Price Increase Count M/M": -0.0515,
+        "Days on Market M/M": -0.0341
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Alabama",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": 0.0278,
+        "New Listing Count M/M": -0.0655,
+        "Price Increase Count M/M": -0.0145,
+        "Days on Market M/M": -0.1737
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Alabama",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0283,
+        "New Listing Count M/M": 0.2063,
+        "Price Increase Count M/M": 0.122,
+        "Days on Market M/M": -0.0897
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Alabama",
+        "Median Listing Price": 175000,
+        "Median Listing Price M/M": 0.0066,
+        "New Listing Count M/M": -0.0077,
+        "Price Increase Count M/M": 0.0165,
+        "Days on Market M/M": -0.041
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Alabama",
+        "Median Listing Price": 173845,
+        "Median Listing Price M/M": -0.0029,
+        "New Listing Count M/M": 0.5053,
+        "Price Increase Count M/M": 0.5031,
+        "Days on Market M/M": 0.0427
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Alabama",
+        "Median Listing Price": 174350,
+        "Median Listing Price M/M": -0.0034,
+        "New Listing Count M/M": -0.1721,
+        "Price Increase Count M/M": -0.0852,
+        "Days on Market M/M": 0.0734
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Alabama",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.072,
+        "Price Increase Count M/M": -0.1852,
+        "Days on Market M/M": 0.0481
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Alabama",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0406,
+        "Price Increase Count M/M": 0.0237,
+        "Days on Market M/M": 0.0246
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Alabama",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.15,
+        "Price Increase Count M/M": 0.0765,
+        "Days on Market M/M": 0.0464
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Alabama",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.1766,
+        "Price Increase Count M/M": -0.2097,
+        "Days on Market M/M": 0.0601
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Alabama",
+        "Median Listing Price": 175050,
+        "Median Listing Price M/M": -0.0057,
+        "New Listing Count M/M": -0.0142,
+        "Price Increase Count M/M": 0.0877,
+        "Days on Market M/M": 0.0281
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Alabama",
+        "Median Listing Price": 176050,
+        "Median Listing Price M/M": -0.0084,
+        "New Listing Count M/M": 0.0123,
+        "Price Increase Count M/M": 0.1875,
+        "Days on Market M/M": -0.0111
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Alabama",
+        "Median Listing Price": 177550,
+        "Median Listing Price M/M": 0.0146,
+        "New Listing Count M/M": -0.051,
+        "Price Increase Count M/M": -0.2587,
+        "Days on Market M/M": -0.0323
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Alabama",
+        "Median Listing Price": 175000,
+        "Median Listing Price M/M": 0.0297,
+        "New Listing Count M/M": 0.0714,
+        "Price Increase Count M/M": 0.3351,
+        "Days on Market M/M": -0.1913
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Alabama",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0129,
+        "New Listing Count M/M": 0.0557,
+        "Price Increase Count M/M": 0.0211,
+        "Days on Market M/M": -0.0456
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Alabama",
+        "Median Listing Price": 167779,
+        "Median Listing Price M/M": 0.0168,
+        "New Listing Count M/M": -0.0039,
+        "Price Increase Count M/M": -0.1403,
+        "Days on Market M/M": -0.0321
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Alabama",
+        "Median Listing Price": 165000,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": 0.5432,
+        "Price Increase Count M/M": 0.2346,
+        "Days on Market M/M": 0.0205
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Alabama",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": -0.0237,
+        "New Listing Count M/M": -0.1669,
+        "Price Increase Count M/M": -0.0677,
+        "Days on Market M/M": 0.0702
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Alabama",
+        "Median Listing Price": 169050,
+        "Median Listing Price M/M": -0.0053,
+        "New Listing Count M/M": -0.0325,
+        "Price Increase Count M/M": -0.04,
+        "Days on Market M/M": 0.0459
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Alabama",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1436,
+        "Price Increase Count M/M": 0.2579,
+        "Days on Market M/M": 0.0381
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Alabama",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.065,
+        "Price Increase Count M/M": -0.343,
+        "Days on Market M/M": 0.0194
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Alabama",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0656,
+        "Price Increase Count M/M": 0.3297,
+        "Days on Market M/M": 0.0249
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Alabama",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0357,
+        "Price Increase Count M/M": -0.0421,
+        "Days on Market M/M": 0.0469
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Alabama",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0056,
+        "New Listing Count M/M": -0.0845,
+        "Price Increase Count M/M": -0.0995,
+        "Days on Market M/M": -0.0634
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Alabama",
+        "Median Listing Price": 169000,
+        "Median Listing Price M/M": 0.0153,
+        "New Listing Count M/M": -0.1293,
+        "Price Increase Count M/M": -0.0186,
+        "Days on Market M/M": -0.0766
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Alabama",
+        "Median Listing Price": 166450,
+        "Median Listing Price M/M": 0.0134,
+        "New Listing Count M/M": 0.003,
+        "Price Increase Count M/M": 0.0238,
+        "Days on Market M/M": -0.1527
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Alabama",
+        "Median Listing Price": 164250,
+        "Median Listing Price M/M": 0.0269,
+        "New Listing Count M/M": 0.227,
+        "Price Increase Count M/M": 0.2139,
+        "Days on Market M/M": -0.0332
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Alabama",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0136,
+        "Price Increase Count M/M": -0.2851,
+        "Days on Market M/M": 0.0188
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Alabama",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.4078,
+        "Price Increase Count M/M": 1.0167,
+        "Days on Market M/M": 0.064
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Alabama",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.227,
+        "Price Increase Count M/M": -0.3684,
+        "Days on Market M/M": 0.0684
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Alabama",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0813,
+        "Price Increase Count M/M": -0.3493,
+        "Days on Market M/M": 0.0541
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Alabama",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": -0.013,
+        "New Listing Count M/M": -0.0368,
+        "Price Increase Count M/M": 0.5699,
+        "Days on Market M/M": 0.0374
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Alabama",
+        "Median Listing Price": 162050,
+        "Median Listing Price M/M": -0.0152,
+        "New Listing Count M/M": -0.1186,
+        "Price Increase Count M/M": -0.2218,
+        "Days on Market M/M": 0.0338
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Alabama",
+        "Median Listing Price": 164550,
+        "Median Listing Price M/M": -0.0024,
+        "New Listing Count M/M": 0.0149,
+        "Price Increase Count M/M": 0.0766,
+        "Days on Market M/M": 0.0147
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Alabama",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.0849,
+        "Price Increase Count M/M": -0.0902,
+        "Days on Market M/M": 0.0099
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Alabama",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0006,
+        "New Listing Count M/M": 0.0505,
+        "Price Increase Count M/M": -0.0687,
+        "Days on Market M/M": 0.01
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Alabama",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0061,
+        "Price Increase Count M/M": -0.3921,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Alabama",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.0313,
+        "New Listing Count M/M": 0.0111,
+        "Price Increase Count M/M": 0.314,
+        "Days on Market M/M": -0.1525
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Alabama",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0232,
+        "Price Increase Count M/M": -0.3846,
+        "Days on Market M/M": -0.056
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Alabama",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": 0.0389,
+        "Price Increase Count M/M": 0.9888,
+        "Days on Market M/M": -0.0234
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Alabama",
+        "Median Listing Price": 159922,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": 0.3909,
+        "Price Increase Count M/M": 0.34,
+        "Days on Market M/M": 0.024
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Alabama",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1441,
+        "Price Increase Count M/M": 0.1628,
+        "Days on Market M/M": 0.0373
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Alabama",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0284,
+        "Price Increase Count M/M": -0.3835,
+        "Days on Market M/M": 0.0299
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Alabama",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": -0.0017,
+        "New Listing Count M/M": 0.0091,
+        "Price Increase Count M/M": 0.4381,
+        "Days on Market M/M": 0.0174
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Alabama",
+        "Median Listing Price": 160230,
+        "Median Listing Price M/M": -0.014,
+        "New Listing Count M/M": -0.1177,
+        "Price Increase Count M/M": -0.03,
+        "Days on Market M/M": 0.036
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Alabama",
+        "Median Listing Price": 162500,
+        "Median Listing Price M/M": -0.0088,
+        "New Listing Count M/M": -0.0368,
+        "Price Increase Count M/M": -0.0385,
+        "Days on Market M/M": 0.0278
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Alabama",
+        "Median Listing Price": 163950,
+        "Median Listing Price M/M": -0.0061,
+        "New Listing Count M/M": -0.0142,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": 0.0189
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Alabama",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.0027,
+        "New Listing Count M/M": -0.0514,
+        "Price Increase Count M/M": 0.0685,
+        "Days on Market M/M": 0.0242
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Alabama",
+        "Median Listing Price": 164500,
+        "Median Listing Price M/M": -0.0027,
+        "New Listing Count M/M": -0.0729,
+        "Price Increase Count M/M": -0.1344,
+        "Days on Market M/M": -0.019
+    }
+]

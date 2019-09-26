@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Georgia",
+        "Median Listing Price": 299900,
+        "Median Listing Price M/M": 0.0345,
+        "New Listing Count M/M": 0.064,
+        "Price Increase Count M/M": -0.2208,
+        "Days on Market M/M": -0.0702
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Georgia",
+        "Median Listing Price": 289900,
+        "Median Listing Price M/M": 0.0357,
+        "New Listing Count M/M": 0.0571,
+        "Price Increase Count M/M": 0.1381,
+        "Days on Market M/M": -0.2083
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Georgia",
+        "Median Listing Price": 279900,
+        "Median Listing Price M/M": 0.0134,
+        "New Listing Count M/M": 0.1064,
+        "Price Increase Count M/M": -0.0358,
+        "Days on Market M/M": -0.1
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Georgia",
+        "Median Listing Price": 276200,
+        "Median Listing Price M/M": -0.01,
+        "New Listing Count M/M": 0.3794,
+        "Price Increase Count M/M": 0.3886,
+        "Days on Market M/M": 0.0811
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Georgia",
+        "Median Listing Price": 279000,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.1989,
+        "Price Increase Count M/M": -0.1568,
+        "Days on Market M/M": 0.1045
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Georgia",
+        "Median Listing Price": 280000,
+        "Median Listing Price M/M": -0.0106,
+        "New Listing Count M/M": -0.1303,
+        "Price Increase Count M/M": -0.1835,
+        "Days on Market M/M": 0.0152
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Georgia",
+        "Median Listing Price": 283000,
+        "Median Listing Price M/M": -0.007,
+        "New Listing Count M/M": 0.0219,
+        "Price Increase Count M/M": 0.0792,
+        "Days on Market M/M": 0.0645
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Georgia",
+        "Median Listing Price": 285000,
+        "Median Listing Price M/M": -0.0104,
+        "New Listing Count M/M": -0.0841,
+        "Price Increase Count M/M": -0.0912,
+        "Days on Market M/M": 0.069
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Georgia",
+        "Median Listing Price": 288000,
+        "Median Listing Price M/M": -0.0089,
+        "New Listing Count M/M": -0.0516,
+        "Price Increase Count M/M": 0.013,
+        "Days on Market M/M": 0.0175
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Georgia",
+        "Median Listing Price": 290600,
+        "Median Listing Price M/M": -0.0149,
+        "New Listing Count M/M": -0.0284,
+        "Price Increase Count M/M": -0.1135,
+        "Days on Market M/M": 0.0364
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Georgia",
+        "Median Listing Price": 295000,
+        "Median Listing Price M/M": 0.0037,
+        "New Listing Count M/M": 0.0108,
+        "Price Increase Count M/M": -0.1954,
+        "Days on Market M/M": 0.0377
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Georgia",
+        "Median Listing Price": 293900,
+        "Median Listing Price M/M": 0.0152,
+        "New Listing Count M/M": 0.0291,
+        "Price Increase Count M/M": 0.0285,
+        "Days on Market M/M": -0.0185
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Georgia",
+        "Median Listing Price": 289500,
+        "Median Listing Price M/M": 0.047,
+        "New Listing Count M/M": 0.0129,
+        "Price Increase Count M/M": 0.0592,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Georgia",
+        "Median Listing Price": 276500,
+        "Median Listing Price M/M": 0.0245,
+        "New Listing Count M/M": 0.1188,
+        "Price Increase Count M/M": 0.0922,
+        "Days on Market M/M": -0.25
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Georgia",
+        "Median Listing Price": 269900,
+        "Median Listing Price M/M": 0.0173,
+        "New Listing Count M/M": 0.2601,
+        "Price Increase Count M/M": 0.2312,
+        "Days on Market M/M": -0.1111
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Georgia",
+        "Median Listing Price": 265300,
+        "Median Listing Price M/M": 0.0011,
+        "New Listing Count M/M": 0.2695,
+        "Price Increase Count M/M": 0.047,
+        "Days on Market M/M": 0.0658
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Georgia",
+        "Median Listing Price": 265000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2553,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Georgia",
+        "Median Listing Price": 265000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0632,
+        "Price Increase Count M/M": -0.0372,
+        "Days on Market M/M": 0.0286
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Georgia",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": 0.0229,
+        "Price Increase Count M/M": -0.0725,
+        "Days on Market M/M": 0.0606
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Georgia",
+        "Median Listing Price": 266015,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": -0.1554,
+        "Price Increase Count M/M": -0.0469,
+        "Days on Market M/M": 0.0476
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Georgia",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": -0.0021,
+        "New Listing Count M/M": -0.0421,
+        "Price Increase Count M/M": 0.3704,
+        "Days on Market M/M": 0.0328
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Georgia",
+        "Median Listing Price": 265615,
+        "Median Listing Price M/M": -0.0035,
+        "New Listing Count M/M": -0.0219,
+        "Price Increase Count M/M": -0.1154,
+        "Days on Market M/M": 0.0517
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Georgia",
+        "Median Listing Price": 266550,
+        "Median Listing Price M/M": 0.0097,
+        "New Listing Count M/M": -0.09,
+        "Price Increase Count M/M": 0.0837,
+        "Days on Market M/M": 0.0087
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Georgia",
+        "Median Listing Price": 264000,
+        "Median Listing Price M/M": 0.0157,
+        "New Listing Count M/M": 0.0848,
+        "Price Increase Count M/M": 0.0337,
+        "Days on Market M/M": -0.0086
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Georgia",
+        "Median Listing Price": 259926,
+        "Median Listing Price M/M": 0.0409,
+        "New Listing Count M/M": -0.0152,
+        "Price Increase Count M/M": 0.0467,
+        "Days on Market M/M": -0.0169
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Georgia",
+        "Median Listing Price": 249720,
+        "Median Listing Price M/M": 0.038,
+        "New Listing Count M/M": 0.1677,
+        "Price Increase Count M/M": -0.0278,
+        "Days on Market M/M": -0.1973
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Georgia",
+        "Median Listing Price": 240585,
+        "Median Listing Price M/M": 0.0107,
+        "New Listing Count M/M": 0.1352,
+        "Price Increase Count M/M": 0.3095,
+        "Days on Market M/M": -0.1145
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Georgia",
+        "Median Listing Price": 238050,
+        "Median Listing Price M/M": 0.0128,
+        "New Listing Count M/M": 0.3563,
+        "Price Increase Count M/M": 0.0646,
+        "Days on Market M/M": 0.044
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Georgia",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": -0.0167,
+        "New Listing Count M/M": -0.2128,
+        "Price Increase Count M/M": -0.0686,
+        "Days on Market M/M": 0.1042
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Georgia",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": -0.0025,
+        "New Listing Count M/M": -0.1109,
+        "Price Increase Count M/M": -0.262,
+        "Days on Market M/M": 0.0435
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Georgia",
+        "Median Listing Price": 239646,
+        "Median Listing Price M/M": 0.0014,
+        "New Listing Count M/M": -0.061,
+        "Price Increase Count M/M": 0.0135,
+        "Days on Market M/M": 0.0147
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Georgia",
+        "Median Listing Price": 239300,
+        "Median Listing Price M/M": 0.001,
+        "New Listing Count M/M": -0.0172,
+        "Price Increase Count M/M": 0.0766,
+        "Days on Market M/M": 0.0382
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Georgia",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": -0.0038,
+        "New Listing Count M/M": -0.0873,
+        "Price Increase Count M/M": -0.1328,
+        "Days on Market M/M": 0.0397
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Georgia",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": -0.0025,
+        "New Listing Count M/M": -0.0795,
+        "Price Increase Count M/M": -0.051,
+        "Days on Market M/M": 0.05
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Georgia",
+        "Median Listing Price": 240550,
+        "Median Listing Price M/M": 0.0025,
+        "New Listing Count M/M": -0.0055,
+        "Price Increase Count M/M": 0.0848,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Georgia",
+        "Median Listing Price": 239940,
+        "Median Listing Price M/M": 0.0421,
+        "New Listing Count M/M": -0.0029,
+        "Price Increase Count M/M": -0.0178,
+        "Days on Market M/M": -0.0252
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Georgia",
+        "Median Listing Price": 230250,
+        "Median Listing Price M/M": 0.0348,
+        "New Listing Count M/M": 0.0492,
+        "Price Increase Count M/M": 0.0949,
+        "Days on Market M/M": -0.0775
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Georgia",
+        "Median Listing Price": 222500,
+        "Median Listing Price M/M": 0.0301,
+        "New Listing Count M/M": 0.185,
+        "Price Increase Count M/M": 0.0327,
+        "Days on Market M/M": -0.2134
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Georgia",
+        "Median Listing Price": 216000,
+        "Median Listing Price M/M": 0.0283,
+        "New Listing Count M/M": 0.0952,
+        "Price Increase Count M/M": -0.0948,
+        "Days on Market M/M": -0.0682
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Georgia",
+        "Median Listing Price": 210050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3054,
+        "Price Increase Count M/M": 0.4447,
+        "Days on Market M/M": 0.0798
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Georgia",
+        "Median Listing Price": 210049,
+        "Median Listing Price M/M": -0.017,
+        "New Listing Count M/M": -0.1325,
+        "Price Increase Count M/M": 0.0076,
+        "Days on Market M/M": 0.1014
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Georgia",
+        "Median Listing Price": 213693,
+        "Median Listing Price M/M": -0.0058,
+        "New Listing Count M/M": -0.1449,
+        "Price Increase Count M/M": -0.1667,
+        "Days on Market M/M": 0.0571
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Georgia",
+        "Median Listing Price": 214950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0292,
+        "Price Increase Count M/M": 0.0406,
+        "Days on Market M/M": 0.0219
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Georgia",
+        "Median Listing Price": 214950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0805,
+        "Price Increase Count M/M": -0.228,
+        "Days on Market M/M": 0.0224
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Georgia",
+        "Median Listing Price": 214950,
+        "Median Listing Price M/M": -0.0121,
+        "New Listing Count M/M": -0.2248,
+        "Price Increase Count M/M": 0.2369,
+        "Days on Market M/M": 0.0308
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Georgia",
+        "Median Listing Price": 217585,
+        "Median Listing Price M/M": 0.0042,
+        "New Listing Count M/M": 0.0107,
+        "Price Increase Count M/M": -0.0897,
+        "Days on Market M/M": 0.0569
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Georgia",
+        "Median Listing Price": 216670,
+        "Median Listing Price M/M": 0.0075,
+        "New Listing Count M/M": -0.0157,
+        "Price Increase Count M/M": 0.1828,
+        "Days on Market M/M": 0.0082
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Georgia",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0289,
+        "New Listing Count M/M": 0.0455,
+        "Price Increase Count M/M": -0.1254,
+        "Days on Market M/M": -0.0758
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Georgia",
+        "Median Listing Price": 209000,
+        "Median Listing Price M/M": 0.0453,
+        "New Listing Count M/M": 0.0733,
+        "Price Increase Count M/M": 0.0295,
+        "Days on Market M/M": -0.0149
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Georgia",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0228,
+        "New Listing Count M/M": 0.0453,
+        "Price Increase Count M/M": 0.1604,
+        "Days on Market M/M": -0.2164
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Georgia",
+        "Median Listing Price": 195500,
+        "Median Listing Price M/M": 0.0042,
+        "New Listing Count M/M": 0.0757,
+        "Price Increase Count M/M": -0.007,
+        "Days on Market M/M": -0.0604
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Georgia",
+        "Median Listing Price": 194688,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": 0.4519,
+        "Price Increase Count M/M": 0.2011,
+        "Days on Market M/M": 0.04
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Georgia",
+        "Median Listing Price": 194727,
+        "Median Listing Price M/M": -0.0011,
+        "New Listing Count M/M": -0.2021,
+        "Price Increase Count M/M": -0.0694,
+        "Days on Market M/M": 0.0802
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Georgia",
+        "Median Listing Price": 194950,
+        "Median Listing Price M/M": -0.0157,
+        "New Listing Count M/M": -0.1464,
+        "Price Increase Count M/M": -0.1595,
+        "Days on Market M/M": 0.0318
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Georgia",
+        "Median Listing Price": 198050,
+        "Median Listing Price M/M": -0.005,
+        "New Listing Count M/M": 0.0451,
+        "Price Increase Count M/M": 0.0939,
+        "Days on Market M/M": 0.0397
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Georgia",
+        "Median Listing Price": 199050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0674,
+        "Price Increase Count M/M": -0.0908,
+        "Days on Market M/M": 0.0342
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Georgia",
+        "Median Listing Price": 199050,
+        "Median Listing Price M/M": -0.0045,
+        "New Listing Count M/M": -0.0308,
+        "Price Increase Count M/M": -0.0449,
+        "Days on Market M/M": 0.0735
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Georgia",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0045,
+        "New Listing Count M/M": -0.0408,
+        "Price Increase Count M/M": -0.0235,
+        "Days on Market M/M": 0.0303
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Georgia",
+        "Median Listing Price": 199050,
+        "Median Listing Price M/M": 0.033,
+        "New Listing Count M/M": -0.0091,
+        "Price Increase Count M/M": 0.0999,
+        "Days on Market M/M": -0.0294
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Georgia",
+        "Median Listing Price": 192700,
+        "Median Listing Price M/M": 0.0149,
+        "New Listing Count M/M": 0.0357,
+        "Price Increase Count M/M": -0.0176,
+        "Days on Market M/M": -0.0685
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Georgia",
+        "Median Listing Price": 189875,
+        "Median Listing Price M/M": 0.0266,
+        "New Listing Count M/M": -0.0401,
+        "Price Increase Count M/M": 0.01,
+        "Days on Market M/M": -0.1205
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Georgia",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": 0.0278,
+        "New Listing Count M/M": 0.2867,
+        "Price Increase Count M/M": 0.2977,
+        "Days on Market M/M": -0.1354
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Georgia",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0079,
+        "New Listing Count M/M": -0.0263,
+        "Price Increase Count M/M": -0.2519,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Georgia",
+        "Median Listing Price": 178532,
+        "Median Listing Price M/M": -0.0041,
+        "New Listing Count M/M": 0.4114,
+        "Price Increase Count M/M": 0.7519,
+        "Days on Market M/M": 0.0787
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Georgia",
+        "Median Listing Price": 179275,
+        "Median Listing Price M/M": -0.0038,
+        "New Listing Count M/M": -0.2723,
+        "Price Increase Count M/M": -0.2826,
+        "Days on Market M/M": 0.0788
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Georgia",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0009,
+        "Price Increase Count M/M": -0.1122,
+        "Days on Market M/M": 0.0185
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Georgia",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0012,
+        "Price Increase Count M/M": 0.0184,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Georgia",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.0519,
+        "Price Increase Count M/M": -0.1441,
+        "Days on Market M/M": 0.0658
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Georgia",
+        "Median Listing Price": 180000,
+        "Median Listing Price M/M": -0.0137,
+        "New Listing Count M/M": -0.0307,
+        "Price Increase Count M/M": 0.2731,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Georgia",
+        "Median Listing Price": 182500,
+        "Median Listing Price M/M": 0.0136,
+        "New Listing Count M/M": -0.0632,
+        "Price Increase Count M/M": -0.1511,
+        "Days on Market M/M": 0.027
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Georgia",
+        "Median Listing Price": 180050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": 0.0013,
+        "Price Increase Count M/M": 0.1282,
+        "Days on Market M/M": 0.0137
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Georgia",
+        "Median Listing Price": 179999,
+        "Median Listing Price M/M": 0.0095,
+        "New Listing Count M/M": 0.0108,
+        "Price Increase Count M/M": -0.1353,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Georgia",
+        "Median Listing Price": 178300,
+        "Median Listing Price M/M": 0.0191,
+        "New Listing Count M/M": -0.0791,
+        "Price Increase Count M/M": 0.1564,
+        "Days on Market M/M": -0.0395
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Georgia",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": 0.0322,
+        "New Listing Count M/M": 0.1782,
+        "Price Increase Count M/M": -0.0127,
+        "Days on Market M/M": -0.24
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Georgia",
+        "Median Listing Price": 169500,
+        "Median Listing Price M/M": -0.0062,
+        "New Listing Count M/M": 0.0034,
+        "Price Increase Count M/M": 0.0604,
+        "Days on Market M/M": -0.0196
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Georgia",
+        "Median Listing Price": 170550,
+        "Median Listing Price M/M": -0.0195,
+        "New Listing Count M/M": 0.3662,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": 0.02
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Georgia",
+        "Median Listing Price": 173950,
+        "Median Listing Price M/M": -0.0057,
+        "New Listing Count M/M": -0.1042,
+        "Price Increase Count M/M": 0.0017,
+        "Days on Market M/M": 0.0256
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Georgia",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": 0.0011,
+        "New Listing Count M/M": -0.1056,
+        "Price Increase Count M/M": -0.0718,
+        "Days on Market M/M": 0.0052
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Georgia",
+        "Median Listing Price": 174750,
+        "Median Listing Price M/M": 0.0163,
+        "New Listing Count M/M": -0.0302,
+        "Price Increase Count M/M": 0.0272,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Georgia",
+        "Median Listing Price": 171950,
+        "Median Listing Price M/M": 0.0118,
+        "New Listing Count M/M": -0.0484,
+        "Price Increase Count M/M": 0.0297,
+        "Days on Market M/M": 0.0157
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Georgia",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0371,
+        "Price Increase Count M/M": 0.0632,
+        "Days on Market M/M": 0.0495
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Georgia",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0891,
+        "Price Increase Count M/M": -0.0952,
+        "Days on Market M/M": 0.0581
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Georgia",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0116,
+        "New Listing Count M/M": 0.0082,
+        "Price Increase Count M/M": -0.0749,
+        "Days on Market M/M": 0.0424
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Georgia",
+        "Median Listing Price": 168000,
+        "Median Listing Price M/M": 0.0179,
+        "New Listing Count M/M": -0.1273,
+        "Price Increase Count M/M": 0.0775,
+        "Days on Market M/M": 0.0061
+    }
+]

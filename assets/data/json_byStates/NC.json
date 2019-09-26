@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "North Carolina",
+        "Median Listing Price": 295000,
+        "Median Listing Price M/M": 0.0176,
+        "New Listing Count M/M": 0.0526,
+        "Price Increase Count M/M": 0.1354,
+        "Days on Market M/M": -0.1977
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "North Carolina",
+        "Median Listing Price": 289900,
+        "Median Listing Price M/M": 0.0357,
+        "New Listing Count M/M": 0.1864,
+        "Price Increase Count M/M": -0.0352,
+        "Days on Market M/M": -0.1731
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "North Carolina",
+        "Median Listing Price": 279900,
+        "Median Listing Price M/M": 0.0032,
+        "New Listing Count M/M": 0.0976,
+        "Price Increase Count M/M": 0.166,
+        "Days on Market M/M": -0.0459
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "North Carolina",
+        "Median Listing Price": 279000,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": 0.5379,
+        "Price Increase Count M/M": 0.3838,
+        "Days on Market M/M": 0.0187
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "North Carolina",
+        "Median Listing Price": 278000,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.3191,
+        "Price Increase Count M/M": -0.3058,
+        "Days on Market M/M": 0.1383
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "North Carolina",
+        "Median Listing Price": 279000,
+        "Median Listing Price M/M": 0.0072,
+        "New Listing Count M/M": -0.1046,
+        "Price Increase Count M/M": -0.06,
+        "Days on Market M/M": 0.033
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "North Carolina",
+        "Median Listing Price": 277000,
+        "Median Listing Price M/M": -0.0068,
+        "New Listing Count M/M": 0.0559,
+        "Price Increase Count M/M": 0.2656,
+        "Days on Market M/M": 0.0581
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "North Carolina",
+        "Median Listing Price": 278900,
+        "Median Listing Price M/M": 0.0094,
+        "New Listing Count M/M": -0.2085,
+        "Price Increase Count M/M": -0.1825,
+        "Days on Market M/M": 0.0886
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "North Carolina",
+        "Median Listing Price": 276300,
+        "Median Listing Price M/M": -0.0302,
+        "New Listing Count M/M": -0.0385,
+        "Price Increase Count M/M": -0.1821,
+        "Days on Market M/M": 0.0972
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "North Carolina",
+        "Median Listing Price": 284900,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0121,
+        "Price Increase Count M/M": -0.0318,
+        "Days on Market M/M": 0.0746
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "North Carolina",
+        "Median Listing Price": 285000,
+        "Median Listing Price M/M": 0.0179,
+        "New Listing Count M/M": -0.1037,
+        "Price Increase Count M/M": -0.0362,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "North Carolina",
+        "Median Listing Price": 280000,
+        "Median Listing Price M/M": 0.0182,
+        "New Listing Count M/M": 0.0921,
+        "Price Increase Count M/M": 0.1184,
+        "Days on Market M/M": -0.0694
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "North Carolina",
+        "Median Listing Price": 275000,
+        "Median Listing Price M/M": 0.0185,
+        "New Listing Count M/M": 0.0393,
+        "Price Increase Count M/M": 0.0422,
+        "Days on Market M/M": -0.1429
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "North Carolina",
+        "Median Listing Price": 270000,
+        "Median Listing Price M/M": 0.0286,
+        "New Listing Count M/M": 0.1109,
+        "Price Increase Count M/M": 0.0336,
+        "Days on Market M/M": -0.1683
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "North Carolina",
+        "Median Listing Price": 262500,
+        "Median Listing Price M/M": -0.0274,
+        "New Listing Count M/M": 0.2624,
+        "Price Increase Count M/M": -0.0928,
+        "Days on Market M/M": -0.0561
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "North Carolina",
+        "Median Listing Price": 269900,
+        "Median Listing Price M/M": 0.0147,
+        "New Listing Count M/M": 0.3507,
+        "Price Increase Count M/M": 0.7951,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "North Carolina",
+        "Median Listing Price": 266000,
+        "Median Listing Price M/M": -0.0112,
+        "New Listing Count M/M": -0.2779,
+        "Price Increase Count M/M": -0.2989,
+        "Days on Market M/M": 0.1263
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "North Carolina",
+        "Median Listing Price": 269000,
+        "Median Listing Price M/M": -0.0033,
+        "New Listing Count M/M": -0.0883,
+        "Price Increase Count M/M": 0.0276,
+        "Days on Market M/M": 0.0326
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "North Carolina",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0026,
+        "New Listing Count M/M": -0.0477,
+        "Price Increase Count M/M": 0.0972,
+        "Days on Market M/M": 0.0514
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "North Carolina",
+        "Median Listing Price": 269261,
+        "Median Listing Price M/M": 0.0008,
+        "New Listing Count M/M": -0.0972,
+        "Price Increase Count M/M": -0.1079,
+        "Days on Market M/M": 0.0542
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "North Carolina",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": 0.0269,
+        "New Listing Count M/M": -0.0427,
+        "Price Increase Count M/M": -0.1263,
+        "Days on Market M/M": 0.0122
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "North Carolina",
+        "Median Listing Price": 262000,
+        "Median Listing Price M/M": 0.0277,
+        "New Listing Count M/M": -0.0409,
+        "Price Increase Count M/M": 0.1716,
+        "Days on Market M/M": 0.0314
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "North Carolina",
+        "Median Listing Price": 254950,
+        "Median Listing Price M/M": -0.0269,
+        "New Listing Count M/M": -0.0664,
+        "Price Increase Count M/M": -0.1536,
+        "Days on Market M/M": 0.0461
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "North Carolina",
+        "Median Listing Price": 262000,
+        "Median Listing Price M/M": 0.0079,
+        "New Listing Count M/M": 0.0524,
+        "Price Increase Count M/M": -0.0611,
+        "Days on Market M/M": 0.0133
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "North Carolina",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": 0.0397,
+        "New Listing Count M/M": 0.0128,
+        "Price Increase Count M/M": -0.2035,
+        "Days on Market M/M": -0.2188
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "North Carolina",
+        "Median Listing Price": 250025,
+        "Median Listing Price M/M": 0.0205,
+        "New Listing Count M/M": 0.1274,
+        "Price Increase Count M/M": 0.5085,
+        "Days on Market M/M": -0.1688
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "North Carolina",
+        "Median Listing Price": 245000,
+        "Median Listing Price M/M": 0.0206,
+        "New Listing Count M/M": 0.3222,
+        "Price Increase Count M/M": 0.1395,
+        "Days on Market M/M": -0.0455
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "North Carolina",
+        "Median Listing Price": 240050,
+        "Median Listing Price M/M": -0.0021,
+        "New Listing Count M/M": 0.2249,
+        "Price Increase Count M/M": 0.1827,
+        "Days on Market M/M": 0.0522
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "North Carolina",
+        "Median Listing Price": 240550,
+        "Median Listing Price M/M": -0.0182,
+        "New Listing Count M/M": -0.2245,
+        "Price Increase Count M/M": -0.1166,
+        "Days on Market M/M": 0.09
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "North Carolina",
+        "Median Listing Price": 245000,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.1096,
+        "Price Increase Count M/M": 0.009,
+        "Days on Market M/M": 0.0446
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "North Carolina",
+        "Median Listing Price": 245050,
+        "Median Listing Price M/M": 0.0666,
+        "New Listing Count M/M": -0.1018,
+        "Price Increase Count M/M": 0.0807,
+        "Days on Market M/M": -0.0194
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "North Carolina",
+        "Median Listing Price": 229750,
+        "Median Listing Price M/M": -0.0427,
+        "New Listing Count M/M": -0.0183,
+        "Price Increase Count M/M": -0.1949,
+        "Days on Market M/M": 0.1638
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "North Carolina",
+        "Median Listing Price": 240000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.1053,
+        "Price Increase Count M/M": 0.041,
+        "Days on Market M/M": 0.1063
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "North Carolina",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.056,
+        "Price Increase Count M/M": -0.0912,
+        "Days on Market M/M": 0.0884
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "North Carolina",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0096,
+        "New Listing Count M/M": -0.0603,
+        "Price Increase Count M/M": -0.1449,
+        "Days on Market M/M": -0.0068
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "North Carolina",
+        "Median Listing Price": 237670,
+        "Median Listing Price M/M": 0.0333,
+        "New Listing Count M/M": -0.0411,
+        "Price Increase Count M/M": 0.0278,
+        "Days on Market M/M": 0.0207
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "North Carolina",
+        "Median Listing Price": 230000,
+        "Median Listing Price M/M": 0.0222,
+        "New Listing Count M/M": 0.065,
+        "Price Increase Count M/M": -0.0363,
+        "Days on Market M/M": -0.2246
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "North Carolina",
+        "Median Listing Price": 225000,
+        "Median Listing Price M/M": 0.023,
+        "New Listing Count M/M": 0.251,
+        "Price Increase Count M/M": 0.0856,
+        "Days on Market M/M": -0.1422
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "North Carolina",
+        "Median Listing Price": 219950,
+        "Median Listing Price M/M": 0.0228,
+        "New Listing Count M/M": 0.2472,
+        "Price Increase Count M/M": 0.3273,
+        "Days on Market M/M": -0.1066
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "North Carolina",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1904,
+        "Price Increase Count M/M": 0.1579,
+        "Days on Market M/M": 0.0339
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "North Carolina",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0312,
+        "New Listing Count M/M": -0.1973,
+        "Price Increase Count M/M": -0.2245,
+        "Days on Market M/M": 0.3721
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "North Carolina",
+        "Median Listing Price": 208550,
+        "Median Listing Price M/M": -0.0381,
+        "New Listing Count M/M": -0.1604,
+        "Price Increase Count M/M": 0.0889,
+        "Days on Market M/M": -0.0703
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "North Carolina",
+        "Median Listing Price": 216800,
+        "Median Listing Price M/M": -0.0103,
+        "New Listing Count M/M": -0.0803,
+        "Price Increase Count M/M": -0.0405,
+        "Days on Market M/M": -0.0976
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "North Carolina",
+        "Median Listing Price": 219050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0385,
+        "Price Increase Count M/M": -0.1858,
+        "Days on Market M/M": 0.0567
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "North Carolina",
+        "Median Listing Price": 219050,
+        "Median Listing Price M/M": -0.0041,
+        "New Listing Count M/M": -0.1801,
+        "Price Increase Count M/M": 0.1684,
+        "Days on Market M/M": 0.0838
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "North Carolina",
+        "Median Listing Price": 219950,
+        "Median Listing Price M/M": 0.0018,
+        "New Listing Count M/M": -0.0101,
+        "Price Increase Count M/M": -0.0987,
+        "Days on Market M/M": 0.0347
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "North Carolina",
+        "Median Listing Price": 219550,
+        "Median Listing Price M/M": 0.0037,
+        "New Listing Count M/M": -0.0202,
+        "Price Increase Count M/M": 0.0853,
+        "Days on Market M/M": -0.017
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "North Carolina",
+        "Median Listing Price": 218735,
+        "Median Listing Price M/M": 0.0221,
+        "New Listing Count M/M": -0.0242,
+        "Price Increase Count M/M": -0.0418,
+        "Days on Market M/M": -0.0737
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "North Carolina",
+        "Median Listing Price": 214000,
+        "Median Listing Price M/M": 0.0344,
+        "New Listing Count M/M": 0.113,
+        "Price Increase Count M/M": -0.0113,
+        "Days on Market M/M": -0.24
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "North Carolina",
+        "Median Listing Price": 206878,
+        "Median Listing Price M/M": 0.0346,
+        "New Listing Count M/M": 0.1299,
+        "Price Increase Count M/M": -0.0345,
+        "Days on Market M/M": -0.0347
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "North Carolina",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0045,
+        "New Listing Count M/M": 0.0275,
+        "Price Increase Count M/M": 0.1926,
+        "Days on Market M/M": -0.0077
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "North Carolina",
+        "Median Listing Price": 199050,
+        "Median Listing Price M/M": -0.004,
+        "New Listing Count M/M": 0.4357,
+        "Price Increase Count M/M": 0.3088,
+        "Days on Market M/M": 0.0235
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "North Carolina",
+        "Median Listing Price": 199850,
+        "Median Listing Price M/M": -0.001,
+        "New Listing Count M/M": -0.1742,
+        "Price Increase Count M/M": -0.1262,
+        "Days on Market M/M": 0.0805
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "North Carolina",
+        "Median Listing Price": 200050,
+        "Median Listing Price M/M": -0.023,
+        "New Listing Count M/M": -0.149,
+        "Price Increase Count M/M": 0.0125,
+        "Days on Market M/M": 0.0442
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "North Carolina",
+        "Median Listing Price": 204750,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": -0.0321,
+        "Price Increase Count M/M": -0.167,
+        "Days on Market M/M": 0.0415
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "North Carolina",
+        "Median Listing Price": 205050,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": -0.0402,
+        "Price Increase Count M/M": -0.0788,
+        "Days on Market M/M": 0.0637
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "North Carolina",
+        "Median Listing Price": 204950,
+        "Median Listing Price M/M": 0.0049,
+        "New Listing Count M/M": -0.075,
+        "Price Increase Count M/M": -0.0731,
+        "Days on Market M/M": 0.0737
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "North Carolina",
+        "Median Listing Price": 203950,
+        "Median Listing Price M/M": 0.0195,
+        "New Listing Count M/M": -0.0394,
+        "Price Increase Count M/M": 0.0506,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "North Carolina",
+        "Median Listing Price": 200050,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": -0.1141,
+        "Price Increase Count M/M": -0.0238,
+        "Days on Market M/M": -0.0476
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "North Carolina",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0023,
+        "New Listing Count M/M": 0.0352,
+        "Price Increase Count M/M": -0.0838,
+        "Days on Market M/M": -0.125
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "North Carolina",
+        "Median Listing Price": 199488,
+        "Median Listing Price M/M": 0.0228,
+        "New Listing Count M/M": 0.0349,
+        "Price Increase Count M/M": -0.0554,
+        "Days on Market M/M": -0.1692
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "North Carolina",
+        "Median Listing Price": 195050,
+        "Median Listing Price M/M": 0.0196,
+        "New Listing Count M/M": 0.2413,
+        "Price Increase Count M/M": 0.2515,
+        "Days on Market M/M": -0.0335
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "North Carolina",
+        "Median Listing Price": 191300,
+        "Median Listing Price M/M": 0.0071,
+        "New Listing Count M/M": 0.0204,
+        "Price Increase Count M/M": 0.1075,
+        "Days on Market M/M": 0.0151
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "North Carolina",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": 0.4071,
+        "Price Increase Count M/M": 0.3571,
+        "Days on Market M/M": 0.06
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "North Carolina",
+        "Median Listing Price": 190050,
+        "Median Listing Price M/M": -0.0241,
+        "New Listing Count M/M": -0.2174,
+        "Price Increase Count M/M": -0.2168,
+        "Days on Market M/M": 0.073
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "North Carolina",
+        "Median Listing Price": 194750,
+        "Median Listing Price M/M": -0.0142,
+        "New Listing Count M/M": -0.1007,
+        "Price Increase Count M/M": -0.0138,
+        "Days on Market M/M": 0.013
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "North Carolina",
+        "Median Listing Price": 197550,
+        "Median Listing Price M/M": -0.0025,
+        "New Listing Count M/M": -0.04,
+        "Price Increase Count M/M": -0.1761,
+        "Days on Market M/M": 0.0455
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "North Carolina",
+        "Median Listing Price": 198050,
+        "Median Listing Price M/M": -0.0035,
+        "New Listing Count M/M": -0.0535,
+        "Price Increase Count M/M": -0.0943,
+        "Days on Market M/M": 0.0427
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "North Carolina",
+        "Median Listing Price": 198750,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": -0.0249,
+        "Price Increase Count M/M": 0.1409,
+        "Days on Market M/M": 0.0394
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "North Carolina",
+        "Median Listing Price": 199050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0197,
+        "Price Increase Count M/M": -0.1159,
+        "Days on Market M/M": 0.0573
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "North Carolina",
+        "Median Listing Price": 199050,
+        "Median Listing Price M/M": 0.0101,
+        "New Listing Count M/M": -0.0702,
+        "Price Increase Count M/M": -0.0586,
+        "Days on Market M/M": 0.0323
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "North Carolina",
+        "Median Listing Price": 197050,
+        "Median Listing Price M/M": 0.0142,
+        "New Listing Count M/M": -0.0049,
+        "Price Increase Count M/M": -0.1543,
+        "Days on Market M/M": -0.0211
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "North Carolina",
+        "Median Listing Price": 194300,
+        "Median Listing Price M/M": 0.0229,
+        "New Listing Count M/M": 0.0255,
+        "Price Increase Count M/M": 0.1524,
+        "Days on Market M/M": -0.2149
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "North Carolina",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.024,
+        "New Listing Count M/M": 0.1025,
+        "Price Increase Count M/M": -0.1286,
+        "Days on Market M/M": -0.0936
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "North Carolina",
+        "Median Listing Price": 185500,
+        "Median Listing Price M/M": 0.0041,
+        "New Listing Count M/M": 0.0704,
+        "Price Increase Count M/M": 0.3824,
+        "Days on Market M/M": -0.0184
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "North Carolina",
+        "Median Listing Price": 184750,
+        "Median Listing Price M/M": -0.0011,
+        "New Listing Count M/M": 0.4922,
+        "Price Increase Count M/M": 0.3141,
+        "Days on Market M/M": 0.0149
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "North Carolina",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": -0.0096,
+        "New Listing Count M/M": -0.1707,
+        "Price Increase Count M/M": 0.1117,
+        "Days on Market M/M": 0.019
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "North Carolina",
+        "Median Listing Price": 186750,
+        "Median Listing Price M/M": -0.0122,
+        "New Listing Count M/M": -0.0888,
+        "Price Increase Count M/M": -0.0428,
+        "Days on Market M/M": 0.0154
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "North Carolina",
+        "Median Listing Price": 189050,
+        "Median Listing Price M/M": -0.0045,
+        "New Listing Count M/M": -0.0103,
+        "Price Increase Count M/M": -0.0833,
+        "Days on Market M/M": 0.0117
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "North Carolina",
+        "Median Listing Price": 189912,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.0303,
+        "Price Increase Count M/M": 0.0025,
+        "Days on Market M/M": 0.0579
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "North Carolina",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0365,
+        "Price Increase Count M/M": 0.0383,
+        "Days on Market M/M": 0.0614
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "North Carolina",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": -0.0029,
+        "New Listing Count M/M": -0.0307,
+        "Price Increase Count M/M": 0.0129,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "North Carolina",
+        "Median Listing Price": 190500,
+        "Median Listing Price M/M": 0.0024,
+        "New Listing Count M/M": -0.1078,
+        "Price Increase Count M/M": -0.1342,
+        "Days on Market M/M": 0.0237
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "North Carolina",
+        "Median Listing Price": 190050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0352,
+        "Price Increase Count M/M": -0.0132,
+        "Days on Market M/M": -0.0495
+    }
+]

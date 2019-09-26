@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Missouri",
+        "Median Listing Price": 199900,
+        "Median Listing Price M/M": 0.0257,
+        "New Listing Count M/M": 0.1561,
+        "Price Increase Count M/M": -0.0989,
+        "Days on Market M/M": -0.1899
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Missouri",
+        "Median Listing Price": 194900,
+        "Median Listing Price M/M": 0.0263,
+        "New Listing Count M/M": 0.308,
+        "Price Increase Count M/M": 0.3582,
+        "Days on Market M/M": -0.1771
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Missouri",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": 0.0171,
+        "New Listing Count M/M": 0.0564,
+        "Price Increase Count M/M": 0.1074,
+        "Days on Market M/M": 0.0213
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Missouri",
+        "Median Listing Price": 186700,
+        "Median Listing Price M/M": -0.0116,
+        "New Listing Count M/M": 0.1996,
+        "Price Increase Count M/M": 0.8906,
+        "Days on Market M/M": 0.093
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Missouri",
+        "Median Listing Price": 188900,
+        "Median Listing Price M/M": -0.0053,
+        "New Listing Count M/M": -0.2305,
+        "Price Increase Count M/M": -0.2727,
+        "Days on Market M/M": 0.1781
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Missouri",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1742,
+        "Price Increase Count M/M": -0.2,
+        "Days on Market M/M": 0.0429
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Missouri",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.0589,
+        "Price Increase Count M/M": -0.1791,
+        "Days on Market M/M": 0.0606
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Missouri",
+        "Median Listing Price": 190000,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": -0.0885,
+        "Price Increase Count M/M": -0.141,
+        "Days on Market M/M": 0.082
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Missouri",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": -0.0109,
+        "New Listing Count M/M": -0.0694,
+        "Price Increase Count M/M": 0.1143,
+        "Days on Market M/M": 0.0339
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Missouri",
+        "Median Listing Price": 192000,
+        "Median Listing Price M/M": 0.0105,
+        "New Listing Count M/M": -0.0169,
+        "Price Increase Count M/M": -0.2,
+        "Days on Market M/M": 0.0536
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Missouri",
+        "Median Listing Price": 190000,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": 0.0107,
+        "Price Increase Count M/M": -0.359,
+        "Days on Market M/M": -0.0175
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Missouri",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": 0.0128,
+        "New Listing Count M/M": 0.0136,
+        "Price Increase Count M/M": 0.0664,
+        "Days on Market M/M": -0.0339
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Missouri",
+        "Median Listing Price": 187500,
+        "Median Listing Price M/M": 0.0422,
+        "New Listing Count M/M": 0.0624,
+        "Price Increase Count M/M": 0.4971,
+        "Days on Market M/M": -0.1194
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Missouri",
+        "Median Listing Price": 179900,
+        "Median Listing Price M/M": 0.0204,
+        "New Listing Count M/M": 0.2548,
+        "Price Increase Count M/M": 0.0491,
+        "Days on Market M/M": -0.2637
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Missouri",
+        "Median Listing Price": 176300,
+        "Median Listing Price M/M": 0.008,
+        "New Listing Count M/M": 0.2218,
+        "Price Increase Count M/M": -0.0578,
+        "Days on Market M/M": -0.0215
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Missouri",
+        "Median Listing Price": 174900,
+        "Median Listing Price M/M": 0.011,
+        "New Listing Count M/M": 0.1464,
+        "Price Increase Count M/M": 0.291,
+        "Days on Market M/M": 0.0814
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Missouri",
+        "Median Listing Price": 173000,
+        "Median Listing Price M/M": -0.0114,
+        "New Listing Count M/M": -0.2463,
+        "Price Increase Count M/M": 0.1964,
+        "Days on Market M/M": 0.1467
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Missouri",
+        "Median Listing Price": 175000,
+        "Median Listing Price M/M": -0.0113,
+        "New Listing Count M/M": -0.0787,
+        "Price Increase Count M/M": -0.1642,
+        "Days on Market M/M": 0.0135
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Missouri",
+        "Median Listing Price": 177049,
+        "Median Listing Price M/M": -0.0014,
+        "New Listing Count M/M": -0.0968,
+        "Price Increase Count M/M": -0.1067,
+        "Days on Market M/M": 0.0882
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Missouri",
+        "Median Listing Price": 177300,
+        "Median Listing Price M/M": -0.0067,
+        "New Listing Count M/M": -0.0684,
+        "Price Increase Count M/M": 0.0274,
+        "Days on Market M/M": 0.0462
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Missouri",
+        "Median Listing Price": 178500,
+        "Median Listing Price M/M": -0.0081,
+        "New Listing Count M/M": -0.0992,
+        "Price Increase Count M/M": -0.1098,
+        "Days on Market M/M": 0.0317
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Missouri",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0092,
+        "Price Increase Count M/M": -0.0061,
+        "Days on Market M/M": 0.0161
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Missouri",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0054,
+        "New Listing Count M/M": -0.0083,
+        "Price Increase Count M/M": 0.1379,
+        "Days on Market M/M": 0.0248
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Missouri",
+        "Median Listing Price": 178987,
+        "Median Listing Price M/M": 0.0269,
+        "New Listing Count M/M": 0.0448,
+        "Price Increase Count M/M": -0.0068,
+        "Days on Market M/M": -0.0082
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Missouri",
+        "Median Listing Price": 174295,
+        "Median Listing Price M/M": 0.0465,
+        "New Listing Count M/M": 0.0284,
+        "Price Increase Count M/M": -0.0135,
+        "Days on Market M/M": -0.1223
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Missouri",
+        "Median Listing Price": 166550,
+        "Median Listing Price M/M": 0.0413,
+        "New Listing Count M/M": 0.1104,
+        "Price Increase Count M/M": -0.2525,
+        "Days on Market M/M": -0.2606
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Missouri",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.012,
+        "New Listing Count M/M": 0.3806,
+        "Price Increase Count M/M": 0.2532,
+        "Days on Market M/M": -0.0309
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Missouri",
+        "Median Listing Price": 158050,
+        "Median Listing Price M/M": -0.0078,
+        "New Listing Count M/M": 0.1879,
+        "Price Increase Count M/M": 0.5192,
+        "Days on Market M/M": 0.1023
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Missouri",
+        "Median Listing Price": 159300,
+        "Median Listing Price M/M": -0.0044,
+        "New Listing Count M/M": -0.2494,
+        "Price Increase Count M/M": -0.0957,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Missouri",
+        "Median Listing Price": 159999,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.1137,
+        "Price Increase Count M/M": -0.3235,
+        "Days on Market M/M": 0.0313
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Missouri",
+        "Median Listing Price": 160050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.071,
+        "Price Increase Count M/M": 0.0897,
+        "Days on Market M/M": 0.0127
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Missouri",
+        "Median Listing Price": 160000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0262,
+        "Price Increase Count M/M": 0.4054,
+        "Days on Market M/M": 0.0464
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Missouri",
+        "Median Listing Price": 160000,
+        "Median Listing Price M/M": -0.012,
+        "New Listing Count M/M": -0.0677,
+        "Price Increase Count M/M": -0.4764,
+        "Days on Market M/M": 0.0342
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Missouri",
+        "Median Listing Price": 161950,
+        "Median Listing Price M/M": -0.0182,
+        "New Listing Count M/M": -0.0492,
+        "Price Increase Count M/M": 0.0047,
+        "Days on Market M/M": 0.0977
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Missouri",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.048,
+        "Price Increase Count M/M": 0.1344,
+        "Days on Market M/M": 0.0231
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Missouri",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.0313,
+        "New Listing Count M/M": -0.0647,
+        "Price Increase Count M/M": -0.1696,
+        "Days on Market M/M": -0.0076
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Missouri",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0319,
+        "New Listing Count M/M": 0.0805,
+        "Price Increase Count M/M": -0.0549,
+        "Days on Market M/M": -0.1088
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Missouri",
+        "Median Listing Price": 155000,
+        "Median Listing Price M/M": 0.0337,
+        "New Listing Count M/M": 0.1909,
+        "Price Increase Count M/M": 0.896,
+        "Days on Market M/M": -0.265
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Missouri",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.006,
+        "New Listing Count M/M": 0.1835,
+        "Price Increase Count M/M": -0.4104,
+        "Days on Market M/M": -0.0196
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Missouri",
+        "Median Listing Price": 149050,
+        "Median Listing Price M/M": -0.003,
+        "New Listing Count M/M": 0.4116,
+        "Price Increase Count M/M": 0.8435,
+        "Days on Market M/M": 0.0681
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Missouri",
+        "Median Listing Price": 149500,
+        "Median Listing Price M/M": -0.003,
+        "New Listing Count M/M": -0.2532,
+        "Price Increase Count M/M": -0.1418,
+        "Days on Market M/M": 0.0977
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Missouri",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": -0.1766,
+        "Price Increase Count M/M": -0.0219,
+        "Days on Market M/M": 0.0482
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Missouri",
+        "Median Listing Price": 150050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1089,
+        "Price Increase Count M/M": 0.1048,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Missouri",
+        "Median Listing Price": 150050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0225,
+        "Price Increase Count M/M": -0.1507,
+        "Days on Market M/M": 0.0247
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Missouri",
+        "Median Listing Price": 150050,
+        "Median Listing Price M/M": -0.0316,
+        "New Listing Count M/M": -0.1439,
+        "Price Increase Count M/M": -0.1512,
+        "Days on Market M/M": 0.0728
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Missouri",
+        "Median Listing Price": 154950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0616,
+        "Price Increase Count M/M": 0.0361,
+        "Days on Market M/M": 0.0634
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Missouri",
+        "Median Listing Price": 154950,
+        "Median Listing Price M/M": 0.0131,
+        "New Listing Count M/M": -0.0167,
+        "Price Increase Count M/M": -0.0568,
+        "Days on Market M/M": 0.0758
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Missouri",
+        "Median Listing Price": 152950,
+        "Median Listing Price M/M": 0.0197,
+        "New Listing Count M/M": -0.0102,
+        "Price Increase Count M/M": -0.0538,
+        "Days on Market M/M": -0.0365
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Missouri",
+        "Median Listing Price": 149999,
+        "Median Listing Price M/M": 0.0064,
+        "New Listing Count M/M": 0.0627,
+        "Price Increase Count M/M": 0.069,
+        "Days on Market M/M": -0.1747
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Missouri",
+        "Median Listing Price": 149050,
+        "Median Listing Price M/M": 0.0297,
+        "New Listing Count M/M": 0.2617,
+        "Price Increase Count M/M": 0.1083,
+        "Days on Market M/M": -0.1741
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Missouri",
+        "Median Listing Price": 144750,
+        "Median Listing Price M/M": 0.0339,
+        "New Listing Count M/M": 0.0154,
+        "Price Increase Count M/M": -0.0655,
+        "Days on Market M/M": -0.0383
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Missouri",
+        "Median Listing Price": 140000,
+        "Median Listing Price M/M": -0.021,
+        "New Listing Count M/M": 0.4944,
+        "Price Increase Count M/M": 0.7143,
+        "Days on Market M/M": 0.0347
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Missouri",
+        "Median Listing Price": 143000,
+        "Median Listing Price M/M": -0.0141,
+        "New Listing Count M/M": -0.2373,
+        "Price Increase Count M/M": -0.1404,
+        "Days on Market M/M": 0.086
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Missouri",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": -0.0199,
+        "New Listing Count M/M": -0.1249,
+        "Price Increase Count M/M": -0.3091,
+        "Days on Market M/M": 0.0877
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Missouri",
+        "Median Listing Price": 148000,
+        "Median Listing Price M/M": 0.0014,
+        "New Listing Count M/M": -0.0802,
+        "Price Increase Count M/M": 0.0377,
+        "Days on Market M/M": 0.0491
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Missouri",
+        "Median Listing Price": 147800,
+        "Median Listing Price M/M": -0.0084,
+        "New Listing Count M/M": -0.06,
+        "Price Increase Count M/M": 0.1197,
+        "Days on Market M/M": 0.0724
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Missouri",
+        "Median Listing Price": 149050,
+        "Median Listing Price M/M": -0.0017,
+        "New Listing Count M/M": -0.1047,
+        "Price Increase Count M/M": -0.2155,
+        "Days on Market M/M": 0.027
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Missouri",
+        "Median Listing Price": 149300,
+        "Median Listing Price M/M": -0.0043,
+        "New Listing Count M/M": -0.1093,
+        "Price Increase Count M/M": 0.0774,
+        "Days on Market M/M": 0.0137
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Missouri",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0306,
+        "New Listing Count M/M": -0.0086,
+        "Price Increase Count M/M": -0.0615,
+        "Days on Market M/M": 0.0657
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Missouri",
+        "Median Listing Price": 145500,
+        "Median Listing Price M/M": 0.0034,
+        "New Listing Count M/M": 0.0783,
+        "Price Increase Count M/M": -0.0056,
+        "Days on Market M/M": -0.1046
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Missouri",
+        "Median Listing Price": 145000,
+        "Median Listing Price M/M": 0.0354,
+        "New Listing Count M/M": 0.1149,
+        "Price Increase Count M/M": -0.1,
+        "Days on Market M/M": -0.323
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Missouri",
+        "Median Listing Price": 140040,
+        "Median Listing Price M/M": 0.0071,
+        "New Listing Count M/M": 0.2667,
+        "Price Increase Count M/M": 0.3889,
+        "Days on Market M/M": -0.0504
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Missouri",
+        "Median Listing Price": 139050,
+        "Median Listing Price M/M": 0.0094,
+        "New Listing Count M/M": 0.0889,
+        "Price Increase Count M/M": -0.0526,
+        "Days on Market M/M": 0.0259
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Missouri",
+        "Median Listing Price": 137750,
+        "Median Listing Price M/M": -0.0093,
+        "New Listing Count M/M": 0.4464,
+        "Price Increase Count M/M": 0.551,
+        "Days on Market M/M": 0.0943
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Missouri",
+        "Median Listing Price": 139050,
+        "Median Listing Price M/M": -0.0064,
+        "New Listing Count M/M": -0.3148,
+        "Price Increase Count M/M": -0.3988,
+        "Days on Market M/M": 0.0928
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Missouri",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1422,
+        "Price Increase Count M/M": 0.1399,
+        "Days on Market M/M": 0.0601
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Missouri",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": -0.0148,
+        "New Listing Count M/M": -0.078,
+        "Price Increase Count M/M": -0.1966,
+        "Days on Market M/M": 0.0398
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Missouri",
+        "Median Listing Price": 142050,
+        "Median Listing Price M/M": -0.0039,
+        "New Listing Count M/M": -0.0413,
+        "Price Increase Count M/M": -0.0532,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Missouri",
+        "Median Listing Price": 142600,
+        "Median Listing Price M/M": -0.0149,
+        "New Listing Count M/M": -0.076,
+        "Price Increase Count M/M": 0.0273,
+        "Days on Market M/M": 0.0248
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Missouri",
+        "Median Listing Price": 144750,
+        "Median Listing Price M/M": -0.0021,
+        "New Listing Count M/M": -0.0444,
+        "Price Increase Count M/M": 0.2039,
+        "Days on Market M/M": 0.019
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Missouri",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": 0.0007,
+        "New Listing Count M/M": -0.0079,
+        "Price Increase Count M/M": -0.3391,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Missouri",
+        "Median Listing Price": 144950,
+        "Median Listing Price M/M": 0.0188,
+        "New Listing Count M/M": 0.0106,
+        "Price Increase Count M/M": -0.1873,
+        "Days on Market M/M": -0.0366
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Missouri",
+        "Median Listing Price": 142275,
+        "Median Listing Price M/M": 0.0166,
+        "New Listing Count M/M": 0.0962,
+        "Price Increase Count M/M": 0.6845,
+        "Days on Market M/M": -0.1546
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Missouri",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0325,
+        "New Listing Count M/M": 0.0825,
+        "Price Increase Count M/M": 0.1053,
+        "Days on Market M/M": -0.1182
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Missouri",
+        "Median Listing Price": 135550,
+        "Median Listing Price M/M": 0.0044,
+        "New Listing Count M/M": 0.0958,
+        "Price Increase Count M/M": 0.0857,
+        "Days on Market M/M": -0.0351
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Missouri",
+        "Median Listing Price": 134950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3378,
+        "Price Increase Count M/M": 0.0145,
+        "Days on Market M/M": 0.0364
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Missouri",
+        "Median Listing Price": 134950,
+        "Median Listing Price M/M": -0.0312,
+        "New Listing Count M/M": -0.1684,
+        "Price Increase Count M/M": 0.2545,
+        "Days on Market M/M": 0.0732
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Missouri",
+        "Median Listing Price": 139300,
+        "Median Listing Price M/M": -0.0046,
+        "New Listing Count M/M": -0.0765,
+        "Price Increase Count M/M": -0.2029,
+        "Days on Market M/M": 0.0406
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Missouri",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.087,
+        "Price Increase Count M/M": -0.0417,
+        "Days on Market M/M": 0.0155
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Missouri",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": -0.0442,
+        "Price Increase Count M/M": 0.1339,
+        "Days on Market M/M": 0.0319
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Missouri",
+        "Median Listing Price": 140047,
+        "Median Listing Price M/M": -0.0271,
+        "New Listing Count M/M": -0.0323,
+        "Price Increase Count M/M": -0.2349,
+        "Days on Market M/M": 0.0444
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Missouri",
+        "Median Listing Price": 143950,
+        "Median Listing Price M/M": -0.0055,
+        "New Listing Count M/M": -0.0823,
+        "Price Increase Count M/M": -0.0829,
+        "Days on Market M/M": 0.0526
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Missouri",
+        "Median Listing Price": 144750,
+        "Median Listing Price M/M": 0.0087,
+        "New Listing Count M/M": -0.0265,
+        "Price Increase Count M/M": 0.1456,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Missouri",
+        "Median Listing Price": 143500,
+        "Median Listing Price M/M": 0.0053,
+        "New Listing Count M/M": -0.1729,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.0182
+    }
+]

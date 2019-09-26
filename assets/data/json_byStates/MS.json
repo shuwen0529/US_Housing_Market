@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Mississippi",
+        "Median Listing Price": 199300,
+        "Median Listing Price M/M": 0.0221,
+        "New Listing Count M/M": -0.0092,
+        "Price Increase Count M/M": -0.1129,
+        "Days on Market M/M": -0.1845
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Mississippi",
+        "Median Listing Price": 195000,
+        "Median Listing Price M/M": 0.0269,
+        "New Listing Count M/M": 0.0614,
+        "Price Increase Count M/M": -0.0159,
+        "Days on Market M/M": -0.1043
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Mississippi",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": 0.0048,
+        "New Listing Count M/M": 0.1115,
+        "Price Increase Count M/M": 0.0161,
+        "Days on Market M/M": -0.0171
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Mississippi",
+        "Median Listing Price": 189000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.4378,
+        "Price Increase Count M/M": 0.8235,
+        "Days on Market M/M": 0.0541
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Mississippi",
+        "Median Listing Price": 189000,
+        "Median Listing Price M/M": -0.0047,
+        "New Listing Count M/M": -0.1682,
+        "Price Increase Count M/M": -0.2917,
+        "Days on Market M/M": 0.0882
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Mississippi",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.141,
+        "Price Increase Count M/M": 0.0435,
+        "Days on Market M/M": 0.0515
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Mississippi",
+        "Median Listing Price": 190000,
+        "Median Listing Price M/M": -0.0104,
+        "New Listing Count M/M": -0.1028,
+        "Price Increase Count M/M": -0.3611,
+        "Days on Market M/M": 0.0319
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Mississippi",
+        "Median Listing Price": 192000,
+        "Median Listing Price M/M": -0.0052,
+        "New Listing Count M/M": -0.0725,
+        "Price Increase Count M/M": 0.2203,
+        "Days on Market M/M": 0.0562
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Mississippi",
+        "Median Listing Price": 193000,
+        "Median Listing Price M/M": -0.0097,
+        "New Listing Count M/M": 0.0101,
+        "Price Increase Count M/M": -0.2237,
+        "Days on Market M/M": 0.0114
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Mississippi",
+        "Median Listing Price": 194900,
+        "Median Listing Price M/M": 0.0031,
+        "New Listing Count M/M": -0.0996,
+        "Price Increase Count M/M": 0.0556,
+        "Days on Market M/M": 0.0353
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Mississippi",
+        "Median Listing Price": 194300,
+        "Median Listing Price M/M": 0.0067,
+        "New Listing Count M/M": 0.0,
+        "Price Increase Count M/M": -0.191,
+        "Days on Market M/M": 0.0241
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Mississippi",
+        "Median Listing Price": 193000,
+        "Median Listing Price M/M": 0.0163,
+        "New Listing Count M/M": -0.0165,
+        "Price Increase Count M/M": -0.0326,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Mississippi",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": 0.021,
+        "New Listing Count M/M": 0.0607,
+        "Price Increase Count M/M": 0.2267,
+        "Days on Market M/M": -0.1942
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Mississippi",
+        "Median Listing Price": 186000,
+        "Median Listing Price M/M": 0.0203,
+        "New Listing Count M/M": 0.0342,
+        "Price Increase Count M/M": -0.0741,
+        "Days on Market M/M": -0.0636
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Mississippi",
+        "Median Listing Price": 182300,
+        "Median Listing Price M/M": 0.0128,
+        "New Listing Count M/M": 0.2922,
+        "Price Increase Count M/M": 0.2857,
+        "Days on Market M/M": -0.0179
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Mississippi",
+        "Median Listing Price": 180000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2405,
+        "Price Increase Count M/M": 0.3125,
+        "Days on Market M/M": 0.0769
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Mississippi",
+        "Median Listing Price": 180000,
+        "Median Listing Price M/M": 0.0006,
+        "New Listing Count M/M": -0.2761,
+        "Price Increase Count M/M": -0.2941,
+        "Days on Market M/M": 0.04
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Mississippi",
+        "Median Listing Price": 179900,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.0306,
+        "Price Increase Count M/M": 0.1333,
+        "Days on Market M/M": 0.0417
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Mississippi",
+        "Median Listing Price": 180050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0392,
+        "Price Increase Count M/M": -0.2308,
+        "Days on Market M/M": 0.0267
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Mississippi",
+        "Median Listing Price": 180050,
+        "Median Listing Price M/M": -0.0083,
+        "New Listing Count M/M": -0.128,
+        "Price Increase Count M/M": 0.4182,
+        "Days on Market M/M": 0.0275
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Mississippi",
+        "Median Listing Price": 181550,
+        "Median Listing Price M/M": -0.0144,
+        "New Listing Count M/M": -0.0551,
+        "Price Increase Count M/M": -0.5339,
+        "Days on Market M/M": 0.0111
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Mississippi",
+        "Median Listing Price": 184200,
+        "Median Listing Price M/M": -0.0041,
+        "New Listing Count M/M": 0.002,
+        "Price Increase Count M/M": 0.5733,
+        "Days on Market M/M": 0.0227
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Mississippi",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": 0.0133,
+        "New Listing Count M/M": -0.0382,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": 0.0233
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Mississippi",
+        "Median Listing Price": 182523,
+        "Median Listing Price M/M": 0.0143,
+        "New Listing Count M/M": 0.0737,
+        "Price Increase Count M/M": -0.5313,
+        "Days on Market M/M": 0.0238
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Mississippi",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0112,
+        "New Listing Count M/M": -0.009,
+        "Price Increase Count M/M": 0.1429,
+        "Days on Market M/M": -0.1845
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Mississippi",
+        "Median Listing Price": 177950,
+        "Median Listing Price M/M": 0.0171,
+        "New Listing Count M/M": 0.0218,
+        "Price Increase Count M/M": 0.3659,
+        "Days on Market M/M": -0.1043
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Mississippi",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": 0.0169,
+        "New Listing Count M/M": 0.1545,
+        "Price Increase Count M/M": -0.1961,
+        "Days on Market M/M": -0.0336
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Mississippi",
+        "Median Listing Price": 172050,
+        "Median Listing Price M/M": -0.0115,
+        "New Listing Count M/M": 0.4891,
+        "Price Increase Count M/M": 2.0,
+        "Days on Market M/M": 0.0578
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Mississippi",
+        "Median Listing Price": 174050,
+        "Median Listing Price M/M": -0.0048,
+        "New Listing Count M/M": -0.245,
+        "Price Increase Count M/M": -0.3061,
+        "Days on Market M/M": 0.087
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Mississippi",
+        "Median Listing Price": 174887,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.1135,
+        "Price Increase Count M/M": -0.3,
+        "Days on Market M/M": 0.035
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Mississippi",
+        "Median Listing Price": 174950,
+        "Median Listing Price M/M": 0.0066,
+        "New Listing Count M/M": -0.0839,
+        "Price Increase Count M/M": 0.1111,
+        "Days on Market M/M": 0.0417
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Mississippi",
+        "Median Listing Price": 173800,
+        "Median Listing Price M/M": 0.0046,
+        "New Listing Count M/M": 0.006,
+        "Price Increase Count M/M": 0.1887,
+        "Days on Market M/M": 0.0159
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Mississippi",
+        "Median Listing Price": 173000,
+        "Median Listing Price M/M": -0.0043,
+        "New Listing Count M/M": -0.0688,
+        "Price Increase Count M/M": -0.0185,
+        "Days on Market M/M": 0.0161
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Mississippi",
+        "Median Listing Price": 173750,
+        "Median Listing Price M/M": 0.0218,
+        "New Listing Count M/M": -0.0407,
+        "Price Increase Count M/M": -0.2603,
+        "Days on Market M/M": 0.0449
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Mississippi",
+        "Median Listing Price": 170050,
+        "Median Listing Price M/M": 0.0006,
+        "New Listing Count M/M": -0.0513,
+        "Price Increase Count M/M": 0.3036,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Mississippi",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0098,
+        "New Listing Count M/M": 0.0313,
+        "Price Increase Count M/M": -0.4455,
+        "Days on Market M/M": -0.0326
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Mississippi",
+        "Median Listing Price": 168300,
+        "Median Listing Price M/M": 0.0197,
+        "New Listing Count M/M": 0.0595,
+        "Price Increase Count M/M": 0.6557,
+        "Days on Market M/M": -0.1598
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Mississippi",
+        "Median Listing Price": 165050,
+        "Median Listing Price M/M": 0.0006,
+        "New Listing Count M/M": 0.0063,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.0759
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Mississippi",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.0179,
+        "New Listing Count M/M": 0.1227,
+        "Price Increase Count M/M": -0.0161,
+        "Days on Market M/M": -0.0125
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Mississippi",
+        "Median Listing Price": 162050,
+        "Median Listing Price M/M": 0.0125,
+        "New Listing Count M/M": 0.2982,
+        "Price Increase Count M/M": 0.3478,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Mississippi",
+        "Median Listing Price": 160050,
+        "Median Listing Price M/M": -0.0154,
+        "New Listing Count M/M": -0.0785,
+        "Price Increase Count M/M": 0.0952,
+        "Days on Market M/M": 0.0817
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Mississippi",
+        "Median Listing Price": 162550,
+        "Median Listing Price M/M": -0.0025,
+        "New Listing Count M/M": -0.1912,
+        "Price Increase Count M/M": -0.2222,
+        "Days on Market M/M": 0.0558
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Mississippi",
+        "Median Listing Price": 162964,
+        "Median Listing Price M/M": -0.0093,
+        "New Listing Count M/M": -0.0748,
+        "Price Increase Count M/M": -0.0182,
+        "Days on Market M/M": 0.026
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Mississippi",
+        "Median Listing Price": 164500,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.0604,
+        "Price Increase Count M/M": -0.2763,
+        "Days on Market M/M": 0.0213
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Mississippi",
+        "Median Listing Price": 164550,
+        "Median Listing Price M/M": -0.0024,
+        "New Listing Count M/M": -0.1449,
+        "Price Increase Count M/M": -0.013,
+        "Days on Market M/M": 0.0444
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Mississippi",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.0015,
+        "New Listing Count M/M": -0.0342,
+        "Price Increase Count M/M": 0.2833,
+        "Days on Market M/M": 0.0056
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Mississippi",
+        "Median Listing Price": 164700,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": 0.1183,
+        "Price Increase Count M/M": 0.1538,
+        "Days on Market M/M": -0.0579
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Mississippi",
+        "Median Listing Price": 164950,
+        "Median Listing Price M/M": 0.0195,
+        "New Listing Count M/M": -0.0572,
+        "Price Increase Count M/M": -0.3659,
+        "Days on Market M/M": -0.0155
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Mississippi",
+        "Median Listing Price": 161800,
+        "Median Listing Price M/M": 0.0116,
+        "New Listing Count M/M": 0.1021,
+        "Price Increase Count M/M": 0.2424,
+        "Days on Market M/M": -0.1958
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Mississippi",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.006,
+        "New Listing Count M/M": 0.0455,
+        "Price Increase Count M/M": 0.0154,
+        "Days on Market M/M": -0.0283
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Mississippi",
+        "Median Listing Price": 159000,
+        "Median Listing Price M/M": 0.016,
+        "New Listing Count M/M": -0.0459,
+        "Price Increase Count M/M": 0.1017,
+        "Days on Market M/M": -0.004
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Mississippi",
+        "Median Listing Price": 156500,
+        "Median Listing Price M/M": -0.0067,
+        "New Listing Count M/M": 0.493,
+        "Price Increase Count M/M": 0.3409,
+        "Days on Market M/M": 0.042
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Mississippi",
+        "Median Listing Price": 157550,
+        "Median Listing Price M/M": -0.0094,
+        "New Listing Count M/M": -0.2111,
+        "Price Increase Count M/M": -0.0435,
+        "Days on Market M/M": 0.0818
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Mississippi",
+        "Median Listing Price": 159050,
+        "Median Listing Price M/M": 0.0127,
+        "New Listing Count M/M": -0.0982,
+        "Price Increase Count M/M": -0.1636,
+        "Days on Market M/M": 0.0233
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Mississippi",
+        "Median Listing Price": 157050,
+        "Median Listing Price M/M": 0.0064,
+        "New Listing Count M/M": -0.026,
+        "Price Increase Count M/M": -0.2857,
+        "Days on Market M/M": 0.0238
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Mississippi",
+        "Median Listing Price": 156050,
+        "Median Listing Price M/M": -0.0182,
+        "New Listing Count M/M": 0.002,
+        "Price Increase Count M/M": -0.061,
+        "Days on Market M/M": 0.0194
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Mississippi",
+        "Median Listing Price": 158950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.1159,
+        "Price Increase Count M/M": 0.2813,
+        "Days on Market M/M": 0.0098
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Mississippi",
+        "Median Listing Price": 159050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0377,
+        "Price Increase Count M/M": -0.0857,
+        "Days on Market M/M": 0.0149
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Mississippi",
+        "Median Listing Price": 159050,
+        "Median Listing Price M/M": 0.0192,
+        "New Listing Count M/M": -0.0279,
+        "Price Increase Count M/M": 0.0145,
+        "Days on Market M/M": -0.029
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Mississippi",
+        "Median Listing Price": 156050,
+        "Median Listing Price M/M": 0.01,
+        "New Listing Count M/M": 0.033,
+        "Price Increase Count M/M": -0.0143,
+        "Days on Market M/M": -0.1116
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Mississippi",
+        "Median Listing Price": 154500,
+        "Median Listing Price M/M": 0.0303,
+        "New Listing Count M/M": -0.003,
+        "Price Increase Count M/M": 0.5217,
+        "Days on Market M/M": -0.1107
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Mississippi",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0965,
+        "Price Increase Count M/M": -0.2069,
+        "Days on Market M/M": -0.0187
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Mississippi",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.012,
+        "Price Increase Count M/M": -0.1343,
+        "Days on Market M/M": 0.0152
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Mississippi",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.4279,
+        "Price Increase Count M/M": 0.5227,
+        "Days on Market M/M": 0.0691
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Mississippi",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2401,
+        "Price Increase Count M/M": -0.1373,
+        "Days on Market M/M": 0.0649
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Mississippi",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0388,
+        "Price Increase Count M/M": -0.2273,
+        "Days on Market M/M": 0.0596
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Mississippi",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": -0.0809,
+        "Price Increase Count M/M": 0.2692,
+        "Days on Market M/M": 0.0583
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Mississippi",
+        "Median Listing Price": 150050,
+        "Median Listing Price M/M": -0.0033,
+        "New Listing Count M/M": -0.1165,
+        "Price Increase Count M/M": -0.1475,
+        "Days on Market M/M": 0.0049
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Mississippi",
+        "Median Listing Price": 150550,
+        "Median Listing Price M/M": -0.0144,
+        "New Listing Count M/M": -0.0379,
+        "Price Increase Count M/M": -0.1757,
+        "Days on Market M/M": 0.0099
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Mississippi",
+        "Median Listing Price": 152750,
+        "Median Listing Price M/M": 0.018,
+        "New Listing Count M/M": 0.0318,
+        "Price Increase Count M/M": 0.0278,
+        "Days on Market M/M": 0.015
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Mississippi",
+        "Median Listing Price": 150050,
+        "Median Listing Price M/M": 0.0007,
+        "New Listing Count M/M": 0.0693,
+        "Price Increase Count M/M": 0.0141,
+        "Days on Market M/M": 0.005
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Mississippi",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0494,
+        "Price Increase Count M/M": -0.2022,
+        "Days on Market M/M": -0.0245
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Mississippi",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0388,
+        "Price Increase Count M/M": 0.3485,
+        "Days on Market M/M": -0.1707
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Mississippi",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0067,
+        "New Listing Count M/M": 0.109,
+        "Price Increase Count M/M": -0.2667,
+        "Days on Market M/M": -0.0465
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Mississippi",
+        "Median Listing Price": 148950,
+        "Median Listing Price M/M": 0.001,
+        "New Listing Count M/M": 0.1177,
+        "Price Increase Count M/M": 0.5517,
+        "Days on Market M/M": 0.0039
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Mississippi",
+        "Median Listing Price": 148800,
+        "Median Listing Price M/M": -0.005,
+        "New Listing Count M/M": 0.2547,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0118
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Mississippi",
+        "Median Listing Price": 149550,
+        "Median Listing Price M/M": -0.0027,
+        "New Listing Count M/M": -0.115,
+        "Price Increase Count M/M": 0.0545,
+        "Days on Market M/M": 0.0453
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Mississippi",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1121,
+        "Price Increase Count M/M": -0.321,
+        "Days on Market M/M": 0.021
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Mississippi",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0926,
+        "Price Increase Count M/M": 0.4464,
+        "Days on Market M/M": 0.0085
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Mississippi",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": -0.0835,
+        "Price Increase Count M/M": 0.0182,
+        "Days on Market M/M": 0.0396
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Mississippi",
+        "Median Listing Price": 150050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0279,
+        "Price Increase Count M/M": 0.0185,
+        "Days on Market M/M": 0.0413
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Mississippi",
+        "Median Listing Price": 150050,
+        "Median Listing Price M/M": -0.0132,
+        "New Listing Count M/M": -0.0638,
+        "Price Increase Count M/M": -0.0357,
+        "Days on Market M/M": 0.0235
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Mississippi",
+        "Median Listing Price": 152050,
+        "Median Listing Price M/M": -0.003,
+        "New Listing Count M/M": -0.0403,
+        "Price Increase Count M/M": 0.037,
+        "Days on Market M/M": -0.0093
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Mississippi",
+        "Median Listing Price": 152500,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0283,
+        "Price Increase Count M/M": -0.0847,
+        "Days on Market M/M": -0.0487
+    }
+]

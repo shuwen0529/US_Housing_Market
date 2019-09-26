@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Arkansas",
+        "Median Listing Price": 185000,
+        "Median Listing Price M/M": 0.0165,
+        "New Listing Count M/M": 0.1136,
+        "Price Increase Count M/M": 0.4483,
+        "Days on Market M/M": -0.1023
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Arkansas",
+        "Median Listing Price": 182000,
+        "Median Listing Price M/M": 0.0139,
+        "New Listing Count M/M": 0.0451,
+        "Price Increase Count M/M": 0.0741,
+        "Days on Market M/M": -0.1111
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Arkansas",
+        "Median Listing Price": 179500,
+        "Median Listing Price M/M": 0.0067,
+        "New Listing Count M/M": 0.0244,
+        "Price Increase Count M/M": -0.194,
+        "Days on Market M/M": -0.0294
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Arkansas",
+        "Median Listing Price": 178300,
+        "Median Listing Price M/M": -0.0067,
+        "New Listing Count M/M": 0.3279,
+        "Price Increase Count M/M": 0.5952,
+        "Days on Market M/M": 0.0515
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Arkansas",
+        "Median Listing Price": 179500,
+        "Median Listing Price M/M": -0.0022,
+        "New Listing Count M/M": -0.1483,
+        "Price Increase Count M/M": -0.1064,
+        "Days on Market M/M": 0.0899
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Arkansas",
+        "Median Listing Price": 179900,
+        "Median Listing Price M/M": -0.0072,
+        "New Listing Count M/M": -0.0847,
+        "Price Increase Count M/M": -0.2034,
+        "Days on Market M/M": 0.023
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Arkansas",
+        "Median Listing Price": 181200,
+        "Median Listing Price M/M": -0.0017,
+        "New Listing Count M/M": -0.0496,
+        "Price Increase Count M/M": 0.0172,
+        "Days on Market M/M": 0.0482
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Arkansas",
+        "Median Listing Price": 181500,
+        "Median Listing Price M/M": 0.0083,
+        "New Listing Count M/M": -0.065,
+        "Price Increase Count M/M": -0.0938,
+        "Days on Market M/M": 0.0641
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Arkansas",
+        "Median Listing Price": 180000,
+        "Median Listing Price M/M": -0.0137,
+        "New Listing Count M/M": -0.1077,
+        "Price Increase Count M/M": -0.2381,
+        "Days on Market M/M": 0.04
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Arkansas",
+        "Median Listing Price": 182500,
+        "Median Listing Price M/M": 0.0145,
+        "New Listing Count M/M": 0.0547,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Arkansas",
+        "Median Listing Price": 179900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0548,
+        "Price Increase Count M/M": -0.1486,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Arkansas",
+        "Median Listing Price": 179900,
+        "Median Listing Price M/M": 0.005,
+        "New Listing Count M/M": 0.0218,
+        "Price Increase Count M/M": 0.0278,
+        "Days on Market M/M": -0.0385
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Arkansas",
+        "Median Listing Price": 179000,
+        "Median Listing Price M/M": 0.0229,
+        "New Listing Count M/M": 0.0359,
+        "Price Increase Count M/M": -0.0526,
+        "Days on Market M/M": -0.1522
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Arkansas",
+        "Median Listing Price": 175000,
+        "Median Listing Price M/M": 0.0294,
+        "New Listing Count M/M": 0.127,
+        "Price Increase Count M/M": 0.027,
+        "Days on Market M/M": -0.1068
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Arkansas",
+        "Median Listing Price": 170000,
+        "Median Listing Price M/M": 0.0006,
+        "New Listing Count M/M": 0.1537,
+        "Price Increase Count M/M": -0.1395,
+        "Days on Market M/M": -0.0374
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Arkansas",
+        "Median Listing Price": 169900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1791,
+        "Price Increase Count M/M": 0.9545,
+        "Days on Market M/M": 0.049
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Arkansas",
+        "Median Listing Price": 169900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1338,
+        "Price Increase Count M/M": -0.2542,
+        "Days on Market M/M": 0.0737
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Arkansas",
+        "Median Listing Price": 169900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1208,
+        "Price Increase Count M/M": -0.2027,
+        "Days on Market M/M": 0.0556
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Arkansas",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0292,
+        "Price Increase Count M/M": 0.2982,
+        "Days on Market M/M": 0.0286
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Arkansas",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0961,
+        "Price Increase Count M/M": -0.1972,
+        "Days on Market M/M": 0.0417
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Arkansas",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0139,
+        "Price Increase Count M/M": -0.1125,
+        "Days on Market M/M": 0.012
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Arkansas",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0061,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": -0.0349
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Arkansas",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0008,
+        "New Listing Count M/M": -0.056,
+        "Price Increase Count M/M": 0.2075,
+        "Days on Market M/M": 0.0058
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Arkansas",
+        "Median Listing Price": 169812,
+        "Median Listing Price M/M": 0.0233,
+        "New Listing Count M/M": 0.0471,
+        "Price Increase Count M/M": -0.3837,
+        "Days on Market M/M": 0.0059
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Arkansas",
+        "Median Listing Price": 165950,
+        "Median Listing Price M/M": 0.0088,
+        "New Listing Count M/M": 0.0389,
+        "Price Increase Count M/M": 0.2113,
+        "Days on Market M/M": -0.1237
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Arkansas",
+        "Median Listing Price": 164500,
+        "Median Listing Price M/M": 0.0284,
+        "New Listing Count M/M": -0.0352,
+        "Price Increase Count M/M": -0.2526,
+        "Days on Market M/M": -0.0935
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Arkansas",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0025,
+        "New Listing Count M/M": 0.2075,
+        "Price Increase Count M/M": 0.5323,
+        "Days on Market M/M": -0.0273
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Arkansas",
+        "Median Listing Price": 159550,
+        "Median Listing Price M/M": 0.0016,
+        "New Listing Count M/M": 0.2512,
+        "Price Increase Count M/M": -0.0606,
+        "Days on Market M/M": 0.028
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Arkansas",
+        "Median Listing Price": 159300,
+        "Median Listing Price M/M": -0.0041,
+        "New Listing Count M/M": -0.1927,
+        "Price Increase Count M/M": 0.4043,
+        "Days on Market M/M": 0.0542
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Arkansas",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0232,
+        "Price Increase Count M/M": -0.2167,
+        "Days on Market M/M": 0.0464
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Arkansas",
+        "Median Listing Price": 159950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.0543,
+        "Price Increase Count M/M": 0.3953,
+        "Days on Market M/M": 0.0157
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Arkansas",
+        "Median Listing Price": 160000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0047,
+        "Price Increase Count M/M": -0.4416,
+        "Days on Market M/M": 0.038
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Arkansas",
+        "Median Listing Price": 160000,
+        "Median Listing Price M/M": -0.016,
+        "New Listing Count M/M": -0.0979,
+        "Price Increase Count M/M": 0.3276,
+        "Days on Market M/M": 0.0455
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Arkansas",
+        "Median Listing Price": 162600,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0157,
+        "Price Increase Count M/M": -0.3095,
+        "Days on Market M/M": 0.0086
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Arkansas",
+        "Median Listing Price": 162550,
+        "Median Listing Price M/M": 0.0156,
+        "New Listing Count M/M": -0.0516,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": 0.0029
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Arkansas",
+        "Median Listing Price": 160050,
+        "Median Listing Price M/M": 0.0019,
+        "New Listing Count M/M": 0.0353,
+        "Price Increase Count M/M": -0.1529,
+        "Days on Market M/M": -0.0169
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Arkansas",
+        "Median Listing Price": 159750,
+        "Median Listing Price M/M": 0.024,
+        "New Listing Count M/M": -0.0152,
+        "Price Increase Count M/M": 0.4407,
+        "Days on Market M/M": -0.1366
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Arkansas",
+        "Median Listing Price": 156000,
+        "Median Listing Price M/M": 0.0081,
+        "New Listing Count M/M": 0.0931,
+        "Price Increase Count M/M": -0.3371,
+        "Days on Market M/M": -0.0889
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Arkansas",
+        "Median Listing Price": 154750,
+        "Median Listing Price M/M": 0.032,
+        "New Listing Count M/M": 0.1098,
+        "Price Increase Count M/M": 1.0227,
+        "Days on Market M/M": -0.0217
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3125,
+        "Price Increase Count M/M": -0.2,
+        "Days on Market M/M": 0.0455
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": -0.2054,
+        "Price Increase Count M/M": 0.1,
+        "Days on Market M/M": 0.0784
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Arkansas",
+        "Median Listing Price": 150050,
+        "Median Listing Price M/M": -0.0406,
+        "New Listing Count M/M": -0.0936,
+        "Price Increase Count M/M": -0.1071,
+        "Days on Market M/M": 0.0355
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Arkansas",
+        "Median Listing Price": 156400,
+        "Median Listing Price M/M": 0.0094,
+        "New Listing Count M/M": -0.0041,
+        "Price Increase Count M/M": -0.2329,
+        "Days on Market M/M": 0.0479
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Arkansas",
+        "Median Listing Price": 154950,
+        "Median Listing Price M/M": -0.0064,
+        "New Listing Count M/M": -0.0801,
+        "Price Increase Count M/M": -0.0875,
+        "Days on Market M/M": 0.0444
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Arkansas",
+        "Median Listing Price": 155950,
+        "Median Listing Price M/M": 0.0026,
+        "New Listing Count M/M": -0.1764,
+        "Price Increase Count M/M": 0.0811,
+        "Days on Market M/M": 0.0227
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Arkansas",
+        "Median Listing Price": 155550,
+        "Median Listing Price M/M": 0.0052,
+        "New Listing Count M/M": -0.0547,
+        "Price Increase Count M/M": -0.119,
+        "Days on Market M/M": -0.0056
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Arkansas",
+        "Median Listing Price": 154750,
+        "Median Listing Price M/M": -0.0019,
+        "New Listing Count M/M": 0.2414,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.0484
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Arkansas",
+        "Median Listing Price": 155050,
+        "Median Listing Price M/M": 0.0101,
+        "New Listing Count M/M": -0.1709,
+        "Price Increase Count M/M": 0.12,
+        "Days on Market M/M": -0.0159
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Arkansas",
+        "Median Listing Price": 153500,
+        "Median Listing Price M/M": 0.023,
+        "New Listing Count M/M": 0.2283,
+        "Price Increase Count M/M": 0.2931,
+        "Days on Market M/M": -0.1853
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Arkansas",
+        "Median Listing Price": 150047,
+        "Median Listing Price M/M": 0.0006,
+        "New Listing Count M/M": -0.0711,
+        "Price Increase Count M/M": -0.0938,
+        "Days on Market M/M": -0.0085
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0027,
+        "New Listing Count M/M": 0.0341,
+        "Price Increase Count M/M": 0.1228,
+        "Days on Market M/M": -0.0209
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149550,
+        "Median Listing Price M/M": -0.0027,
+        "New Listing Count M/M": 0.415,
+        "Price Increase Count M/M": -0.0172,
+        "Days on Market M/M": 0.0302
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1507,
+        "Price Increase Count M/M": -0.1212,
+        "Days on Market M/M": 0.0841
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1112,
+        "Price Increase Count M/M": 0.2222,
+        "Days on Market M/M": 0.0388
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0048,
+        "Price Increase Count M/M": -0.2394,
+        "Days on Market M/M": 0.0049
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": -0.0007,
+        "New Listing Count M/M": -0.1005,
+        "Price Increase Count M/M": -0.1932,
+        "Days on Market M/M": 0.0149
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Arkansas",
+        "Median Listing Price": 150050,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": -0.0242,
+        "Price Increase Count M/M": 0.1139,
+        "Days on Market M/M": 0.0466
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149975,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.067,
+        "Price Increase Count M/M": 0.0676,
+        "Days on Market M/M": 0.0266
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0027,
+        "New Listing Count M/M": 0.0051,
+        "Price Increase Count M/M": -0.0513,
+        "Days on Market M/M": -0.0208
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149550,
+        "Median Listing Price M/M": 0.005,
+        "New Listing Count M/M": -0.0004,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.0588
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Arkansas",
+        "Median Listing Price": 148800,
+        "Median Listing Price M/M": 0.0259,
+        "New Listing Count M/M": 0.129,
+        "Price Increase Count M/M": 0.2581,
+        "Days on Market M/M": -0.1774
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Arkansas",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": 0.0052,
+        "New Listing Count M/M": 0.1411,
+        "Price Increase Count M/M": -0.2439,
+        "Days on Market M/M": -0.004
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Arkansas",
+        "Median Listing Price": 144300,
+        "Median Listing Price M/M": 0.0109,
+        "New Listing Count M/M": -0.0937,
+        "Price Increase Count M/M": 0.1389,
+        "Days on Market M/M": 0.004
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Arkansas",
+        "Median Listing Price": 142750,
+        "Median Listing Price M/M": -0.0021,
+        "New Listing Count M/M": 0.5726,
+        "Price Increase Count M/M": 0.8,
+        "Days on Market M/M": 0.0598
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Arkansas",
+        "Median Listing Price": 143050,
+        "Median Listing Price M/M": -0.0134,
+        "New Listing Count M/M": -0.3279,
+        "Price Increase Count M/M": -0.4521,
+        "Days on Market M/M": 0.0986
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Arkansas",
+        "Median Listing Price": 145000,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.0208,
+        "Price Increase Count M/M": 0.0735,
+        "Days on Market M/M": 0.0493
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Arkansas",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": -0.0203,
+        "New Listing Count M/M": -0.1,
+        "Price Increase Count M/M": -0.1282,
+        "Days on Market M/M": 0.0573
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Arkansas",
+        "Median Listing Price": 148050,
+        "Median Listing Price M/M": -0.0064,
+        "New Listing Count M/M": -0.0916,
+        "Price Increase Count M/M": -0.0127,
+        "Days on Market M/M": 0.0267
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149000,
+        "Median Listing Price M/M": -0.0063,
+        "New Listing Count M/M": -0.0118,
+        "Price Increase Count M/M": 0.1449,
+        "Days on Market M/M": 0.0389
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0447,
+        "Price Increase Count M/M": -0.1977,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0048,
+        "Price Increase Count M/M": 0.1316,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0277,
+        "Price Increase Count M/M": 0.0857,
+        "Days on Market M/M": -0.0374
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0027,
+        "New Listing Count M/M": 0.0971,
+        "Price Increase Count M/M": -0.0278,
+        "Days on Market M/M": -0.1422
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149550,
+        "Median Listing Price M/M": 0.0122,
+        "New Listing Count M/M": 0.0637,
+        "Price Increase Count M/M": 0.0746,
+        "Days on Market M/M": -0.0954
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Arkansas",
+        "Median Listing Price": 147750,
+        "Median Listing Price M/M": 0.0048,
+        "New Listing Count M/M": 0.0649,
+        "Price Increase Count M/M": -0.1067,
+        "Days on Market M/M": -0.0203
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Arkansas",
+        "Median Listing Price": 147050,
+        "Median Listing Price M/M": -0.0034,
+        "New Listing Count M/M": 0.29,
+        "Price Increase Count M/M": 1.0833,
+        "Days on Market M/M": 0.0165
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Arkansas",
+        "Median Listing Price": 147550,
+        "Median Listing Price M/M": -0.0134,
+        "New Listing Count M/M": -0.0698,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": 0.0756
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149550,
+        "Median Listing Price M/M": -0.0027,
+        "New Listing Count M/M": -0.0703,
+        "Price Increase Count M/M": -0.3846,
+        "Days on Market M/M": 0.0369
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0253,
+        "Price Increase Count M/M": 0.0833,
+        "Days on Market M/M": 0.014
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Arkansas",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": -0.0298,
+        "New Listing Count M/M": -0.0849,
+        "Price Increase Count M/M": -0.0886,
+        "Days on Market M/M": 0.0288
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Arkansas",
+        "Median Listing Price": 154550,
+        "Median Listing Price M/M": -0.0026,
+        "New Listing Count M/M": -0.0217,
+        "Price Increase Count M/M": 0.3167,
+        "Days on Market M/M": 0.0097
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Arkansas",
+        "Median Listing Price": 154950,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": -0.0158,
+        "Price Increase Count M/M": 0.0526,
+        "Days on Market M/M": 0.0198
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Arkansas",
+        "Median Listing Price": 155050,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": 0.0564,
+        "Price Increase Count M/M": -0.3133,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Arkansas",
+        "Median Listing Price": 155000,
+        "Median Listing Price M/M": 0.0042,
+        "New Listing Count M/M": -0.1173,
+        "Price Increase Count M/M": 0.1216,
+        "Days on Market M/M": 0.0
+    }
+]

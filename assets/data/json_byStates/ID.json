@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Idaho",
+        "Median Listing Price": 339900,
+        "Median Listing Price M/M": 0.0149,
+        "New Listing Count M/M": 0.1674,
+        "Price Increase Count M/M": 0.1909,
+        "Days on Market M/M": -0.1803
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Idaho",
+        "Median Listing Price": 334900,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": 0.2537,
+        "Price Increase Count M/M": -0.009,
+        "Days on Market M/M": -0.2078
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Idaho",
+        "Median Listing Price": 335000,
+        "Median Listing Price M/M": 0.0078,
+        "New Listing Count M/M": 0.0338,
+        "Price Increase Count M/M": 0.4416,
+        "Days on Market M/M": -0.0833
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Idaho",
+        "Median Listing Price": 332400,
+        "Median Listing Price M/M": 0.0076,
+        "New Listing Count M/M": 0.3522,
+        "Price Increase Count M/M": -0.2143,
+        "Days on Market M/M": 0.05
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Idaho",
+        "Median Listing Price": 329900,
+        "Median Listing Price M/M": 0.0107,
+        "New Listing Count M/M": -0.3067,
+        "Price Increase Count M/M": -0.1091,
+        "Days on Market M/M": 0.1268
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Idaho",
+        "Median Listing Price": 326400,
+        "Median Listing Price M/M": -0.0079,
+        "New Listing Count M/M": -0.1543,
+        "Price Increase Count M/M": 0.236,
+        "Days on Market M/M": 0.0758
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Idaho",
+        "Median Listing Price": 329000,
+        "Median Listing Price M/M": -0.0027,
+        "New Listing Count M/M": -0.112,
+        "Price Increase Count M/M": -0.0111,
+        "Days on Market M/M": 0.082
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Idaho",
+        "Median Listing Price": 329900,
+        "Median Listing Price M/M": -0.0111,
+        "New Listing Count M/M": -0.0806,
+        "Price Increase Count M/M": -0.2174,
+        "Days on Market M/M": 0.0893
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Idaho",
+        "Median Listing Price": 333600,
+        "Median Listing Price M/M": 0.0112,
+        "New Listing Count M/M": -0.106,
+        "Price Increase Count M/M": -0.2434,
+        "Days on Market M/M": 0.098
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Idaho",
+        "Median Listing Price": 329900,
+        "Median Listing Price M/M": 0.0015,
+        "New Listing Count M/M": -0.0622,
+        "Price Increase Count M/M": 0.216,
+        "Days on Market M/M": 0.1333
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Idaho",
+        "Median Listing Price": 329400,
+        "Median Listing Price M/M": 0.0073,
+        "New Listing Count M/M": 0.0177,
+        "Price Increase Count M/M": -0.1259,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Idaho",
+        "Median Listing Price": 327000,
+        "Median Listing Price M/M": 0.0222,
+        "New Listing Count M/M": 0.1156,
+        "Price Increase Count M/M": -0.3941,
+        "Days on Market M/M": -0.1346
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Idaho",
+        "Median Listing Price": 319900,
+        "Median Listing Price M/M": 0.0165,
+        "New Listing Count M/M": 0.1927,
+        "Price Increase Count M/M": -0.3038,
+        "Days on Market M/M": -0.1333
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Idaho",
+        "Median Listing Price": 314700,
+        "Median Listing Price M/M": 0.0284,
+        "New Listing Count M/M": 0.2357,
+        "Price Increase Count M/M": 1.2157,
+        "Days on Market M/M": -0.3182
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Idaho",
+        "Median Listing Price": 306000,
+        "Median Listing Price M/M": 0.022,
+        "New Listing Count M/M": 0.1913,
+        "Price Increase Count M/M": -0.3319,
+        "Days on Market M/M": -0.1111
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Idaho",
+        "Median Listing Price": 299400,
+        "Median Listing Price M/M": 0.0013,
+        "New Listing Count M/M": 0.128,
+        "Price Increase Count M/M": 1.8625,
+        "Days on Market M/M": 0.0645
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Idaho",
+        "Median Listing Price": 299000,
+        "Median Listing Price M/M": 0.004,
+        "New Listing Count M/M": -0.1819,
+        "Price Increase Count M/M": -0.3985,
+        "Days on Market M/M": 0.1625
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Idaho",
+        "Median Listing Price": 297800,
+        "Median Listing Price M/M": 0.0167,
+        "New Listing Count M/M": -0.2075,
+        "Price Increase Count M/M": -0.4845,
+        "Days on Market M/M": 0.1111
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Idaho",
+        "Median Listing Price": 292950,
+        "Median Listing Price M/M": 0.0103,
+        "New Listing Count M/M": -0.2157,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.1077
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Idaho",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": -0.0085,
+        "New Listing Count M/M": -0.1186,
+        "Price Increase Count M/M": 0.2028,
+        "Days on Market M/M": 0.1111
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Idaho",
+        "Median Listing Price": 292432,
+        "Median Listing Price M/M": -0.0089,
+        "New Listing Count M/M": -0.0809,
+        "Price Increase Count M/M": 0.2544,
+        "Days on Market M/M": 0.0833
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Idaho",
+        "Median Listing Price": 295050,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": 0.0602,
+        "Price Increase Count M/M": -0.245,
+        "Days on Market M/M": 0.0909
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Idaho",
+        "Median Listing Price": 295000,
+        "Median Listing Price M/M": 0.0017,
+        "New Listing Count M/M": -0.0534,
+        "Price Increase Count M/M": -0.0904,
+        "Days on Market M/M": 0.0313
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Idaho",
+        "Median Listing Price": 294500,
+        "Median Listing Price M/M": 0.0405,
+        "New Listing Count M/M": 0.2199,
+        "Price Increase Count M/M": 0.2576,
+        "Days on Market M/M": -0.1724
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Idaho",
+        "Median Listing Price": 283040,
+        "Median Listing Price M/M": 0.0347,
+        "New Listing Count M/M": 0.1643,
+        "Price Increase Count M/M": -0.4081,
+        "Days on Market M/M": -0.2883
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Idaho",
+        "Median Listing Price": 273559,
+        "Median Listing Price M/M": 0.0281,
+        "New Listing Count M/M": 0.3182,
+        "Price Increase Count M/M": -0.1357,
+        "Days on Market M/M": -0.2126
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Idaho",
+        "Median Listing Price": 266095,
+        "Median Listing Price M/M": 0.0232,
+        "New Listing Count M/M": 0.3753,
+        "Price Increase Count M/M": 3.3,
+        "Days on Market M/M": -0.0417
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Idaho",
+        "Median Listing Price": 260050,
+        "Median Listing Price M/M": -0.0053,
+        "New Listing Count M/M": -0.017,
+        "Price Increase Count M/M": -0.2208,
+        "Days on Market M/M": 0.0537
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Idaho",
+        "Median Listing Price": 261437,
+        "Median Listing Price M/M": 0.0053,
+        "New Listing Count M/M": -0.212,
+        "Price Increase Count M/M": 0.0405,
+        "Days on Market M/M": 0.0963
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Idaho",
+        "Median Listing Price": 260050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.1306,
+        "Price Increase Count M/M": -0.1957,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Idaho",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.1932,
+        "Price Increase Count M/M": -0.1238,
+        "Days on Market M/M": 0.0828
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Idaho",
+        "Median Listing Price": 260000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1628,
+        "Price Increase Count M/M": -0.0278,
+        "Days on Market M/M": 0.0979
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Idaho",
+        "Median Listing Price": 260000,
+        "Median Listing Price M/M": -0.0114,
+        "New Listing Count M/M": -0.082,
+        "Price Increase Count M/M": 0.2273,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Idaho",
+        "Median Listing Price": 262990,
+        "Median Listing Price M/M": -0.0078,
+        "New Listing Count M/M": 0.0197,
+        "Price Increase Count M/M": -0.2212,
+        "Days on Market M/M": 0.1111
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Idaho",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": 0.0232,
+        "New Listing Count M/M": -0.1664,
+        "Price Increase Count M/M": -0.5252,
+        "Days on Market M/M": 0.0086
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Idaho",
+        "Median Listing Price": 259050,
+        "Median Listing Price M/M": 0.0364,
+        "New Listing Count M/M": 0.1575,
+        "Price Increase Count M/M": 0.2727,
+        "Days on Market M/M": -0.0938
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Idaho",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0117,
+        "New Listing Count M/M": 0.1724,
+        "Price Increase Count M/M": 0.1198,
+        "Days on Market M/M": -0.205
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Idaho",
+        "Median Listing Price": 247050,
+        "Median Listing Price M/M": 0.0294,
+        "New Listing Count M/M": 0.2573,
+        "Price Increase Count M/M": 0.0774,
+        "Days on Market M/M": -0.2222
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Idaho",
+        "Median Listing Price": 240000,
+        "Median Listing Price M/M": 0.0211,
+        "New Listing Count M/M": 0.1721,
+        "Price Increase Count M/M": 0.1923,
+        "Days on Market M/M": -0.0591
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Idaho",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": -0.0095,
+        "New Listing Count M/M": 0.3647,
+        "Price Increase Count M/M": 0.4773,
+        "Days on Market M/M": -0.0265
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Idaho",
+        "Median Listing Price": 237300,
+        "Median Listing Price M/M": -0.0032,
+        "New Listing Count M/M": -0.1828,
+        "Price Increase Count M/M": -0.3803,
+        "Days on Market M/M": 0.1188
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Idaho",
+        "Median Listing Price": 238050,
+        "Median Listing Price M/M": -0.0042,
+        "New Listing Count M/M": -0.1997,
+        "Price Increase Count M/M": 0.5778,
+        "Days on Market M/M": 0.0745
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Idaho",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": 0.0021,
+        "New Listing Count M/M": -0.05,
+        "Price Increase Count M/M": -0.2623,
+        "Days on Market M/M": 0.0621
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Idaho",
+        "Median Listing Price": 238550,
+        "Median Listing Price M/M": -0.0019,
+        "New Listing Count M/M": -0.1787,
+        "Price Increase Count M/M": 0.0167,
+        "Days on Market M/M": 0.1645
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Idaho",
+        "Median Listing Price": 239000,
+        "Median Listing Price M/M": 0.003,
+        "New Listing Count M/M": -0.2108,
+        "Price Increase Count M/M": -0.375,
+        "Days on Market M/M": 0.0483
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Idaho",
+        "Median Listing Price": 238295,
+        "Median Listing Price M/M": 0.0138,
+        "New Listing Count M/M": -0.1045,
+        "Price Increase Count M/M": 0.1163,
+        "Days on Market M/M": 0.0662
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Idaho",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.0222,
+        "New Listing Count M/M": 0.076,
+        "Price Increase Count M/M": 0.0361,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Idaho",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": 0.0197,
+        "New Listing Count M/M": 0.0217,
+        "Price Increase Count M/M": -0.2783,
+        "Days on Market M/M": -0.0685
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Idaho",
+        "Median Listing Price": 225500,
+        "Median Listing Price M/M": 0.0294,
+        "New Listing Count M/M": 0.0904,
+        "Price Increase Count M/M": 0.7969,
+        "Days on Market M/M": -0.2234
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Idaho",
+        "Median Listing Price": 219050,
+        "Median Listing Price M/M": 0.0456,
+        "New Listing Count M/M": 0.1585,
+        "Price Increase Count M/M": -0.2289,
+        "Days on Market M/M": -0.1966
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Idaho",
+        "Median Listing Price": 209500,
+        "Median Listing Price M/M": 0.0163,
+        "New Listing Count M/M": 0.1583,
+        "Price Increase Count M/M": 0.908,
+        "Days on Market M/M": -0.0602
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Idaho",
+        "Median Listing Price": 206150,
+        "Median Listing Price M/M": -0.0115,
+        "New Listing Count M/M": 0.4009,
+        "Price Increase Count M/M": 0.061,
+        "Days on Market M/M": 0.0081
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Idaho",
+        "Median Listing Price": 208550,
+        "Median Listing Price M/M": -0.0024,
+        "New Listing Count M/M": -0.1473,
+        "Price Increase Count M/M": 0.025,
+        "Days on Market M/M": 0.0739
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Idaho",
+        "Median Listing Price": 209050,
+        "Median Listing Price M/M": -0.0048,
+        "New Listing Count M/M": -0.1574,
+        "Price Increase Count M/M": -0.0476,
+        "Days on Market M/M": 0.0849
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Idaho",
+        "Median Listing Price": 210050,
+        "Median Listing Price M/M": -0.0047,
+        "New Listing Count M/M": -0.0636,
+        "Price Increase Count M/M": 0.0909,
+        "Days on Market M/M": 0.1042
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Idaho",
+        "Median Listing Price": 211050,
+        "Median Listing Price M/M": -0.0163,
+        "New Listing Count M/M": -0.2207,
+        "Price Increase Count M/M": -0.2596,
+        "Days on Market M/M": 0.1294
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Idaho",
+        "Median Listing Price": 214550,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0132,
+        "Price Increase Count M/M": -0.2,
+        "Days on Market M/M": 0.0968
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Idaho",
+        "Median Listing Price": 214638,
+        "Median Listing Price M/M": 0.018,
+        "New Listing Count M/M": -0.1007,
+        "Price Increase Count M/M": -0.1875,
+        "Days on Market M/M": 0.0616
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Idaho",
+        "Median Listing Price": 210850,
+        "Median Listing Price M/M": 0.0173,
+        "New Listing Count M/M": -0.0514,
+        "Price Increase Count M/M": -0.0123,
+        "Days on Market M/M": -0.0818
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Idaho",
+        "Median Listing Price": 207272,
+        "Median Listing Price M/M": 0.0377,
+        "New Listing Count M/M": 0.1185,
+        "Price Increase Count M/M": -0.1818,
+        "Days on Market M/M": -0.1719
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Idaho",
+        "Median Listing Price": 199750,
+        "Median Listing Price M/M": 0.0114,
+        "New Listing Count M/M": 0.0837,
+        "Price Increase Count M/M": -0.161,
+        "Days on Market M/M": -0.2131
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Idaho",
+        "Median Listing Price": 197504,
+        "Median Listing Price M/M": 0.0176,
+        "New Listing Count M/M": 0.4654,
+        "Price Increase Count M/M": 0.3801,
+        "Days on Market M/M": -0.0279
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Idaho",
+        "Median Listing Price": 194085,
+        "Median Listing Price M/M": 0.0146,
+        "New Listing Count M/M": -0.0715,
+        "Price Increase Count M/M": 0.71,
+        "Days on Market M/M": 0.0121
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Idaho",
+        "Median Listing Price": 191297,
+        "Median Listing Price M/M": 0.0066,
+        "New Listing Count M/M": 0.6532,
+        "Price Increase Count M/M": 0.1364,
+        "Days on Market M/M": 0.042
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Idaho",
+        "Median Listing Price": 190050,
+        "Median Listing Price M/M": -0.0331,
+        "New Listing Count M/M": -0.3235,
+        "Price Increase Count M/M": 0.0115,
+        "Days on Market M/M": 0.0917
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Idaho",
+        "Median Listing Price": 196550,
+        "Median Listing Price M/M": -0.017,
+        "New Listing Count M/M": -0.1792,
+        "Price Increase Count M/M": -0.1869,
+        "Days on Market M/M": 0.0846
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Idaho",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0179,
+        "Price Increase Count M/M": 0.0288,
+        "Days on Market M/M": 0.0806
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Idaho",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1523,
+        "Price Increase Count M/M": -0.1186,
+        "Days on Market M/M": 0.1341
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Idaho",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0688,
+        "Price Increase Count M/M": -0.1061,
+        "Days on Market M/M": 0.0789
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Idaho",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.002,
+        "New Listing Count M/M": -0.0786,
+        "Price Increase Count M/M": -0.3714,
+        "Days on Market M/M": 0.0133
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Idaho",
+        "Median Listing Price": 199550,
+        "Median Listing Price M/M": 0.0207,
+        "New Listing Count M/M": 0.0132,
+        "Price Increase Count M/M": -0.1026,
+        "Days on Market M/M": -0.0066
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Idaho",
+        "Median Listing Price": 195500,
+        "Median Listing Price M/M": 0.0292,
+        "New Listing Count M/M": 0.105,
+        "Price Increase Count M/M": 0.1759,
+        "Days on Market M/M": -0.0793
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Idaho",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": 0.0074,
+        "New Listing Count M/M": 0.0994,
+        "Price Increase Count M/M": 0.1307,
+        "Days on Market M/M": -0.2407
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Idaho",
+        "Median Listing Price": 188550,
+        "Median Listing Price M/M": 0.0329,
+        "New Listing Count M/M": 0.3064,
+        "Price Increase Count M/M": 0.3435,
+        "Days on Market M/M": -0.1563
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Idaho",
+        "Median Listing Price": 182545,
+        "Median Listing Price M/M": 0.0144,
+        "New Listing Count M/M": 0.0662,
+        "Price Increase Count M/M": -0.3879,
+        "Days on Market M/M": -0.0266
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Idaho",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2849,
+        "Price Increase Count M/M": 1.2766,
+        "Days on Market M/M": 0.0038
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Idaho",
+        "Median Listing Price": 179950,
+        "Median Listing Price M/M": -0.027,
+        "New Listing Count M/M": -0.196,
+        "Price Increase Count M/M": 0.0805,
+        "Days on Market M/M": 0.0871
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Idaho",
+        "Median Listing Price": 184950,
+        "Median Listing Price M/M": -0.0222,
+        "New Listing Count M/M": -0.0504,
+        "Price Increase Count M/M": -0.3696,
+        "Days on Market M/M": 0.0299
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Idaho",
+        "Median Listing Price": 189155,
+        "Median Listing Price M/M": -0.0042,
+        "New Listing Count M/M": -0.0781,
+        "Price Increase Count M/M": 0.3019,
+        "Days on Market M/M": 0.0734
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Idaho",
+        "Median Listing Price": 189950,
+        "Median Listing Price M/M": -0.0108,
+        "New Listing Count M/M": -0.0701,
+        "Price Increase Count M/M": 0.1522,
+        "Days on Market M/M": 0.0792
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Idaho",
+        "Median Listing Price": 192022,
+        "Median Listing Price M/M": 0.0104,
+        "New Listing Count M/M": -0.0544,
+        "Price Increase Count M/M": -0.1321,
+        "Days on Market M/M": 0.086
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Idaho",
+        "Median Listing Price": 190050,
+        "Median Listing Price M/M": 0.0029,
+        "New Listing Count M/M": -0.081,
+        "Price Increase Count M/M": -0.209,
+        "Days on Market M/M": -0.0106
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Idaho",
+        "Median Listing Price": 189500,
+        "Median Listing Price M/M": 0.0186,
+        "New Listing Count M/M": -0.0555,
+        "Price Increase Count M/M": -0.029,
+        "Days on Market M/M": -0.06
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Idaho",
+        "Median Listing Price": 186047,
+        "Median Listing Price M/M": 0.0286,
+        "New Listing Count M/M": -0.0549,
+        "Price Increase Count M/M": -0.0612,
+        "Days on Market M/M": -0.0385
+    }
+]

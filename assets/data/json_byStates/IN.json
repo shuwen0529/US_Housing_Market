@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Indiana",
+        "Median Listing Price": 199900,
+        "Median Listing Price M/M": 0.0527,
+        "New Listing Count M/M": 0.2379,
+        "Price Increase Count M/M": 0.175,
+        "Days on Market M/M": -0.1884
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Indiana",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": 0.0492,
+        "New Listing Count M/M": 0.2099,
+        "Price Increase Count M/M": 0.0909,
+        "Days on Market M/M": -0.1977
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Indiana",
+        "Median Listing Price": 181000,
+        "Median Listing Price M/M": 0.0197,
+        "New Listing Count M/M": 0.0528,
+        "Price Increase Count M/M": 0.0476,
+        "Days on Market M/M": 0.0361
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Indiana",
+        "Median Listing Price": 177500,
+        "Median Listing Price M/M": -0.0111,
+        "New Listing Count M/M": 0.2064,
+        "Price Increase Count M/M": 0.3462,
+        "Days on Market M/M": 0.1216
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Indiana",
+        "Median Listing Price": 179500,
+        "Median Listing Price M/M": -0.0022,
+        "New Listing Count M/M": -0.3292,
+        "Price Increase Count M/M": -0.2571,
+        "Days on Market M/M": 0.1563
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Indiana",
+        "Median Listing Price": 179900,
+        "Median Listing Price M/M": -0.0233,
+        "New Listing Count M/M": -0.1827,
+        "Price Increase Count M/M": -0.0708,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Indiana",
+        "Median Listing Price": 184200,
+        "Median Listing Price M/M": -0.0043,
+        "New Listing Count M/M": -0.0446,
+        "Price Increase Count M/M": -0.1567,
+        "Days on Market M/M": 0.0714
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Indiana",
+        "Median Listing Price": 185000,
+        "Median Listing Price M/M": -0.0212,
+        "New Listing Count M/M": -0.0595,
+        "Price Increase Count M/M": 0.0469,
+        "Days on Market M/M": 0.0566
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Indiana",
+        "Median Listing Price": 189000,
+        "Median Listing Price M/M": -0.0047,
+        "New Listing Count M/M": -0.05,
+        "Price Increase Count M/M": -0.1579,
+        "Days on Market M/M": 0.0816
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Indiana",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0176,
+        "Price Increase Count M/M": -0.0732,
+        "Days on Market M/M": 0.0426
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Indiana",
+        "Median Listing Price": 189900,
+        "Median Listing Price M/M": 0.0026,
+        "New Listing Count M/M": 0.0176,
+        "Price Increase Count M/M": -0.1135,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Indiana",
+        "Median Listing Price": 189400,
+        "Median Listing Price M/M": 0.0522,
+        "New Listing Count M/M": 0.1546,
+        "Price Increase Count M/M": 0.2671,
+        "Days on Market M/M": -0.1455
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Indiana",
+        "Median Listing Price": 180000,
+        "Median Listing Price M/M": 0.0345,
+        "New Listing Count M/M": 0.0791,
+        "Price Increase Count M/M": 0.0657,
+        "Days on Market M/M": -0.1667
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Indiana",
+        "Median Listing Price": 174000,
+        "Median Listing Price M/M": 0.0514,
+        "New Listing Count M/M": 0.2226,
+        "Price Increase Count M/M": 0.4574,
+        "Days on Market M/M": -0.2143
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Indiana",
+        "Median Listing Price": 165500,
+        "Median Listing Price M/M": 0.0344,
+        "New Listing Count M/M": 0.2741,
+        "Price Increase Count M/M": -0.1532,
+        "Days on Market M/M": -0.0345
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Indiana",
+        "Median Listing Price": 160000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0214,
+        "Price Increase Count M/M": 0.1809,
+        "Days on Market M/M": 0.1154
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Indiana",
+        "Median Listing Price": 160000,
+        "Median Listing Price M/M": -0.0297,
+        "New Listing Count M/M": -0.2864,
+        "Price Increase Count M/M": -0.0505,
+        "Days on Market M/M": 0.0986
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Indiana",
+        "Median Listing Price": 164900,
+        "Median Listing Price M/M": -0.0214,
+        "New Listing Count M/M": -0.0946,
+        "Price Increase Count M/M": -0.3125,
+        "Days on Market M/M": 0.0597
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Indiana",
+        "Median Listing Price": 168550,
+        "Median Listing Price M/M": -0.0082,
+        "New Listing Count M/M": -0.0949,
+        "Price Increase Count M/M": -0.1377,
+        "Days on Market M/M": 0.0551
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Indiana",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1041,
+        "Price Increase Count M/M": 0.0373,
+        "Days on Market M/M": 0.0763
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Indiana",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0453,
+        "Price Increase Count M/M": -0.0747,
+        "Days on Market M/M": 0.0536
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Indiana",
+        "Median Listing Price": 169950,
+        "Median Listing Price M/M": 0.0027,
+        "New Listing Count M/M": -0.0325,
+        "Price Increase Count M/M": 0.0058,
+        "Days on Market M/M": 0.0275
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Indiana",
+        "Median Listing Price": 169500,
+        "Median Listing Price M/M": 0.0092,
+        "New Listing Count M/M": 0.0414,
+        "Price Increase Count M/M": 0.0359,
+        "Days on Market M/M": -0.0091
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Indiana",
+        "Median Listing Price": 167950,
+        "Median Listing Price M/M": 0.0458,
+        "New Listing Count M/M": 0.0454,
+        "Price Increase Count M/M": -0.1302,
+        "Days on Market M/M": -0.0833
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Indiana",
+        "Median Listing Price": 160590,
+        "Median Listing Price M/M": 0.053,
+        "New Listing Count M/M": 0.0661,
+        "Price Increase Count M/M": 0.1779,
+        "Days on Market M/M": -0.1111
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Indiana",
+        "Median Listing Price": 152500,
+        "Median Listing Price M/M": 0.0517,
+        "New Listing Count M/M": 0.1856,
+        "Price Increase Count M/M": 0.2835,
+        "Days on Market M/M": -0.2458
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Indiana",
+        "Median Listing Price": 145000,
+        "Median Listing Price M/M": 0.0361,
+        "New Listing Count M/M": 0.1747,
+        "Price Increase Count M/M": 0.1545,
+        "Days on Market M/M": -0.0272
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Indiana",
+        "Median Listing Price": 139950,
+        "Median Listing Price M/M": -0.0247,
+        "New Listing Count M/M": 0.2675,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.1084
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Indiana",
+        "Median Listing Price": 143500,
+        "Median Listing Price M/M": -0.0107,
+        "New Listing Count M/M": -0.2813,
+        "Price Increase Count M/M": -0.1129,
+        "Days on Market M/M": 0.0993
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Indiana",
+        "Median Listing Price": 145050,
+        "Median Listing Price M/M": -0.0169,
+        "New Listing Count M/M": -0.1426,
+        "Price Increase Count M/M": 0.069,
+        "Days on Market M/M": 0.0486
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Indiana",
+        "Median Listing Price": 147550,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0836,
+        "Price Increase Count M/M": -0.1145,
+        "Days on Market M/M": 0.0435
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Indiana",
+        "Median Listing Price": 147550,
+        "Median Listing Price M/M": -0.0051,
+        "New Listing Count M/M": -0.0544,
+        "Price Increase Count M/M": -0.0966,
+        "Days on Market M/M": 0.0455
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Indiana",
+        "Median Listing Price": 148300,
+        "Median Listing Price M/M": -0.011,
+        "New Listing Count M/M": -0.0491,
+        "Price Increase Count M/M": -0.1471,
+        "Days on Market M/M": 0.0645
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Indiana",
+        "Median Listing Price": 149950,
+        "Median Listing Price M/M": 0.0013,
+        "New Listing Count M/M": -0.0614,
+        "Price Increase Count M/M": -0.0395,
+        "Days on Market M/M": 0.0333
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Indiana",
+        "Median Listing Price": 149750,
+        "Median Listing Price M/M": 0.0184,
+        "New Listing Count M/M": -0.0164,
+        "Price Increase Count M/M": -0.1324,
+        "Days on Market M/M": -0.0164
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Indiana",
+        "Median Listing Price": 147050,
+        "Median Listing Price M/M": 0.0504,
+        "New Listing Count M/M": 0.0272,
+        "Price Increase Count M/M": 0.1792,
+        "Days on Market M/M": -0.1029
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Indiana",
+        "Median Listing Price": 140000,
+        "Median Listing Price M/M": 0.0108,
+        "New Listing Count M/M": 0.0465,
+        "Price Increase Count M/M": 0.0813,
+        "Days on Market M/M": -0.1656
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Indiana",
+        "Median Listing Price": 138500,
+        "Median Listing Price M/M": 0.039,
+        "New Listing Count M/M": 0.2499,
+        "Price Increase Count M/M": -0.1753,
+        "Days on Market M/M": -0.1931
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Indiana",
+        "Median Listing Price": 133300,
+        "Median Listing Price M/M": 0.0258,
+        "New Listing Count M/M": 0.1662,
+        "Price Increase Count M/M": 0.6724,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Indiana",
+        "Median Listing Price": 129950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.2087,
+        "Price Increase Count M/M": -0.0492,
+        "Days on Market M/M": 0.0978
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Indiana",
+        "Median Listing Price": 129950,
+        "Median Listing Price M/M": -0.0226,
+        "New Listing Count M/M": -0.2695,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0698
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Indiana",
+        "Median Listing Price": 132950,
+        "Median Listing Price M/M": -0.0148,
+        "New Listing Count M/M": -0.1208,
+        "Price Increase Count M/M": -0.1644,
+        "Days on Market M/M": 0.0683
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Indiana",
+        "Median Listing Price": 134950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0582,
+        "Price Increase Count M/M": 0.0735,
+        "Days on Market M/M": 0.0126
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Indiana",
+        "Median Listing Price": 134950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1317,
+        "Price Increase Count M/M": -0.0933,
+        "Days on Market M/M": 0.089
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Indiana",
+        "Median Listing Price": 134950,
+        "Median Listing Price M/M": -0.0055,
+        "New Listing Count M/M": -0.0662,
+        "Price Increase Count M/M": -0.0683,
+        "Days on Market M/M": 0.0815
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Indiana",
+        "Median Listing Price": 135700,
+        "Median Listing Price M/M": -0.0066,
+        "New Listing Count M/M": -0.0771,
+        "Price Increase Count M/M": 0.0952,
+        "Days on Market M/M": 0.0887
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Indiana",
+        "Median Listing Price": 136600,
+        "Median Listing Price M/M": 0.0115,
+        "New Listing Count M/M": -0.0658,
+        "Price Increase Count M/M": -0.0696,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Indiana",
+        "Median Listing Price": 135050,
+        "Median Listing Price M/M": 0.0082,
+        "New Listing Count M/M": 0.0706,
+        "Price Increase Count M/M": 0.0395,
+        "Days on Market M/M": -0.1507
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Indiana",
+        "Median Listing Price": 133949,
+        "Median Listing Price M/M": 0.0308,
+        "New Listing Count M/M": 0.2257,
+        "Price Increase Count M/M": 0.1014,
+        "Days on Market M/M": -0.2316
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Indiana",
+        "Median Listing Price": 129950,
+        "Median Listing Price M/M": 0.0396,
+        "New Listing Count M/M": 0.1675,
+        "Price Increase Count M/M": -0.1636,
+        "Days on Market M/M": -0.0909
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Indiana",
+        "Median Listing Price": 125000,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": 0.0346,
+        "Price Increase Count M/M": 0.4602,
+        "Days on Market M/M": -0.0188
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Indiana",
+        "Median Listing Price": 124950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.3605,
+        "Price Increase Count M/M": 0.2151,
+        "Days on Market M/M": 0.0812
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Indiana",
+        "Median Listing Price": 124950,
+        "Median Listing Price M/M": -0.0234,
+        "New Listing Count M/M": -0.2337,
+        "Price Increase Count M/M": -0.225,
+        "Days on Market M/M": 0.0944
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Indiana",
+        "Median Listing Price": 127950,
+        "Median Listing Price M/M": -0.0154,
+        "New Listing Count M/M": -0.1294,
+        "Price Increase Count M/M": -0.1489,
+        "Days on Market M/M": 0.0588
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Indiana",
+        "Median Listing Price": 129950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1492,
+        "Price Increase Count M/M": -0.0342,
+        "Days on Market M/M": 0.0494
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Indiana",
+        "Median Listing Price": 129950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.076,
+        "Price Increase Count M/M": -0.1205,
+        "Days on Market M/M": 0.08
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Indiana",
+        "Median Listing Price": 129950,
+        "Median Listing Price M/M": -0.008,
+        "New Listing Count M/M": -0.1007,
+        "Price Increase Count M/M": 0.0247,
+        "Days on Market M/M": 0.0638
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Indiana",
+        "Median Listing Price": 131000,
+        "Median Listing Price M/M": 0.0073,
+        "New Listing Count M/M": 0.0123,
+        "Price Increase Count M/M": -0.0899,
+        "Days on Market M/M": 0.0522
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Indiana",
+        "Median Listing Price": 130050,
+        "Median Listing Price M/M": 0.0042,
+        "New Listing Count M/M": -0.0378,
+        "Price Increase Count M/M": 0.023,
+        "Days on Market M/M": -0.0429
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Indiana",
+        "Median Listing Price": 129500,
+        "Median Listing Price M/M": 0.0356,
+        "New Listing Count M/M": 0.063,
+        "Price Increase Count M/M": 0.0116,
+        "Days on Market M/M": -0.1765
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Indiana",
+        "Median Listing Price": 125050,
+        "Median Listing Price M/M": 0.0171,
+        "New Listing Count M/M": 0.1533,
+        "Price Increase Count M/M": 0.1622,
+        "Days on Market M/M": -0.2478
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Indiana",
+        "Median Listing Price": 122950,
+        "Median Listing Price M/M": 0.025,
+        "New Listing Count M/M": 0.3758,
+        "Price Increase Count M/M": 0.2131,
+        "Days on Market M/M": -0.0216
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Indiana",
+        "Median Listing Price": 119950,
+        "Median Listing Price M/M": 0.008,
+        "New Listing Count M/M": 0.107,
+        "Price Increase Count M/M": -0.1159,
+        "Days on Market M/M": 0.05
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Indiana",
+        "Median Listing Price": 118999,
+        "Median Listing Price M/M": -0.0079,
+        "New Listing Count M/M": 0.1924,
+        "Price Increase Count M/M": 0.4082,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Indiana",
+        "Median Listing Price": 119950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.3196,
+        "Price Increase Count M/M": -0.2283,
+        "Days on Market M/M": 0.0989
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Indiana",
+        "Median Listing Price": 120000,
+        "Median Listing Price M/M": -0.0248,
+        "New Listing Count M/M": -0.2084,
+        "Price Increase Count M/M": 0.0855,
+        "Days on Market M/M": 0.0706
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Indiana",
+        "Median Listing Price": 123050,
+        "Median Listing Price M/M": -0.0152,
+        "New Listing Count M/M": 0.0016,
+        "Price Increase Count M/M": -0.3427,
+        "Days on Market M/M": 0.0366
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Indiana",
+        "Median Listing Price": 124950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0975,
+        "Price Increase Count M/M": -0.0056,
+        "Days on Market M/M": 0.0789
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Indiana",
+        "Median Listing Price": 124950,
+        "Median Listing Price M/M": -0.0008,
+        "New Listing Count M/M": -0.0129,
+        "Price Increase Count M/M": -0.0056,
+        "Days on Market M/M": 0.0201
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Indiana",
+        "Median Listing Price": 125050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.094,
+        "Price Increase Count M/M": -0.1,
+        "Days on Market M/M": 0.0205
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Indiana",
+        "Median Listing Price": 125050,
+        "Median Listing Price M/M": 0.0008,
+        "New Listing Count M/M": 0.0184,
+        "Price Increase Count M/M": -0.0476,
+        "Days on Market M/M": -0.0135
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Indiana",
+        "Median Listing Price": 124950,
+        "Median Listing Price M/M": 0.0056,
+        "New Listing Count M/M": 0.0671,
+        "Price Increase Count M/M": 0.1798,
+        "Days on Market M/M": -0.0633
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Indiana",
+        "Median Listing Price": 124250,
+        "Median Listing Price M/M": 0.0358,
+        "New Listing Count M/M": 0.0931,
+        "Price Increase Count M/M": 0.1867,
+        "Days on Market M/M": -0.1596
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Indiana",
+        "Median Listing Price": 119950,
+        "Median Listing Price M/M": 0.0207,
+        "New Listing Count M/M": 0.1748,
+        "Price Increase Count M/M": 0.2,
+        "Days on Market M/M": -0.1493
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Indiana",
+        "Median Listing Price": 117512,
+        "Median Listing Price M/M": 0.0214,
+        "New Listing Count M/M": 0.0297,
+        "Price Increase Count M/M": -0.1379,
+        "Days on Market M/M": -0.0045
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Indiana",
+        "Median Listing Price": 115050,
+        "Median Listing Price M/M": -0.0086,
+        "New Listing Count M/M": 0.2229,
+        "Price Increase Count M/M": 0.6111,
+        "Days on Market M/M": 0.0278
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Indiana",
+        "Median Listing Price": 116050,
+        "Median Listing Price M/M": -0.0325,
+        "New Listing Count M/M": -0.1073,
+        "Price Increase Count M/M": -0.2035,
+        "Days on Market M/M": 0.064
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Indiana",
+        "Median Listing Price": 119950,
+        "Median Listing Price M/M": -0.0046,
+        "New Listing Count M/M": -0.0593,
+        "Price Increase Count M/M": -0.2313,
+        "Days on Market M/M": 0.0518
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Indiana",
+        "Median Listing Price": 120500,
+        "Median Listing Price M/M": -0.0286,
+        "New Listing Count M/M": -0.0945,
+        "Price Increase Count M/M": -0.1145,
+        "Days on Market M/M": 0.0158
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Indiana",
+        "Median Listing Price": 124050,
+        "Median Listing Price M/M": -0.0072,
+        "New Listing Count M/M": -0.0417,
+        "Price Increase Count M/M": 0.1293,
+        "Days on Market M/M": 0.0383
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Indiana",
+        "Median Listing Price": 124950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0461,
+        "Price Increase Count M/M": -0.0329,
+        "Days on Market M/M": 0.0398
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Indiana",
+        "Median Listing Price": 124950,
+        "Median Listing Price M/M": -0.0008,
+        "New Listing Count M/M": -0.0552,
+        "Price Increase Count M/M": 0.0857,
+        "Days on Market M/M": 0.0602
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Indiana",
+        "Median Listing Price": 125050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0311,
+        "Price Increase Count M/M": -0.0345,
+        "Days on Market M/M": 0.0311
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Indiana",
+        "Median Listing Price": 125050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": -0.0596,
+        "Price Increase Count M/M": -0.152,
+        "Days on Market M/M": -0.0359
+    }
+]

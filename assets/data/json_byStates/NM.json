@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "New Mexico",
+        "Median Listing Price": 249700,
+        "Median Listing Price M/M": 0.0297,
+        "New Listing Count M/M": 0.1496,
+        "Price Increase Count M/M": -0.4429,
+        "Days on Market M/M": -0.1667
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "New Mexico",
+        "Median Listing Price": 242500,
+        "Median Listing Price M/M": 0.0108,
+        "New Listing Count M/M": 0.0123,
+        "Price Increase Count M/M": 0.6279,
+        "Days on Market M/M": -0.0857
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "New Mexico",
+        "Median Listing Price": 239900,
+        "Median Listing Price M/M": 0.0046,
+        "New Listing Count M/M": 0.1627,
+        "Price Increase Count M/M": 0.1622,
+        "Days on Market M/M": -0.0455
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "New Mexico",
+        "Median Listing Price": 238800,
+        "Median Listing Price M/M": -0.0008,
+        "New Listing Count M/M": 0.1414,
+        "Price Increase Count M/M": 0.1563,
+        "Days on Market M/M": 0.068
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "New Mexico",
+        "Median Listing Price": 239000,
+        "Median Listing Price M/M": -0.0038,
+        "New Listing Count M/M": -0.1318,
+        "Price Increase Count M/M": -0.3962,
+        "Days on Market M/M": 0.0957
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "New Mexico",
+        "Median Listing Price": 239900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1493,
+        "Price Increase Count M/M": 0.0392,
+        "Days on Market M/M": 0.0562
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "New Mexico",
+        "Median Listing Price": 239900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0453,
+        "Price Increase Count M/M": -0.0192,
+        "Days on Market M/M": 0.0349
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "New Mexico",
+        "Median Listing Price": 239900,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0913,
+        "Price Increase Count M/M": -0.3659,
+        "Days on Market M/M": 0.0886
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "New Mexico",
+        "Median Listing Price": 240000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0709,
+        "Price Increase Count M/M": 0.3667,
+        "Days on Market M/M": 0.0533
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "New Mexico",
+        "Median Listing Price": 240000,
+        "Median Listing Price M/M": -0.0066,
+        "New Listing Count M/M": -0.0439,
+        "Price Increase Count M/M": 0.0345,
+        "Days on Market M/M": 0.0135
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "New Mexico",
+        "Median Listing Price": 241600,
+        "Median Listing Price M/M": 0.0109,
+        "New Listing Count M/M": 0.0067,
+        "Price Increase Count M/M": 0.0741,
+        "Days on Market M/M": -0.0133
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "New Mexico",
+        "Median Listing Price": 239000,
+        "Median Listing Price M/M": 0.0302,
+        "New Listing Count M/M": 0.0521,
+        "Price Increase Count M/M": 0.125,
+        "Days on Market M/M": -0.0964
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "New Mexico",
+        "Median Listing Price": 232000,
+        "Median Listing Price M/M": 0.0131,
+        "New Listing Count M/M": 0.1076,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": -0.1782
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "New Mexico",
+        "Median Listing Price": 229000,
+        "Median Listing Price M/M": 0.0133,
+        "New Listing Count M/M": 0.0491,
+        "Price Increase Count M/M": 0.2,
+        "Days on Market M/M": -0.0648
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "New Mexico",
+        "Median Listing Price": 226000,
+        "Median Listing Price M/M": -0.0026,
+        "New Listing Count M/M": 0.1969,
+        "Price Increase Count M/M": -0.0426,
+        "Days on Market M/M": -0.0526
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "New Mexico",
+        "Median Listing Price": 226600,
+        "Median Listing Price M/M": 0.0071,
+        "New Listing Count M/M": 0.2763,
+        "Price Increase Count M/M": 0.4688,
+        "Days on Market M/M": 0.0459
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "New Mexico",
+        "Median Listing Price": 225000,
+        "Median Listing Price M/M": -0.0066,
+        "New Listing Count M/M": -0.2388,
+        "Price Increase Count M/M": -0.2,
+        "Days on Market M/M": 0.101
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "New Mexico",
+        "Median Listing Price": 226500,
+        "Median Listing Price M/M": -0.0152,
+        "New Listing Count M/M": -0.0845,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.0532
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "New Mexico",
+        "Median Listing Price": 230042,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0551,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0503
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "New Mexico",
+        "Median Listing Price": 230050,
+        "Median Listing Price M/M": -0.0089,
+        "New Listing Count M/M": -0.1486,
+        "Price Increase Count M/M": -0.1667,
+        "Days on Market M/M": 0.0592
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "New Mexico",
+        "Median Listing Price": 232125,
+        "Median Listing Price M/M": -0.0124,
+        "New Listing Count M/M": 0.0035,
+        "Price Increase Count M/M": 0.44,
+        "Days on Market M/M": 0.0696
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "New Mexico",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0826,
+        "Price Increase Count M/M": -0.3151,
+        "Days on Market M/M": 0.0395
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "New Mexico",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.0217,
+        "New Listing Count M/M": -0.0502,
+        "Price Increase Count M/M": 0.5532,
+        "Days on Market M/M": -0.0194
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "New Mexico",
+        "Median Listing Price": 230050,
+        "Median Listing Price M/M": 0.0083,
+        "New Listing Count M/M": 0.0924,
+        "Price Increase Count M/M": -0.0208,
+        "Days on Market M/M": -0.1092
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "New Mexico",
+        "Median Listing Price": 228165,
+        "Median Listing Price M/M": 0.0138,
+        "New Listing Count M/M": 0.1091,
+        "Price Increase Count M/M": -0.2,
+        "Days on Market M/M": -0.2055
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "New Mexico",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0105,
+        "New Listing Count M/M": 0.1889,
+        "Price Increase Count M/M": -0.0625,
+        "Days on Market M/M": -0.0875
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "New Mexico",
+        "Median Listing Price": 222702,
+        "Median Listing Price M/M": 0.0125,
+        "New Listing Count M/M": 0.0471,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": -0.0083
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "New Mexico",
+        "Median Listing Price": 219950,
+        "Median Listing Price M/M": -0.005,
+        "New Listing Count M/M": 0.3179,
+        "Price Increase Count M/M": -0.3239,
+        "Days on Market M/M": 0.0298
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "New Mexico",
+        "Median Listing Price": 221050,
+        "Median Listing Price M/M": -0.0177,
+        "New Listing Count M/M": -0.169,
+        "Price Increase Count M/M": 0.6136,
+        "Days on Market M/M": 0.0981
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "New Mexico",
+        "Median Listing Price": 225037,
+        "Median Listing Price M/M": -0.0001,
+        "New Listing Count M/M": -0.1067,
+        "Price Increase Count M/M": -0.12,
+        "Days on Market M/M": 0.0594
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "New Mexico",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": -0.0044,
+        "New Listing Count M/M": -0.0822,
+        "Price Increase Count M/M": -0.2188,
+        "Days on Market M/M": 0.0688
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "New Mexico",
+        "Median Listing Price": 226050,
+        "Median Listing Price M/M": -0.0022,
+        "New Listing Count M/M": -0.1007,
+        "Price Increase Count M/M": -0.0303,
+        "Days on Market M/M": 0.05
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "New Mexico",
+        "Median Listing Price": 226550,
+        "Median Listing Price M/M": -0.0109,
+        "New Listing Count M/M": -0.0847,
+        "Price Increase Count M/M": 0.0645,
+        "Days on Market M/M": 0.0345
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "New Mexico",
+        "Median Listing Price": 229050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0298,
+        "Price Increase Count M/M": -0.0462,
+        "Days on Market M/M": 0.0545
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "New Mexico",
+        "Median Listing Price": 229050,
+        "Median Listing Price M/M": 0.0115,
+        "New Listing Count M/M": 0.0393,
+        "Price Increase Count M/M": 0.3,
+        "Days on Market M/M": 0.0061
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "New Mexico",
+        "Median Listing Price": 226450,
+        "Median Listing Price M/M": 0.0085,
+        "New Listing Count M/M": -0.0528,
+        "Price Increase Count M/M": 0.0417,
+        "Days on Market M/M": -0.1038
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "New Mexico",
+        "Median Listing Price": 224549,
+        "Median Listing Price M/M": 0.0159,
+        "New Listing Count M/M": 0.0872,
+        "Price Increase Count M/M": 0.1429,
+        "Days on Market M/M": -0.2043
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "New Mexico",
+        "Median Listing Price": 221025,
+        "Median Listing Price M/M": 0.0162,
+        "New Listing Count M/M": 0.1595,
+        "Price Increase Count M/M": -0.125,
+        "Days on Market M/M": -0.065
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "New Mexico",
+        "Median Listing Price": 217512,
+        "Median Listing Price M/M": 0.0115,
+        "New Listing Count M/M": 0.216,
+        "Price Increase Count M/M": 0.2632,
+        "Days on Market M/M": -0.016
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "New Mexico",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": -0.0023,
+        "New Listing Count M/M": 0.171,
+        "Price Increase Count M/M": 0.1515,
+        "Days on Market M/M": 0.0549
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "New Mexico",
+        "Median Listing Price": 215550,
+        "Median Listing Price M/M": -0.0182,
+        "New Listing Count M/M": -0.1773,
+        "Price Increase Count M/M": -0.3125,
+        "Days on Market M/M": 0.0773
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "New Mexico",
+        "Median Listing Price": 219550,
+        "Median Listing Price M/M": -0.002,
+        "New Listing Count M/M": -0.1013,
+        "Price Increase Count M/M": -0.1273,
+        "Days on Market M/M": 0.0501
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "New Mexico",
+        "Median Listing Price": 220000,
+        "Median Listing Price M/M": -0.0182,
+        "New Listing Count M/M": -0.022,
+        "Price Increase Count M/M": 0.0185,
+        "Days on Market M/M": 0.0475
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "New Mexico",
+        "Median Listing Price": 224073,
+        "Median Listing Price M/M": -0.0043,
+        "New Listing Count M/M": -0.138,
+        "Price Increase Count M/M": 0.08,
+        "Days on Market M/M": 0.0526
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "New Mexico",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": -0.0044,
+        "New Listing Count M/M": -0.1595,
+        "Price Increase Count M/M": -0.3151,
+        "Days on Market M/M": 0.0734
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "New Mexico",
+        "Median Listing Price": 226050,
+        "Median Listing Price M/M": 0.0044,
+        "New Listing Count M/M": -0.0496,
+        "Price Increase Count M/M": 0.2586,
+        "Days on Market M/M": 0.0057
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "New Mexico",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0067,
+        "New Listing Count M/M": 0.0344,
+        "Price Increase Count M/M": 0.1154,
+        "Days on Market M/M": -0.0112
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "New Mexico",
+        "Median Listing Price": 223550,
+        "Median Listing Price M/M": 0.0299,
+        "New Listing Count M/M": -0.0113,
+        "Price Increase Count M/M": -0.1746,
+        "Days on Market M/M": -0.0825
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "New Mexico",
+        "Median Listing Price": 217050,
+        "Median Listing Price M/M": 0.0333,
+        "New Listing Count M/M": 0.1225,
+        "Price Increase Count M/M": 0.0862,
+        "Days on Market M/M": -0.2049
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "New Mexico",
+        "Median Listing Price": 210050,
+        "Median Listing Price M/M": 0.008,
+        "New Listing Count M/M": 0.1191,
+        "Price Increase Count M/M": 0.3488,
+        "Days on Market M/M": -0.0469
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "New Mexico",
+        "Median Listing Price": 208375,
+        "Median Listing Price M/M": 0.0137,
+        "New Listing Count M/M": 0.0206,
+        "Price Increase Count M/M": -0.1042,
+        "Days on Market M/M": -0.0154
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "New Mexico",
+        "Median Listing Price": 205550,
+        "Median Listing Price M/M": -0.0188,
+        "New Listing Count M/M": 0.411,
+        "Price Increase Count M/M": 0.1429,
+        "Days on Market M/M": 0.04
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "New Mexico",
+        "Median Listing Price": 209497,
+        "Median Listing Price M/M": -0.0026,
+        "New Listing Count M/M": -0.1911,
+        "Price Increase Count M/M": -0.087,
+        "Days on Market M/M": 0.087
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "New Mexico",
+        "Median Listing Price": 210050,
+        "Median Listing Price M/M": -0.0294,
+        "New Listing Count M/M": -0.1109,
+        "Price Increase Count M/M": -0.0612,
+        "Days on Market M/M": 0.055
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "New Mexico",
+        "Median Listing Price": 216422,
+        "Median Listing Price M/M": -0.0103,
+        "New Listing Count M/M": -0.0986,
+        "Price Increase Count M/M": -0.125,
+        "Days on Market M/M": 0.0686
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "New Mexico",
+        "Median Listing Price": 218665,
+        "Median Listing Price M/M": 0.0079,
+        "New Listing Count M/M": -0.1063,
+        "Price Increase Count M/M": -0.2632,
+        "Days on Market M/M": 0.0737
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "New Mexico",
+        "Median Listing Price": 216950,
+        "Median Listing Price M/M": 0.0007,
+        "New Listing Count M/M": -0.066,
+        "Price Increase Count M/M": 0.1515,
+        "Days on Market M/M": 0.044
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "New Mexico",
+        "Median Listing Price": 216800,
+        "Median Listing Price M/M": 0.0081,
+        "New Listing Count M/M": -0.0888,
+        "Price Increase Count M/M": 0.1786,
+        "Days on Market M/M": 0.0341
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "New Mexico",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.045,
+        "Price Increase Count M/M": -0.0968,
+        "Days on Market M/M": -0.0383
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "New Mexico",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0141,
+        "New Listing Count M/M": 0.0715,
+        "Price Increase Count M/M": 0.0164,
+        "Days on Market M/M": -0.085
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "New Mexico",
+        "Median Listing Price": 212050,
+        "Median Listing Price M/M": 0.0119,
+        "New Listing Count M/M": 0.0163,
+        "Price Increase Count M/M": -0.1286,
+        "Days on Market M/M": -0.2063
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "New Mexico",
+        "Median Listing Price": 209550,
+        "Median Listing Price M/M": 0.0224,
+        "New Listing Count M/M": 0.1851,
+        "Price Increase Count M/M": 0.129,
+        "Days on Market M/M": -0.0418
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "New Mexico",
+        "Median Listing Price": 204950,
+        "Median Listing Price M/M": 0.0211,
+        "New Listing Count M/M": 0.1002,
+        "Price Increase Count M/M": -0.0882,
+        "Days on Market M/M": 0.0077
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "New Mexico",
+        "Median Listing Price": 200712,
+        "Median Listing Price M/M": -0.0399,
+        "New Listing Count M/M": 0.3089,
+        "Price Increase Count M/M": 0.619,
+        "Days on Market M/M": 0.0276
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "New Mexico",
+        "Median Listing Price": 209050,
+        "Median Listing Price M/M": -0.0043,
+        "New Listing Count M/M": -0.1726,
+        "Price Increase Count M/M": -0.2075,
+        "Days on Market M/M": 0.0901
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "New Mexico",
+        "Median Listing Price": 209950,
+        "Median Listing Price M/M": -0.0134,
+        "New Listing Count M/M": -0.1275,
+        "Price Increase Count M/M": -0.1017,
+        "Days on Market M/M": 0.0591
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "New Mexico",
+        "Median Listing Price": 212800,
+        "Median Listing Price M/M": -0.01,
+        "New Listing Count M/M": -0.0183,
+        "Price Increase Count M/M": -0.1061,
+        "Days on Market M/M": 0.0784
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "New Mexico",
+        "Median Listing Price": 214950,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": -0.1761,
+        "Price Increase Count M/M": -0.0571,
+        "Days on Market M/M": 0.0681
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "New Mexico",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": -0.0081,
+        "New Listing Count M/M": -0.0048,
+        "Price Increase Count M/M": 0.2281,
+        "Days on Market M/M": 0.038
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "New Mexico",
+        "Median Listing Price": 216800,
+        "Median Listing Price M/M": 0.0081,
+        "New Listing Count M/M": -0.0314,
+        "Price Increase Count M/M": -0.1094,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "New Mexico",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.0131,
+        "New Listing Count M/M": -0.0177,
+        "Price Increase Count M/M": -0.0448,
+        "Days on Market M/M": -0.0316
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "New Mexico",
+        "Median Listing Price": 212270,
+        "Median Listing Price M/M": 0.0277,
+        "New Listing Count M/M": 0.0288,
+        "Price Increase Count M/M": -0.2637,
+        "Days on Market M/M": -0.05
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "New Mexico",
+        "Median Listing Price": 206550,
+        "Median Listing Price M/M": 0.0325,
+        "New Listing Count M/M": 0.0882,
+        "Price Increase Count M/M": 0.1098,
+        "Days on Market M/M": -0.1736
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "New Mexico",
+        "Median Listing Price": 200050,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": 0.2162,
+        "Price Increase Count M/M": 0.2615,
+        "Days on Market M/M": -0.0472
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "New Mexico",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0039,
+        "Price Increase Count M/M": 0.1404,
+        "Days on Market M/M": -0.0193
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "New Mexico",
+        "Median Listing Price": 199950,
+        "Median Listing Price M/M": -0.0005,
+        "New Listing Count M/M": 0.2808,
+        "Price Increase Count M/M": 0.14,
+        "Days on Market M/M": 0.036
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "New Mexico",
+        "Median Listing Price": 200050,
+        "Median Listing Price M/M": -0.0474,
+        "New Listing Count M/M": -0.1016,
+        "Price Increase Count M/M": 0.1628,
+        "Days on Market M/M": 0.0776
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "New Mexico",
+        "Median Listing Price": 210000,
+        "Median Listing Price M/M": -0.0111,
+        "New Listing Count M/M": -0.1095,
+        "Price Increase Count M/M": -0.2321,
+        "Days on Market M/M": 0.0357
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "New Mexico",
+        "Median Listing Price": 212363,
+        "Median Listing Price M/M": -0.0125,
+        "New Listing Count M/M": -0.0032,
+        "Price Increase Count M/M": -0.0345,
+        "Days on Market M/M": 0.0275
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "New Mexico",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": -0.0022,
+        "New Listing Count M/M": -0.1325,
+        "Price Increase Count M/M": 0.0175,
+        "Days on Market M/M": 0.0531
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "New Mexico",
+        "Median Listing Price": 215525,
+        "Median Listing Price M/M": -0.0107,
+        "New Listing Count M/M": -0.03,
+        "Price Increase Count M/M": -0.05,
+        "Days on Market M/M": 0.035
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "New Mexico",
+        "Median Listing Price": 217850,
+        "Median Listing Price M/M": -0.0043,
+        "New Listing Count M/M": 0.0087,
+        "Price Increase Count M/M": 0.1765,
+        "Days on Market M/M": -0.0148
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "New Mexico",
+        "Median Listing Price": 218800,
+        "Median Listing Price M/M": 0.0174,
+        "New Listing Count M/M": -0.021,
+        "Price Increase Count M/M": -0.1356,
+        "Days on Market M/M": -0.0333
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "New Mexico",
+        "Median Listing Price": 215050,
+        "Median Listing Price M/M": 0.024,
+        "New Listing Count M/M": -0.0903,
+        "Price Increase Count M/M": -0.0167,
+        "Days on Market M/M": -0.0909
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 357000,
+        "Median Listing Price M/M": 0.0203,
+        "New Listing Count M/M": 0.3566,
+        "Price Increase Count M/M": -0.4,
+        "Days on Market M/M": -0.2034
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 349900,
+        "Median Listing Price M/M": 0.0267,
+        "New Listing Count M/M": 0.2433,
+        "Price Increase Count M/M": 0.1111,
+        "Days on Market M/M": -0.2027
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 340800,
+        "Median Listing Price M/M": 0.025,
+        "New Listing Count M/M": 0.0909,
+        "Price Increase Count M/M": 0.8,
+        "Days on Market M/M": -0.0263
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 332500,
+        "Median Listing Price M/M": 0.0079,
+        "New Listing Count M/M": 0.1364,
+        "Price Increase Count M/M": -0.5,
+        "Days on Market M/M": 0.1343
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 329900,
+        "Median Listing Price M/M": -0.012,
+        "New Listing Count M/M": -0.2588,
+        "Price Increase Count M/M": 0.4286,
+        "Days on Market M/M": 0.1754
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 333900,
+        "Median Listing Price M/M": -0.0165,
+        "New Listing Count M/M": -0.2208,
+        "Price Increase Count M/M": -0.4167,
+        "Days on Market M/M": 0.0364
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 339500,
+        "Median Listing Price M/M": -0.0258,
+        "New Listing Count M/M": -0.1289,
+        "Price Increase Count M/M": 0.2,
+        "Days on Market M/M": 0.0577
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 348500,
+        "Median Listing Price M/M": -0.0014,
+        "New Listing Count M/M": 0.0042,
+        "Price Increase Count M/M": 0.1111,
+        "Days on Market M/M": 0.04
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 349000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0124,
+        "Price Increase Count M/M": -0.4375,
+        "Days on Market M/M": 0.087
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 349000,
+        "Median Listing Price M/M": 0.0035,
+        "New Listing Count M/M": -0.0744,
+        "Price Increase Count M/M": -0.2,
+        "Days on Market M/M": 0.0952
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 347800,
+        "Median Listing Price M/M": -0.0034,
+        "New Listing Count M/M": -0.0029,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": 0.0244
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 349000,
+        "Median Listing Price M/M": 0.0268,
+        "New Listing Count M/M": 0.2053,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.1087
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 339900,
+        "Median Listing Price M/M": 0.0012,
+        "New Listing Count M/M": 0.2213,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": -0.1636
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 339500,
+        "Median Listing Price M/M": 0.0291,
+        "New Listing Count M/M": 0.2865,
+        "Price Increase Count M/M": 1.0,
+        "Days on Market M/M": -0.3125
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 329900,
+        "Median Listing Price M/M": 0.0151,
+        "New Listing Count M/M": 0.2306,
+        "Price Increase Count M/M": -0.4545,
+        "Days on Market M/M": -0.0698
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 325000,
+        "Median Listing Price M/M": 0.0015,
+        "New Listing Count M/M": 0.1564,
+        "Price Increase Count M/M": 1.75,
+        "Days on Market M/M": 0.1622
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 324500,
+        "Median Listing Price M/M": -0.0648,
+        "New Listing Count M/M": -0.2935,
+        "Price Increase Count M/M": -0.7333,
+        "Days on Market M/M": 0.1563
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 347000,
+        "Median Listing Price M/M": -0.0057,
+        "New Listing Count M/M": -0.2376,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 349050,
+        "Median Listing Price M/M": -0.0013,
+        "New Listing Count M/M": -0.0321,
+        "Price Increase Count M/M": -0.1667,
+        "Days on Market M/M": 0.0169
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 349500,
+        "Median Listing Price M/M": 0.0013,
+        "New Listing Count M/M": -0.0298,
+        "Price Increase Count M/M": -0.0769,
+        "Days on Market M/M": 0.0442
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 349050,
+        "Median Listing Price M/M": -0.0026,
+        "New Listing Count M/M": -0.0688,
+        "Price Increase Count M/M": -0.1875,
+        "Days on Market M/M": 0.066
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 349950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": -0.0316,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.1042
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 350050,
+        "Median Listing Price M/M": 0.0088,
+        "New Listing Count M/M": -0.1066,
+        "Price Increase Count M/M": 0.8462,
+        "Days on Market M/M": 0.0105
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 347000,
+        "Median Listing Price M/M": 0.0207,
+        "New Listing Count M/M": 0.1447,
+        "Price Increase Count M/M": -0.1875,
+        "Days on Market M/M": -0.1364
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 339950,
+        "Median Listing Price M/M": 0.0414,
+        "New Listing Count M/M": 0.1943,
+        "Price Increase Count M/M": 0.7778,
+        "Days on Market M/M": -0.1538
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 326425,
+        "Median Listing Price M/M": 0.0883,
+        "New Listing Count M/M": 1.3102,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": -0.2442
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0345,
+        "New Listing Count M/M": -0.4511,
+        "Price Increase Count M/M": -0.4,
+        "Days on Market M/M": 0.0238
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": 0.3663,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0633
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 290000,
+        "Median Listing Price M/M": -0.0303,
+        "New Listing Count M/M": -0.3355,
+        "Price Increase Count M/M": -0.0909,
+        "Days on Market M/M": 0.1367
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": -0.003,
+        "New Listing Count M/M": -0.1314,
+        "Price Increase Count M/M": -0.0833,
+        "Days on Market M/M": 0.053
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1347,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": 0.0394
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.038,
+        "Price Increase Count M/M": 0.0667,
+        "Days on Market M/M": 0.0325
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": 0.0206,
+        "Price Increase Count M/M": -0.1667,
+        "Days on Market M/M": 0.0424
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 300042,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.1479,
+        "Price Increase Count M/M": -0.1,
+        "Days on Market M/M": 0.1028
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0073,
+        "Price Increase Count M/M": -0.2308,
+        "Days on Market M/M": 0.0288
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.003,
+        "New Listing Count M/M": -0.0184,
+        "Price Increase Count M/M": 1.6,
+        "Days on Market M/M": -0.0459
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0461,
+        "New Listing Count M/M": 0.1399,
+        "Price Increase Count M/M": -0.6154,
+        "Days on Market M/M": -0.1866
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 285875,
+        "Median Listing Price M/M": 0.0212,
+        "New Listing Count M/M": 0.402,
+        "Price Increase Count M/M": 1.1667,
+        "Days on Market M/M": -0.2472
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0178,
+        "New Listing Count M/M": 0.089,
+        "Price Increase Count M/M": -0.25,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": -0.0143,
+        "New Listing Count M/M": 0.289,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": 0.0533
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": -0.0032,
+        "New Listing Count M/M": -0.299,
+        "Price Increase Count M/M": -0.1429,
+        "Days on Market M/M": 0.0833
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": -0.0177,
+        "New Listing Count M/M": -0.1718,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0331
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 285000,
+        "Median Listing Price M/M": -0.014,
+        "New Listing Count M/M": -0.093,
+        "Price Increase Count M/M": -0.125,
+        "Days on Market M/M": 0.0203
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 289050,
+        "Median Listing Price M/M": -0.0052,
+        "New Listing Count M/M": 0.0273,
+        "Price Increase Count M/M": -0.3333,
+        "Days on Market M/M": 0.1045
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 290550,
+        "Median Listing Price M/M": -0.0093,
+        "New Listing Count M/M": -0.1996,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.1167
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 293275,
+        "Median Listing Price M/M": 0.0122,
+        "New Listing Count M/M": -0.1243,
+        "Price Increase Count M/M": -0.2381,
+        "Days on Market M/M": 0.1429
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 289750,
+        "Median Listing Price M/M": 0.0165,
+        "New Listing Count M/M": -0.0154,
+        "Price Increase Count M/M": 0.3125,
+        "Days on Market M/M": 0.117
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 285050,
+        "Median Listing Price M/M": 0.0199,
+        "New Listing Count M/M": 0.03,
+        "Price Increase Count M/M": -0.1579,
+        "Days on Market M/M": -0.248
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 279500,
+        "Median Listing Price M/M": 0.0388,
+        "New Listing Count M/M": 0.634,
+        "Price Increase Count M/M": -0.2083,
+        "Days on Market M/M": -0.3056
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": 0.0248,
+        "New Listing Count M/M": 0.402,
+        "Price Increase Count M/M": 1.6667,
+        "Days on Market M/M": -0.1045
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 262550,
+        "Median Listing Price M/M": 0.01,
+        "New Listing Count M/M": -0.2337,
+        "Price Increase Count M/M": -0.4706,
+        "Days on Market M/M": 0.0469
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 259950,
+        "Median Listing Price M/M": -0.008,
+        "New Listing Count M/M": 0.4517,
+        "Price Increase Count M/M": 0.5455,
+        "Days on Market M/M": 0.0378
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 262050,
+        "Median Listing Price M/M": -0.0187,
+        "New Listing Count M/M": -0.3133,
+        "Price Increase Count M/M": -0.3889,
+        "Days on Market M/M": 0.142
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 267050,
+        "Median Listing Price M/M": -0.0107,
+        "New Listing Count M/M": -0.1573,
+        "Price Increase Count M/M": 0.2857,
+        "Days on Market M/M": 0.0385
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": -0.0247,
+        "New Listing Count M/M": -0.1577,
+        "Price Increase Count M/M": -0.2222,
+        "Days on Market M/M": 0.0331
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 276800,
+        "Median Listing Price M/M": -0.0081,
+        "New Listing Count M/M": 0.0691,
+        "Price Increase Count M/M": -0.1,
+        "Days on Market M/M": 0.0942
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": -0.0032,
+        "New Listing Count M/M": -0.1223,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0781
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.059,
+        "Price Increase Count M/M": 0.25,
+        "Days on Market M/M": 0.0847
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0032,
+        "New Listing Count M/M": -0.0399,
+        "Price Increase Count M/M": -0.1111,
+        "Days on Market M/M": 0.0085
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": 0.0242,
+        "New Listing Count M/M": 0.0094,
+        "Price Increase Count M/M": -0.1,
+        "Days on Market M/M": -0.0488
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 272450,
+        "Median Listing Price M/M": 0.0126,
+        "New Listing Count M/M": 0.2612,
+        "Price Increase Count M/M": 0.4286,
+        "Days on Market M/M": -0.2013
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 269050,
+        "Median Listing Price M/M": 0.0138,
+        "New Listing Count M/M": 0.3323,
+        "Price Increase Count M/M": -0.0667,
+        "Days on Market M/M": -0.2524
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 265400,
+        "Median Listing Price M/M": 0.0206,
+        "New Listing Count M/M": 0.0,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0148
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 260049,
+        "Median Listing Price M/M": -0.0189,
+        "New Listing Count M/M": 0.6888,
+        "Price Increase Count M/M": 0.875,
+        "Days on Market M/M": 0.0914
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 265050,
+        "Median Listing Price M/M": -0.0142,
+        "New Listing Count M/M": -0.3595,
+        "Price Increase Count M/M": -0.4286,
+        "Days on Market M/M": 0.1481
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 268875,
+        "Median Listing Price M/M": -0.004,
+        "New Listing Count M/M": -0.2003,
+        "Price Increase Count M/M": -0.5,
+        "Days on Market M/M": 0.0658
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": -0.015,
+        "New Listing Count M/M": -0.1027,
+        "Price Increase Count M/M": 0.75,
+        "Days on Market M/M": -0.0617
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 274050,
+        "Median Listing Price M/M": -0.0035,
+        "New Listing Count M/M": -0.0012,
+        "Price Increase Count M/M": -0.2381,
+        "Days on Market M/M": 0.0728
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 275000,
+        "Median Listing Price M/M": -0.0002,
+        "New Listing Count M/M": -0.0085,
+        "Price Increase Count M/M": 0.05,
+        "Days on Market M/M": 0.0709
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 275050,
+        "Median Listing Price M/M": 0.0185,
+        "New Listing Count M/M": -0.044,
+        "Price Increase Count M/M": -0.2308,
+        "Days on Market M/M": 0.0846
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 270050,
+        "Median Listing Price M/M": 0.002,
+        "New Listing Count M/M": -0.1857,
+        "Price Increase Count M/M": 0.04,
+        "Days on Market M/M": 0.0317
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 269500,
+        "Median Listing Price M/M": 0.0365,
+        "New Listing Count M/M": 0.061,
+        "Price Increase Count M/M": -0.0741,
+        "Days on Market M/M": -0.1486
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 260000,
+        "Median Listing Price M/M": 0.0402,
+        "New Listing Count M/M": 0.1338,
+        "Price Increase Count M/M": 0.35,
+        "Days on Market M/M": -0.2128
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": 0.5778,
+        "Price Increase Count M/M": 0.6667,
+        "Days on Market M/M": -0.1681
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0101,
+        "New Listing Count M/M": -0.1657,
+        "Price Increase Count M/M": -0.4286,
+        "Days on Market M/M": -0.0088
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 246550,
+        "Median Listing Price M/M": -0.01,
+        "New Listing Count M/M": 0.5581,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": 0.0364
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": -0.1618,
+        "Price Increase Count M/M": 0.2,
+        "Days on Market M/M": 0.0891
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": -0.0196,
+        "New Listing Count M/M": -0.2533,
+        "Price Increase Count M/M": -0.4828,
+        "Days on Market M/M": 0.0412
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 254950,
+        "Median Listing Price M/M": -0.0116,
+        "New Listing Count M/M": -0.0864,
+        "Price Increase Count M/M": 0.6111,
+        "Days on Market M/M": -0.03
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 257950,
+        "Median Listing Price M/M": -0.0042,
+        "New Listing Count M/M": -0.0183,
+        "Price Increase Count M/M": -0.2174,
+        "Days on Market M/M": 0.0638
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 259050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.023,
+        "Price Increase Count M/M": 0.6429,
+        "Days on Market M/M": 0.0562
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 259050,
+        "Median Listing Price M/M": 0.0088,
+        "New Listing Count M/M": -0.1221,
+        "Price Increase Count M/M": -0.1765,
+        "Days on Market M/M": 0.0788
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 256800,
+        "Median Listing Price M/M": 0.0272,
+        "New Listing Count M/M": -0.0219,
+        "Price Increase Count M/M": -0.0556,
+        "Days on Market M/M": 0.0377
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Rhode Island",
+        "Median Listing Price": 249999,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.0389,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.0364
+    }
+]

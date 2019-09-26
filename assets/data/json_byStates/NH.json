@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 339900,
+        "Median Listing Price M/M": 0.0625,
+        "New Listing Count M/M": 0.169,
+        "Price Increase Count M/M": 0.2632,
+        "Days on Market M/M": -0.175
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 319900,
+        "Median Listing Price M/M": 0.0156,
+        "New Listing Count M/M": 0.3677,
+        "Price Increase Count M/M": -0.2083,
+        "Days on Market M/M": -0.2381
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 315000,
+        "Median Listing Price M/M": 0.0093,
+        "New Listing Count M/M": 0.0543,
+        "Price Increase Count M/M": 0.6,
+        "Days on Market M/M": 0.0294
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 312100,
+        "Median Listing Price M/M": 0.0071,
+        "New Listing Count M/M": 0.3566,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0851
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 309900,
+        "Median Listing Price M/M": 0.0029,
+        "New Listing Count M/M": -0.3189,
+        "Price Increase Count M/M": -0.0323,
+        "Days on Market M/M": 0.175
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 309000,
+        "Median Listing Price M/M": 0.0131,
+        "New Listing Count M/M": -0.1142,
+        "Price Increase Count M/M": -0.0606,
+        "Days on Market M/M": 0.0811
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 305000,
+        "Median Listing Price M/M": -0.0081,
+        "New Listing Count M/M": -0.3043,
+        "Price Increase Count M/M": -0.1316,
+        "Days on Market M/M": 0.0882
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 307500,
+        "Median Listing Price M/M": 0.0149,
+        "New Listing Count M/M": -0.0987,
+        "Price Increase Count M/M": -0.1556,
+        "Days on Market M/M": 0.1148
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 303000,
+        "Median Listing Price M/M": -0.0223,
+        "New Listing Count M/M": -0.0314,
+        "Price Increase Count M/M": 0.1842,
+        "Days on Market M/M": 0.1296
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 309900,
+        "Median Listing Price M/M": -0.0077,
+        "New Listing Count M/M": -0.1605,
+        "Price Increase Count M/M": -0.2692,
+        "Days on Market M/M": 0.125
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 312300,
+        "Median Listing Price M/M": 0.0077,
+        "New Listing Count M/M": -0.0121,
+        "Price Increase Count M/M": 0.04,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 309900,
+        "Median Listing Price M/M": 0.033,
+        "New Listing Count M/M": 0.1716,
+        "Price Increase Count M/M": -0.1071,
+        "Days on Market M/M": -0.1724
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 300000,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": 0.3974,
+        "Price Increase Count M/M": 0.4737,
+        "Days on Market M/M": -0.2927
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 299900,
+        "Median Listing Price M/M": 0.0341,
+        "New Listing Count M/M": 0.2113,
+        "Price Increase Count M/M": -0.2549,
+        "Days on Market M/M": -0.2545
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 290000,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": 0.3769,
+        "Price Increase Count M/M": -0.1356,
+        "Days on Market M/M": 0.0092
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 289900,
+        "Median Listing Price M/M": 0.0031,
+        "New Listing Count M/M": 0.2449,
+        "Price Increase Count M/M": 1.1071,
+        "Days on Market M/M": 0.1237
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 289000,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.358,
+        "Price Increase Count M/M": -0.2632,
+        "Days on Market M/M": 0.1149
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 289000,
+        "Median Listing Price M/M": -0.0031,
+        "New Listing Count M/M": -0.3093,
+        "Price Increase Count M/M": -0.1364,
+        "Days on Market M/M": 0.061
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1016,
+        "Price Increase Count M/M": -0.3016,
+        "Days on Market M/M": 0.025
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": 0.0026,
+        "New Listing Count M/M": -0.1147,
+        "Price Increase Count M/M": 0.4651,
+        "Days on Market M/M": 0.1765
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 289196,
+        "Median Listing Price M/M": 0.0005,
+        "New Listing Count M/M": -0.0157,
+        "Price Increase Count M/M": -0.2321,
+        "Days on Market M/M": 0.0968
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 289050,
+        "Median Listing Price M/M": -0.0023,
+        "New Listing Count M/M": -0.1395,
+        "Price Increase Count M/M": 0.1429,
+        "Days on Market M/M": 0.1376
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 289706,
+        "Median Listing Price M/M": 0.0052,
+        "New Listing Count M/M": -0.0367,
+        "Price Increase Count M/M": -0.3099,
+        "Days on Market M/M": -0.0268
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 288200,
+        "Median Listing Price M/M": -0.0262,
+        "New Listing Count M/M": 0.4338,
+        "Price Increase Count M/M": 0.3654,
+        "Days on Market M/M": -0.3
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 295950,
+        "Median Listing Price M/M": 0.0032,
+        "New Listing Count M/M": 0.1113,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": -0.2889
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 295000,
+        "Median Listing Price M/M": 0.0263,
+        "New Listing Count M/M": 0.4825,
+        "Price Increase Count M/M": 0.1556,
+        "Days on Market M/M": -0.1245
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 287450,
+        "Median Listing Price M/M": 0.0268,
+        "New Listing Count M/M": 0.0515,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": 0.0447
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0032,
+        "New Listing Count M/M": 0.3153,
+        "Price Increase Count M/M": -0.2308,
+        "Days on Market M/M": 0.0293
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 279050,
+        "Median Listing Price M/M": -0.0032,
+        "New Listing Count M/M": -0.2214,
+        "Price Increase Count M/M": -0.1875,
+        "Days on Market M/M": 0.0913
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2019,
+        "Price Increase Count M/M": -0.2258,
+        "Days on Market M/M": 0.0842
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.037,
+        "New Listing Count M/M": -0.3236,
+        "Price Increase Count M/M": 0.4091,
+        "Days on Market M/M": 0.116
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0074,
+        "Price Increase Count M/M": -0.2281,
+        "Days on Market M/M": 0.097
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.0982,
+        "Price Increase Count M/M": -0.1857,
+        "Days on Market M/M": 0.1301
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 270049,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.1611,
+        "Price Increase Count M/M": 0.0606,
+        "Days on Market M/M": 0.0977
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 269999,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.0943,
+        "Price Increase Count M/M": -0.0571,
+        "Days on Market M/M": 0.0076
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 269950,
+        "Median Listing Price M/M": 0.0297,
+        "New Listing Count M/M": 0.0754,
+        "Price Increase Count M/M": -0.1139,
+        "Days on Market M/M": -0.1429
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 262175,
+        "Median Listing Price M/M": 0.0103,
+        "New Listing Count M/M": 0.2016,
+        "Price Increase Count M/M": 0.1791,
+        "Days on Market M/M": -0.2837
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 259500,
+        "Median Listing Price M/M": 0.0382,
+        "New Listing Count M/M": 0.444,
+        "Price Increase Count M/M": 0.6341,
+        "Days on Market M/M": -0.1296
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": 0.1908,
+        "Price Increase Count M/M": -0.2679,
+        "Days on Market M/M": -0.012
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": -0.0036,
+        "New Listing Count M/M": 0.2152,
+        "Price Increase Count M/M": 0.5135,
+        "Days on Market M/M": 0.046
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2217,
+        "Price Increase Count M/M": -0.3148,
+        "Days on Market M/M": 0.1065
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2052,
+        "Price Increase Count M/M": 0.0588,
+        "Days on Market M/M": 0.0746
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1598,
+        "Price Increase Count M/M": -0.0556,
+        "Days on Market M/M": 0.0924
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.1349,
+        "Price Increase Count M/M": -0.2286,
+        "Days on Market M/M": 0.1572
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 250050,
+        "Median Listing Price M/M": -0.0194,
+        "New Listing Count M/M": -0.1697,
+        "Price Increase Count M/M": 0.0769,
+        "Days on Market M/M": 0.1778
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 255000,
+        "Median Listing Price M/M": 0.0002,
+        "New Listing Count M/M": -0.1707,
+        "Price Increase Count M/M": -0.2073,
+        "Days on Market M/M": 0.1345
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 254950,
+        "Median Listing Price M/M": 0.0115,
+        "New Listing Count M/M": -0.0738,
+        "Price Increase Count M/M": 0.0789,
+        "Days on Market M/M": -0.0246
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 252050,
+        "Median Listing Price M/M": 0.0084,
+        "New Listing Count M/M": 0.231,
+        "Price Increase Count M/M": 0.1014,
+        "Days on Market M/M": -0.3333
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 249950,
+        "Median Listing Price M/M": 0.0036,
+        "New Listing Count M/M": 0.4936,
+        "Price Increase Count M/M": 0.3269,
+        "Days on Market M/M": -0.3068
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0226,
+        "New Listing Count M/M": 0.4276,
+        "Price Increase Count M/M": 0.0612,
+        "Days on Market M/M": -0.0365
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 243550,
+        "Median Listing Price M/M": 0.015,
+        "New Listing Count M/M": -0.0949,
+        "Price Increase Count M/M": -0.0392,
+        "Days on Market M/M": 0.0111
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": -0.0059,
+        "New Listing Count M/M": 0.507,
+        "Price Increase Count M/M": 0.02,
+        "Days on Market M/M": 0.0423
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 241375,
+        "Median Listing Price M/M": -0.015,
+        "New Listing Count M/M": -0.3288,
+        "Price Increase Count M/M": 0.087,
+        "Days on Market M/M": 0.1017
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 245050,
+        "Median Listing Price M/M": -0.0161,
+        "New Listing Count M/M": -0.2135,
+        "Price Increase Count M/M": -0.1481,
+        "Days on Market M/M": 0.0727
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0001,
+        "New Listing Count M/M": -0.0595,
+        "Price Increase Count M/M": -0.28,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 249025,
+        "Median Listing Price M/M": -0.0001,
+        "New Listing Count M/M": -0.1503,
+        "Price Increase Count M/M": -0.0625,
+        "Days on Market M/M": 0.1628
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0797,
+        "Price Increase Count M/M": 0.1111,
+        "Days on Market M/M": 0.1582
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0911,
+        "Price Increase Count M/M": -0.1429,
+        "Days on Market M/M": 0.0919
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 249050,
+        "Median Listing Price M/M": 0.0307,
+        "New Listing Count M/M": -0.1518,
+        "Price Increase Count M/M": 0.2537,
+        "Days on Market M/M": -0.2093
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 241625,
+        "Median Listing Price M/M": 0.028,
+        "New Listing Count M/M": 0.2081,
+        "Price Increase Count M/M": -0.0429,
+        "Days on Market M/M": -0.4323
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 235050,
+        "Median Listing Price M/M": 0.0217,
+        "New Listing Count M/M": 0.3934,
+        "Price Increase Count M/M": 0.1667,
+        "Days on Market M/M": -0.0411
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 230050,
+        "Median Listing Price M/M": 0.0004,
+        "New Listing Count M/M": 0.3047,
+        "Price Increase Count M/M": -0.0164,
+        "Days on Market M/M": 0.0429
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1228,
+        "Price Increase Count M/M": 0.1961,
+        "Days on Market M/M": 0.0484
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 229950,
+        "Median Listing Price M/M": -0.0112,
+        "New Listing Count M/M": 0.4517,
+        "Price Increase Count M/M": 0.1591,
+        "Days on Market M/M": 0.1378
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 232550,
+        "Median Listing Price M/M": -0.0127,
+        "New Listing Count M/M": -0.3631,
+        "Price Increase Count M/M": -0.3125,
+        "Days on Market M/M": 0.0901
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 235550,
+        "Median Listing Price M/M": -0.0146,
+        "New Listing Count M/M": -0.213,
+        "Price Increase Count M/M": 0.1228,
+        "Days on Market M/M": 0.0402
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": 0.0044,
+        "New Listing Count M/M": -0.075,
+        "Price Increase Count M/M": -0.1364,
+        "Days on Market M/M": 0.0874
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 238000,
+        "Median Listing Price M/M": -0.0044,
+        "New Listing Count M/M": -0.1274,
+        "Price Increase Count M/M": -0.1852,
+        "Days on Market M/M": 0.1075
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": -0.0038,
+        "New Listing Count M/M": 0.0151,
+        "Price Increase Count M/M": -0.0357,
+        "Days on Market M/M": 0.1273
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1375,
+        "Price Increase Count M/M": 0.0769,
+        "Days on Market M/M": 0.1
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 239950,
+        "Median Listing Price M/M": 0.0038,
+        "New Listing Count M/M": -0.1688,
+        "Price Increase Count M/M": 0.0986,
+        "Days on Market M/M": -0.0385
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 239050,
+        "Median Listing Price M/M": 0.0246,
+        "New Listing Count M/M": 0.1222,
+        "Price Increase Count M/M": -0.1446,
+        "Days on Market M/M": -0.1917
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 233300,
+        "Median Listing Price M/M": 0.0186,
+        "New Listing Count M/M": 0.2337,
+        "Price Increase Count M/M": 0.0122,
+        "Days on Market M/M": -0.2634
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 229050,
+        "Median Listing Price M/M": 0.0182,
+        "New Listing Count M/M": 0.2924,
+        "Price Increase Count M/M": 0.6735,
+        "Days on Market M/M": -0.0693
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 224950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0858,
+        "Price Increase Count M/M": -0.2344,
+        "Days on Market M/M": -0.0157
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 224950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": 0.4292,
+        "Price Increase Count M/M": 0.3333,
+        "Days on Market M/M": 0.0288
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": -0.0194,
+        "New Listing Count M/M": -0.165,
+        "Price Increase Count M/M": 0.1163,
+        "Days on Market M/M": 0.0335
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 229500,
+        "Median Listing Price M/M": 0.0308,
+        "New Listing Count M/M": -0.2813,
+        "Price Increase Count M/M": -0.1569,
+        "Days on Market M/M": 0.0508
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 222650,
+        "Median Listing Price M/M": -0.0102,
+        "New Listing Count M/M": -0.0846,
+        "Price Increase Count M/M": 0.1087,
+        "Days on Market M/M": 0.0667
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 224950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0437,
+        "Price Increase Count M/M": -0.2581,
+        "Days on Market M/M": 0.1009
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 224950,
+        "Median Listing Price M/M": -0.0004,
+        "New Listing Count M/M": -0.012,
+        "Price Increase Count M/M": -0.0606,
+        "Days on Market M/M": 0.09
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1765,
+        "Price Increase Count M/M": 0.1579,
+        "Days on Market M/M": 0.0811
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0451,
+        "Price Increase Count M/M": -0.05,
+        "Days on Market M/M": -0.0263
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "New Hampshire",
+        "Median Listing Price": 225050,
+        "Median Listing Price M/M": 0.0072,
+        "New Listing Count M/M": -0.0472,
+        "Price Increase Count M/M": 0.0909,
+        "Days on Market M/M": -0.0909
+    }
+]

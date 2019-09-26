@@ -1,0 +1,758 @@
+[
+    {
+        "Month": "2019-04-01",
+        "State": "Connecticut",
+        "Median Listing Price": 364900,
+        "Median Listing Price M/M": 0.0164,
+        "New Listing Count M/M": 0.2512,
+        "Price Increase Count M/M": 0.1607,
+        "Days on Market M/M": -0.16
+    },
+    {
+        "Month": "2019-03-01",
+        "State": "Connecticut",
+        "Median Listing Price": 359000,
+        "Median Listing Price M/M": 0.0275,
+        "New Listing Count M/M": 0.2904,
+        "Price Increase Count M/M": 0.0566,
+        "Days on Market M/M": -0.2991
+    },
+    {
+        "Month": "2019-02-01",
+        "State": "Connecticut",
+        "Median Listing Price": 349400,
+        "Median Listing Price M/M": 0.0286,
+        "New Listing Count M/M": 0.1287,
+        "Price Increase Count M/M": -0.1017,
+        "Days on Market M/M": -0.0183
+    },
+    {
+        "Month": "2019-01-01",
+        "State": "Connecticut",
+        "Median Listing Price": 339700,
+        "Median Listing Price M/M": -0.0006,
+        "New Listing Count M/M": 0.4306,
+        "Price Increase Count M/M": 1.2692,
+        "Days on Market M/M": 0.09
+    },
+    {
+        "Month": "2018-12-01",
+        "State": "Connecticut",
+        "Median Listing Price": 339900,
+        "Median Listing Price M/M": -0.0205,
+        "New Listing Count M/M": -0.2481,
+        "Price Increase Count M/M": -0.4583,
+        "Days on Market M/M": 0.1364
+    },
+    {
+        "Month": "2018-11-01",
+        "State": "Connecticut",
+        "Median Listing Price": 347000,
+        "Median Listing Price M/M": -0.0083,
+        "New Listing Count M/M": -0.2136,
+        "Price Increase Count M/M": -0.3239,
+        "Days on Market M/M": 0.0115
+    },
+    {
+        "Month": "2018-10-01",
+        "State": "Connecticut",
+        "Median Listing Price": 349900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1002,
+        "Price Increase Count M/M": -0.1341,
+        "Days on Market M/M": 0.0482
+    },
+    {
+        "Month": "2018-09-01",
+        "State": "Connecticut",
+        "Median Listing Price": 349900,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0784,
+        "Price Increase Count M/M": 0.1884,
+        "Days on Market M/M": 0.1067
+    },
+    {
+        "Month": "2018-08-01",
+        "State": "Connecticut",
+        "Median Listing Price": 349900,
+        "Median Listing Price M/M": -0.0281,
+        "New Listing Count M/M": -0.1508,
+        "Price Increase Count M/M": -0.1786,
+        "Days on Market M/M": 0.1364
+    },
+    {
+        "Month": "2018-07-01",
+        "State": "Connecticut",
+        "Median Listing Price": 360000,
+        "Median Listing Price M/M": -0.0252,
+        "New Listing Count M/M": -0.1566,
+        "Price Increase Count M/M": -0.087,
+        "Days on Market M/M": 0.1579
+    },
+    {
+        "Month": "2018-06-01",
+        "State": "Connecticut",
+        "Median Listing Price": 369300,
+        "Median Listing Price M/M": 0.0063,
+        "New Listing Count M/M": -0.0558,
+        "Price Increase Count M/M": 0.2432,
+        "Days on Market M/M": 0.0364
+    },
+    {
+        "Month": "2018-05-01",
+        "State": "Connecticut",
+        "Median Listing Price": 367000,
+        "Median Listing Price M/M": 0.0197,
+        "New Listing Count M/M": 0.0148,
+        "Price Increase Count M/M": 0.0278,
+        "Days on Market M/M": -0.0678
+    },
+    {
+        "Month": "2018-04-01",
+        "State": "Connecticut",
+        "Median Listing Price": 359900,
+        "Median Listing Price M/M": 0.0268,
+        "New Listing Count M/M": 0.231,
+        "Price Increase Count M/M": -0.0769,
+        "Days on Market M/M": -0.1449
+    },
+    {
+        "Month": "2018-03-01",
+        "State": "Connecticut",
+        "Median Listing Price": 350500,
+        "Median Listing Price M/M": 0.0043,
+        "New Listing Count M/M": 0.1699,
+        "Price Increase Count M/M": 0.04,
+        "Days on Market M/M": -0.31
+    },
+    {
+        "Month": "2018-02-01",
+        "State": "Connecticut",
+        "Median Listing Price": 349000,
+        "Median Listing Price M/M": 0.028,
+        "New Listing Count M/M": 0.3126,
+        "Price Increase Count M/M": 0.3393,
+        "Days on Market M/M": -0.0291
+    },
+    {
+        "Month": "2018-01-01",
+        "State": "Connecticut",
+        "Median Listing Price": 339500,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.4503,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.0842
+    },
+    {
+        "Month": "2017-12-01",
+        "State": "Connecticut",
+        "Median Listing Price": 339500,
+        "Median Listing Price M/M": -0.0179,
+        "New Listing Count M/M": -0.3505,
+        "Price Increase Count M/M": 0.0769,
+        "Days on Market M/M": 0.1446
+    },
+    {
+        "Month": "2017-11-01",
+        "State": "Connecticut",
+        "Median Listing Price": 345700,
+        "Median Listing Price M/M": -0.0109,
+        "New Listing Count M/M": -0.1905,
+        "Price Increase Count M/M": -0.2121,
+        "Days on Market M/M": 0.0122
+    },
+    {
+        "Month": "2017-10-01",
+        "State": "Connecticut",
+        "Median Listing Price": 349550,
+        "Median Listing Price M/M": -0.0011,
+        "New Listing Count M/M": -0.1252,
+        "Price Increase Count M/M": -0.34,
+        "Days on Market M/M": -0.0061
+    },
+    {
+        "Month": "2017-09-01",
+        "State": "Connecticut",
+        "Median Listing Price": 349950,
+        "Median Listing Price M/M": 0.0026,
+        "New Listing Count M/M": 0.0471,
+        "Price Increase Count M/M": 0.4925,
+        "Days on Market M/M": 0.0927
+    },
+    {
+        "Month": "2017-08-01",
+        "State": "Connecticut",
+        "Median Listing Price": 349050,
+        "Median Listing Price M/M": -0.0026,
+        "New Listing Count M/M": -0.0443,
+        "Price Increase Count M/M": -0.1184,
+        "Days on Market M/M": 0.0634
+    },
+    {
+        "Month": "2017-07-01",
+        "State": "Connecticut",
+        "Median Listing Price": 349950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2079,
+        "Price Increase Count M/M": -0.1461,
+        "Days on Market M/M": 0.1452
+    },
+    {
+        "Month": "2017-06-01",
+        "State": "Connecticut",
+        "Median Listing Price": 349950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1253,
+        "Price Increase Count M/M": -0.0532,
+        "Days on Market M/M": 0.0081
+    },
+    {
+        "Month": "2017-05-01",
+        "State": "Connecticut",
+        "Median Listing Price": 349950,
+        "Median Listing Price M/M": 0.0145,
+        "New Listing Count M/M": 0.0671,
+        "Price Increase Count M/M": 0.2703,
+        "Days on Market M/M": -0.0956
+    },
+    {
+        "Month": "2017-04-01",
+        "State": "Connecticut",
+        "Median Listing Price": 344950,
+        "Median Listing Price M/M": 0.0236,
+        "New Listing Count M/M": 0.2013,
+        "Price Increase Count M/M": 0.1563,
+        "Days on Market M/M": -0.1338
+    },
+    {
+        "Month": "2017-03-01",
+        "State": "Connecticut",
+        "Median Listing Price": 337000,
+        "Median Listing Price M/M": 0.0369,
+        "New Listing Count M/M": 0.176,
+        "Price Increase Count M/M": -0.0986,
+        "Days on Market M/M": -0.2341
+    },
+    {
+        "Month": "2017-02-01",
+        "State": "Connecticut",
+        "Median Listing Price": 325000,
+        "Median Listing Price M/M": 0.0186,
+        "New Listing Count M/M": 0.1579,
+        "Price Increase Count M/M": -0.0405,
+        "Days on Market M/M": -0.0509
+    },
+    {
+        "Month": "2017-01-01",
+        "State": "Connecticut",
+        "Median Listing Price": 319050,
+        "Median Listing Price M/M": -0.0014,
+        "New Listing Count M/M": 0.3151,
+        "Price Increase Count M/M": 0.3214,
+        "Days on Market M/M": 0.0854
+    },
+    {
+        "Month": "2016-12-01",
+        "State": "Connecticut",
+        "Median Listing Price": 319500,
+        "Median Listing Price M/M": -0.0171,
+        "New Listing Count M/M": -0.2012,
+        "Price Increase Count M/M": -0.0968,
+        "Days on Market M/M": 0.0419
+    },
+    {
+        "Month": "2016-11-01",
+        "State": "Connecticut",
+        "Median Listing Price": 325050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1302,
+        "Price Increase Count M/M": -0.4038,
+        "Days on Market M/M": 0.0269
+    },
+    {
+        "Month": "2016-10-01",
+        "State": "Connecticut",
+        "Median Listing Price": 325050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1372,
+        "Price Increase Count M/M": 0.1685,
+        "Days on Market M/M": -0.0106
+    },
+    {
+        "Month": "2016-09-01",
+        "State": "Connecticut",
+        "Median Listing Price": 325050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.0844,
+        "Price Increase Count M/M": -0.0111,
+        "Days on Market M/M": 0.0805
+    },
+    {
+        "Month": "2016-08-01",
+        "State": "Connecticut",
+        "Median Listing Price": 325049,
+        "Median Listing Price M/M": -0.0149,
+        "New Listing Count M/M": -0.1121,
+        "Price Increase Count M/M": -0.1667,
+        "Days on Market M/M": 0.1299
+    },
+    {
+        "Month": "2016-07-01",
+        "State": "Connecticut",
+        "Median Listing Price": 329950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1846,
+        "Price Increase Count M/M": 0.1739,
+        "Days on Market M/M": 0.1241
+    },
+    {
+        "Month": "2016-06-01",
+        "State": "Connecticut",
+        "Median Listing Price": 329950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0929,
+        "Price Increase Count M/M": -0.1321,
+        "Days on Market M/M": 0.0538
+    },
+    {
+        "Month": "2016-05-01",
+        "State": "Connecticut",
+        "Median Listing Price": 329950,
+        "Median Listing Price M/M": 0.0154,
+        "New Listing Count M/M": -0.0386,
+        "Price Increase Count M/M": 0.2045,
+        "Days on Market M/M": -0.0226
+    },
+    {
+        "Month": "2016-04-01",
+        "State": "Connecticut",
+        "Median Listing Price": 324950,
+        "Median Listing Price M/M": 0.0156,
+        "New Listing Count M/M": 0.0638,
+        "Price Increase Count M/M": -0.1619,
+        "Days on Market M/M": -0.1939
+    },
+    {
+        "Month": "2016-03-01",
+        "State": "Connecticut",
+        "Median Listing Price": 319950,
+        "Median Listing Price M/M": 0.0396,
+        "New Listing Count M/M": 0.4766,
+        "Price Increase Count M/M": 0.6667,
+        "Days on Market M/M": -0.2431
+    },
+    {
+        "Month": "2016-02-01",
+        "State": "Connecticut",
+        "Median Listing Price": 307774,
+        "Median Listing Price M/M": 0.0261,
+        "New Listing Count M/M": 0.125,
+        "Price Increase Count M/M": -0.1711,
+        "Days on Market M/M": -0.0091
+    },
+    {
+        "Month": "2016-01-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.4658,
+        "Price Increase Count M/M": -0.013,
+        "Days on Market M/M": 0.0732
+    },
+    {
+        "Month": "2015-12-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": -0.0294,
+        "New Listing Count M/M": -0.2588,
+        "Price Increase Count M/M": 0.0694,
+        "Days on Market M/M": 0.0677
+    },
+    {
+        "Month": "2015-11-01",
+        "State": "Connecticut",
+        "Median Listing Price": 309050,
+        "Median Listing Price M/M": -0.0029,
+        "New Listing Count M/M": -0.2384,
+        "Price Increase Count M/M": -0.1818,
+        "Days on Market M/M": 0.0267
+    },
+    {
+        "Month": "2015-10-01",
+        "State": "Connecticut",
+        "Median Listing Price": 309950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.1386,
+        "Price Increase Count M/M": -0.1927,
+        "Days on Market M/M": 0.0447
+    },
+    {
+        "Month": "2015-09-01",
+        "State": "Connecticut",
+        "Median Listing Price": 309950,
+        "Median Listing Price M/M": -0.0003,
+        "New Listing Count M/M": 0.1239,
+        "Price Increase Count M/M": -0.0268,
+        "Days on Market M/M": 0.1049
+    },
+    {
+        "Month": "2015-08-01",
+        "State": "Connecticut",
+        "Median Listing Price": 310050,
+        "Median Listing Price M/M": -0.0221,
+        "New Listing Count M/M": -0.2527,
+        "Price Increase Count M/M": 0.0667,
+        "Days on Market M/M": 0.1571
+    },
+    {
+        "Month": "2015-07-01",
+        "State": "Connecticut",
+        "Median Listing Price": 317050,
+        "Median Listing Price M/M": -0.0091,
+        "New Listing Count M/M": -0.0654,
+        "Price Increase Count M/M": -0.0541,
+        "Days on Market M/M": 0.1475
+    },
+    {
+        "Month": "2015-06-01",
+        "State": "Connecticut",
+        "Median Listing Price": 319950,
+        "Median Listing Price M/M": 0.0013,
+        "New Listing Count M/M": -0.1826,
+        "Price Increase Count M/M": 0.0278,
+        "Days on Market M/M": 0.0517
+    },
+    {
+        "Month": "2015-05-01",
+        "State": "Connecticut",
+        "Median Listing Price": 319550,
+        "Median Listing Price M/M": 0.0275,
+        "New Listing Count M/M": 0.1246,
+        "Price Increase Count M/M": 0.08,
+        "Days on Market M/M": -0.1831
+    },
+    {
+        "Month": "2015-04-01",
+        "State": "Connecticut",
+        "Median Listing Price": 311000,
+        "Median Listing Price M/M": 0.0368,
+        "New Listing Count M/M": 0.4633,
+        "Price Increase Count M/M": 0.0417,
+        "Days on Market M/M": -0.29
+    },
+    {
+        "Month": "2015-03-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0168,
+        "New Listing Count M/M": 0.3008,
+        "Price Increase Count M/M": 0.5,
+        "Days on Market M/M": -0.0991
+    },
+    {
+        "Month": "2015-02-01",
+        "State": "Connecticut",
+        "Median Listing Price": 295000,
+        "Median Listing Price M/M": 0.0174,
+        "New Listing Count M/M": -0.1218,
+        "Price Increase Count M/M": -0.1899,
+        "Days on Market M/M": 0.0091
+    },
+    {
+        "Month": "2015-01-01",
+        "State": "Connecticut",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.7801,
+        "Price Increase Count M/M": 0.2951,
+        "Days on Market M/M": 0.0476
+    },
+    {
+        "Month": "2014-12-01",
+        "State": "Connecticut",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": -0.0304,
+        "New Listing Count M/M": -0.2969,
+        "Price Increase Count M/M": -0.1757,
+        "Days on Market M/M": 0.0396
+    },
+    {
+        "Month": "2014-11-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": -0.003,
+        "New Listing Count M/M": -0.1865,
+        "Price Increase Count M/M": -0.0864,
+        "Days on Market M/M": 0.0466
+    },
+    {
+        "Month": "2014-10-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.2124,
+        "Price Increase Count M/M": -0.1563,
+        "Days on Market M/M": 0.0212
+    },
+    {
+        "Month": "2014-09-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.1529,
+        "Price Increase Count M/M": -0.04,
+        "Days on Market M/M": 0.0925
+    },
+    {
+        "Month": "2014-08-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": -0.0309,
+        "New Listing Count M/M": -0.1059,
+        "Price Increase Count M/M": 0.0417,
+        "Days on Market M/M": 0.1382
+    },
+    {
+        "Month": "2014-07-01",
+        "State": "Connecticut",
+        "Median Listing Price": 309500,
+        "Median Listing Price M/M": -0.0112,
+        "New Listing Count M/M": -0.1823,
+        "Price Increase Count M/M": -0.04,
+        "Days on Market M/M": 0.1176
+    },
+    {
+        "Month": "2014-06-01",
+        "State": "Connecticut",
+        "Median Listing Price": 313000,
+        "Median Listing Price M/M": 0.0098,
+        "New Listing Count M/M": -0.0876,
+        "Price Increase Count M/M": -0.115,
+        "Days on Market M/M": 0.0709
+    },
+    {
+        "Month": "2014-05-01",
+        "State": "Connecticut",
+        "Median Listing Price": 309950,
+        "Median Listing Price M/M": 0.0332,
+        "New Listing Count M/M": -0.0211,
+        "Price Increase Count M/M": 0.1649,
+        "Days on Market M/M": -0.1361
+    },
+    {
+        "Month": "2014-04-01",
+        "State": "Connecticut",
+        "Median Listing Price": 300000,
+        "Median Listing Price M/M": 0.0032,
+        "New Listing Count M/M": 0.3432,
+        "Price Increase Count M/M": 0.2436,
+        "Days on Market M/M": -0.2723
+    },
+    {
+        "Month": "2014-03-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0355,
+        "New Listing Count M/M": 0.3832,
+        "Price Increase Count M/M": -0.0488,
+        "Days on Market M/M": -0.1062
+    },
+    {
+        "Month": "2014-02-01",
+        "State": "Connecticut",
+        "Median Listing Price": 288800,
+        "Median Listing Price M/M": 0.0315,
+        "New Listing Count M/M": -0.0184,
+        "Price Increase Count M/M": -0.012,
+        "Days on Market M/M": 0.0089
+    },
+    {
+        "Month": "2014-01-01",
+        "State": "Connecticut",
+        "Median Listing Price": 279974,
+        "Median Listing Price M/M": -0.0314,
+        "New Listing Count M/M": 0.8646,
+        "Price Increase Count M/M": 0.1857,
+        "Days on Market M/M": 0.0874
+    },
+    {
+        "Month": "2013-12-01",
+        "State": "Connecticut",
+        "Median Listing Price": 289050,
+        "Median Listing Price M/M": -0.0253,
+        "New Listing Count M/M": -0.4219,
+        "Price Increase Count M/M": -0.2929,
+        "Days on Market M/M": 0.0674
+    },
+    {
+        "Month": "2013-11-01",
+        "State": "Connecticut",
+        "Median Listing Price": 296550,
+        "Median Listing Price M/M": -0.0084,
+        "New Listing Count M/M": -0.1802,
+        "Price Increase Count M/M": -0.1081,
+        "Days on Market M/M": 0.0212
+    },
+    {
+        "Month": "2013-10-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0648,
+        "Price Increase Count M/M": -0.0902,
+        "Days on Market M/M": 0.0161
+    },
+    {
+        "Month": "2013-09-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": -0.0015,
+        "New Listing Count M/M": 0.0281,
+        "Price Increase Count M/M": -0.0896,
+        "Days on Market M/M": 0.069
+    },
+    {
+        "Month": "2013-08-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299500,
+        "Median Listing Price M/M": -0.0017,
+        "New Listing Count M/M": -0.0641,
+        "Price Increase Count M/M": 0.1453,
+        "Days on Market M/M": 0.1013
+    },
+    {
+        "Month": "2013-07-01",
+        "State": "Connecticut",
+        "Median Listing Price": 300000,
+        "Median Listing Price M/M": -0.0321,
+        "New Listing Count M/M": -0.1274,
+        "Price Increase Count M/M": -0.0714,
+        "Days on Market M/M": 0.1286
+    },
+    {
+        "Month": "2013-06-01",
+        "State": "Connecticut",
+        "Median Listing Price": 309950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": -0.0998,
+        "Price Increase Count M/M": 0.008,
+        "Days on Market M/M": 0.0219
+    },
+    {
+        "Month": "2013-05-01",
+        "State": "Connecticut",
+        "Median Listing Price": 309950,
+        "Median Listing Price M/M": 0.0333,
+        "New Listing Count M/M": 0.0151,
+        "Price Increase Count M/M": 0.2136,
+        "Days on Market M/M": -0.0987
+    },
+    {
+        "Month": "2013-04-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": 0.003,
+        "New Listing Count M/M": 0.1745,
+        "Price Increase Count M/M": 0.0098,
+        "Days on Market M/M": -0.24
+    },
+    {
+        "Month": "2013-03-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299050,
+        "Median Listing Price M/M": 0.033,
+        "New Listing Count M/M": 0.5062,
+        "Price Increase Count M/M": 0.275,
+        "Days on Market M/M": -0.1489
+    },
+    {
+        "Month": "2013-02-01",
+        "State": "Connecticut",
+        "Median Listing Price": 289500,
+        "Median Listing Price M/M": 0.0341,
+        "New Listing Count M/M": -0.1274,
+        "Price Increase Count M/M": -0.0698,
+        "Days on Market M/M": -0.0042
+    },
+    {
+        "Month": "2013-01-01",
+        "State": "Connecticut",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": 0.0,
+        "New Listing Count M/M": 0.7206,
+        "Price Increase Count M/M": 0.3871,
+        "Days on Market M/M": 0.0085
+    },
+    {
+        "Month": "2012-12-01",
+        "State": "Connecticut",
+        "Median Listing Price": 279950,
+        "Median Listing Price M/M": -0.0345,
+        "New Listing Count M/M": -0.1324,
+        "Price Increase Count M/M": 0.0164,
+        "Days on Market M/M": 0.0636
+    },
+    {
+        "Month": "2012-11-01",
+        "State": "Connecticut",
+        "Median Listing Price": 289950,
+        "Median Listing Price M/M": -0.017,
+        "New Listing Count M/M": -0.3093,
+        "Price Increase Count M/M": -0.2375,
+        "Days on Market M/M": 0.0577
+    },
+    {
+        "Month": "2012-10-01",
+        "State": "Connecticut",
+        "Median Listing Price": 294950,
+        "Median Listing Price M/M": -0.0071,
+        "New Listing Count M/M": -0.0941,
+        "Price Increase Count M/M": -0.1489,
+        "Days on Market M/M": 0.0
+    },
+    {
+        "Month": "2012-09-01",
+        "State": "Connecticut",
+        "Median Listing Price": 297050,
+        "Median Listing Price M/M": -0.0071,
+        "New Listing Count M/M": 0.0368,
+        "Price Increase Count M/M": 0.0,
+        "Days on Market M/M": 0.04
+    },
+    {
+        "Month": "2012-08-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299175,
+        "Median Listing Price M/M": -0.0026,
+        "New Listing Count M/M": -0.1167,
+        "Price Increase Count M/M": -0.0962,
+        "Days on Market M/M": 0.1111
+    },
+    {
+        "Month": "2012-07-01",
+        "State": "Connecticut",
+        "Median Listing Price": 299950,
+        "Median Listing Price M/M": -0.0164,
+        "New Listing Count M/M": -0.0235,
+        "Price Increase Count M/M": 0.1818,
+        "Days on Market M/M": 0.0714
+    },
+    {
+        "Month": "2012-06-01",
+        "State": "Connecticut",
+        "Median Listing Price": 304950,
+        "Median Listing Price M/M": 0.0163,
+        "New Listing Count M/M": -0.1145,
+        "Price Increase Count M/M": -0.0928,
+        "Days on Market M/M": 0.05
+    },
+    {
+        "Month": "2012-05-01",
+        "State": "Connecticut",
+        "Median Listing Price": 300049,
+        "Median Listing Price M/M": 0.0003,
+        "New Listing Count M/M": -0.0969,
+        "Price Increase Count M/M": 0.1279,
+        "Days on Market M/M": -0.0123
+    }
+]

@@ -1,0 +1,82 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  position: relative;
+  background-color: #EDEDED;
+}
+
+.navigation .navbar-brand{
+  color: white; 
+  margin-left: 30px; 
+  padding: inherit; 
+  font-weight: bold; 
+  background-color: #426ef0;
+  font-family: Georgia, 'Times  New Roman', Times, serif;
+}
+.navbar{
+  background-color: #426ef0; 
+  font-size: 40px; 
+}
+nav a {
+  text-decoration: none;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #426ef0;
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button {
+  background-color: #426ef0;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+/* Box Class */
+.choroplethbox {
+  /* margin-top: 20px;  */
+  /* margin-left: 10px;  */
+  background-color: white; 
+}
+
+footer{
+  background-color: #666666; 
+  border-top-style: solid; 
+  border-top-width: 5px; 
+  border-top-color: #426ef0;
+  color: white; 
+  min-height: 20px; 
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-size: 20px; 
+  text-align: center; 
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 10px; 
+  }
