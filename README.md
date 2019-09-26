@@ -7,7 +7,7 @@
 The housing market is influenced by the state of the economy, interest rates, real income and changes in the size of the population. As well as these demand-side factors, house prices will be determined by available supply. With periods of rising demand and limited supply, we will see rising house prices, rising rents and increased risk of homelessness.
 ![Factors.jpeg](images/factors-affecting-house-prices.jpg)
 
-The above mentioned factors are catogorized as 'Intrinsic factors'. There are also important 'Extrinsic factors' influence house prices, such as the convenience of public transportation, schools nearby has high reputations, the quality of life, the technology trigged increase of house price like in Silicon Valley; the crime rate; the cost of living like utility, the immigration of population, etc.
+The above mentioned factors are catogorized as **'Intrinsic factors'**. There are also important **'Extrinsic factors'** influence house prices, such as the convenience of public transportation, schools nearby has high reputations, the quality of life, the technology trigged increase of house price like in Silicon Valley; the crime rate; the cost of living like utility, the immigration of population, etc.
 
 # Objective
 + What is the geographic distribution of the median house price over the U.S.?
