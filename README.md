@@ -23,7 +23,7 @@ The above mentioned factors are catogorized as **'Intrinsic factors'**. There ar
 
 ## Step 2 - Data Visualization
 A dashboard is created with D3.js, Plotly.js and jQuery.The choropleth map presents the median house price over the US in Apr 2019. When you hover on a specific state, the price shows up. The highest prices occur in Hawaii and California. 
-(images/US_Housing_Market_Dashborad.png) 
+![Dashboard.png](images/US_Housing_Market_Dashborad.png) 
 
 ### Click [HERE](https://shuwen0529.github.io/US_Housing_Market/) to play!
 
