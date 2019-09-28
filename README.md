@@ -22,17 +22,17 @@ The above mentioned factors are catogorized as **'Intrinsic factors'**. There ar
 + State ranking from CNBC https://www.cnbc.com/id/100016697. The data is updated every year, we scrapped and aggregated a few extrinsic factors that ranking in each state from 2010 with postgreSQL.
 
 # Data Visualization
-## Part I 
+### Part I 
 A dashboard is created with D3.js, Plotly.js and jQuery.The choropleth map presents the median house price over the US in Apr 2019. When you hover on a specific state, the price shows up. The highest prices occur in Hawaii and California. 
 
 ![Dashboard.png](images/US_Housing_Market_Dashborad.png) 
 
-## Part II
+### Part II
 The monthly and annual time series are incorporated in the dashboard by creating the submit buttons. If you input a state ID and click to plot time series, you will get montly and annual plots during 2012-2019. Here we use NJ as an example:
 
-**'Monthly Time Series'**
+**Monthly Time Series**
 
-**'Annual Time series'**
+**Annual Time series**
 
 
 ### Click [HERE](https://shuwen0529.github.io/US_Housing_Market/) to play!
