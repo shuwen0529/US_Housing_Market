@@ -34,5 +34,11 @@ The monthly and annual time series are incorporated in the dashboard by creating
 
 **Annual Time series**
 
+### Part III 
+A SVG map is created and can be accessed by click the 'Go to SVG Map' button on the dashboard. By clicking on the state, we are directed to a new page:
+
+
+### 
+
 
 ### Click [HERE](https://shuwen0529.github.io/US_Housing_Market/) to play!
