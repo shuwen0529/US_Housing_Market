@@ -39,7 +39,10 @@ By hover on the peak of the purple line, which is 'New Listing on Market', you w
 You will see the house price in NJ keeps increasing from 2012 to 2019. On the contrary, the crime rate and the poverty percentage present overall decrease trends. It is possible that the safer and richer the state is, the more expensive the house will be.
 
 ### Part III 
-A SVG map is created and can be accessed by click the 'Go to SVG Map' button on the dashboard. By clicking on the state, we are directed to a new page:
+A SVG map is created and can be accessed by click the 'Go to SVG Map' button on the dashboard. 
+![SVG_Map.png](images/SVG_Map.png)
+
+Before moving on to the next step, you need to open your terminal, go to "/assets/nodejs/" and run "node index.js" to build scalable network applications. Then, you can click on the state and being directed to a new page of state deatils. 
 
 
 ### 
