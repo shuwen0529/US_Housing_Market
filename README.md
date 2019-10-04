@@ -44,8 +44,18 @@ A SVG map is created and can be accessed by click the 'Go to SVG Map' button on 
 
 Before moving on to the next step, you need to open your terminal, go to "/assets/nodejs/" and run "node index.js" to build scalable network applications. Then, you can click on the state and being directed to a new page of state deatils. 
 
+As above-mentioned, Hawaii has the highest median house price in Apr 2019. Here we use Hawaii as an example to illustrate state details:
 
-### 
+(images/Hawaii_StateDetails1.png)
 
+## Interest Rate
+Left panel: The house interest rate presents a shape of "W" from 2011 to 2018, this doesn't correlate to the general increase of house purchase rate.
 
-### Click [HERE](https://shuwen0529.github.io/US_Housing_Market/) to play!
+## Demography
+Generally speaking, the population in Hawaii is increasing (Right Panel 1), with more details of birth and death number given in Right Panel 3, 4; moreover, more people are moving out since 2011 (Right Panel 2). Thus, the increasing population in Hawaii tends to result in the increasing house price.
+
+(images/Hawaii_StateDetails2.png)
+## Other extrinsic factors
+The ranking of education, economy, quality of life, cost of living in Hawaii over the 51 U.S. states are given above. It looks like the quality of life in Hawaii remains best since 2015 and cost of living keeps lowest here. These two factors are very important to attract people to settle down in Hawaii and buy a house.
+
+### If you want to see more details of a state you want to buy a house, please click [HERE](https://shuwen0529.github.io/US_Housing_Market/) to play!
